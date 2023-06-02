@@ -65,7 +65,7 @@ include_once "../init.php";
           a Virtual Assistant
         </h2>
         <p class="text">
-          A virtual assistant and is an independent contractor that performs administrative support services for clients away from the client's office. Although virtual assistant frequently works from anywhere, they have remote access to the necessary planning resources.
+          A virtual assistant is an independent contractor that performs administrative support services for clients away from the client's office. Although virtual assistant frequently works from anywhere, they have remote access to the necessary planning resources.
         </p>
         <div class="landing-grid-right-buttons">
           <button class="basic-button landing-btn">
