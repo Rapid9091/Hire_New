@@ -1,0 +1,16 @@
+.pricing-landing {
+  height: 320px;
+  background-color: var(--dark-color);
+  color: var(--white);
+  text-align: center;
+  padding: 5%;
+}
+.pricing-ladning-content > p {
+  font-size: 20px;
+  margin-top: 1%;
+}
+
+.pricing-box > h2 {
+  text-align: center;
+  margin: 2% 0;
+}

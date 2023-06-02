@@ -1,0 +1,117 @@
+.experts-section {
+  padding: 5% 8%;
+  background-color: #f1f8fb;
+}
+.expert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2%;
+}
+@media (max-width: 700px) {
+  .expert-grid {
+    gap: 20px;
+  }
+}
+.expert-item {
+  background-color: white;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.4s ease-in-out;
+}
+.expert-item:hover {
+  transform: translateY(-15px);
+}
+.expert-image-box {
+  width: 120px;
+  height: 120px;
+  border: 5px solid var(--dark-color);
+  display: flex;
+  align-items: center;
+  border-radius: 50%;
+}
+.expert-image {
+  border: 3px solid white;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.expert-profile {
+  margin: 1rem 0;
+}
+.expert-rating {
+  margin-top: 7px;
+}
+.expert-rating i {
+  color: #ed1575;
+}
+.expert-desc {
+  margin-bottom: 5px;
+}
+.expert-profile h2 {
+  font-size: 1.2rem;
+  font-family: "poppins", sans-serif;
+  color: var(--dark-color);
+}
+.expert-profile p.expert-name {
+  font-size: 1.2rem;
+  font-family: "poppins", sans-serif;
+  color: var(--dark-color);
+  font-weight: bold;
+  text-align: center;
+}
+.expert-profile p {
+  font-size: 15px;
+}
+.expert-skill {
+  margin: 1rem 0;
+  display: flex;
+  width: 100%;
+  justify-content: start;
+  flex-wrap: wrap;
+  gap: 7px 6px;
+}
+.expert-skill .skill {
+  border-radius: 50px;
+  padding: 5px 8px;
+  background-color: #f2f7f2;
+}
+.expert-skill .skill p {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.expert-grid .btn {
+  margin-top: 5px;
+  padding: 7px 20px;
+  background-color: #ed1575;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 15px;
+  font-weight: 500;
+  transition: all 0.1s ease-in-out;
+  cursor: pointer;
+}
+
+
+.expert-grid .btn:hover {
+  background-color: #ed4490;
+  scale: 1.1;
+}
+@media screen and (max-width: 1200px) {
+  .experts-section {
+    padding: 5% !important;
+  }
+}
+@media screen and (max-width: 800px) {
+  .expert-grid {
+    margin-top: 5%;
+  }
+}

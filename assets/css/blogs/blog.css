@@ -1,0 +1,231 @@
+.pricing-landing {
+    height: 320px;
+    background-color: var(--dark-color);
+    color: var(--white);
+    text-align: center;
+    padding: 5%;
+  }
+  .pricing-ladning-content > p {
+    font-size: 20px;
+    margin-top: 1%;
+  }
+  
+  .pricing-box > h2 {
+    text-align: center;
+    margin: 2% 0;
+  }
+  /* --------------------- */
+  .blog-content-section{
+    padding: 5%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .blog-content-section img{
+    width: 100%;
+  }
+  .blog_content_left{
+    padding: 0 10px;
+    width: 75%;
+  }
+  .blog_content_right{
+    padding:0 10px;
+    width: 25%;
+  }
+  .widget {
+    margin-bottom: 4.5rem;
+}
+.widget-title {
+  color:var(--dark-color);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.1;
+  letter-spacing: -.01em;
+  margin-bottom: 1rem;
+}
+.posts-list {
+  list-style: none;
+  padding: .4rem 0 .2rem;
+  margin: 0;
+}
+.posts-list li {
+  margin-bottom: 1rem;
+}
+.posts-list li span{
+  color: #777777;
+  font-size: 14px;
+  font-family: "poppins",sans-serif;
+}
+.posts-list li h4{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+.posts-list li h4 a{
+  color: var(--dark-color);
+  transition: all .3s ease-in-out;
+}
+.posts-list li h4 a:hover{
+  color: var(--pink);
+}
+.posts-list figure {
+  width: 80px;
+  min-width: 80px;
+  margin-right: 1rem;
+  margin-bottom: 0;
+}
+.posts-list figure a {
+  display: block;
+}
+.posts-list figure a img{
+  display: block;
+  width: 100%;
+  object-fit: cover;
+  height: 80px;
+}
+.posts-list li::after {
+  display: block;
+  clear: both;
+  content: '';
+}
+
+
+  .blog_content_image{
+    width: 100%;
+  }
+  .blog-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  .blog_image img{
+    width: 100%;
+    max-height: 450px;
+    object-fit: cover;
+  }
+  .blog_info{
+    margin-top: 1rem;
+    color:#777;
+  }
+  .blog_info ul li,.blog_info ul li a{
+    font-family: "poppins",sans-serif;
+    margin-right: 10px;
+  }
+  .blog_info ul li a{
+    color: var(--dark-color);
+  }
+
+  .blog_title{
+    font-family: "poppins",sans-serif;
+      color:var(--dark-color);
+      font-weight: 700;
+      font-size: 2rem;
+      line-height: 1.25;
+      letter-spacing: -.025em;
+      margin-bottom: .6rem;
+      margin-top: .6rem;
+      padding-right: 10px;
+  }
+  .blog_content_left p {
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: 'Poppins',sans-serif;
+    letter-spacing: 0;
+    color: #777;
+}
+.blog_content_left p a{
+  text-decoration: underline;
+}
+.blog_content_left a{
+  color:var(--dark-color);
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+}
+.blog_content_left a:hover{
+  color: var(--pink);
+}
+.flex_blog{
+  margin-bottom: 2rem;
+}
+.blog_heading{
+  font-size: 1.6rem;
+  font-family: "poppins",sans-serif;
+  color: var(--dark-color);
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+.second_blog_image{
+  padding-right: 10px;
+  width: 40%;
+}
+.second_blog_image img{
+  height: 100%;
+}
+.second_image_content{
+  width: 60%;
+  padding-left:10px;
+}
+.second_blog_image img{
+  width: 100%;
+  object-fit: cover;
+}
+
+.blog_third_image{
+  width: 100%;
+  margin-bottom: 32px;
+}
+.blog_third_image img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.social_share{
+  display: flex;
+
+}
+.social_share li{
+  margin-left:10px;
+    font-size: 1rem;
+    font-weight: 300;
+    font-family: 'Poppins',sans-serif;
+    letter-spacing: 0;
+    color: #777;
+}
+.social_share li a img{
+  width: 20px;
+  object-fit: cover;
+}
+
+@media(max-width:992px){
+  .blog_content_left{
+    width: 100%;
+  }
+  .blog_content_right{
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}
+@media(max-width:768px){
+  .second_blog_image {
+    width: 100%;
+    padding-right: 0;
+}
+.second_image_content {
+  width: 100%;
+  margin-top: 32px;
+}
+.flex_blog {
+  flex-wrap: wrap;
+}
+
+}
+
+@media(max-width:600px){
+
+}

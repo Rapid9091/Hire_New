@@ -1,0 +1,144 @@
+.header {
+  padding: 1% 5%;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+  transition: all 0.5s;
+  background-color: transparent;
+}
+
+.header.active {
+  transition: all 0.5s;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  background-color: var(--white);
+}
+
+.active .links-list > li > a {
+  color: var(--dark-color);
+  font-weight: 600;
+  transition: all 0.3s;
+}
+
+.active .links-list > li > a:hover {
+  color: var(--pink);
+}
+
+.logo > h2 {
+  font-style: italic;
+}
+.logo > a > img {
+  height: 62px;
+  width:auto;
+}
+
+.links-list > li {
+  margin-right: 33px;
+}
+
+.links-list-items {
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.links-list > li > a {
+  color: var(--white);
+  font-size: 17px;
+  font-size: 600;
+  transition: all 0.3s;
+}
+
+.links-list > li > a:hover {
+  color: var(--pink);
+}
+
+.links-list > button {
+  padding: 8px;
+  border-radius: 10px;
+  border: 1.5px solid #fff !important;
+}
+
+.links-list > button > a > ion-icon {
+  margin-right: 6px;
+}
+.links-list_button {
+  background-color: var(--pink) !important;
+}
+
+.mobile-icons > ion-icon {
+  font-size: 25px;
+  font-weight: bold;
+  display: none;
+  cursor: pointer;
+}
+
+.mobile-navbar-btn {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .mobile-navbar-btn {
+    display: block;
+  }
+
+  .mobile-navbar-btn > ion-icon[name="close-sharp"] {
+    display: none;
+  }
+
+  .mobile-nav-icon[name="menu-sharp"] {
+    display: block;
+    color: var(--pink);
+    font-size: 40px;
+  }
+
+  .nav-list {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    width: 100%;
+    height: 100vh;
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+    transform: translateX(100%);
+    transition: all 0.3s linear;
+  }
+
+  .mobile-active .nav-list {
+    transform: translateX(0);
+    opacity: 1;
+    background-color: #000;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  .mobile-active .mobile-nav-icon[name="menu-sharp"] {
+    display: none;
+  }
+
+  .mobile-active .mobile-nav-icon[name="close-sharp"] {
+    font-size: 25px;
+    color: #fff;
+    display: block;
+  }
+
+  .mobile-active .links-list > button {
+    margin-top: 4%;
+  }
+
+  .active .links-list > li > a {
+    color: var(--white);
+  }
+
+  .logo > a > img {
+    height: 65px;
+    width: 100%;
+  }
+}

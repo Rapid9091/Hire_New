@@ -1,0 +1,63 @@
+Basic Info about Website
+
+Fonts{
+    Open Sans
+    for Heading you must use Poppins
+}
+
+
+
+Colors{
+pink 
+dark-color 
+but they both are main colors
+You can also use purple
+
+
+
+background
+
+in background we used white 
+or
+--primary-lighter-color: #f6f9fd;
+}
+
+
+
+
+
+ Section
+{
+basic left-right padding :  8%
+basic top-bottom padding :  5%
+
+after 1200 width :
+basic left-right padding :  5%
+basic top-bottom padding :  According to you
+}
+
+
+
+
+
+ Main-heading{
+You should always use the "section-heading" class 
+font Poppins
+size : 40px for all width
+after 800 
+size will be 30px 
+}
+
+
+
+Secondary-heading{
+
+}
+ ,
+you can changes according to you in your page
+text{
+    font-size:18px;
+}
+text-sm{
+    font-size:16px;
+}

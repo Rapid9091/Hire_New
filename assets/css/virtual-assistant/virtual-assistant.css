@@ -1,0 +1,49 @@
+.it-services-grid-1 > a > i {
+  font-size: 50px;
+  color: var(--dark-color);
+}
+
+.it-services-grid-1 > a > ion-icon {
+  font-size: 50px;
+  color: var(--dark-color);
+}
+
+.it-services-grid-1 > a > p:first-child {
+  font-size: 16px;
+}
+
+.it-services-grid-1 > a > p:last-child {
+  font-size: 14px;
+  text-transform: unset;
+  color: var(--dark-color);
+  font-weight: 400;
+  margin: 2% 0;
+}
+
+/* -------------------------- */
+/* Call To action section */
+/* -------------------------- */
+
+.call-to-action {
+  margin-bottom: 5%;
+  width: 100%;
+  height: max-content;
+  flex-direction: column;
+  color: vaR(--white);
+  padding: 5% 12%;
+}
+
+.call-to-action > h2 {
+  text-align: center;
+  color: vaR(--white);
+  margin-bottom: 0%;
+}
+
+.call-to-action > p {
+  font-weight: bold;
+  margin: 2% 0;
+  color: var(--pink);
+}
+
+.call-to-action > button {
+}

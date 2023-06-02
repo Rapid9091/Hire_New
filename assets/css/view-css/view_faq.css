@@ -1,0 +1,97 @@
+/* faq start */
+.faq-section {
+  padding: 5% 8% 5% 8% !important;
+  margin: 0 auto;
+}
+.faq-section > h5 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.faqs {
+  width: 100%;
+  margin: 0 auto;
+  border-bottom: 4px solid var(--dark-color);
+}
+.faqs-child {
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc;
+}
+.faqs-child details {
+  padding: 10px;
+}
+.faqs-child details summary {
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #fff;
+  color: #333;
+  outline: none;
+  border-radius: 0.25rem;
+  padding: 0 1rem;
+  text-align: left;
+  cursor: pointer;
+  position: relative;
+  /* background-color: var(--pink); */
+}
+.faqs-child details summary:hover {
+  color: var(--pink);
+}
+.faqs-child details[open] > summary {
+  color: var(--pink);
+}
+.faqs-child details > summary::after {
+  position: absolute;
+  content: "+";
+  right: 20px;
+}
+.faqs-child details[open] > summary::after {
+  position: absolute;
+  content: "-";
+  right: 20px;
+  color: var(--pink);
+}
+.faqs-child details > summary::-webkit-details-marker {
+  display: none;
+}
+.faqs-child details[open] summary ~ * {
+  animation: sweep 0.5s ease-in-out;
+}
+@keyframes sweep {
+  0% {
+    opacity: 0;
+    margin-top: -10px;
+  }
+  100% {
+    opacity: 1;
+    margin-top: 0px;
+  }
+}
+.faq__content > p {
+  font-size: 16px;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 1050px) {
+  .faq-section {
+    padding: 5% !important;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 800px) {
+  .faq-section > h5 {
+    margin-bottom: 30px;
+  }
+  .faqs-child details summary {
+    padding: 0;
+  }
+}
+@media screen and (max-width: 650px) {
+  .faqs {
+    padding: 0;
+    width: 100%;
+  }
+
+  .faq__content > p {
+    font-size: 15px;
+    padding: 1.2rem 0;
+  }
+}

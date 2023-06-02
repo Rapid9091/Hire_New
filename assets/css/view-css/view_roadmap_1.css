@@ -1,0 +1,139 @@
+.section-roadmap {
+  height: max-content;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 5% 8%;
+}
+.dm-services-roadmap > h6 {
+  text-align: center;
+  color: var(--dark-color);
+}
+.roadmap {
+  position: relative;
+  margin-top: 3%;
+  padding-top: 4%;
+}
+
+.roadmap > li {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.roadmap > li:nth-child(even) {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.roadmap-item {
+  width: 30%;
+  position: relative;
+}
+
+.roadmap-item::after {
+  position: absolute;
+  top: 0;
+  right: -50px;
+  height: 27px;
+  width: 27px;
+  border-radius: 100px;
+  content: "";
+  background-color: var(--pink);
+}
+
+.roadmap-item::before {
+  position: absolute;
+  top: 10.5px;
+  left: 110%;
+  height: 5px;
+  width: 56.2%;
+  content: "";
+  background-color: var(--dark-color);
+}
+
+.roadmap > li:nth-child(even) > .roadmap-item::after {
+  left: -50px;
+}
+
+.roadmap > li:nth-child(even) > .roadmap-item::before {
+  left: -66.2%;
+}
+
+.v-line {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 4px;
+  background-color: var(--dark-color);
+}
+
+.roadmap-item > h2 {
+  color: var(--dark-color);
+  margin-bottom: 4%;
+  font-weight: 600;
+}
+.roadmap-item > p.road_heading {
+  color: var(--dark-color);
+  margin-bottom: 4%;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.roadmap-item > p {
+  color: var(--black);
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 800px) {
+  .roadmap {
+    margin-top: 11%;
+  }
+
+  .services-types > p,
+  .dm-services-roadmap > p {
+    font-size: 14px;
+  }
+
+  .dm-services-roadmap > h6 {
+    font-size: 26px;
+  }
+
+  .section-roadmap {
+    margin-top: -24.7px;
+  }
+
+  .v-line {
+    left: 0%;
+    width: 4px;
+  }
+
+  .roadmap > li {
+    justify-content: flex-end;
+    margin-bottom: 10%;
+  }
+
+  .roadmap > li:nth-child(even) > .roadmap-item::before {
+    left: -43%;
+  }
+
+  .roadmap-item {
+    width: 70%;
+  }
+
+  .roadmap > li:nth-child(even) > .roadmap-item::after {
+    left: -14%;
+  }
+
+  .roadmap-item::after {
+    left: -14%;
+  }
+
+  .roadmap-item::before {
+    top: 10.5px;
+    left: -43%;
+    width: 30.2%;
+  }
+}

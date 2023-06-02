@@ -1,0 +1,76 @@
+/*------ ----hiring steps------------- */
+.hiring_step{
+    padding: 5% 8%;
+  
+  }
+  
+  .why-row {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5%;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 968px) {
+    .why-row{ grid-template-columns: repeat(1, 1fr); }
+    
+  } 
+  .hiring_step_order-1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  .hiring_step_order-1 button{
+  margin-top: 20px;
+  }
+  .hiring_step_order-1 p.hiring_step_content{
+  color: var(--light-font-color);
+  }
+  .why-row .section-heading{
+  text-align: left;
+  margin-top: 0;
+  }
+  .hire-btn{
+  margin-top: 10px;
+  padding: 3%;
+  background-color: #ed1575;
+  border-radius: 50px;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 17px;
+  font-weight: 500;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  box-shadow: 0 4px 15px 9px rgba(0, 0, 0, 0.1);
+  }
+  .hire-btn:hover{
+  box-shadow: 0 0px 15px 9px rgba(0, 0, 0, 0.1);
+  scale: 1.1;
+  }
+  .steps{
+  gap: 4%;
+  margin-bottom:5%;
+  }
+  .step-dtl h4{
+    font-size: 22px;
+     color: var(--dark-color);
+  }
+  .step-dtl p.step-dtl-heading{
+  font-size: 22px;
+  color: var(--dark-color);
+  font-weight: bold;
+  }
+  .step-dtl p{
+  margin-top: 10px;
+    color: var(--light-font-color);
+    font-size: 17px;
+    line-height: 1.4;
+    word-wrap: break-word;
+  }
+  @media screen and (max-width: 800px){
+  .step-dtl p.step-dtl-heading{
+    font-size: 19px;
+  }
+  .step-dtl h4{
+    font-size: 19px;
+  }
+  }

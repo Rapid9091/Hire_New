@@ -1,0 +1,130 @@
+/* 
+heading size = 40px;
+heading color = dark color
+full width padding 5% or 8%
+
+
+1200 width
+heading size = 35px;
+full width padding 5%
+*/
+.testimonial-section {
+  padding: 5% 8% 5% 8%;
+}
+
+section.pricing .cards .card.active {
+  background-color: var(--dark-color);
+}
+.why-choose-section {
+  padding: 5% 8% 5% 8%;
+}
+.expert-image-box {
+  border: 5px solid var(--dark-color);
+}
+.hire-services {
+  background-color: var(--primary-lighter-color);
+  padding: var(--section-padding);
+}
+.hire-services > p:nth-child(3) {
+  padding: 0 10%;
+  font-size: 17px;
+}
+.hire-services-btn-div {
+  text-align: center;
+  margin: 3% auto;
+  padding: 8px 14px;
+  width: max-content;
+  border: 2px solid var(--pink);
+  border-radius: 25px;
+}
+.hire-services-btn-div > button:first-child {
+  margin-right: 0px;
+}
+.dev-type-btn {
+  padding: 8px 35px;
+  border-radius: 18px;
+  font-size: 18px;
+  border: none;
+  background-color: var(--white);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.dev-btn-active {
+  background-color: var(--pink);
+  color: var(--white);
+}
+.hire-services-container {
+  margin-top: 2%;
+  padding: 3%;
+  gap: 30px;
+  display: none;
+}
+.hire-services-box {
+  border-radius: 16px;
+  box-shadow: 0 0 34.56px 1.44px rgb(0 0 0 / 5%);
+  background-color: var(--white);
+  padding: 4%;
+  color: var(--black);
+  transition: all 0.4s ease-in-out;
+}
+.hire-services-box:hover {
+  background-color: var(--pink);
+  transform: scale(1.05);
+  color: var(--white);
+}
+.hire-services-box:hover .tech-logo {
+  background-color: var(--white);
+  border: 1px solid var(--pink);
+}
+.tech-logo {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  border: 1px solid var(--dark-blue);
+  margin-right: 20px;
+}
+.tech-logo > img {
+  width: 36px;
+}
+.tech-info > h6 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 3px;
+}
+.tech-info > p {
+  font-size: 15px;
+}
+.dev-active {
+  display: grid;
+}
+
+@media screen and (max-width: 1200px) {
+  .hire-services {
+    padding: 5% !important;
+  }
+  .hire-services-container {
+    padding: 0;
+  }
+  .hire-services > p:nth-child(3) {
+    padding: 0px 2%;
+  }
+  .hire-services-btn-div {
+    margin: 2% auto 0 auto !important;
+  }
+}
+@media screen and (max-width: 800px) {
+  .hire-services > p:nth-child(3) {
+    font-size: 15px;
+    padding: 0;
+  }
+  .hire-services-btn-div {
+    margin: 4% auto !important;
+  }
+  .hire-services-container {
+    margin-top: 6%;
+    gap: 20px;
+  }
+  .dev-type-btn {
+    font-size: 16px;
+  }
+}

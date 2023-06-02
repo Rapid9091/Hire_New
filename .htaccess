@@ -1,0 +1,74 @@
+RewriteEngine on
+
+Options -Indexes
+
+
+RewriteCond %{HTTP_HOST} ^www\.hirecoworker\.com [NC]
+RewriteRule ^(.*)$ https://hirecoworker.com/$1 [L,R=301]
+
+
+# This rule alow user to access file
+RewriteCond %{REQUEST_FILENAME} !-f
+#=============================================================================================================
+#
+ErrorDocument 404 https://hirecoworker.com/404
+#
+
+#
+#=============================================================================================================
+#=============================================================================================================
+#
+# Home page route
+ReWriteRule ^$ pages/home.php [NC,L]
+
+#
+#=============================================================================================================
+#
+
+#404 error pages
+ReWriteRule ^404([/]?)$ pages/error/404.php [NC,L] 
+
+#sitemap
+RewriteRule ^sitemap\.xml/?$ sitemap.xml
+# RewriteRule ^sitemap\.html/?$ sitemap.html.php
+
+
+
+
+
+ReWriteRule ^services/hire-digital-marketer([/]?)$ pages/digital-marketing/_index.php [NC,L]
+ReWriteRule ^services/hire-digital-marketer/([0-9A-za-z\-]+)([/]?)$ pages/digital-marketing/$1.php [NC,L]
+ReWriteRule ^services/it-outsourcing-services([/]?)$ pages/it-outsourcing/_index.php [NC,L]
+ReWriteRule ^services/hire-developers/([0-9A-za-z\-]+)([/]?)$ pages/hire-developers/$1.php [NC,L]
+ReWriteRule ^services/hire-developers([/]?)$ pages/hire-developers/_index.php [NC,L]
+ReWriteRule ^services/hire-content-writer([/]?)$ pages/content-writer/_index.php [NC,L]
+ReWriteRule ^services/hire-finance-accounts-experts([/]?)$ pages/finance-accounts-experts/_index.php [NC,L]
+ReWriteRule ^services/hire-professional-mobile-app-developers([/]?)$ pages/mobile-apps-developers/_index.php [NC,L]
+ReWriteRule ^services/hire-engineers-architects([/]?)$ pages/engineers-architecture/_index.php [NC,L]
+ReWriteRule ^services/legal-outsourcing-services([/]?)$ pages/legal-process-outsourcing/_index.php [NC,L]
+ReWriteRule ^services/hire-dedicated-designers([/]?)$ pages/dedicated-designer/_index.php [NC,L]
+ReWriteRule ^services/medical-process-outsourcing([/]?)$ pages/medical-process-outsourcing/_index.php [NC,L]
+ReWriteRule ^services/virtual-assistant([/]?)$ pages/virtual-assistant/_index.php [NC,L]
+ReWriteRule ^services/outsource-to-india([/]?)$ pages/outsource_india/_index.php [NC,L]
+
+
+ReWriteRule ^services/hire-article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L]
+ReWriteRule ^services/hire-graphic-designers([/]?)$ pages/dedicated-designer/graphic-designer.php [NC,L]
+ReWriteRule ^services/hire-web-designers([/]?)$ pages/dedicated-designer/web-designer.php [NC,L]
+ReWriteRule ^services/hire-multimedia-animation-experts([/]?)$ pages/dedicated-designer/multimedia-animation.php [NC,L]
+ReWriteRule ^services/hire-photoshop-experts([/]?)$ pages/dedicated-designer/photoshop_expert.php [NC,L]
+ReWriteRule ^services/hire-logo-designers([/]?)$ pages/dedicated-designer/logo_designer.php [NC,L]
+ReWriteRule ^services/hire-indesign-experts([/]?)$ pages/dedicated-designer/indesign_expert.php [NC,L]
+ReWriteRule ^services/hire-illustrator-experts([/]?)$ pages/dedicated-designer/illustrators.php [NC,L]
+ReWriteRule ^services/hire-business-card-designers([/]?)$ pages/dedicated-designer/business_card.php [NC,L]
+ReWriteRule ^services/hire-multimedia-animation-expert([/]?)$ pages/dedicated-designer/multimedia-animation.php [NC,L]
+
+ReWriteRule ^pricing([/]?)$ pages/pricing.php [NC,L]
+ReWriteRule ^services([/]?)$ pages/services.php [NC,L]
+ReWriteRule ^about([/]?)$ pages/about-us.php [NC,L]
+ReWriteRule ^contact([/]?)$ pages/contact.php [NC,L]
+ReWriteRule ^blogs([/]?)$ pages/blogs/blogs.php [NC,L]
+ReWriteRule ^blog([/]?)$ pages/blogs/blog.php [NC,L]
+ReWriteRule ^author([/]?)$ pages/blogs/author_profile.php [NC,L]
+
+

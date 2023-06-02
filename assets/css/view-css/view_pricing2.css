@@ -1,0 +1,90 @@
+.pricing-landing {
+    height: 320px;
+    background-color: var(--dark-color);
+    color: var(--white);
+    text-align: center;
+    padding: 5%;
+  }
+  .pricing-ladning-content > p {
+    font-size: 20px;
+    margin-top: 1%;
+  }
+  
+  .pricing-box > h2 {
+    text-align: center;
+    margin: 2% 0;
+  }
+
+section.pricing{
+  padding: 5%;
+}
+
+.list_header{
+ display: grid;
+ grid-template-columns: repeat(5,1fr);
+ height:100px;
+ margin-bottom: 10px;
+}
+.list_head{
+  background-color: var(--dark-color);
+  border-radius: 10px 10px 0 0 ;
+  border-right: 1px solid white;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+.list_row{
+  display: grid;
+ grid-template-columns: repeat(5,1fr);
+}
+.list_data{
+  text-align: center;
+  border-right: 2px solid #eee;
+  padding: 18px 0;
+}
+
+/* accordian */
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  /* padding: 18px 0; */
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+  margin-bottom: 10px;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* .accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+} */
+
+.panel {
+  /* padding: 0 18px; */
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+
+}
+.panel p:last-child{
+  margin-bottom: 20px;
+}

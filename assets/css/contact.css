@@ -1,0 +1,230 @@
+/* -------------------------- */
+/*  Pricing page landing section */
+/* -------------------------- */
+
+.pricing-landing {
+  height: 320px;
+  background-color: var(--dark-color);
+  color: var(--white);
+  text-align: center;
+  padding: 5%;
+}
+.pricing-ladning-content > p {
+  font-size: 20px;
+  margin-top: 1%;
+}
+
+.pricing-box > h2 {
+  text-align: center;
+  margin: 2% 0;
+}
+
+/* -------------------------- */
+/* Contact second section */
+/* -------------------------- */
+
+.contact-first {
+  padding: 5% 8%;
+}
+.contact-first-grid {
+  background-color: var(--primary-lighter-color);
+  border-radius: 40px;
+  border-right: 3px solid var(--dark-color);
+  border-left: 3px solid var(--dark-color);
+  padding: 5% 0;
+}
+
+.contact-first-left {
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  /* border-left: 3px solid var(--dark-color); */
+}
+
+.contact-first-right > p {
+  margin-top: 4%;
+  color: var(--dark-color);
+  text-align: center;
+}
+
+.contact-first-right > p > a {
+  color: var(--pink);
+}
+
+.contact-first-right {
+  padding: 0 5%;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+  /* border-right: 3px solid var(--dark-color); */
+}
+
+.contact-first-left > img {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  object-fit: contain;
+}
+.contact-first-right > h5 {
+  font-weight: bold;
+  font-size: 17px;
+  margin: 4% 0;
+  color: vaR(--pink);
+}
+.contact-first-right .input_margin_bottom{
+  margin-bottom: 5%;
+}
+
+.contact-form-input-container {
+  grid-template-columns: 10% 1fr;
+  border: 1px solid rgb(142, 142, 142);
+  padding: 4px;
+  border-radius: 8px;
+}
+
+.contact-form-input-container-icon {
+  font-size: 25px;
+  color: var(--pink);
+}
+.contact-form-input-container-box{
+  position: relative;
+}
+.contact-form-input-container-box > input {
+  width: 100%;
+  height: 45px;
+  outline: 0;
+  background-color: transparent;
+  line-height: 1.8;
+  font-size: 16px;
+  border: 0;
+}
+.input_margin_bottom small{
+  color: var(--pink);
+}
+
+.contact-form-input-container-box > textarea {
+  width: 100%;
+  height: 100%;
+  outline: 0;
+  background-color: transparent;
+  line-height: 1.8;
+  font-size: 16px;
+  border: 0;
+}
+
+.contact-form-input-submit {
+  text-align: center;
+  width: 100%;
+}
+
+.contact-form-input-submit > button {
+  text-transform: uppercase;
+  font-size: 16px;
+  border-radius: 6px;
+  font-weight: 600;
+  background-color: vaR(--pink);
+  cursor: pointer;
+  padding: 8px 14px;
+  color: vaR(--white);
+  border: none;
+  transition: all 0.3s;
+  border: 1.5px solid #fff;
+  margin-right: 20px;
+}
+#contact_form_button:disabled{
+  background-color: #d83f86c9;
+}
+
+.iti{
+  width: 100%;
+  background-color: transparent;
+}
+.iti input{
+  width: 100%;
+  height: 45px;
+  width: 100%;
+  margin: 4% 0;
+  padding: 4px 8px 4px 15px;
+  border: 0;
+  outline: none;
+  border-radius: 6px;
+  font-size: 16px;
+  background-color: transparent;
+}
+.iti__country-list{
+  max-width: 300px;
+}
+
+
+/* -------------------------- */
+/* Contact third section */
+/* -------------------------- */
+.contact-third-grid-one {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 5%;
+  background-color: vaR(--dark-color);
+  color: #fff;
+  border-radius: 14px;
+}
+
+.contact-third-grid-one > img {
+  width: 100%;
+  border: 6px solid #fff;
+}
+
+.contact-third-grid-one > h4 {
+  padding: 4px;
+  background-color: var(--dark-color);
+  color: var(--white);
+  font-size: 18px;
+  text-align: center;
+}
+
+.contact-third-grid-one > p {
+  text-align: center;
+  margin: 2% 0;
+  line-height: 1.5;
+}
+
+.contact-third-grid-btn {
+  width: 100%;
+}
+
+.contact-third-grid-btn > button {
+  text-transform: uppercase;
+  font-size: 16px;
+  border-radius: 6px;
+  font-weight: 600;
+  background-color: vaR(--pink);
+  cursor: pointer;
+  padding: 8px 14px;
+  color: vaR(--white);
+  border: none;
+  transition: all 0.3s;
+  border: 1.5px solid #fff;
+  margin-right: 20px;
+}
+
+.contact-third-grid-btn > button > a {
+  color: var(--white);
+}
+
+@media screen and (max-width: 768px) {
+  .contact-first-left {
+    border-top: 3px solid var(--dark-color);
+    border-left: 0;
+  }
+
+  .contact-first-grid.grid-2 {
+    grid-gap: 0;
+  }
+
+  .contact-first-right {
+    border-bottom: 3px solid var(--dark-color);
+    border-right: 0;
+    padding-bottom: 5%;
+  }
+
+  .contact-third-grid-one {
+    margin-bottom: 5%;
+  }
+}

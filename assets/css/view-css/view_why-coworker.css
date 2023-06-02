@@ -1,0 +1,91 @@
+ /* why coworker */
+ .why-choose-section {
+    padding: 5% 8%;
+  }
+  .why-choose-section .why-choose-section-container {
+    grid-gap: 5%;
+  }
+  .why-choose-section-content > p:first-child {
+    font-weight: 600;
+    font-size: 18px;
+    position: relative;
+    width: fit-content;
+    color: var(--pink);
+  }
+  .why-choose-section-content > p:first-child::after {
+    content: "";
+    position: absolute;
+    right: -52px;
+    top: 50%;
+    translate: transformY(-55%);
+    bottom: 0;
+    height: 2.5px;
+    width: 50px;
+    background-color: var(--pink);
+  }
+  .why-choose-section-content > h4 {
+    text-transform: capitalize;
+    font-size: 50px;
+    color: var(--dark-color);
+    margin-bottom: 3%;
+    text-align: left !important;
+  }
+  .why-choose-section-content > h4 > span {
+    color: var(--pink);
+  }
+  .why-choose-section .why-choose-ul {
+    padding: 5% 0;
+  }
+  .why-choose-section .why-choose-ul > li {
+    margin-bottom: 15px;
+  }
+  .why-choose-section .why-choose-ul > li > i {
+    color: var(--pink);
+    font-size: 24px !important;
+    margin-right: 7px;
+  }
+  .why-choose-section-img > img {
+    width: 80%;
+  }
+  @media screen and (max-width: 1200px) {
+    .why-choose-section {
+      padding: 5%;
+    }
+    .why-choose-section .why-choose-section-container {
+      grid-gap: 0%;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .why-choose-section-content > h4 {
+      font-size: 42px;
+    }
+    .why-choose-section-content > p:nth-child(3) {
+      font-size: 16px;
+    }
+    .why-choose-section .why-choose-ul > li {
+      font-size: 15px;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .why-choose-section .why-choose-section-container {
+      grid-template-columns: 1fr;
+    }
+  }
+  @media screen and (max-width: 650px) {
+    .why-choose-section {
+      padding: 8% 4%;
+    }
+    .why-choose-section-img > img {
+      width: 100%;
+    }
+    .why-choose-section-content > p:first-child {
+      font-size: 15px;
+    }
+    .why-choose-section-content > h4 {
+      font-size: 30px;
+    }
+  
+    .why-choose-section-content > p:nth-child(3) {
+      font-size: 15px;
+    }
+  }

@@ -1,0 +1,99 @@
+.pricing-landing {
+    height: 320px;
+    background-color: var(--dark-color);
+    color: var(--white);
+    text-align: center;
+    padding: 5%;
+  }
+  .pricing-ladning-content > p {
+    font-size: 20px;
+    margin-top: 1%;
+  }
+  
+  .pricing-box > h2 {
+    text-align: center;
+    margin: 2% 0;
+  }
+
+/* ----------------- */
+
+ section.author_profile{
+    padding: 5%  8%;
+ }
+.why-outsourcing-grid {
+    grid-template-columns: 50% 1fr;
+    padding: 5% 0;
+}
+  
+  .why-outsourcing-grid-left {
+    padding: 5% 10%;
+    flex-direction: column;
+  }
+  
+  .why-outsourcing-grid-left > h3 {
+    font-family: "poppins",sans-serif;
+    font-size: 32px;
+    margin: 3% 0;
+    color: var(--dark-color);
+  }
+  
+  .why-outsourcing-grid-left > p {
+    text-align: center;
+    font-size: 16px;
+    color: var(--light-font-color);
+  }
+  
+ .author_profile_img{
+    width: 300px;
+ }
+.author_profile_img img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+  .why-outsourcing-grid-right {
+    border-left: 1px solid #ccc;
+    padding-left: 5%;
+  }
+  
+  .why-outsourcing-grid-right > h3 {
+    font-family: "poppins",sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  p.author_role{
+    color: var(--dark-color);
+  }
+  .why-outsourcing-grid-right > p {
+    margin: 3% 0;
+  }
+  
+  .why-outsourcing-grid-right > ul > li {
+    margin: 1.5% 0;
+    font-size: 17px;
+    letter-spacing: 0.8px;
+  }
+  
+  .why-outsourcing-grid-right > ul > li > i {
+    color: var(--pink);
+    margin-right: 10px;
+    font-size: 20px;
+  }
+  @media(max-width:992px){
+    .why-outsourcing-grid {
+        grid-template-columns:repeat(1,1fr)
+    }
+    .why-outsourcing-grid-left {
+        margin-bottom: 5%;
+      }
+      .why-outsourcing-grid-right{
+        border: none;
+      }
+      .why-outsourcing-grid-right > h3{
+        text-align: center;
+      }
+      p.author_role{
+        text-align: center;
+      }
+  }

@@ -1,0 +1,63 @@
+/* number do talking */
+.number_section {
+  padding: 5% 8%;
+}
+.number-section p.sub-heading {
+  font-size: 1.6667rem;
+  line-height: 1.4;
+  font-weight: 300;
+}
+.number-counter {
+  margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.number-counter-item{
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    width: 100px;
+    height: 100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.number-counter-item img{
+  width: 48px;
+  height: 48px;
+}
+.number-counter h4 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-top: 25px;
+  margin-bottom: 12px;
+  color: #30303f;
+}
+.number-counter p.number_p {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-top: 25px;
+  margin-bottom: 12px;
+  color: #30303f;
+}
+@media screen and (max-width: 1200px) {
+  .number_section {
+    padding: 5% !important;
+  }
+}
+@media screen and (max-width: 800px) {
+  .number-counter h4 {
+    margin-top: 14px;
+    margin-bottom: 4px;
+    color: #30303f;
+  }
+  .number-counter p.number_p {
+    margin-top: 14px;
+    margin-bottom: 4px;
+    color: #30303f;
+  }
+  .section-heading > div {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}

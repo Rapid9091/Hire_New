@@ -1,0 +1,11 @@
+.box-title-number > .service-img {
+  background-color: var(--pink) !important;
+}
+.service-img > img {
+  width: 38px;
+}
+.box-title-heading > h5 {
+  font-size: 21px;
+  font-weight: 600;
+  color: #222;
+}

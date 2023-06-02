@@ -1,0 +1,130 @@
+.design-services {
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+.design-services-section h3.text-center {
+  margin-bottom: 10px;
+}
+/* .design-services-2 {
+  margin: 5% auto 0 auto;
+  grid-template-columns: repeat(3, 1fr);
+  display: grid;
+  gap: 1.4rem 1rem;
+} */
+
+.services-item {
+  /* background-color:#FFFFFF; */
+  text-align: center;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 0px 10px 20px 0px rgb(0 69 255 / 6%);
+  position: relative;
+  padding: 30px 30px 30px 30px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+}
+.services-item:hover .service-dtl > h3>a{
+ color: var(--pink);
+}
+
+.service-dtl a{
+ color: var(--dark-color);
+}
+.service-dtl h3 {
+  color: var(--dark-color);
+  margin-bottom: 10px;
+}
+
+.service-dtl p {
+  font-size: 14px;
+  color: #424242;
+  word-spacing: 0.5px;
+  letter-spacing: 0.3px;
+}
+
+.service-dtl h4 {
+  margin-bottom: 10px;
+  color:var(--dark-color);
+  cursor: context-menu;
+}
+
+.why-row {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3%;
+  margin: 20px;
+}
+@media (max-width: 968px) {
+  .why-row {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+.why-choose {
+  padding: 5% 8%;
+}
+.why-title {
+  margin-bottom: 40px;
+}
+
+.why_about p {
+  color: #686969;
+  margin-top: 20px;
+}
+.why-title span {
+  position: relative;
+  font-weight: 700;
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+}
+.why-img {
+  border-radius: 10px;
+}
+.why-title span:after {
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 2px;
+  bottom: -8px;
+  left: 0;
+  background-color: #ed1575;
+}
+.why_gives p.text {
+  margin-top: 20px;
+}
+.reason div {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+.reason div i {
+  color: #ed1575;
+  font-size: 1.2rem;
+}
+.reason div p {
+  margin-left: 8px;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 1100px) {
+  .design-services {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 800px) {
+  .design-services {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 600px) {
+  .design-services {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+
