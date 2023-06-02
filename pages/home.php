@@ -59,7 +59,7 @@ include_once "../init.php";
     <div class="landing-overlay"></div>
     <div class="landing-grid grid">
       <div class="landing-grid-left">
-        <h1 class="h1-small">Hire Coworker / Virtual Assistant</h1>
+        <h1 class="h1-small">Hire Coworkers / Virtual Assistant</h1>
         <h2 class="main-h1-heading">
           Life is better with <br />
           a Virtual Assistant
