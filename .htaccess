@@ -1,14 +1,3 @@
-<IfModule mod_expires.c>
-  ExpiresActive on
-  ExpiresDefault "access plus 3 hours"
-</IfModule>
-
-<IfModule mod_headers.c>
-  <FilesMatch "\.css$">
-    Header set Cache-Control "public, max-age=3600" # Cache for 1 hour
-  </FilesMatch>
-</IfModule>
-
 RewriteEngine on
 
 Options -Indexes
@@ -81,5 +70,7 @@ ReWriteRule ^contact([/]?)$ pages/contact.php [NC,L]
 ReWriteRule ^blogs([/]?)$ pages/blogs/blogs.php [NC,L]
 ReWriteRule ^blog([/]?)$ pages/blogs/blog.php [NC,L]
 ReWriteRule ^author([/]?)$ pages/blogs/author_profile.php [NC,L]
+
+
 
 

@@ -50,7 +50,7 @@ include_once "../init.php";
     <?php include_once header; ?>
 
     <!-- video in background of landing section -->
-    <video autoplay loop="" muted="" playsinline="" preload="none">
+    <video autoplay loop="" loading="lazy" muted="" playsinline="" preload="none">
       <source data-src="<?= get_assets() ?>/videos/banner-vedio.mp4" type="video/mp4" src="<?= get_assets() ?>/videos/banner-video.mp4">
       Your browser does not support the video tag.
     </video>
@@ -77,7 +77,7 @@ include_once "../init.php";
       </div>
       <div class="landing-grid-right grid-center">
         <div class="landing-grid-right-img">
-          <video autoplay="true" controls loop="" muted="" playsinline="" preload="none">
+          <video autoplay="true" controls loop="" loading="lazy" muted="" playsinline="" preload="none">
             <source autostart="false" data-src="<?= home_path() ?>assets/videos/landing-vid.mp4" type="video/mp4" src="<?= home_path() ?>assets/videos/landing-vid.mp4">
             Your browser does not support the video tag.
           </video>
