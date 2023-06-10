@@ -28,7 +28,7 @@ include_once '../../init.php';
 
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>designer/web-designer.jpg");
+            background-image: url("<?= get_img() ?>designer/web-designer.webp");
         }
     </style>
 </head>
@@ -50,10 +50,10 @@ include_once '../../init.php';
                 </div>
 
                 <ul class="landing-ul">
-                    <p class="text">
+                    <li class="text">
                         Hire highly talented content writers with HireCoworker. Expand your digital footprint with an
                         experienced content writer within your budget.
-                    </p>
+                    </li>
                 </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Web Designer
@@ -68,18 +68,18 @@ include_once '../../init.php';
     <!-- services start -->
     <section class="full-section" id="full-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">SERVICES</p>
-        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">
+        <h1 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">
             OUR 360 WEB DESIGNING SERVICES
-        </h4>
+        </h1>
         <div class="container-grid grid grid-3">
             <div class="container-section-boxes">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/ecommerce.png" alt="E-commerce Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/ecommerce.png" width="100%" height="100%" alt="E-commerce Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>E-commerce Template Design</h5>
+                            <p class="h5">E-commerce Template Design</p>
                         </div>
                     </div>
 
@@ -93,10 +93,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/cms.png" alt="CMS Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/cms.png" width="100%" height="100%" alt="CMS Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>CMS Template Design</h5>
+                            <p class="h5">CMS Template Design</p>
                         </div>
                     </div>
 
@@ -110,10 +110,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/blog.png" alt="Blog Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/blog.png" width="100%" height="100%" alt="Blog Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Blog Template Design</h5>
+                            <p class="h5">Blog Template Design</p>
                         </div>
                     </div>
 
@@ -126,10 +126,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/parallax.png" alt="Parallax Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/parallax.png" width="100%" height="100%" alt="Parallax Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Parallax Template Design</h5>
+                            <p class="h5">Parallax Template Design</p>
                         </div>
                     </div>
 
@@ -143,10 +143,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/wordpress.png" alt="WordPress Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/wordpress.png" width="100%" height="100%" alt="WordPress Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>WordPress Template Design</h5>
+                            <p class="h5">WordPress Template Design</p>
                         </div>
                     </div>
 
@@ -160,10 +160,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/website-template.png" alt="Web Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/website-template.png" width="100%" height="100%" alt="Web Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Web Template Design</h5>
+                            <p class="h5">Web Template Design</p>
                         </div>
                     </div>
 
@@ -177,10 +177,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/responsive.png" alt="Responsive Website Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/responsive.png" width="100%" height="100%" alt="Responsive Website Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Responsive Website Design</h5>
+                            <p class="h5">Responsive Website Design</p>
                         </div>
                     </div>
 
@@ -194,10 +194,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/landing-page.png" alt="Landing Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/landing-page.png" width="100%" height="100%" alt="Landing Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Landing Template Design</h5>
+                            <p class="h5">Landing Template Design</p>
                         </div>
                     </div>
 
@@ -211,10 +211,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/blogger.png" alt="Blogger Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/blogger.png" width="100%" height="100%" alt="Blogger Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Blogger Template Design</h5>
+                            <p class="h5">Blogger Template Design</p>
                         </div>
                     </div>
 
@@ -228,12 +228,12 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/tumblr.png" alt="Tumblr Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/tumblr.png" width="100%" height="100%" alt="Tumblr Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>
+                            <p class="h5">
                                 Tumblr Template Design
-                            </h5>
+                            </p>
                         </div>
                     </div>
 
@@ -247,10 +247,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/sharepoint.png" alt="SharePoint Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/sharepoint.png" width="100%" height="100%" alt="SharePoint Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>SharePoint Template Design</h5>
+                            <p class="h5">SharePoint Template Design</p>
                         </div>
                     </div>
 
@@ -263,10 +263,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/drupal.png" alt="Drupal Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/drupal.png" width="100%" height="100%" alt="Drupal Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Drupal Template Design</h5>
+                            <p class="h5">Drupal Template Design</p>
                         </div>
                     </div>
 
@@ -280,10 +280,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/typo.png" alt="Typo3 Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/typo.png" width="100%" height="100%" alt="Typo3 Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Typo3 Template Design</h5>
+                            <p class="h5">Typo3 Template Design</p>
                         </div>
                     </div>
 
@@ -297,10 +297,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/magento.png" alt="Magento Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/magento.png" width="100%" height="100%" alt="Magento Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Magento Template Design</h5>
+                            <p class="h5">Magento Template Design</p>
                         </div>
                     </div>
 
@@ -313,10 +313,10 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/email.png" alt="Emailer/ Newsletter Template Design" loading="lazy">
+                            <img src="<?= get_img() ?>designer/email.png" width="100%" height="100%" alt="Emailer/ Newsletter Template Design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Emailer/ Newsletter Template Design</h5>
+                            <p class="h5">Emailer/ Newsletter Template Design</p>
                         </div>
                     </div>
 
@@ -338,8 +338,8 @@ include_once '../../init.php';
     <!-- why outsource us start -->
     <section class="why_content_writing">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY CHOOSE US</p>
-        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY
-            OUTSOURCE WEB DESIGNING SERVICES WITH COWORKER</h4>
+        <h1 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY
+            OUTSOURCE WEB DESIGNING SERVICES WITH COWORKER</h1>
         <div class="flex content-reason">
             <div class="reason-side">
                 <div class="reason-side-item left-item">
@@ -347,7 +347,7 @@ include_once '../../init.php';
                         <p>Dedicated and Professional Web Designers</p>
                     </div>
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/experience.png" alt="hire web-designer" loading="lazy">
+                        <img src="<?= get_img(); ?>content-writing/experience.png" width="40px" height="40px" alt="hire web-designer" loading="lazy">
                     </div>
                 </div>
                 <div class="reason-side-item left-item">
@@ -355,7 +355,7 @@ include_once '../../init.php';
                         <p>Detailed Oriented, Imaginative, Focused and Attentive</p>
                     </div>
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/power-content.png" alt="hire web-designer" loading="lazy">
+                        <img src="<?= get_img(); ?>content-writing/power-content.png" width="40px" height="40px" alt="hire web-designer" loading="lazy">
                     </div>
                 </div>
                 <div class="reason-side-item left-item">
@@ -363,18 +363,18 @@ include_once '../../init.php';
                         <p>Expert In Different Designing Tools</p>
                     </div>
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/expert.png" alt="hire article writer">
+                        <img src="<?= get_img(); ?>content-writing/expert.png" width="40px" height="40px" alt="hire article writer">
                     </div>
                 </div>
             </div>
             <div class="reason_center_img" data-aos="zoom-in" data-aos-duration="400">
-                <img src="<?= get_img(); ?>designer/web-designing.png" width="100%" alt="hire web designer">
+                <img src="<?= get_img(); ?>designer/web-designing.png" width="100%" height="100%" alt="hire web designer">
 
             </div>
             <div class="reason-side">
                 <div class="reason-side-item right-item">
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/free_content.png" alt="hire web-designer">
+                        <img src="<?= get_img(); ?>content-writing/free_content.png" width="40px" height="40px" alt="hire web-designer">
                     </div>
                     <div class="reason-dtl">
                         <p>Flexible Approach</p>
@@ -383,7 +383,7 @@ include_once '../../init.php';
                 </div>
                 <div class="reason-side-item right-item">
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/copywriting.png" alt="hire web-designer" loading="lazy">
+                        <img src="<?= get_img(); ?>content-writing/copywriting.png" width="40px" height="40px" alt="hire web-designer" loading="lazy">
                     </div>
                     <div class="reason-dtl">
                         <p>Daily Or Weekly Report</p>
@@ -392,7 +392,7 @@ include_once '../../init.php';
                 </div>
                 <div class="reason-side-item right-item">
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/refund.png" alt="hire web-designer">
+                        <img src="<?= get_img(); ?>designer/refund.png" width="40px" height="40px" alt="hire web-designer">
                     </div>
                     <div class="reason-dtl">
                         <p>No Hidden Cost</p>
@@ -407,7 +407,7 @@ include_once '../../init.php';
     <!-- serviec type start -->
     <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">6 REASONS TO HIRE WEB DESIGNER FROM COWORKER</h3>
+        <h1 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">6 REASONS TO HIRE WEB DESIGNER FROM COWORKER</h1>
         <div class="why_about">
             <p class="text text-center">When building your website, the workflows must be such that it attracts more visitors. To optimise your site, you will need the help of a competent web design company. The dedicated website designers at HireCoworker promise amazing visuals that successfully represent your brand's message and individual character.</p>
         </div>
@@ -418,7 +418,7 @@ include_once '../../init.php';
                     <i class='bx bx-refresh'></i>
                 </div>
                 <div class="service-dtl">
-                    <h4>Free Trial</h4>
+                    <p class="h4">Free Trial</p>
                     <p>Without a shadow of a doubt, outsource services for web design and development. We offer a risk-free trial with no commitment to purchase. Only after you are absolutely certain of our capability should you proceed.
                     </p>
                 </div>
@@ -428,7 +428,7 @@ include_once '../../init.php';
                     <i class='bx bxs-user'></i>
                 </div>
                 <div class="service-dtl">
-                    <h4>Technical Expertise</h4>
+                    <p class="h4">Technical Expertise</p>
                     <p>UX and UI design, HTML5, CSS3, JavaScript, Bootstrap, Sketch, Figma, and other technologies Choose your preference; this is the end of your search for technically proficient web designers in India and the United States.
                     </p>
                 </div>
@@ -438,7 +438,7 @@ include_once '../../init.php';
                     <i class='bx bxl-unity'></i>
                 </div>
                 <div class="service-dtl">
-                    <h4>Best Web Service</h4>
+                    <p class="h4">Best Web Service</p>
                     <p>HireCoworker has redefined web design services by offering a strict NDA and a money-back guarantee of 100 percent. Only one web design company in India or the United States offers risk-free services.
                     </p>
                 </div>
@@ -448,7 +448,7 @@ include_once '../../init.php';
                     <i class='bx bx-target-lock'></i>
                 </div>
                 <div class="service-dtl">
-                    <h4>Scope Of Services</h4>
+                    <p class="h4">Scope Of Services</p>
                     <p>You can hire web designers from us to address the growing use of mobile devices. Additionally, you can select one of our ecommerce website designers to assist you in online product sales.
                     </p>
                 </div>
@@ -458,7 +458,7 @@ include_once '../../init.php';
                     <ion-icon name="ban-outline"></ion-icon>
                 </div>
                 <div class="service-dtl">
-                    <h4>Zero Overheads</h4>
+                    <p class="h4">Zero Overheads</p>
                     <p>You can save money on office rent, software and hardware costs, and infrastructure costs by working with other web design outsourcing companies in India or the United States. You can also save money on recruitment fees with us.
                     </p>
                 </div>
@@ -468,7 +468,7 @@ include_once '../../init.php';
                     <i class='bx bxl-graphql'></i>
                 </div>
                 <div class="service-dtl">
-                    <h4>Diverse Experience</h4>
+                    <p class="h4">Diverse Experience</p>
                     <p>Are you looking for a senior? Do you need a web designer with more than ten years of experience? Or is it possible for someone with mid-level experience to do this job? You can opt for either option.</p>
                 </div>
             </div>
@@ -482,7 +482,7 @@ include_once '../../init.php';
             <div class="vedio_test_row">
                 <div class="vedio_about why-choose-section-content">
                     <p>Collaborate With Us</p>
-                    <h4 class="section-heading">Why Hire <span>Co-Woker</span> ?</h4>
+                    <p class="h4" class="section-heading">Why Hire <span>Co-Woker</span> ?</p>
                     <p class="text">Customers from all over the world depend on our skilled developers to get high-quality,
                         sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They
                         have expertise in a variety of technologies and fields.
@@ -498,7 +498,7 @@ include_once '../../init.php';
                     </ul>
                 </div>
                 <div class="vedio_frame">
-                    <a class="fancybox" href="https://youtu.be/010y9jBeM-g"><img src="<?= get_img() ?>coworker_vid.jpeg" alt="hire web designer" class="width-100"></a>
+                    <a class="fancybox" href="https://youtu.be/010y9jBeM-g"><img src="<?= get_img() ?>coworker-vid.webp" width="100%" height="100%" alt="hire web designer" class="width-100"></a>
                 </div>
             </div>
 
@@ -509,8 +509,8 @@ include_once '../../init.php';
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            BEST WEB DESIGNER</h3>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
+            BEST WEB DESIGNER</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
@@ -692,37 +692,37 @@ include_once '../../init.php';
         <div class="step-row">
             <div class="step-row-item">
                 <div class="step-row-item-icon">
-                    <img src="<?= get_img() ?>remote-benifit/easy-search.png" alt="remote-benfits">
+                    <img src="<?= get_img() ?>remote-benifit/easy-search.png" width="100%" height="100%" alt="remote-benfits">
 
                 </div>
                 <div class="step-row-item-number">
                     <p>1. Easy Requirement</p>
                 </div>
-                <img class="dotted-img-up" src="<?= get_img() ?>remote-benifit/dotted-white.png" alt="remote-benfits">
+                <img class="dotted-img-up" src="<?= get_img() ?>remote-benifit/dotted-white.png" width="100%" height="100%" alt="remote-benfits">
             </div>
             <div class="step-row-item">
                 <div class="step-row-item-icon">
-                    <img src="<?= get_img() ?>remote-benifit/increased-productivity.png" alt="remote-benfits">
+                    <img src="<?= get_img() ?>remote-benifit/increased-productivity.png" width="100%" height="100%" alt="remote-benfits">
 
                 </div>
                 <div class="step-row-item-number">
                     <p>2. Increased Productivity</p>
                 </div>
-                <img class="dotted-img-down" src="<?= get_img() ?>remote-benifit/dotted-white.png" alt="remote-benfits">
+                <img class="dotted-img-down" src="<?= get_img() ?>remote-benifit/dotted-white.png" width="100%" height="100%" alt="remote-benfits">
             </div>
             <div class="step-row-item">
                 <div class="step-row-item-icon">
-                    <img src="<?= get_img() ?>remote-benifit/reduction.png" alt="remote-benfits">
+                    <img src="<?= get_img() ?>remote-benifit/reduction.png" width="100%" height="100%" alt="remote-benfits">
 
                 </div>
                 <div class="step-row-item-number">
                     <p>3. Reduced Cost</p>
                 </div>
-                <img class="dotted-img-up" src="<?= get_img() ?>remote-benifit/dotted-white.png" alt="remote-benfits">
+                <img class="dotted-img-up" src="<?= get_img() ?>remote-benifit/dotted-white.png" width="100%" height="100%" alt="remote-benfits">
             </div>
             <div class="step-row-item">
                 <div class="step-row-item-icon">
-                    <img src="<?= get_img() ?>remote-benifit/customer-support.png" alt="remote-benfits">
+                    <img src="<?= get_img() ?>remote-benifit/customer-support.webp" width="100%" height="100%" alt="remote-benfits">
                 </div>
                 <div class="step-row-item-number">
                     <p>4. 24X7</p>
@@ -763,7 +763,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire web designer">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" width="64px" height="64px" alt="hire web designer">
                     </div>
                     <div class="step-dtl">
                         <h4>Handpick Best Expert</h4>
@@ -839,8 +839,8 @@ include_once '../../init.php';
     <!-- faq section -->
     <section class="faq-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FAQs</p>
-        <h5 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Do You Have
-            Questions?</h5>
+        <h1 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Do You Have
+            Questions?</h1>
         <div class="faqs">
             <div class="faqs-child">
                 <details>

@@ -89,7 +89,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>SEO</p>
                     <h5 class="section-heading">Search Engine Optimization</h5>
-                    <a href="<?=home_path()?>services/hire-digital-marketer/hire-seo-virtual-assistant-specialist">Learn More</a>
+                    <a href="<?=home_path()?>hire-digital-marketer/hire-seo-virtual-assistant-specialist">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/service-img-digital-v3.png" class="width-100" alt="Hire SEO Expert">
@@ -99,7 +99,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>Social Media</p>
                     <h5 class="section-heading">Social Media Marketing</h5>
-                    <a href="<?=home_path()?>services/hire-digital-marketer/va-for-social-media-marketing">Learn More</a>
+                    <a href="<?=home_path()?>hire-digital-marketer/va-for-social-media-marketing">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/service-img-digital-v4.png" class="width-100" alt="Hire SMM Expert">
@@ -119,7 +119,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>Email Marketing</p>
                     <h5 class="section-heading">Email Marketing Services</h5>
-                    <a href="#">Learn More</a>
+                    <a href="<?=home_path()?>hire-digital-marketer/email-marketing-virtual-assistant">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/email-marketing.webp" class="width-100" alt="Hire Email Marketing Expert">

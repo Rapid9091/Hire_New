@@ -101,7 +101,21 @@
   margin-left: 5%;
   color:var(--light-font-color);
 }
+.box-title-heading > a .h5 {
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 1.75rem;
+  margin-left: 5%;
+  color:var(--light-font-color);
+}
 .box-title-heading h5{
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 1.75rem;
+  margin-left: 5%;
+  color:var(--light-font-color);
+}
+.box-title-heading .h5{
   font-size: 21px;
   font-weight: 500;
   line-height: 1.75rem;

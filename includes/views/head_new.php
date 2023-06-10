@@ -9,7 +9,9 @@
         <!-- Google Tag Manager  link -->
      <!-- -------------------------- ------------------>
      <meta name="google-site-verification" content="HyNCv_4NTtTNMPhgRsB3gZVj0IE2csbv69TYsHltkZs" />
-
+  <!-- Google tag (gtag.js) -->
+<script defer src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>
+ <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>-->
 
        <!-- Favicon  -->
     <!-- ---------------------------------------------->

@@ -6,7 +6,6 @@ include_once "../init.php";
 <html lang="en">
 
 <head>
-
   <title>Hire Best Virtual Assistant in USA - HireCoworker</title>
   <meta name="description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us at +1 (848) 200-0555 for Virtual Assistant." />
   <meta property="og:type" content="website" />
@@ -59,7 +58,7 @@ include_once "../init.php";
     <div class="landing-overlay"></div>
     <div class="landing-grid grid">
       <div class="landing-grid-left">
-        <h1 class="h1-small">Hire Coworkers / Virtual Assistant</h1>
+        <h1 class="h1-small">Hire Coworker / Virtual Assistant</h1>
         <h2 class="main-h1-heading">
           Life is better with <br />
           a Virtual Assistant
@@ -293,7 +292,7 @@ include_once "../init.php";
                 </ul>
             </div>
             <div class="why-choose-section-img grid-center">
-                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why Hirecoworker">
+                <img src="<?= get_img() ?>Business decisions-broo.webp" alt="Why Hirecoworker">
             </div>
         </div>
     </section>
@@ -312,7 +311,7 @@ include_once "../init.php";
 
         <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
             <div>
-                <img src="<?= get_img(); ?>dedicated-designers-1.jpg" class="width-100 why-img" alt="hire coworker" loading="lazy">
+                <img src="<?= get_img(); ?>dedicated-designers-1.webp" class="width-100 why-img" alt="hire coworker" loading="lazy">
             </div>
             <div>
                 <div class="why-title">

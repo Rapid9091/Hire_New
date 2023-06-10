@@ -3,7 +3,7 @@
     <div class="flex review_row">
         <div class="google">
             <div class="google_logo">
-                <img src="<?=get_img()?>reviews/google.png" alt="google" loading="lazy">
+                <img src="<?=get_img()?>reviews/google.webp" alt="google" loading="lazy">
             </div>
             <div class="rating">
                 <p><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i class='bx bxs-star'></i><i
@@ -28,7 +28,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?=get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?=get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -55,7 +55,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?=get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?=get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -110,7 +110,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -138,7 +138,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -169,7 +169,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -197,7 +197,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">
@@ -225,7 +225,7 @@
                             </div>
                         </div>
                         <div class="g-logo">
-                            <img src="<?= get_img()?>reviews/g.png" alt="google logo" loading="lazy">
+                            <img src="<?= get_img()?>reviews/g.webp" alt="google logo" loading="lazy">
                         </div>
                     </div>
                     <div class="review_stars">

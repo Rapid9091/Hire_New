@@ -23,7 +23,8 @@ function scrollFunction() {
 
 // On Scroll function here
 
-window.onscroll = function () {
+window.onscroll = function (e) {
+    e.preventDefault()
   // Getting the height of screen
   var top = window.scrollY;
 

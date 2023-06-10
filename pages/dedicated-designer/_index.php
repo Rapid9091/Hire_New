@@ -7,14 +7,15 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-
+    <style>
+.owl-theme .owl-dots{display: none}</style>
     <title>Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker</title>
     <meta name="title" content=" Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker">
     <meta name="description" content="Looking To Hire Dedicated Designers? Hire dedicated UI/UX designing team from Hire Co-Worker. Get your website with stunning designs by hiring expertise designers." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker" />
     <meta property="og:description" content="Looking To Hire Dedicated Designers? Hire dedicated UI/UX designing team from Hire Co-Worker. Get your website with stunning designs by hiring expertise designers." />
-    <meta property="og:url" content="https://hirecoworker.com/services/hire-dedicated-designers" />
+    <meta property="og:url" content="https://hirecoworker.com/hire-dedicated-designers" />
     <meta property="og:site_name" content="Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Hire Dedicated Designers, hire dedicated web designer, hire dedicated website designer, hire web designer, hire a web designer, hire a freelance web designer, web designer for hire, hire freelance web designer">
@@ -30,20 +31,20 @@ include_once '../../init.php';
     <?php include_once head; ?>
 
 
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_faq.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_pricing.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_remote-benifit.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_testimonial-slider.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap-2.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
-    <link rel="stylesheet" href="<?= get_css() ?>dedicated-designer/dedicated-designer.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_faq.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_pricing.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_remote-benifit.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_testimonial-slider.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap-2.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
+    <link async rel="stylesheet" href="<?= get_css() ?>dedicated-designer/dedicated-designer.css">
 
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>dedicated-designer-2.jpg");
+            background-image: url("<?= get_img() ?>dedicated-designer-2.webp");
         }
     </style>
 </head>
@@ -65,11 +66,11 @@ include_once '../../init.php';
                     <p>Starts from US $10/Hour - Save 70%</p>
                 </div>
 
-                <ul class="landing-ul">
-                    <p class="text">
+                <ul class="landing-ul" style="list-style:none;">
+                    <li class="text">
                         Get rigorously vetted designer teams that best match your timezone and
                         work model. Save your hiring time and budget with Remotebase.
-                    </p>
+                    </li>
                 </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Dedicated Designer Experts
@@ -91,7 +92,7 @@ include_once '../../init.php';
                     <i class='bx bxs-pencil'></i>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-graphic-designers">Graphic Design</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-graphic-designers">Graphic Design</a></h3>
                     <p>Graphic design is a profession, academic discipline and applied art.</p>
                 </div>
             </div>
@@ -100,34 +101,17 @@ include_once '../../init.php';
                     <ion-icon name="desktop-outline"></ion-icon>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-web-designers">Web Design</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-web-designers">Web Design</a></h3>
                     <p>Web design encompasses many different skills and disciplines in the production and maintenance of websites.</p>
                 </div>
             </div>
-            <!-- <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bx-credit-card-front'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3><a href="">Front End Developer</a></h3>
-                    <p>A front-end developer architects and develops websites and applications using web technologies.</p>
-                </div>
-            </div> -->
-            <!-- <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
-                <div class="icon">
-                    <i class='bx bx-crop'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3><a href="">UI/UX</a></h3>
-                    <p>UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with.</p>
-                </div>
-            </div> -->
+
             <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
                 <div class="icon">
                     <ion-icon name="logo-dropbox"></ion-icon>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-logo-designers">Logo Design</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-logo-designers">Logo Design</a></h3>
                     <p>The goal of logo design is to create a visual brand mark that represents a company.</p>
                 </div>
             </div>
@@ -137,7 +121,7 @@ include_once '../../init.php';
                     <ion-icon name="aperture-outline"></ion-icon>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-photoshop-experts">Photoshop Expert</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-photoshop-experts">Photoshop Expert</a></h3>
                     <p>A skilled user of Adobe Photoshop, capable of creating and editing digital images for various purposes.</p>
                 </div>
             </div>
@@ -146,7 +130,7 @@ include_once '../../init.php';
                     <i class='bx bxl-deviantart'></i>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-indesign-experts">InDesign Expert</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-indesign-experts">InDesign Expert</a></h3>
                     <p>A professional proficient in using Adobe InDesign, a software program for creating and formatting documents. </p>
                 </div>
             </div>
@@ -155,43 +139,17 @@ include_once '../../init.php';
                     <i class='bx bxs-color-fill'></i>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-illustrator-experts">Illustration Expert</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-illustrator-experts">Illustration Expert</a></h3>
                     <p>An expert in creating original artwork using various mediums and techniques.</p>
                 </div>
             </div>
-            <!-- <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <ion-icon name="images-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h3><a href="">Image Editing</a></h3>
-                    <p>Image editing refers to the process of altering and enhancing digital images using software tools.</p>
-                </div>
-            </div> -->
-            <!-- <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <i class='bx bx-envelope'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3><a href="">Email Newsletter Template Design</a></h3>
-                    <p>The design of an email template specifically for use in newsletters, with the goal of creating a visually appealing and effective way to communicate with subscribers.</p>
-                </div>
-            </div> -->
-            <!-- <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="apps-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h3><a href="">Website Redesign</a></h3>
-                    <p>The process of updating and improving the design and functionality of an existing website.</p>
-                </div>
-            </div> -->
+
             <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
                 <div class="icon">
                 <i class='bx bx-video'></i>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-multimedia-animation-expert">Multimedia Animation Experts</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-multimedia-animation-expert">Multimedia Animation Experts</a></h3>
                     <p>A multimedia animation artist uses a variety of technological technologies and media types to produce animations and special effects.</p>
                 </div>
             </div>
@@ -200,7 +158,7 @@ include_once '../../init.php';
                     <i class='bx bx-id-card'></i>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>services/hire-business-card-designers">Business Card, Podcast, Brochures</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-business-card-designers">Business Card, Podcast, Brochures</a></h3>
                     <p>A business card is a small card with contact information for a person or business.</p>
                 </div>
             </div>
@@ -219,7 +177,7 @@ include_once '../../init.php';
 
         <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
             <div>
-                <img src="<?= get_img(); ?>dedicated-designers-1.jpg" class="width-100 why-img" alt="hire coworker" loading="lazy">
+                <img src="<?= get_img(); ?>dedicated-designers-1.webp"  width="100%" height="100%" class="width-100 why-img" alt="hire coworker" loading="lazy">
             </div>
             <div>
                 <div class="why-title">
@@ -428,15 +386,7 @@ include_once '../../init.php';
                     <p>Responsive design that is tailored to mobile devices.</p>
                 </div>
             </div>
-            <!-- <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bx-desktop'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Great UI and UX</h4>
-                    <p>Enhanced customer engagement as a result of the user-friendly interface and navigation.</p>
-                </div>
-            </div> -->
+            
             <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
                 <div class="icon">
                     <ion-icon name="globe-outline"></ion-icon>
@@ -534,7 +484,8 @@ include_once '../../init.php';
     <!-- faq section -->
     <section class="faq-section">
         <p class="p-pink">FAQs</p>
-        <h5 class="section-heading">Do You Have Questions?</h5>
+        <h1 class="section-heading">Do You Have Questions?</h1>
+       <!-- <p style=" font-size: 0.83em;font-weight: bold;" class="section-heading">Do You Have Questions?</p>-->
         <div class="faqs">
             <div class="faqs-child">
                 <details>
@@ -590,6 +541,7 @@ include_once '../../init.php';
     </section>
     <!--faq end -->
 
+
     <!-- Blog section page -->
     <!-- -------------------------- -->
 
@@ -601,7 +553,7 @@ include_once '../../init.php';
     <?php
     include_once page_bottom;
     ?>
-    <script src="<?= get_js() ?>pricing.js"></script>
+    <script defer src="<?= get_js() ?>pricing.js"></script>
 </body>
 
 </html>

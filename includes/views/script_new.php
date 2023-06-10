@@ -68,3 +68,11 @@
  <!-- Main JS of the page  -->
  <!-- -------------------------- -->
  <script defer src="<?= get_js('new_main.js') ?>"></script>
+
+ <script>
+ const imgTags = document.getElementsByTagName("img");
+
+// Loop through each img tag and add the loading attribute
+for (let i = 0; i < imgTags.length; i++) {
+  imgTags[i].setAttribute("loading", "lazy");
+}</script>

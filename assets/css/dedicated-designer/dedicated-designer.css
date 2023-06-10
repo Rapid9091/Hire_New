@@ -13,7 +13,6 @@
   display: grid;
   gap: 1.4rem 1rem;
 } */
-
 .services-item {
   /* background-color:#FFFFFF; */
   text-align: center;
@@ -125,6 +124,9 @@
   .design-services {
     grid-template-columns: repeat(1, 1fr);
   }
+  .why-choose {
+  padding: 4%;
+}
 }
 
 

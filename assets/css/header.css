@@ -30,6 +30,7 @@
 }
 .logo > a > img {
   height: 62px;
+  max-width: 62px;
   width:auto;
 }
 
@@ -139,6 +140,7 @@
 
   .logo > a > img {
     height: 65px;
+    max-width: 65px;
     width: 100%;
   }
 }

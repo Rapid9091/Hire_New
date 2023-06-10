@@ -16,7 +16,7 @@ blog_date(01 Aug, 2022)
     <div class="blog-grid grid grid-3">
         <div class="blog-card ">
             <div class="blog-banner-box">
-                <img src="<?= isset($blog_img_1) ? $blog_img_1 : get_img("blog/digital-marketing.webp") ?>" alt="blog banner" loading="lazy" />
+                <img src="<?= isset($blog_img_1) ? $blog_img_1 : get_img("blog/digital-marketing.webp") ?>" alt="blog banner" width="100%" height="100%" loading="lazy" />
             </div>
 
             <div class="blog-content">
@@ -28,13 +28,13 @@ blog_date(01 Aug, 2022)
 
                 <div class="wrapper flex-center-between">
                     <div class="blog-publish-date flex-center">
-                        <a href="<?= home_path() ?>author"><img src="<?= get_img() ?>user.jpg" alt="author" loading="lazy" /></a>
+                        <a href="<?= home_path() ?>author"><img src="<?= get_img() ?>user.jpg" alt="author" loading="lazy" width="100%" height="100%" /></a>
                         <a href="<?= home_path() ?>author">Arjun K.</a>
 
                     </div>
                     <div class="blog-link-div">
                         <div class="blog-time flex-center">
-                            <img src="<?= get_img() ?>icons8-calendar-64.png" alt="calendar icon" loading="lazy"/>
+                            <img src="<?= get_img() ?>icons8-calendar-64.png" alt="calendar icon" width="100%" height="100%" loading="lazy"/>
 
                             <a href="<?= isset($blog_link_2) ? home_path($blog_link_2) : "#" ?>">
                                 <?= isset($blog_date_2) ? $blog_date_2 : "04 July, 2022" ?>
@@ -48,7 +48,7 @@ blog_date(01 Aug, 2022)
 
         <div class="blog-card">
             <div class="blog-banner-box">
-                <img src="<?= isset($blog_img_2) ? $blog_img_2 : get_img("blog/content-writer.webp") ?>" alt="blog banner" loading="lazy" />
+                <img src="<?= isset($blog_img_2) ? $blog_img_2 : get_img("blog/content-writer.webp") ?>" alt="blog banner" loading="lazy" width="100%" height="100%" />
             </div>
 
             <div class="blog-content">
@@ -60,13 +60,13 @@ blog_date(01 Aug, 2022)
 
                 <div class="wrapper flex-center-between">
                     <div class="blog-publish-date flex-center">
-                        <a href="<?= home_path() ?>author"><img src="<?= get_img() ?>user-3.jpg" alt="author" loading="lazy" /></a>
+                        <a href="<?= home_path() ?>author"><img src="<?= get_img() ?>user-3.webp" alt="author" loading="lazy" width="100%" height="100%" /></a>
                         <a href="<?= home_path() ?>author">John T.</a>
 
                     </div>
                     <div class="blog-link-div">
                         <div class="blog-time flex-center">
-                            <img src="<?= get_img() ?>icons8-calendar-64.png" alt="calendar icon" loading="lazy" />
+                            <img src="<?= get_img() ?>icons8-calendar-64.png" alt="calendar icon" loading="lazy"  width="100%" height="100%"/>
 
                             <a href="<?= isset($blog_link_2) ? home_path($blog_link_2) : "#" ?>">
                                 <?= isset($blog_date_2) ? $blog_date_2 : "04 July, 2022" ?>
@@ -82,7 +82,7 @@ blog_date(01 Aug, 2022)
 
         <div class="blog-card">
             <div class="blog-banner-box">
-                <img src="<?= isset($blog_img_3) ? $blog_img_3 : get_img("blog/web-dev.webp") ?>" alt="blog banner" />
+                <img src="<?= isset($blog_img_3) ? $blog_img_3 : get_img("blog/web-dev.webp") ?>"  alt="blog banner" width="100%" height="100%" />
             </div>
             <div class="blog-content">
                 <p class="blog-title">
@@ -93,13 +93,13 @@ blog_date(01 Aug, 2022)
 
                 <div class="wrapper flex-center-between">
                     <div class="blog-publish-date flex-center">
-                        <a href="<?= home_path() ?>author"><img src="<?= get_img() ?>user-3.jpg" alt="author" /></a>
+                        <a href="<?= home_path() ?>author"><img src="<?= get_img() ?>user-3.webp" alt="author"  width="100%" height="100%"/></a>
                         <a href="<?= home_path() ?>author">John T.</a>
 
                     </div>
                     <div class="blog-link-div">
                         <div class="blog-time flex-center">
-                            <img src="<?= get_img() ?>icons8-calendar-64.png" alt="calendar icon" />
+                            <img src="<?= get_img() ?>icons8-calendar-64.png" alt="calendar icon" width="100%" height="100%" />
 
                             <a href="<?= isset($blog_link_2) ? home_path($blog_link_2) : "#" ?>">
                                 <?= isset($blog_date_2) ? $blog_date_2 : "07 June, 2022" ?>

@@ -38,7 +38,8 @@ function scrollFunction() {
 
 // On Scroll function here
 
-window.onscroll = function () {
+window.onscroll = function (e) {
+    e.preventDefault()
   // Getting the height of screen
   var top = window.scrollY;
 
@@ -107,9 +108,15 @@ $('button.owl-dot').attr('aria-label', 'owl-dot');
 AOS.init();
 
 // --------------------country code----------
-$(".country_input").intlTelInput({
+
+  var input = document.querySelector("#input_mobile");
+  window.intlTelInput(input, {
+    utilsScript: "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/utils.js",
+  });
+
+// $(".country_input").intlTelInput({
  
-});
+// });
 
 //-------- view more btn-------
 

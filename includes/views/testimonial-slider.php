@@ -13,7 +13,7 @@
                 </div>
                 <div class="test-user flex-center">
                     <div class="user-img">
-                        <img src="<?= isset($user_img1) ? get_img($user_img1) : get_img("testimonial/female-user.png"); ?>" alt="" loading="lazy">
+                        <img src="<?= isset($user_img1) ? get_img($user_img1) : get_img("testimonial/female-user.png"); ?>" alt="" width="100%" height="100%" loading="lazy">
                     </div>
                     <div class="test-user-dtl">
                         <p class="test_name_designation"><?= isset($test_role1) ? $test_role1 : "Graphic Designer"; ?></p>
@@ -33,7 +33,7 @@
                 </div>
                 <div class="test-user flex-center">
                     <div class="user-img">
-                        <img src="<?= isset($user_img2) ? get_img($user_img2) : get_img("testimonial/male-user.png"); ?>" alt="" loading="lazy">
+                        <img src="<?= isset($user_img2) ? get_img($user_img2) : get_img("testimonial/male-user.png"); ?>" width="100%" height="100%" alt="" loading="lazy">
                     </div>
                     <div class="test-user-dtl">
                         <p class="test_name_designation"><?= isset($test_role2) ? $test_role2 : "Graphic Designer"; ?></p>
@@ -54,7 +54,7 @@
 
                 <div class="test-user flex-center">
                     <div class="user-img">
-                        <img src="<?= isset($user_img3) ? get_img($user_img3) : get_img("testimonial/girl-user.jpg"); ?>" alt="" loading="lazy">
+                        <img src="<?= isset($user_img3) ? get_img($user_img3) : get_img("testimonial/girl-user.jpg"); ?>" alt="" width="100%" height="100%" loading="lazy">
                     </div>
                     <div class="test-user-dtl">
                         <p class="test_name_designation"><?= isset($test_role3) ? $test_role3 : "Graphic Designer"; ?></p>
@@ -74,7 +74,7 @@
                 </div>
                 <div class="test-user flex-center">
                     <div class="user-img">
-                        <img src="<?= isset($user_img4) ? get_img($user_img4) : get_img("testimonial/boy-user.jpg"); ?>" alt="" loading="lazy">
+                        <img src="<?= isset($user_img4) ? get_img($user_img4) : get_img("testimonial/boy-user.jpg"); ?>" alt="" width="100%" height="100%" loading="lazy">
                     </div>
                     <div class="test-user-dtl">
                         <p class="test_name_designation"><?= isset($test_role4) ? $test_role4 : "Graphic Designer"; ?></p>

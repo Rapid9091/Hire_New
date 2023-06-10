@@ -9,8 +9,6 @@
 <!-- -------------------------- -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
 <!-- -------------------------- ------------------>
 
@@ -23,7 +21,6 @@
 <!-- ---------------------------------------------->
 <!-- box icon css  -->
 <!-- ---------------------------------------------->
-<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel='stylesheet'>
 
 <!-- ---------------------------------------------->
 
@@ -45,13 +42,14 @@
 
  <!-- --------------------------------- head links end------------------------- -->
 
- <!-- jquery -->
-<script  src="https://code.jquery.com/jquery-3.6.2.min.js" integrity="sha256-2krYZKh//PcchRtd+H+VyyQoZ/e3EcrkxhM8ycwASPA=" crossorigin="anonymous"></script>
+ <!-- jquery
+<script src="https://code.jquery.com/jquery-3.6.2.min.js" integrity="sha256-2krYZKh//PcchRtd+H+VyyQoZ/e3EcrkxhM8ycwASPA=" crossorigin="anonymous"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 
 
   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>
+ <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>-->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -73,8 +71,8 @@
  <!-- ---- modal form ----->
  <script src="<?= get_js('modal-form.js');?>"></script>
 
- <!-- lordicon -->
- <script async src="https://cdn.lordicon.com/fudrjiwc.js"></script>
+ <!-- lordicon
+ <script async src="https://cdn.lordicon.com/fudrjiwc.js"></script> -->
 
 <!-- -------------------------- -->
 <!-- Icons Links -->
@@ -97,15 +95,35 @@
 
 
  <!-- country code -->
-<script async src="<?= get_assets();?>/build/js/intlTelInput.min.js"></script>
-<script   src="<?= get_assets();?>/build/js/intlTelInput-jquery.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/intlTelInput.min.js"></script>
 <script> 
-$(".country_input").intlTelInput({
- 
-});
+var input = document.querySelector("#input_mobile");
+  window.intlTelInput(input, {
+    utilsScript: "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/utils.js",
+  });
 </script>
 
+<script>
+  function loadBoxicons() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons);
+
+const imgTags = document.getElementsByTagName("img");
+
+// Loop through each img tag and add the loading attribute
+for (let i = 0; i < imgTags.length; i++) {
+  imgTags[i].setAttribute("loading", "lazy");
+}
+</script>
 
  <!-- Main JS of the page  -->
  <!-- -------------------------- -->
  <script src="<?= get_js('main.js') ?>"></script>
+
+ 
+

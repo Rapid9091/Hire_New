@@ -155,7 +155,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">It's important to choose the best IT outsourcing company. It makes sure that it benefits your company greatly and aids in increasing relevant search traffic to websites.</p>
 
-                <a href="<?= home_path() ?>services/it-outsourcing-services">Learn More <ion-icon
+                <a href="<?= home_path() ?>it-outsourcing-services">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
             </div>
             <div class="main-services-types-child-img wh-100">
@@ -174,7 +174,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">We have offered a variety of services to customers across different industries. SEO, PPC ads, Amazon shop optimization, copywriting, CRO, and other services are included in our digital marketing offerings.</p>
 
-                <a href="<?= home_path() ?>services/hire-digital-marketer">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-digital-marketer">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -186,7 +186,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Hire coworker helping you to find a dedicated developer. We have a track record of satisfactorily completing projects of all sizes. We provide skilled software developers on a daily, weekly, and monthly basis.You will get a development manager on call and flexible engagement options</p>
 
-                <a href="<?= home_path() ?>services/hire-developers">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-developers">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
             </div>
             <div class="main-services-types-child-img wh-100">
@@ -206,7 +206,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Hire expert and dedicated graphics designers for responsive, agile, and custom design solutions. Hire experienced web designers to build your project on a full-time, part-time, hourly, or monthly basis.</p>
 
-                <a href="<?= home_path() ?>services/hire-dedicated-designers">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-dedicated-designers">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -218,7 +218,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Hire content writers and get your project done remotely online. Find top-tier talent online with guaranteed results on an hourly, daily, weekly, and monthly basis. Expand your digital footprint with an experienced content writer within your budget.</p>
 
-                <a href="<?= home_path() ?>services/hire-content-writer">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-content-writer">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
             </div>
             <div class="main-services-types-child-img wh-100">
@@ -237,7 +237,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Our Engineers and Architects work with clients to design, plan and oversee construction projects, ensuring safety, cost-effectiveness, aesthetic appeal and compliance with regulations and codes.</p>
 
-                <a href="<?= home_path() ?>services/hire-engineers-architects">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-engineers-architects">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -249,7 +249,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Hire Coworker’s Mobile App Developers is the best option to design, develop, test, and maintain mobile applications for clients, creating feature-rich, user-friendly, less expensive, and high-performance software that meets the client's specific needs and requirements. Remote hiring is the best of all the hiring options. You hire app developers who are employed only on a contractual basis.</p>
 
-                <a href="<?= home_path() ?>services/hire-professional-mobile-app-developers">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-professional-mobile-app-developers">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
             </div>
             <div class="main-services-types-child-img wh-100">
@@ -268,7 +268,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Finance and Accounting experts assist clients with financial planning, analysis, and management by providing expertise and guidance in areas such as budgeting, financial reporting, tax compliance, and risk management.</p>
 
-                <a href="<?= home_path() ?>services/hire-finance-accounts-experts">Learn More <ion-icon
+                <a href="<?= home_path() ?>hire-finance-accounts-experts">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -283,7 +283,7 @@ include_once '../init.php';
                     process experts bring sound knowledge of healthcare IT, a sharp business focus, and awareness of
                     healthcare regulations. </p>
 
-                <a href="<?= home_path() ?>services/medical-process-outsourcing">Learn More <ion-icon
+                <a href="<?= home_path() ?>medical-process-outsourcing">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
             </div>
             <div class="main-services-types-child-img wh-100">
@@ -304,7 +304,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Legal Process Outsourcing is the best and most affordable way to provide comprehensive legal support services to clients by handling tasks such as legal research, document review, the drafting of legal documents, and contract management, allowing clients to focus on their core business operations.</p>
 
-                <a href="<?= home_path() ?>services/legal-outsourcing-services">Learn More <ion-icon
+                <a href="<?= home_path() ?>legal-outsourcing-services">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -316,7 +316,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">A virtual assistant (VA) is a professional who provides administrative, technical, or creative assistance to clients remotely and who can help with a variety of tasks such as email and calendar management, data entry and research, social media management, and more to help increase productivity.</p>
 
-                <a href="<?= home_path() ?>services/virtual-assistant">Learn More <ion-icon
+                <a href="<?= home_path() ?>virtual-assistant">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
             </div>
             <div class="main-services-types-child-img wh-100">
@@ -337,7 +337,7 @@ include_once '../init.php';
                 </h3>
                 <p class="text">Outsourcing to India refers to the practice of hiring an external company or individual based in India to handle business operations or tasks that are typically performed by a company's internal employees. This can include services such as customer support, data entry, software.</p>
 
-                <a href="<?= home_path() ?>services/outsource-to-india">Learn More <ion-icon
+                <a href="<?= home_path() ?>outsource-to-india">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
