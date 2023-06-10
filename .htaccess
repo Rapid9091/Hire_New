@@ -3,6 +3,12 @@
   ExpiresDefault "access plus 3 hours"
 </IfModule>
 
+<IfModule mod_headers.c>
+  <FilesMatch "\.css$">
+    Header set Cache-Control "public, max-age=3600" # Cache for 1 hour
+  </FilesMatch>
+</IfModule>
+
 RewriteEngine on
 
 Options -Indexes
