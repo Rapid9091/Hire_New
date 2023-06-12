@@ -90,9 +90,9 @@ include_once '../../init.php';
             <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
                 <div class="icon">
                     <i class='bx bxs-pencil'></i>
-                </div>
+                </div>  
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>hire-graphic-designers">Graphic Design</a></h3>
+                    <h3><a href="<?= home_path() ?>graphic-design-virtual-assistant">Graphic Design</a></h3>
                     <p>Graphic design is a profession, academic discipline and applied art.</p>
                 </div>
             </div>

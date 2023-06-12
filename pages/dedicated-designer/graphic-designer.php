@@ -7,39 +7,31 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+    
+  <?php include_once head_new;?>
+    
+    <title>Graphic Design Virtual Assistant Services</title>
 
-
-    <title>Hire Graphic-Designer</title>
-
-    <?php include_once head; ?>
-
-
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_faq.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_pricing.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_remote-benifit.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_testimonial-slider.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_vedio_test.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap-2.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_hiring-step.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-outsource-us.css">
-    <link rel="stylesheet" href="<?= get_css() ?>dedicated-designer/dedicated-designer.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_industries.css">
-    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_tools_used.css">
-
-
+    
+    <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>designer/graphic-designer.jpg");
+            background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
         }
     </style>
 </head>
 
 <body>
-    <div class="landing-section-services" id="hire">
+    <!-- notification strip line -->
+    <div class="notification_strip_line">
+        <div class="noti_strip_content">
+            <p>"Use Code HIRE to get extra 10% Discount"</p>
+        </div>
+
+    </div>
+
+
+    <div class="landing-section-services">
 
         <?php
         include_once header;
@@ -48,441 +40,396 @@ include_once '../../init.php';
 
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
-                <h2 class="main-heading ">
-                    Hire Graphic Designer
-                </h2>
-                <div class="landing-offer-div">
-                    <p>Starts from US $10/Hour - Save 70%</p>
-                </div>
+                <h1 class="section-heading animate__fadeInUp animate__animated">
+                Graphic Design Virtual Assistant Services   
+                </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">
-                        Get rigorously vetted designer teams that best match your timezone and
-                        work model. Save your hiring time and budget with Remotebase.
-                    </p>
+                    <p class="text">Our virtual assistants offer high-quality graphic design services.</p>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire Graphic Designer Experts
+                <a class="basic-button landing-btn" href="#">Hire Graphic Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
 
+
             <?php include_once landing_form; ?>
+
         </div>
+
+
     </div>
 
+    <!-- review section -->
+    <?php include_once reviews2; ?>
 
-    <section class="design-services-section" style="background-color:#F1F8FB; padding:5% 8%;">
-        <p class="p-pink">SERVICES</p>
-        <h3 class="section-heading">OUR GRAPHIC DESIGNING SERVICES</h3>
-        <div class="services-col-3">
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <i class='bx bx-briefcase'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3>Carporate & Business identity</h3>
-                    <p>With attractive logos, company stationery, business cards, letter heads, envelopes, and other items, you can create an engaging corporate identity.</p>
-                </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <i class='bx bx-file'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3>Blog Graphics</h3>
-                    <p>With creatively designed brochures, flyers, billboards, book covers, and blog graphics, you can attract more customers and grow your following.
+    <!-- Roadmap Start From here  -->
+
+    <section class="section-roadmap dm-services-roadmap">
+        <p class="p-pink">DIGITAL MARKETING PROCESS</p>
+        <p class="section-heading">A Simple, Iterative Process</p>
+        <ul class="roadmap">
+            <li>
+
+                <div class="roadmap-item">
+                    <p class="road_heading">RESEARCH</p>
+                    <p class="text">
+                        We do Keyword research as per the niche of the website. We also do the analysis of competitor
+                        websites.
                     </p>
                 </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bx-color'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3>Marketing Materials</h3>
-                    <p>With some robust and responsive ads for your marketing campaigns, you can dramatically increase both your conversion rate and your market base.
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <p class="road_heading">CREATING PLATFORM</p>
+                    <p class="text">
+                        1. After analysis, we placed the keywords in our website content and website URL'S.
+                        <br> 2. We create a strategy, which keywords we focused on more.
+                        <br> 3. How we can generate leads.
                     </p>
                 </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
-                <div class="icon">
-                    <i class='bx bx-printer'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3>Printing & Publishing</h3>
-                    <p>Use these clever book covers, jacket designs, magazine designs, newspaper templates, and more to make your printed work irresistible.
+            </li>
+            <li>
+
+                <div class="roadmap-item">
+                    <p class="road_heading">How we work</p>
+                    <p class="text">
+                        i. We do only <em style="font-style:normal;">white hat SEO</em>
+                        <br> ii. We generate <em style="font-style:normal;">high traffic on website</em> (organic & paid
+                        traffic)
+                        <br> iii. For keywords ranking improvement, we work on high DA, TA, PA websites.
+                        <br> iv. Increase the ranking of keywords & increase traffic on websites.
                     </p>
                 </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <ion-icon name="globe-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h3>Website Design</h3>
-                    <p>Using graphics that are just as effective as the written word, you can make your landing pages, squeeze pages, and web pages more appealing.
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <p class="road_heading">Tools we use</p>
+                    <p class="text">
+                        We use <em style="font-style:normal;">Google webmaster</em> (To check the website health)
+                        <br> <em style="font-style:normal;">Google analytics</em> (To track the website traffic)
+                        <br> <em style="font-style:normal;">Google AdWords</em> (for google ads and Keywords planner
+                        tools for keywords research)
                     </p>
                 </div>
-            </div>
-
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <ion-icon name="game-controller-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h3>Game Designing</h3>
-                    <p>Any online game needs good design that goes with the story. Integrate your design with the story of the game.</p>
-                </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="image-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h3>Photo and Image Editing</h3>
-                    <p>Correct flaws in photos and images and add new, creative elements to make them more appealing. Digital content is greatly enhanced by visuals. </p>
-                </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
-                <div class="icon">
-                    <i class='bx bxs-color-fill'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3>Custom Illustrations</h3>
-                    <p>Our graphic designers are experts in the creative processes, from gaming characters to art sketches, graphic illustrations, comic illustrations, contemporary food illustrations, website illustrations, and book illustrations.
-                    </p>
-                </div>
-            </div>
-            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <i class='bx bx-vector'></i>
-                </div>
-                <div class="service-dtl">
-                    <h3>Animated Graphics</h3>
-                    <p>In order to enhance your brand's identity, our graphic design professionals are skilled at creating stunning, highly imaginative vector graphics in vibrant colors.</p>
-                </div>
-            </div>
-
-        </div>
-
-
+            </li>
+            <div class="v-line"></div>
+        </ul>
     </section>
 
-    <!-- why choose us start -->
-    <section class="why_content_writing">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY CHOOSE US</p>
-        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY
-            OUTSOURCE GRAPHIC DESIGNER WITH COWORKER</h4>
-        <div class="flex content-reason">
-            <div class="reason-side">
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>Establishment in 2013</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/establishment.png" alt="hire graphic designer" loading="lazy">
-                    </div>
+    <!-- Roadmap End From here  -->
+
+    <!-- number section start -->
+    <section class="number_section">
+        <p class="p-pink">HIRE COWORKER</p>
+        <p class="section-heading">The Numbers Do the Talking</p>
+        <div class="grid grid-4">
+            <div class="number-counter">
+                <div class="text-center number-counter-item">
+                    <img src="<?= get_img(); ?>hire-developer/app-development.png" alt="Hire developer" loading="lazy">
                 </div>
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>9/10 client satisfaction score</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/rating.png" alt="hire graphic designer">
-                    </div>
-                </div>
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>7 Global offices (including the US and UK)</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/global.png" alt="hire graphic designer">
-                    </div>
-                </div>
+                <p class="text-cente number_p">3500+</p>
+                <p class="text-center">Successful Project</p>
             </div>
-            <div class="reason_center_img" data-aos="zoom-in" data-aos-duration="400">
-                <img src="<?= get_img(); ?>designer/designer.png" width="100%" alt="hire graphic designer">
-
+            <div class="number-counter">
+                <div class="text-center number-counter-item">
+                    <img src="<?= get_img(); ?>hire-developer/coding.png" alt="Hire android developer" loading="lazy">
+                </div>
+                <p class="text-center number_p">750+</p>
+                <p class="text-center">Certified PHP Developers</p>
             </div>
-            <div class="reason-side">
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/ipr.png" alt="hire graphic designer">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>Complete Intellectual Property Ownership</p>
-                    </div>
-
+            <div class="number-counter">
+                <div class="text-center number-counter-item">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
+                        loading="lazy">
                 </div>
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/innovations.png" alt="hire graphic designer">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>Expertise In Innovations</p>
-                    </div>
-
+                <p class="text-center number_p">8+</p>
+                <p class="text-center">Year's Industry Experience</p>
+            </div>
+            <div class="number-counter">
+                <div class="text-center number-counter-item">
+                    <img src="<?= get_img(); ?>hire-developer/web_tech.png" alt="Hire web developer" loading="lazy">
                 </div>
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/refund.png" alt="hire graphic designer">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>100% Money Back Gaurantee</p>
-                    </div>
-
-                </div>
+                <p class="text-center number_p">600+</p>
+                <p class="text-center">Satisfied Global Clients</p>
             </div>
         </div>
     </section>
-    <!-- why choose us end -->
+    <!-- number section end -->
 
-    <!-- serviec type start -->
-    <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">6 BENIFITS OF OUTSOURCING GRAPHIC DESIGNER FROM COWORKER</h3>
-        <div class="why_about">
-            <p class="text text-center">One of the best graphic design outsourcing companies in India or the United States is HireCoworker. HireCoworker's dedicated graphic designers promise stunning images that effectively convey your brand's message and distinctive identity. There are six significant advantages to using HireCoworker to hire graphic designers in India:</p>
-        </div>
+    <!-- hiring-step start -->
+    <section class="hiring_step">
 
-        <div class="services-col-3">
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <i class='bx bx-refresh'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Free Trial</h4>
-                    <p>Try us out to see how good a graphic designer we are before you hire us. If you are completely satisfied, only use our graphic design services.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <i class='bx bxs-user'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Team collaboration</h4>
-                    <p>You have complete control because you can hire dedicated online graphic designers to work on your projects only for you.</p>
+        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step_order-1">
+                <div>
+                    <p class="section-heading">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+                    <p class="text hiring_step_content">You won't have to deal with the hassles of traditional
+                        outsourcing thanks to our
+                        novel business model, which gives you complete control over who you work with.</p>
+                    <button class="btn hire-btn">Get Qoute</button>
                 </div>
             </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bxl-graphql'></i>
+            <div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <p class="step-dtl-heading">Talk To Us</p>
+                        <p>What sort of graphic design position are you seeking?</p>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>Customized Designs</h4>
-                    <p>Benefit from designs that are made just for you and made to meet your specific needs, as well as deliveries that are quick, accurate, and on time.</p>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                            alt="hire legal process outsourcing" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <p class="step-dtl-heading">Handpick Best Expert</p>
+                        <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
+                    </div>
                 </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class="bx bx-dollar"></i>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <p class="step-dtl-heading">Build Your Team</p>
+                        <p>Phone or video conference interviews of selected candidates are available. You may assign
+                            tests to them.</p>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>Value For Money</h4>
-                    <p>Instead of paying for a single graphic designer, use the expertise of our entire team.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="ban-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h4>Zero Overheads</h4>
-                    <p>HireCoworker, not you, is responsible for office rent, software, hardware, and infrastructure expenses.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bx-collapse-alt'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Diverse Experience</h4>
-                    <p>You can now employ a variety of graphic designers at the Junior, Mid, and Manager levels.
-                    </p>
-                </div>
-            </div>
-
-        </div>
-
-
-
-    </section>
-    <!-- serviec type end -->
-
-    <!-- tools we used start -->
-    <section class="tool_used">
-        <p class="p-pink">TOOLS</p>
-        <h5 class="section-heading">TOOLS & TECHNOLOGIES WE USED</h5>
-        <div class="tools-group-3">
-            <div class="tool-item">
-                <div class="tool-icon">
-                    <img src="<?= get_img() ?>designer/photoshop.png" alt="adobe photoshop">
-                </div>
-                <div class="tool-name">
-                    <h3>Adobe Photoshop</h3>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <p class="step-dtl-heading">Get Going</p>
+                        <p>If you are pleased with the results, immediately hire them and get to work.</p>
+                    </div>
                 </div>
             </div>
-            <div class="tool-item">
-                <div class="tool-icon">
-                    <img src="<?= get_img() ?>designer/illustrator.png" alt="adobe illustrator">
-                </div>
-                <div class="tool-name">
-                    <h3>Adobe Illustrator</h3>
-                </div>
-            </div>
-            <div class="tool-item">
-                <div class="tool-icon">
-                    <img src="<?= get_img() ?>designer/flash.png" alt="adobe flash">
-                </div>
-                <div class="tool-name">
-                    <h3>Adobe Flash</h3>
-                </div>
-            </div>
-            <div class="tool-item">
-                <div class="tool-icon">
-                    <img src="<?= get_img() ?>designer/indesign.png" alt="adobe indesign">
-                </div>
-                <div class="tool-name">
-                    <h3>Adobe InDesign</h3>
-                </div>
-            </div>
-            <div class="tool-item">
-                <div class="tool-icon">
-                    <img src="<?= get_img() ?>designer/lightroom.png" alt="adobe lightroom">
-                </div>
-                <div class="tool-name">
-                    <h3>Adobe Lightroom</h3>
-                </div>
-            </div>
-            <div class="tool-item">
-                <div class="tool-icon">
-                    <img src="<?= get_img() ?>designer/coreldraw.png" alt=" coreldraw">
-                </div>
-                <div class="tool-name">
-                    <h3>CorelDraw</h3>
-                </div>
-            </div>
-
-
         </div>
 
     </section>
-    <!-- tools we used end -->
+
+    <!-- content section start -->
+    <section class="content_section"><!--keep inside-->
+        
+        <div class="content_div">
+            <!-- <h2 class="content-heading">What Can an SEO Virtual Assistant Provide for Your Company?</h2> -->
+            <p class="text_content">Do you own a business or corporation that needs high-quality graphics for marketing and other purposes? Do you want to collaborate with an experienced and skilled graphic designer who can make your ideas a reality? If that's the case, you've come to the correct spot.</p>
+            <p class="text_content">Hire Coworker is a leading source of graphic design virtual assistants (VAs). Whatever your idea or vision is, they can bring it to life with high-quality graphics. Our virtual assistant for graphic design uses the most up-to-date and cutting-edge graphic design tools and technology to consistently deliver highly relevant, current, beautiful, and cutting-edge graphic designs that are guaranteed to impress your audience and help you boost your brand image. If you want to maximize the effectiveness of your marketing efforts, hiring a graphic design VA from us may be the best option.</p>
+            
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">What exactly is a Graphic Design Virtual Assistant?</h2>
+            <p class="text_content">A graphic designer and a virtual assistant combine to form a Graphic Design Virtual Assistant (VA). For a fraction of the expense of employing a graphic designer, you can hire a virtual assistant to complete your graphic design jobs whenever you need them.</p>
+            <p class="text_content">A virtual assistant (VA) provides high-level creative and technical assistance to customers that want graphic design assistance, but they also perform many of the same chores as a conventional virtual assistant. This might range from booking appointments to dealing with consumer queries to giving administrative assistance.</p>
+            <p class="text_content">A Graphic Design VA often has a strong experience in graphic design or marketing, which they use to assist their customers with everything from developing marketing materials to designing website visuals. They also have an eye for detail and are frequently able to give useful input on ideas before they go public.</p>
+            
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">What are the Benefits of Hiring a Graphic Design Virtual Assistant?</h2>
+            <p class="text_content">The most typical reason for hiring a Graphic Design VA is to save time and money. If you need graphic design for a project but don't have the funds to engage a full-time designer, a virtual assistant might be the perfect answer.</p>
+            <p class="text_content">Hiring a Graphic Design VA also saves you money. Having someone with a fresh set of eyes go at your designs before they go live can save you from making costly mistakes that will reflect poorly on your business.</p>
+
+
+        </div>
+        <div class="content_div">
+            <h4 class="content-heading">What Can a Graphic Design Virtual Assistant Do for You?</h4>
+            <p class="text_content">Do you want to know what kinds of duties a graphic design VA may perform for you? Here are a few examples of common design jobs that you may delegate to a graphic design virtual assistant:</p>
+            <!-- <p class="text_content">Here are a few examples of what a virtual assistant for SEO services may perform for you:</p> -->
+            <!-- <p class="content_text_bold">ON PAGE SEO</p> -->
+            <div class="ul_div">
+                <ul>
+                    <li><strong>Design of a logo and business cards</strong></li>
+                    <p>Design of your company's major distinguishing markings and business cards</p>
+                    <li><strong>Design of Product Packaging</strong></li>
+                    <p>Creating product labels, packaging, and other branding aspects</p>
+                    <li><strong>Advertising Materials</strong></li>
+                    <p>High-quality marketing collateral, such as leaflets, posters, or banners, for offline informative or promotional efforts.</p>
+                    <li> <strong>Materials for Digital Marketing</strong>/li>
+                    <p>Graphic design for online adverts, social media postings, and any other visuals used in online marketing</p>
+                <!-- </ul> -->
+                <!-- </div>
+                <p class="content_text_bold">OFF PAGE SEO OR LINK BUILDING</p>
+                <div class="ul_div">
+                    <ul> -->
+                    <li><strong>Picture Manipulation and Editing</strong></li>
+                    <p>Photo editing for your website or online shop</p>
+                    <li><strong>Design of a Website</strong></li>
+                    <p>Creating a website for your organization, opt-in pages, landing pages, and other web development needs.</p>
+                    <li><strong>Email Layout</strong></li>
+                    <p>Creating newsletters and email campaigns</p>
+                    <li><strong>Graphic Design in 3D</strong></li>
+                    <p>Designing items, prototype packages, and texturizing.</p>
+                    <li><strong>Illustration</strong></li>
+                    <p>Illustrations for a variety of branding reasons.</p>
+                </ul>
+            </div>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">What Skills Do Graphic Designer Virtual Assistants Need?</h2>
+            <!-- <p class="text_content">SEO professionals require specialized training to do their duties effectively. Soft talents such as outstanding communication abilities, strong analytical abilities, and attention to detail are essential. Their SEO training and experience are much more significant.</p> -->
+            <p class="text_content">Professional design skills and experience are required for graphic designers. This implies they must be proficient in a variety of graphic design tools and applications in order to produce attractive, professional outputs. The following are three industry-standard tools and software that are realistically regarded as fundamental knowledge for designers:</p>
+            <div class="ul_div">
+                <ul>
+                    <li>Adobe Photoshop</li>
+                    <li>Adobe InDesign</li>
+                    <li>Adobe Illustrator</li>
+                </ul>
+            </div>
+            <p class="text_content">Understanding the following topics can also be quite beneficial:</p>
+            <div class="ul_div">
+                <ul>
+                    <li>Typography &amp; Color Theory</li>
+                    <li>Branding Basics</li>
+                    <li>HTML &amp; CSS</li>
+                    <li>UI/UX Design</li>
+                </ul>
+            </div>
+            <p class="text_content">They must also be incredibly creative and original, as well as know and stay up with the newest design trends, to guarantee that the designs they create for your organization will always appeal to your target demographic.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Graphic design virtual assistants save time!</h2>
+            <p class="text_content">You will waste a lot of time if you try to accomplish everything yourself. Nevertheless, if you assign some of the work to a graphic design VA, you will be able to focus on duties that only you are capable of performing.</p>
+            <p class="text_content">A professional graphic design VA can handle all of the minor aspects so you don't have to. They can do anything from picture research to social media post creation. This frees up your time so that you may concentrate on tasks that only you can handle, such as establishing strategy and meeting with clients.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Graphic Design Virtual Assistants Save Money</h2>
+            <p class="text_content">Hiring a full-time designer may not be an option if you're on a restricted budget. Hiring a graphic design VA, on the other hand, is a more cost-effective approach to receiving the designs you want.</p>
+            <p class="text_content">Virtual assistants often charge by the hour, so you only pay for the time you require. You're also getting a lot of bang for your buck because a graphic design VA is knowledgeable about other parts of the company such as social media and marketing. Employing a graphic design virtual assistant is an excellent approach to receiving high-quality designs without breaking the wallet.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Marketing Assistance</h2>
+            <p class="text_content">At last, a graphic design virtual assistant may help with various marketing admin duties that need visual communication. Graphic design virtual assistants do activities such as developing an official typeface for a company, selecting typography for a website, editing photos, and generating slideshows for presentations.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Now is the time to hire a Graphic Design Virtual Assistant.</h2>
+            <p class="text_content">A good design is remembered. Making excellent design, like many other things that have an impact, takes a lot of time, effort, and resources. A graphic design virtual assistant may be a valuable tool for any company. They provide a diverse set of talents and services that may help you save time, money, and worry. When selecting a graphic design VA, consider their experience, attention to detail, and communication abilities.</p>
+            <p class="text_content">You'll be able to take your business to the next level with the perfect VA on your team. The wing is the only name you need to know! Our graphic design virtual assistants are completely controlled and devoted, guaranteeing that your firm receives the full creative help it requires. Hire an assistant right away!</p>
+        </div>
+
+
+       
+
+    </section>
+    <!-- content section end -->
 
     <!-- expert section start -->
     <section class="experts-section">
-        <p class="p-pink">EXPERTS</p>
-        <h3 class="section-heading ">HIRE OUR BEST GRAPHIC DESIGNERS</h3>
-        <div class="expert-grid">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
+            <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>designer/justus.jpg" class="expert-image" alt="hire graphic designer" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
-                    <h2>JUSTUS A.</h2>
-                    <P class="light-grey">GRAPHIC DESIGNER</P>
+                    <p class="expert-name">Edward C.</p>
+                    <p class="light-grey">Digital Marketer</p>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">HireCoworker did an excellent job designing a logo, website, and other promotional materials for me, and they did it swiftly! I will use HireCoworker whenever I have a need.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>PHOTOSHOP</p>
+                        <p>Linkedin</p>
                     </div>
                     <div class="skill">
-                        <p>FREEPIK</p>
+                        <p>B2B</p>
                     </div>
                     <div class="skill">
-                        <p>ADOBE XD</p>
+                        <p>Marketing Strategy</p>
                     </div>
                     <div class="skill">
-                        <p>CANVA</p>
+                        <p>Lead Generation</p>
                     </div>
                     <div class="skill">
-                        <p>ADOBE XD</p>
+                        <p>Technical SEO</p>
                     </div>
+
                     <div class="skill">
-                        <p>ILLUSTRATOR</p>
-                    </div>
-                    <div class="skill">
-                        <p>3+</p>
+                        <p>6+</p>
                     </div>
                 </div>
                 <button class="btn hire-btn">Hire Me</button>
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>graphic_designer.jpg" class="expert-image" alt="hire graphic designer" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
-                    <h2 class="text-center">WILLIAM M.</h2>
-                    <P class="light-grey">GRAPHIC DESIGNER</P>
+                    <p class="expert-name">Syed K.</p>
+                    <p class="light-grey">Digital Marketer</p>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">As technology advances, it becomes increasingly important
-                    for designers to create engaging and meaningful interactions between people and products.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>PHOTOSHOP</p>
+                        <p>Google Data Studio</p>
                     </div>
                     <div class="skill">
-                        <p>ILLUSTRATOR</p>
+                        <p>Web Analytics</p>
                     </div>
 
                     <div class="skill">
-                        <p>InDesign</p>
+                        <p>Google Ads</p>
                     </div>
                     <div class="skill">
-                        <p>ADOBE XD</p>
+                        <p>eCommerce</p>
                     </div>
                     <div class="skill">
-                        <p>PICSART</p>
+                        <p>SEO Writing</p>
                     </div>
                     <div class="skill">
-                        <p>FREEPIK</p>
-                    </div>
-                    <div class="skill">
-                        <p>4+</p>
+                        <p>10+</p>
                     </div>
                 </div>
                 <button class="btn hire-btn">Hire Me</button>
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>logo_designer.jpg" class="expert-image" alt="hire graphic designer" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
-                    <h2 class="text-center">MICHAEL L.</h2>
-                    <P class="light-grey">LOGO DESIGNER</P>
+                    <p class="expert-name">Kristine S.</p>
+                    <p class="light-grey">Digital Marketer</p>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">I am a specialist logo designer, offering my identity
-                    design services to businesses and entrepreneurs from around the globe, working with them to take
-                    their business identity to the next level.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>PHOTOSHOP</p>
+                        <p>Social Media Marketing</p>
                     </div>
                     <div class="skill">
-                        <p>ILLUSTRATOR</p>
+                        <p>Facebook Marketing</p>
                     </div>
                     <div class="skill">
-                        <p>ADOBE XD</p>
+                        <p>Email Marketing</p>
                     </div>
                     <div class="skill">
-                        <p>CANVA</p>
+                        <p>WordPress</p>
                     </div>
                     <div class="skill">
-                        <p>INKSCAPE</p>
+                        <p>Strategic Plan</p>
+                    </div>
+                    <div class="skill">
+                        <p>7+</p>
                     </div>
 
                 </div>
@@ -492,419 +439,351 @@ include_once '../../init.php';
     </section>
     <!-- expert section end -->
 
-    <!-- why remote section start -->
-
-    <?php include_once why_remote; ?>
-    <!-- why remote section end -->
-
-    <!-- vedio start -->
-    <section class="vedio-testimonial-section">
-        <div class="vedio-test">
-            <div class="vedio_test_row">
-                <div class="vedio_about why-choose-section-content">
-                    <p>Collaborate With Us</p>
-                    <h4 class="section-heading">Why Hire <span>Co-Woker</span> ?</h4>
-                    <p class="text">Customers from all over the world depend on our skilled developers to get high-quality,
-                        sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They
-                        have expertise in a variety of technologies and fields.
-                    </p>
-                    <ul class="why-choose-ul">
-                        <li class="text flex-center"><i class='bx bxs-check-shield'></i> Expertise in innovations</li>
-                        <li class="text flex-center"><i class='bx bxs-check-shield'></i> 9+ years of rich experience</li>
-                        <li class="text flex-center"><i class='bx bxs-check-shield'></i> 9/10 client satisfaction score</li>
-                        <li class="text flex-center">
-                            <i class='bx bxs-check-shield'></i> 100% money-back guarantee
-                        </li>
-                        <li class="text flex-center"><i class='bx bxs-check-shield'></i> Transparency is Guaranteed</li>
-                    </ul>
-                </div>
-                <div class="vedio_frame">
-                    <a class="fancybox" href="https://youtu.be/lDfEo3r_KeU"><img src="<?= get_img() ?>coworker_vid.jpeg" alt="hire coworker" class="width-100"></a>
-                </div>
-            </div>
-
-        </div>
-    </section>
-    <!-- vedio end -->
-
 
     <!-- pricing start-->
+    <section class="pricing">
+        <p class="section-heading">Pricing Table</p>
+        <div class="list_header">
+            <div class="service_name list_head">Services</div>
+            <div class="hourly list_head">Hourly</div>
+            <div class="daily list_head">Daily</div>
+            <div class="weekly list_head">Weekly</div>
+            <div class="monthly list_head">Monthly</div>
+        </div>
 
-    <?php
-    $post_name = "Dedicated Designer";
-    include_once pricing; ?>
+        <div class="panel">
+      <div class="list_row">
+        <div class="list_data">
+        Logo Designer
+        </div>
+        <div class="list_data">
+        $8
+        </div>
+        <div class="list_data">
+        $60
+        </div>
+        <div class="list_data">
+        $410
+        </div>
+        <div class="list_data">
+        $1600
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Photoshop Expert
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Multimedia Animation Expert
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Business Card, Podcast, Brochures Expert
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Web Designer
+        </div>
+        <div class="list_data">
+        $10
+        </div>
+        <div class="list_data">
+        $70
+        </div>
+        <div class="list_data">
+        $480
+        </div>
+        <div class="list_data">
+        $1920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Graphic Desiner
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        UI/UX Designers
+        </div>
+        <div class="list_data">
+        $10
+        </div>
+        <div class="list_data">
+        $70
+        </div>
+        <div class="list_data">
+        $480
+        </div>
+        <div class="list_data">
+        $1,920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Mobile App Design
+        </div>
+        <div class="list_data">
+        $10
+        </div>
+        <div class="list_data">
+        $70
+        </div>
+        <div class="list_data">
+        $480
+        </div>
+        <div class="list_data">
+        $1920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        Illustration Expert
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        InDesign Expert
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+
+    </div>
+    </section>
 
     <!-- pricing end -->
-    <!-- roadmap start -->
-    <section class="roadmap-2">
-        <p class="p-pink">PROCESS</p>
-        <h3 class="section-heading ">PROCESS STEPS</h3>
-        <div class="timeline">
-            <div class="container-roadmap left">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>RESEARCH</h2>
-                    <p class="text">
-                        Before beginning the design process for a client, it is important to do research to understand
-                        their business, target audience, and goals for the project. Some specific areas you may want to
-                        research include.
-                    </p>
-                </div>
-            </div>
-            <div class="container-roadmap right">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>SKETCHING</h2>
-                    <p class="text">A prototype is a preliminary version of a product or design that is used for testing
-                        and evaluation. In the design process, creating a prototype can be an important step before
-                        finalizing the design.Overall, creating a prototype can be a useful way to ensure that the final
-                        design meets the client's needs and expectations.</p>
-                </div>
-            </div>
-            <div class="container-roadmap left">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>FEEDBACK</h2>
-                    <p class="text">If the design is approved, the designer may create the final version of the design
-                        and prepare it for production or implementation. This may involve creating detailed design
-                        assets, such as vector graphics or high-resolution images.</p>
-                </div>
-            </div>
-            <div class="container-roadmap right">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>REVISIONS</h2>
-                    <p class="text">Before launch it, our testing team test or trial it very carefully, when client
-                        approved it then we launch it. And we are always happy to help you if there is any bug/issue.
-                    </p>
-                </div>
-            </div>
-            <div class="container-roadmap left">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>DELIVERY</h2>
-                    <p class="text">If the design is approved, the designer may create the final version of the design
-                        and prepare it for production or implementation. This may involve creating detailed design
-                        assets, such as vector graphics or high-resolution images.</p>
-                </div>
-            </div>
 
+
+    <div class="links-div section-background">
+
+        <div>
+            <a href="#it-outsourcing" class="links-div-child text">
+                IT Outsourcing
+            </a>
         </div>
-    </section>
-    <!-- roadmap end -->
-    <!-- -------------------------- -->
-    <section class="industries-section section-padding">
-        <div class="container">
-            <div class="section_title">
-                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES
-                </p>
-                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">
-                    SERVICES ACROOSS ALL INDUSTRIES & DOMAINS</h3>
-                <h2 class="section-heading"></h2>
-
-            </div>
-            <div class="row">
-                <div class="col-3 ">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/manufacturing.png" alt="manufacturing industry">
-                            </div>
-                            <h4>Manufacturing</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                Providing services in the field of Real Estate.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/public.png" alt="public realtions">
-                            </div>
-                            <h4>
-                                Pubilc Relations
-                            </h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                We are providing services in the field of Ecommerce Retail & B2B.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/advertising.png" alt="advertising">
-                            </div>
-                            <h4>Advertising</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-                                Covered Hotel & Restaurant industries</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/web-development.png" alt="website development">
-                            </div>
-                            <h4>Website Development</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                We have a nice client base in Tour & Travel industries
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/institution.png" alt="educational institutions">
-                            </div>
-                            <h4>Educational Institutions</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-                                Great experience in the Healthcare industries</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/architect.png" alt="architecture">
-                            </div>
-                            <h4>Architecture</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                Providing mobile and web app services in Banking, Finance &
-                                Insurance
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/game-development.png" alt="game development">
-                            </div>
-                            <h4>Game Development</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                We Covered the blockchain field with our web designing services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/healthcare.png" alt="healthcare">
-                            </div>
-                            <h4>Healthcare</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                Covered Automotive field with our mobile app services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon-box">
-                                <img src="<?= get_img() ?>designer/travel.png" alt="travel and hospitality">
-                            </div>
-                            <h4>Travel & <br>Hospitality</h4>
-                        </div>
-                        <div class="content-box">
-                            <p class="text">
-
-                                We Covered Entertainment industries with our web designing
-                                services
-                            </p>
-                        </div>
-                    </div>
-                </div>
 
 
-            </div>
+        <div>
+            <a href="#digital-marketing" class="links-div-child text">
+                Digital Marketing
+            </a>
         </div>
-    </section>
-
-    <!-- -------------------------- -->
-
-    <!-- testimonial slider section start here -->
-    <!-- -------------------------- -->
-    <!-- Reviews with the user -->
-    <!-- -------------------------- -->
-    <?php
-
-    $testimonial1 = "I have no problem recommending HireCoworker and his group to assist you in developing your company, managing your staff, and steering your decisions towards financial success. dependable, a close friend, and a caring individual.";
-    $test_name1 = "Hissle Chase";
-    $test_role1 = "Enterpeneur";
-    $user_img1 = "hire-developer/dev-test-01.jpeg";
 
 
-    $testimonial2 = "Coworker at the Marketing Company came across with a unexpected approach, which we liked. His company has guided us as we have grown from 3 restaurants to 9.";
-    $test_name2 = "Hilley billie";
-    $test_role2 = "Founder & CEO";
-    $user_img2 = "hire-developer/dev-test-02.jpeg";
+        <div>
+            <a href="#hire-developer" class="links-div-child text">
+                Hire Developers
+            </a>
+        </div>
 
 
-    $testimonial3 = "Expand My Business offered me with the unbelievable designs which helped me in growing my buisness 10x and helped me in impressing my clients. I'm overjoyed with the service.";
-    $test_name3 = "Gowtham G";
-    $test_role3 = "Managing Director";
-    $user_img3 = "hire-developer/dev-test-03.jpeg";
+        <div>
+            <a href="#hire-dedicated-designer" class="links-div-child text">
+                Hire Dedicated Designers
+            </a>
+        </div>
 
-    $testimonial4 = "HireCoworker has one of the best graphic and web designers I have ever worked with till date. They consistently demonstrate excellent time and task management skills, high quality work, and exceptional attention to detail. Their attitude is always positive towards the work given to them.";
-    $test_name4 = "Mike Rossvelt";
-    $test_role4 = "IT Manager";
-    $user_img4 = "hire-developer/dev-test-04.jpeg";
 
-    include_once testimonial_slider; ?>
+        <div>
+            <a href="#content-writer" class="links-div-child text">
+                Content Writer
+            </a>
+        </div>
+
+
+        <div>
+            <a href="#engineers" class="links-div-child text">
+                Engineers And Architects
+            </a>
+        </div>
+
+
+        <div>
+            <a href="#app-developer" class="links-div-child text">
+                Mobile Apps Developers
+            </a>
+        </div>
+
+
+        <div>
+            <a href="#finance" class="links-div-child text">
+                Finance & Accounts Experts
+            </a>
+        </div>
+
+
+        <div>
+            <a href="#remote-medical" class="links-div-child text">
+                Remote Medical Professionals
+            </a>
+        </div>
+
+
+        <div>
+            <a href="#legal-process-outsourcing" class="links-div-child text">
+                Legal Process Outsourcing
+            </a>
+        </div>
+        <div>
+            <a href="#virtual-assistant" class="links-div-child text">
+                Hire Virtual Assistant
+            </a>
+        </div>
+        <div>
+            <a href="#outsource-to-india" class="links-div-child text">
+                Outsource To India
+            </a>
+        </div>
+
+    </div>
+
     <!-- testimonia; slider section end here -->
 
+    <?php
 
-    <!-- hiring-step start -->
-    <section class="hiring_step">
+    $testimonial1 = "With the help of SEO and PPC, Hirecoworker's was able to boost online leads by more than +260% and boost overall traffic to the new  website by +364%.";
+    $test_name1 = "Jeffrey Reyes";
+    $test_role1 = "Regional Director";
 
-        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-            <div class="hiring_step_order-1">
-                <div>
-                    <h3 class="section-heading">HIRE GRAPHIC DESIGNERS ONLINE WITH EASY STEP</h3>
-                    <p class="text">You won't have to deal with the hassles of traditional outsourcing thanks to our novel business model, which gives you complete control over who you work with.</p>
-                    <button class="btn hire-btn">Hire Graphic Designer</button>
-                </div>
-            </div>
-            <div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Talk To Us</h4>
-                        <p>What sort of graphic design position are you seeking?</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire legal process outsourcing" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Handpick Best Expert</h4>
-                        <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Build Your Team</h4>
-                        <p>Phone or video conference interviews of selected candidates are available. You may assign tests to them.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Get Going</h4>
-                        <p>If you are pleased with the results, immediately hire them and get to work.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
 
-    </section>
-
-    <!-- Industris we Cover start -->
+    $testimonial2 = "These men are amazing. They have assisted us in expanding our firm, and now the biggest issue we are experiencing is having too much business, which is the ideal situation.";
+    $test_name2 = "Aaron. G";
+    $test_role2 = "Founder & CEO";
 
 
 
+    $testimonial3 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred";
+    $test_name3 = "Marcio. M";
+    $test_role3 = "Managing Partner";
 
 
+    $testimonial4 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred.";
+    $test_name4 = "Robert. S";
+    $test_role4 = "IT Manager";
+
+
+    include_once testimonial_slider; ?>
+
+
+    <!-- --------------------- -->
     <!-- faq section -->
     <section class="faq-section">
         <p class="p-pink">FAQs</p>
-        <h5 class="section-heading">Do You Have Questions?</h5>
+        <p class="section-heading">Do You Have Questions</p>
         <div class="faqs">
+
             <div class="faqs-child">
                 <details>
-                    <summary>Why hire Graphic Designers from HireCoworker?</summary>
+                    <summary>What is an SEO expert?</summary>
                     <div class="faq__content">
-                        <p class="text">More than 50 professionals make up our extensive internal team. The offshore Graphic Designers at HireCoworker are well-versed in all types of graphic design and come equipped with impressive credentials and certifications.
-                        </p>
+                        <p class="text">An SEO expert or SEO specialister finds methods, tactics, and procedures to boost the number of website visits and seeks to get a high-ranking placement in search engine results such as Google or Bing. Creating more leads for the organization opens up new avenues for profit and growth.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Is hiring Graphic Designers from India safe?</summary>
+                    <summary>Why would you hire a virtual SEO assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes. Outsourcing companies for graphic design in India are safer than those in Europe, too. India is a very stable location for outsourcing due to its stringent cyber laws and pro-outsourcing government policies.
-                        </p>
+                        <p class="text">If you lack the ability to develop keyword-rich SEO material, you will not maximize your Google ranks. Use a virtual assistant to avoid monthly retainer fees and the necessity to engage an onsite person, which will cost you extra. Let your virtual assistant to handle your Search Engine Optimization by examining critical data like as page visits, bounce rates, backlinks, link building activities, and other SEO chores such as writing blog articles and other related material. You may utilize the internet and other platforms to reach your target consumers, giving you the opportunity to expand your company faster.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will my hired Graphic Designer work in my business hours?
-                    </summary>
+                    <summary>What are the advantages of hiring an SEO Virtual Assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">We operate in all time zones, yes. Your dedicated graphic designers are able to function: a) your shift hours, b) shift hours that overlap, or c) Indian shift hours, whichever works best for you.
-                        </p>
+                        <p class="text">Expert search engine optimization may significantly boost your ranks. Spend less money since hiring a virtual assistant is more cost-effective over time. You may devote more time to your main tasks.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How do I communicate with my hired graphic designer?</summary>
+                    <summary>What is the difference between SEO and SEM?</summary>
                     <div class="faq__content">
-                        <p class="text">Your hired graphic designer can get a phone with a local number from your country from HireCoworker. Skype, email, phone calls, and video conferencing are all methods of communication.
-                        </p>
+                        <p class="text">SEO (search engine optimization) is sometimes used as a catch-all word for SEM (Search engine marketing). SEM, on the other hand, refers to sponsored advertising. As a result, the two words should be distinguished. This is because SEM is about delivering bought traffic to a website, but SEO is about bringing organic traffic to a site and monitoring traffic trends.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Can I hire more than one Graphic Designer?</summary>
+                    <summary>What factors contribute to effective SEO?</summary>
                     <div class="faq__content">
-                        <p class="text">Of course, yes. As many graphic designers as you need can be hired. One of our service's best features is its simple, painless, and quick scalability.
-                        </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Do you offer a Free Trial?</summary>
-                    <div class="faq__content">
-                        <p class="text">Yes, you can get a one-week free trial with the Indian or American graphic designer you selected. There will be a fee if you want to go over this time limit.
-                        </p>
+                        <p class="text">The primary driver of search engine results is high-quality, authoritative content, and there is no alternative for unique and excellent material. This is especially true while performing SEO marketing. Excellent content for your target audience increases site traffic, increasing the relevance and authority of your site.</p>
                     </div>
                 </details>
             </div>
@@ -912,20 +791,24 @@ include_once '../../init.php';
         </div>
 
     </section>
+
     <!--faq end -->
 
-    <!-- Blog section page -->
-    <!-- -------------------------- -->
-
-    <?php include_once blog_news; ?>
-    <!-- blog test end -->
-
+    <?php
+    include_once blog_news;
+    ?>
 
     <!-- footer and script added here -->
     <?php
-    include_once page_bottom;
+    // include_once page_bottom;
+    include_once modal_form;
+    include_once footer;
     ?>
-    <script src="<?= get_js() ?>pricing.js"></script>
+
+<!-- scripts -->
+<!-- -------------------------- -->
+    <?php include_once script_new;?>
+
 
 </body>
 

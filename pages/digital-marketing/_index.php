@@ -89,7 +89,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>SEO</p>
                     <h5 class="section-heading">Search Engine Optimization</h5>
-                    <a href="<?=home_path()?>hire-digital-marketer/hire-seo-virtual-assistant-specialist">Learn More</a>
+                    <a href="<?=home_path()?>hire-seo-virtual-assistant-specialist">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/service-img-digital-v3.png" class="width-100" alt="Hire SEO Expert">
@@ -99,7 +99,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>Social Media</p>
                     <h5 class="section-heading">Social Media Marketing</h5>
-                    <a href="<?=home_path()?>hire-digital-marketer/va-for-social-media-marketing">Learn More</a>
+                    <a href="<?=home_path()?>va-for-social-media-marketing">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/service-img-digital-v4.png" class="width-100" alt="Hire SMM Expert">
@@ -119,7 +119,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>Email Marketing</p>
                     <h5 class="section-heading">Email Marketing Services</h5>
-                    <a href="<?=home_path()?>hire-digital-marketer/email-marketing-virtual-assistant">Learn More</a>
+                    <a href="<?=home_path()?>email-marketing-virtual-assistant">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/email-marketing.webp" class="width-100" alt="Hire Email Marketing Expert">
@@ -140,7 +140,27 @@ include_once '../../init.php';
                     <p>PPC</p>
                     <h5 class="section-heading">Digital Media & PPC
                         Advertising</h5>
-                    <a href="#">Learn More</a>
+                        <a href="<?=home_path()?>best-ppc-virtual-assistant">Learn More</a>
+                </div>
+                <div class="services-types-child-img">
+                    <img src="<?= get_img() ?>dm/service-img-digital-v1.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
+                </div>
+            </div>
+            <div class="services-types-child width-100 grid grid-2">
+                <div class="services-types-child-content">
+                    <p>Backlink</p>
+                    <h5 class="section-heading">BACKLINK BUILDING VIRTUAL ASSISTANT</h5>
+                        <a href="<?=home_path()?>backlink-building-virtual-assistant">Learn More</a>
+                </div>
+                <div class="services-types-child-img">
+                    <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
+                </div>
+            </div>
+            <div class="services-types-child width-100 grid grid-2">
+                <div class="services-types-child-content">
+                    <p>Google Business</p>
+                    <h5 class="section-heading">GOOGLE BUSINESS PROFILE VIRTUAL ASSISTANT</h5>
+                        <a href="<?=home_path()?>google-business-profile-virtual-assistant">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/service-img-digital-v1.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">

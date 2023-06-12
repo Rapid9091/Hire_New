@@ -1119,7 +1119,7 @@ margin-top: 10px;
     column-gap: 20px;
   }
   .content-heading{
-    font-size: 40px;
+    font-size: 1.7em;
     font-weight: 700;
     font-family: "poppins", sans-serif;
     text-transform: capitalize;
@@ -1155,7 +1155,7 @@ margin-top: 10px;
   }
 @media (max-width:768px){
   .content-heading{
-    font-size: 30px;
+    font-size:  1.7em;
   }
   .content_div .content_image .content_image_box{
     width:100%;
