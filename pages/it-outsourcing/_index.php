@@ -180,7 +180,7 @@ include_once '../../init.php';
 
         <div class="it-services-grid grid">
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a href="<?=home_path()?>va-web-development" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/web-development.png" alt="Web Developmetnt">
                     <p>Website Development</p>
                     <div class="categories flex flex-center">
