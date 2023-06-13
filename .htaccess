@@ -66,7 +66,8 @@ ReWriteRule ^outsource-to-india([/]?)$ pages/outsource_india/_index.php [NC,L]
 
 
 ReWriteRule ^hire-article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L]
-ReWriteRule ^graphic-design-virtual-assistant([/]?)$ pages/dedicated-designer/graphic-designer.php [NC,L]
+ReWriteRule ^graphic-design-virtual-assistant([/]?)$ pages/dedicated-designer/graphic-design-virtual-assistant.php [NC,L]
+ReWriteRule ^virtual-assistant-for-mobile-app-development([/]?)$ pages/dedicated-designer/virtual-assistant-for-mobile-app-development.php [NC,L]
 ReWriteRule ^ui-ux-design-virtual-assistant([/]?)$ pages/dedicated-designer/ui-ux-design-virtual-assistant.php [NC,L]
 ReWriteRule ^hire-web-designers([/]?)$ pages/dedicated-designer/web-designer.php [NC,L]
 ReWriteRule ^hire-multimedia-animation-experts([/]?)$ pages/dedicated-designer/multimedia-animation.php [NC,L]
