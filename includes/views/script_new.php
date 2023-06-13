@@ -62,12 +62,19 @@
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
  <!-- country code -->
-<script defer src="<?= get_assets();?>/build/js/intlTelInput.min.js"></script>
-<script  src="<?= get_assets();?>/build/js/intlTelInput-jquery.min.js"></script>
+<!-- <script defer src="<?= get_assets();?>/build/js/intlTelInput.min.js"></script>
+<script  src="<?= get_assets();?>/build/js/intlTelInput-jquery.min.js"></script> -->
 
  <!-- Main JS of the page  -->
  <!-- -------------------------- -->
  <script defer src="<?= get_js('new_main.js') ?>"></script>
+ <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/intlTelInput.min.js"></script>
+<script>
+ var input = document.querySelector("#input_mobile");
+  window.intlTelInput(input, {
+    utilsScript: "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/utils.js",
+  });
+</script>
 
  <script>
  const imgTags = document.getElementsByTagName("img");

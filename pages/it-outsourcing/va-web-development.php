@@ -423,7 +423,143 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                    Search Engine Optimization (SEO)
+                Web Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                CMS Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Software Development Services
+                </div>
+                <div class="list_data">
+                    $6
+                </div>
+                <div class="list_data">
+                    $45
+                </div>
+                <div class="list_data">
+                    $300
+                </div>
+                <div class="list_data">
+                    $1100
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                DataBase Development Services
+                </div>
+                <div class="list_data">
+                    $15
+                </div>
+                <div class="list_data">
+                    $100
+                </div>
+                <div class="list_data">
+                    $650
+                </div>
+                <div class="list_data">
+                    $2500
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                IT security Services
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $450
+                </div>
+                <div class="list_data">
+                    $1700
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Machine Learning Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Network Installation Services
+                </div>
+                <div class="list_data">
+                    $15
+                </div>
+                <div class="list_data">
+                    $100
+                </div>
+                <div class="list_data">
+                    $650
+                </div>
+                <div class="list_data">
+                    $2500
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Frontened Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Backened Development Services
                 </div>
                 <div class="list_data">
                     $5
@@ -440,189 +576,19 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Social Media Handler
+                FullStack Development Services
                 </div>
                 <div class="list_data">
-                    $3
+                    $6
                 </div>
                 <div class="list_data">
-                    $22
+                    $45
                 </div>
                 <div class="list_data">
-                    $150
+                    $300
                 </div>
                 <div class="list_data">
-                    $550
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Email Marketing Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Local SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Franchise SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Content Marketing Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Link Building
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Online Reputation Management (ORM)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Conversion Rate Optimization (CRO)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Amazon Marketing Services (AMS)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    PPC Advertisement Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Social Media Advertisement Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
+                    $1100
                 </div>
             </div>
         </div>
