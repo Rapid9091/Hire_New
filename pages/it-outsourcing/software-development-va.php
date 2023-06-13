@@ -7,12 +7,12 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    
-  <?php include_once head_new;?>
-    
+
+    <?php include_once head_new; ?>
+
     <title>Virtual Assistant for Software Development</title>
 
-    
+
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <style>
         .landing-section-services {
@@ -41,9 +41,9 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Software Development Virtual Assistant
+                    Software Development Virtual Assistant
                 </h1>
-<!-- 
+                <!-- 
                 <ul class="landing-ul">
                     <li class="text">Hiring our SEO virtual assistant can help you rank better in search engines and keep
                         you ahead of your competitors.</li>
@@ -142,8 +142,7 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
-                        loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -175,8 +174,7 @@ include_once '../../init.php';
             <div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
-                            loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Talk To Us</p>
@@ -185,8 +183,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
-                            alt="hire legal process outsourcing" loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire legal process outsourcing" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Handpick Best Expert</p>
@@ -195,8 +192,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
-                            loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Build Your Team</p>
@@ -206,8 +202,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
-                            loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Get Going</p>
@@ -221,17 +216,17 @@ include_once '../../init.php';
 
     <!-- content section start -->
     <section class="content_section">
-        
+
         <div class="content_div">
             <!-- <h2 class="content-heading">What Can an SEO Virtual Assistant Provide for Your Company?</h2> -->
             <p class="text_content">Do you need to complete a software development project but the expense of building the program in-house is getting unreasonably expensive? Do you need a virtual assistant for software development services to help you cut implementation costs and meet software development deliverables on time? Are you looking for a software development virtual assistant who employs organized development methods, current software development approaches, and cutting-edge technologies? You've come to the correct spot if this applies to you.</p>
             <p class="text_content">Hire coworker is a top software development virtual assistant business that can provide you with a seasoned virtual assistant for software developers who can provide high-quality software development services. When you hire a virtual assistant from us for software development services, you receive access to cutting-edge experience in software development that allows you to save money, increase efficiency, and improve productivity. transform your ideas into reality.</p>
-            
+
         </div>
         <div class="content_div">
             <h2 class="content-heading">Consider Hiring A Highly Skilled Software Development Virtual Assistant</h2>
             <p class="text_content">Whether you are a new startup or a well-established business, a virtual helper for software development will reduce your spending costs, and you may simply prefer to invest your funds in other areas. Furthermore, a virtual helper will ensure that your tasks are completed on time. This will please your investors, boosting confidence and making your goals a reality.</p>
-            
+
         </div>
         <div class="content_div">
             <h2 class="content-heading">Services For Software Development Our Virtual Assistants Offer The Following Services :</h2>
@@ -304,7 +299,7 @@ include_once '../../init.php';
         </div>
 
 
-       
+
 
     </section>
     <!-- content section end -->
@@ -313,7 +308,7 @@ include_once '../../init.php';
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
         <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
-            <div class="expert-grid">
+        <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
                     <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
@@ -439,211 +434,177 @@ include_once '../../init.php';
         </div>
 
         <div class="panel">
-      <div class="list_row">
-        <div class="list_data">
-         Search Engine Optimization (SEO)
+            <div class="list_row">
+                <div class="list_data">
+                Web Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                CMS Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Software Development Services
+                </div>
+                <div class="list_data">
+                    $6
+                </div>
+                <div class="list_data">
+                    $45
+                </div>
+                <div class="list_data">
+                    $300
+                </div>
+                <div class="list_data">
+                    $1100
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                DataBase Development Services
+                </div>
+                <div class="list_data">
+                    $15
+                </div>
+                <div class="list_data">
+                    $100
+                </div>
+                <div class="list_data">
+                    $650
+                </div>
+                <div class="list_data">
+                    $2500
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                IT security Services
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $450
+                </div>
+                <div class="list_data">
+                    $1700
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Machine Learning Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Network Installation Services
+                </div>
+                <div class="list_data">
+                    $15
+                </div>
+                <div class="list_data">
+                    $100
+                </div>
+                <div class="list_data">
+                    $650
+                </div>
+                <div class="list_data">
+                    $2500
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Frontened Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Backened Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                FullStack Development Services
+                </div>
+                <div class="list_data">
+                    $6
+                </div>
+                <div class="list_data">
+                    $45
+                </div>
+                <div class="list_data">
+                    $300
+                </div>
+                <div class="list_data">
+                    $1100
+                </div>
+            </div>
         </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Social Media Handler
-        </div>
-        <div class="list_data">
-        $3
-        </div>
-        <div class="list_data">
-        $22
-        </div>
-        <div class="list_data">
-        $150
-        </div>
-        <div class="list_data">
-        $550
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Email Marketing Services
-        </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Local SEO
-        </div>
-        <div class="list_data">
-        $4
-        </div>
-        <div class="list_data">
-        $30
-        </div>
-        <div class="list_data">
-        $200
-        </div>
-        <div class="list_data">
-        $800
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Franchise SEO
-        </div>
-        <div class="list_data">
-        $4
-        </div>
-        <div class="list_data">
-        $30
-        </div>
-        <div class="list_data">
-        $200
-        </div>
-        <div class="list_data">
-        $800
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Content Marketing Services
-        </div>
-        <div class="list_data">
-        $4
-        </div>
-        <div class="list_data">
-        $30
-        </div>
-        <div class="list_data">
-        $200
-        </div>
-        <div class="list_data">
-        $800
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Link Building
-        </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Online Reputation Management (ORM)
-        </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Conversion Rate Optimization (CRO) 
-        </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-        Amazon Marketing Services (AMS)
-        </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         PPC Advertisement Services
-        </div>
-        <div class="list_data">
-        $5
-        </div>
-        <div class="list_data">
-        $35
-        </div>
-        <div class="list_data">
-        $230
-        </div>
-        <div class="list_data">
-        $920
-        </div>
-      </div>
-      <div class="list_row">
-        <div class="list_data">
-         Social Media Advertisement Services
-        </div>
-        <div class="list_data">
-        $4
-        </div>
-        <div class="list_data">
-        $30
-        </div>
-        <div class="list_data">
-        $200
-        </div>
-        <div class="list_data">
-        $800
-        </div>
-      </div>
-    </div>
     </section>
 
     <!-- pricing end -->
@@ -771,19 +732,21 @@ include_once '../../init.php';
                 <details>
                     <summary>What are the types of software development?</summary>
                     <div class="faq__content">
-                        <p class="text"><b>There are various kinds of software developers. These are some examples :</b></p><div class="ul_div">
-                        <ul style="text-decoration:dot;">
-                            <li>Frontend development</li>
-                            <li>Backend development</li>
-                            <li>Full-Stack development</li>
-                            <li>Desktop development</li>
-                            <li>Web development</li>
-                            <li>Database development</li>
-                            <li>Mobile development</li>
-                            <li>Cloud computing</li>
-                            <li>DevOps engineering</li>
-                            <li>Security engineering </li>
-                        </ul></div>
+                        <p class="text"><b>There are various kinds of software developers. These are some examples :</b></p>
+                        <div class="ul_div">
+                            <ul style="text-decoration:dot;">
+                                <li>Frontend development</li>
+                                <li>Backend development</li>
+                                <li>Full-Stack development</li>
+                                <li>Desktop development</li>
+                                <li>Web development</li>
+                                <li>Database development</li>
+                                <li>Mobile development</li>
+                                <li>Cloud computing</li>
+                                <li>DevOps engineering</li>
+                                <li>Security engineering </li>
+                            </ul>
+                        </div>
                         <p class="text">Please keep in mind that these are only a few examples; there are many more.</p>
                     </div>
                 </details>
@@ -824,9 +787,9 @@ include_once '../../init.php';
     include_once footer;
     ?>
 
-<!-- scripts -->
-<!-- -------------------------- -->
-    <?php include_once script_new;?>
+    <!-- scripts -->
+    <!-- -------------------------- -->
+    <?php include_once script_new; ?>
 
 
 </body>
