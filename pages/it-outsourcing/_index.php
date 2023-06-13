@@ -202,7 +202,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a  href="<?=home_path()?>software-development-va" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/software-development.png" alt="Software Developmetnt">
                     <p>Software Development</p>
                     <div class="categories flex flex-center">

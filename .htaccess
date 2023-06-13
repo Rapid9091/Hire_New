@@ -48,6 +48,7 @@ ReWriteRule ^best-ppc-virtual-assistant([/]?)$ pages/digital-marketing/best-ppc-
 
 ReWriteRule ^it-outsourcing-services([/]?)$ pages/it-outsourcing/_index.php [NC,L]
 ReWriteRule ^va-web-development([/]?)$ pages/it-outsourcing/va-web-development.php [NC,L]
+ReWriteRule ^software-development-va([/]?)$ pages/it-outsourcing/software-development-va.php [NC,L]
 
 
 
