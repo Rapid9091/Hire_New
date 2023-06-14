@@ -95,7 +95,19 @@
 
 
  <!-- country code -->
-
+ <script src="<?= get_js('main.js') ?>"></script>
+ <script>
+  var link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.href = 'https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css';
+  link.media = 'none';
+  link.onload = function() {
+    if (link.media === 'none') {
+      link.media = 'all';
+    }
+  };
+  document.head.appendChild(link);
+</script>
 <script src="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/intlTelInput.min.js"></script>
 <script> 
 var input = document.querySelector("#input_mobile");
@@ -123,18 +135,6 @@ for (let i = 0; i < imgTags.length; i++) {
 
  <!-- Main JS of the page  -->
  <!-- -------------------------- -->
- <script src="<?= get_js('main.js') ?>"></script>
- <script>
-  var link = document.createElement('link');
-  link.rel = 'stylesheet';
-  link.href = 'https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css';
-  link.media = 'none';
-  link.onload = function() {
-    if (link.media === 'none') {
-      link.media = 'all';
-    }
-  };
-  document.head.appendChild(link);
-</script>
+ 
  
 
