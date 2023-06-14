@@ -78,6 +78,10 @@ ReWriteRule ^hire-illustrator-experts([/]?)$ pages/dedicated-designer/illustrato
 ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/business_card.php [NC,L]
 ReWriteRule ^hire-multimedia-animation-expert([/]?)$ pages/dedicated-designer/multimedia-animation.php [NC,L]
 
+
+
+ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire-amazon-virtual-assistant.php [NC,L]
+
 ReWriteRule ^pricing([/]?)$ pages/pricing.php [NC,L]
 ReWriteRule ^services([/]?)$ pages/services.php [NC,L]
 ReWriteRule ^about([/]?)$ pages/about-us.php [NC,L]
