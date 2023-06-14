@@ -12,7 +12,7 @@
   <!-- Google tag (gtag.js) -->
 <script defer src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>
  <!--<script async src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>-->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css" defer>
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css" defer> -->
 
        <!-- Favicon  -->
     <!-- ---------------------------------------------->
