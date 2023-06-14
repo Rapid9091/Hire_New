@@ -1,9 +1,9 @@
 <!-- Google Fonts -->
 <!-- -------------------------- -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
+<!-- <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"> -->
 
 <!-- -------------------------- ------------------>
 
@@ -13,7 +13,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!-- box icon css  -->
 <!-- ---------------------------------------------->
-<link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel='stylesheet'>
+<script>function loadBoxicons() {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css';
+    document.head.appendChild(link);
+  }
+  window.addEventListener('load', loadBoxicons);</script>
 
 <!-- ------------------------------ -->
 <!-- owl courosel -->
@@ -26,7 +32,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!-- country code css -->
-<link rel="stylesheet" href="<?=get_assets();?>/build/css/intlTelInput.css">
 
  <!-- --------------------------------- head links end------------------------- -->
 
