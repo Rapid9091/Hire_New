@@ -96,8 +96,8 @@ for (let i = 0; i < imgTags.length; i++) {
   for (var i = 0; i < images.length; i++) {
     var img = images[i];
     
-    img.setAttribute('width', 'auto');
-    img.setAttribute('height', 'auto');
+    img.setAttribute('width', '100%');
+    img.setAttribute('height', '100%');
   }
 }
 setImgAttributes()
