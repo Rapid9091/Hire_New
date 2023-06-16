@@ -14,7 +14,7 @@ include_once "../init.php";
   <meta name="keywords" content="Hire Coworker, Best Virtual Assistant, Digital marketing Virtual Assistant, SEO Virtual Assistant, web design Virtual Assistant, tech support Virtual Assistant, social media Virtual Assistant, Virtual Assistant, Assistant, coworker, hire VA">
   <meta name="google-site-verification" content="gsGyv-x1W-xePqhZ5c3qChCmf29rLKOSIGIY2qtRmYE" />
 
-  <?php include_once head_new; ?>
+  <?php include_once head; ?>
 
 
 
