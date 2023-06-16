@@ -16,6 +16,9 @@ include_once '../../init.php';
         .landing-section-services {
             background-image: url("<?= get_img() ?>dm/backlink.webp");
         }
+        body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
     </style>
 </head>
 
