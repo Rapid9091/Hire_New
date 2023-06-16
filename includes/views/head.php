@@ -16,7 +16,7 @@
   <!-- Images End -->
 </body>
   <!-- Google tag (gtag.js) -->
-<script defer src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></script>
+  <noscript><iframe defer src="https://www.googletagmanager.com/gtag/js?id=G-R4X9N432VM"></iframe></noscript>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
