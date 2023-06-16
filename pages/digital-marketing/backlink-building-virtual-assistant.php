@@ -893,6 +893,7 @@ include_once '../../init.php';
     <!-- scripts -->
     <!-- -------------------------- -->
     <?php include_once script_new;?>
+
 </body>
 
 </html>

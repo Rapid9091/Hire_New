@@ -89,3 +89,16 @@
 for (let i = 0; i < imgTags.length; i++) {
   imgTags[i].setAttribute("loading", "lazy");
 }</script>
+    <script>
+        function setImgAttributes() {
+  var images = document.getElementsByTagName('img');
+  
+  for (var i = 0; i < images.length; i++) {
+    var img = images[i];
+    
+    img.setAttribute('width', 'auto');
+    img.setAttribute('height', 'auto');
+  }
+}
+setImgAttributes()
+    </script>
