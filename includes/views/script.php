@@ -77,8 +77,8 @@
 <!-- -------------------------- -->
 <!-- Icons Links -->
 <!-- -------------------------- -->
-<script async type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script async nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<!-- <script async type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script async nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script> -->
 
 
 <!-- aos -->
@@ -108,7 +108,7 @@ var input = document.querySelector("#input_mobile");
   function loadBoxicons() {
     var link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = 'https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.0/css/boxicons.min.css';
     document.head.appendChild(link);
   }
   window.addEventListener('load', loadBoxicons);
