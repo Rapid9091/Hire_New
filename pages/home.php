@@ -117,7 +117,7 @@ include_once "../init.php";
           makes sure that it benefits your company greatly and aids in
           increasing relevant search traffic to websites.
         </p>
-        <a href="<?= home_path() ?>services/it-outsourcing-services">Know More</a>
+        <a href="<?= home_path() ?>it-outsourcing-services">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
         <ion-icon name="qr-code-sharp"></ion-icon>
@@ -126,7 +126,7 @@ include_once "../init.php";
           Hire highly talented content writers with HireCoworker. Expand your digital footprint with an experienced
           content writer within your budget.
         </p>
-        <a href="<?= home_path() ?>services/hire-content-writer">Know More</a>
+        <a href="<?= home_path() ?>hire-content-writer">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
         <ion-icon name="share-social-sharp"></ion-icon>
@@ -136,7 +136,7 @@ include_once "../init.php";
           of handling any size project and having a significant impact on your
           business, whether it involves major overhauls or minor tweaks.
         </p>
-        <a href="<?= home_path() ?>services/hire-digital-marketer">Know More</a>
+        <a href="<?= home_path() ?>hire-digital-marketer">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="30">
         <ion-icon name="business-sharp"></ion-icon>
@@ -145,7 +145,7 @@ include_once "../init.php";
           Engineers and Architects work with clients to design, plan and oversee construction projects, ensuring safety,
           cost-effectiveness, aesthetic appeal and compliance with regulations and codes.
         </p>
-        <a href="<?= home_path() ?>services/hire-engineers-architects">Know More</a>
+        <a href="<?= home_path() ?>hire-engineers-architects">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
         <ion-icon name="crop-sharp"></ion-icon>
@@ -158,7 +158,7 @@ include_once "../init.php";
           services, and people, attractiveness plays a big role—from online
           dating services to online shopping.
         </p>
-        <a href="<?= home_path() ?>services/hire-dedicated-designers">Know More</a>
+        <a href="<?= home_path() ?>hire-dedicated-designers">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
         <ion-icon name="code-slash-sharp"></ion-icon>
@@ -175,7 +175,7 @@ include_once "../init.php";
           your product/service with the help of CoWorker's technical support
           services.
         </p>
-        <a href="<?= home_path() ?>services/hire-dedicated-developers">Know More</a>
+        <a href="<?= home_path() ?>hire-dedicated-developers">Know More</a>
       </div>
 
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="30">
@@ -185,13 +185,13 @@ include_once "../init.php";
           Finance and Accounts Experts assist clients with financial planning, analysis, and management, by providing
           expertise and guidance in areas such as budgeting, financial reporting, tax compliance and risk management.
         </p>
-        <a href=" <?= home_path() ?>services/hire-finance-accounts-experts">Know More</a>
+        <a href=" <?= home_path() ?>hire-finance-accounts-experts">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
         <ion-icon name="phone-portrait-sharp"></ion-icon>
         <h3>Mobile App Developers</h3>
         <p> Mobile App Developers design, develop, test and maintain mobile applications for clients, creating feature-rich, user-friendly and high</p>
-        <a href="<?= home_path() ?>services/hire-professional-mobile-app-developers">Know More</a>
+        <a href="<?= home_path() ?>hire-professional-mobile-app-developers">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
         <i class='bx bxs-briefcase-alt'></i>
@@ -201,7 +201,7 @@ include_once "../init.php";
           such as legal research, document review, drafting legal documents, and contract management, allowing clients
           to focus on their core business operations.
         </p>
-        <a href="<?= home_path() ?>services/legal-outsourcing-services">Know More</a>
+        <a href="<?= home_path() ?>legal-outsourcing-services">Know More</a>
       </div>
 
     </div>
