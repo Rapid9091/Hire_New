@@ -191,7 +191,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="<?=home_path()?>software-development-va" class="grid-center">
+                <a href="<?=home_path()?>cms-development" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/cms-development.png" alt="CMS Developmetnt">
                     <p>CMS Development</p>
                     <div class="categories flex flex-center">
@@ -213,7 +213,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a  href="<?=home_path()?>frontend-development-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/frontend-development.png" alt="Frontend Development">
                     <p>Frontend Development</p>
                     <div class="categories flex flex-center">

@@ -50,6 +50,7 @@ ReWriteRule ^it-outsourcing-services([/]?)$ pages/it-outsourcing/_index.php [NC,
 ReWriteRule ^va-web-development([/]?)$ pages/it-outsourcing/va-web-development.php [NC,L]
 ReWriteRule ^software-development-va([/]?)$ pages/it-outsourcing/software-development-va.php [NC,L]
 ReWriteRule ^cms-development([/]?)$ pages/it-outsourcing/cms-development.php [NC,L]
+ReWriteRule ^frontend-development-services([/]?)$ pages/it-outsourcing/frontend-development-services.php [NC,L]
 
 
 
