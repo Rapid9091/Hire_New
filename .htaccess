@@ -53,6 +53,7 @@ ReWriteRule ^cms-development([/]?)$ pages/it-outsourcing/cms-development.php [NC
 ReWriteRule ^frontend-development-services([/]?)$ pages/it-outsourcing/frontend-development-services.php [NC,L]
 ReWriteRule ^database-development-services([/]?)$ pages/it-outsourcing/database-development-services.php [NC,L]
 ReWriteRule ^backend-development-services([/]?)$ pages/it-outsourcing/backend-development-services.php [NC,L]
+ReWriteRule ^full-stack-development-services([/]?)$ pages/it-outsourcing/full-stack-development-services.php [NC,L]
 
 
 

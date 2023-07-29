@@ -301,7 +301,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+            <a  href="<?=home_path()?>full-stack-development-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/full-stack-development.png" alt="Fullstack Development">
                     <p>Fullstack Development</p>
                     <div class="categories flex flex-center">
