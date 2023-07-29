@@ -44,10 +44,9 @@ include_once '../../init.php';
                 CMS Development Services
                 </h1>
 
-                <!-- <ul class="landing-ul">
-                    <li class="text">Hiring our SEO virtual assistant can help you rank better in search engines and keep
-                        you ahead of your competitors.</li>
-                </ul> -->
+                <ul class="landing-ul">
+                    <li class="text">Hire Coworker is an expert in providing CMS Development Services to clients in the USA and worldwide in various industries. As the top CMS creation company in the US, our top-notch CMS solutions solve your business's problems and give your customers a unique web experience. Our CMS solutions are reliable and full of features, making it easy to control, update, and change published web content. Virtual Assistant provides a sizable pool of skilled CMS developers knowledgeable about the newest technologies, trends, platforms, and applications.</li>
+                </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire CMS 
                     Development Specialists
@@ -219,8 +218,8 @@ include_once '../../init.php';
     <section class="content_section">
 
         <div class="content_div">
-            <h2 class="content-heading">CMS Development Services</h2>
-            <p class="text_content">Hire Coworker is an expert in providing CMS Development Services to clients in the USA and worldwide in various industries. As the top CMS creation company in the US, our top-notch CMS solutions solve your business's problems and give your customers a unique web experience. Our CMS solutions are reliable and full of features, making it easy to control, update, and change published web content. Virtual Assistant provides a sizable pool of skilled CMS developers knowledgeable about the newest technologies, trends, platforms, and applications.</p>
+            <!-- <h2 class="content-heading">CMS Development Services</h2>
+            <p class="text_content">Hire Coworker is an expert in providing CMS Development Services to clients in the USA and worldwide in various industries. As the top CMS creation company in the US, our top-notch CMS solutions solve your business's problems and give your customers a unique web experience. Our CMS solutions are reliable and full of features, making it easy to control, update, and change published web content. Virtual Assistant provides a sizable pool of skilled CMS developers knowledgeable about the newest technologies, trends, platforms, and applications.</p> -->
 
         </div>
         <div class="content_div">

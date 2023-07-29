@@ -96,7 +96,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/blog.png" alt="hire articles and blogs writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?= home_path() ?>services/hire-article-writer">
+                            <a href="<?=home_path() ?>article-writer">
                                 <h5>Articles & Blogs</h5>
                             </a>
                         </div>

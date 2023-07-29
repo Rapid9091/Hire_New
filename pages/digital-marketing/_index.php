@@ -109,7 +109,7 @@ include_once '../../init.php';
                 <div class="services-types-child-content">
                     <p>Content Marketing</p>
                     <h5 class="section-heading">Content Marketing Services</h5>
-                    <a href="#">Learn More</a>
+                    <a href="<?=home_path()?>content-marketing-services">Learn More</a>
                 </div>
                 <div class="services-types-child-img">
                     <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Content Marketing Expert">

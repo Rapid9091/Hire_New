@@ -44,10 +44,12 @@ include_once '../../init.php';
                     Backend development services
                 </h1>
 
-                <!-- <ul class="landing-ul">
-                    <li class="text">Hiring our SEO virtual assistant can help you rank better in search engines and keep
-                        you ahead of your competitors.</li>
-                </ul> -->
+                <ul class="landing-ul">
+                    <li class="text">By selecting Hire Coworker as their backend development partner, our clients reap
+                the benefits of a dependable partnership that yields tangible results. Our team's expertise in various
+                backend development services enables us to assist each business in addressing its unique situation and
+                determining the best solution.</li>
+                </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Backend development Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
@@ -223,11 +225,11 @@ include_once '../../init.php';
     <section class="content_section">
 
         <div class="content_div">
-            <h2 class="content-heading">Backend development services</h2>
-            <p class="text_content">By selecting Hire Coworker as their backend development partner, our clients reap
+            <!-- <h2 class="content-heading">Backend development services</h2> -->
+            <!-- <p class="text_content">By selecting Hire Coworker as their backend development partner, our clients reap
                 the benefits of a dependable partnership that yields tangible results. Our team's expertise in various
                 backend development services enables us to assist each business in addressing its unique situation and
-                determining the best solution.</p><br>
+                determining the best solution.</p><br> -->
             <p class="text_content">Hire Coworker excels at incorporating technologies such as.NET, C++, PHP, and
                 Python, which are indispensable for developing high-performance backend software. You can be confident
                 in the success of your project thanks to our technological expertise, adaptable engagement models, and

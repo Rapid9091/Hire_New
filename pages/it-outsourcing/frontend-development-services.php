@@ -44,10 +44,9 @@ include_once '../../init.php';
                   Frontend Development Services
                 </h1>
 
-                <!-- <ul class="landing-ul">
-                    <li class="text">Hiring our SEO virtual assistant can help you rank better in search engines and keep
-                        you ahead of your competitors.</li>
-                </ul> -->
+                <ul class="landing-ul">
+                    <li class="text">Front-end development creates a website's or application's user interface and experience. This encompasses everything visitors see and engage with when they visit a page, such as the layout, design, and overall look and feel.</li>
+                </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Frontend Development Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
@@ -218,8 +217,8 @@ include_once '../../init.php';
     <section class="content_section">
 
         <div class="content_div">
-            <h2 class="content-heading">Frontend Development Services</h2>
-            <p class="text_content">Front-end development creates a website's or application's user interface and experience. This encompasses everything visitors see and engage with when they visit a page, such as the layout, design, and overall look and feel.</p><br>
+            <!-- <h2 class="content-heading">Frontend Development Services</h2> -->
+            <!-- <p class="text_content">Front-end development creates a website's or application's user interface and experience. This encompasses everything visitors see and engage with when they visit a page, such as the layout, design, and overall look and feel.</p><br> -->
             <p class="text_content">Your front-end development services team will work with you to design a visually beautiful and user-friendly interface for your website or application. They will also ensure it operates properly and swiftly on all devices and browsers. Hire Coworker's specialists have extensive knowledge of various programming languages on legacy and new systems.</p>
 
         </div>

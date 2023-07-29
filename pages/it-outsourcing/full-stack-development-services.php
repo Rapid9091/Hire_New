@@ -44,10 +44,9 @@ include_once '../../init.php';
                 Full Stack Development Services
                 </h1>
 
-                <!-- <ul class="landing-ul">
-                    <li class="text">Hiring our SEO virtual assistant can help you rank better in search engines and keep
-                        you ahead of your competitors.</li>
-                </ul> -->
+                <ul class="landing-ul">
+                    <li class="text">Employ a Full Stack developer from Hire Coworker to create dependable, business-ready, and results-oriented web applications. Our Full Stack software developers have top-tier proficiency in creating custom web solutions for startups, entrepreneurs, and proprietors.</li>
+                </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Full Stack Development  Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
@@ -218,8 +217,8 @@ include_once '../../init.php';
     <section class="content_section">
 
         <div class="content_div">
-            <h2 class="content-heading">Full Stack Development Services</h2>
-            <p class="text_content">Employ a Full Stack developer from Hire Coworker to create dependable, business-ready, and results-oriented web applications. Our Full Stack software developers have top-tier proficiency in creating custom web solutions for startups, entrepreneurs, and proprietors.</p><br>
+            <!-- <h2 class="content-heading">Full Stack Development Services</h2> -->
+            <!-- <p class="text_content">Employ a Full Stack developer from Hire Coworker to create dependable, business-ready, and results-oriented web applications. Our Full Stack software developers have top-tier proficiency in creating custom web solutions for startups, entrepreneurs, and proprietors.</p><br> -->
             <p class="text_content">Most companies use full-stack development to construct an MVP web or API application. Many companies begin their journey with MVPs and then evolve into digital products. This stage is where concept enhancements can be implemented based on early user feedback from the investigation stage.</p><br>
             <p class="text_content">Before the release of your product, the MVP stage may aid you in focusing on your customers' needs. A full-stack development service that has mastered agile methodologies may effectively execute agile initiatives, utilizing its years of experience to create the best product possible.</p><br>
             <p class="text_content">Due to their extensive knowledge of the project, a full-stack development service may also function as the technical head. A full-stack development service can make better judgments when necessary to help the new software initiative succeed tremendously.</p>

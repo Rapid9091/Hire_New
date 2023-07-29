@@ -7,16 +7,14 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+   <?php include_once head_new;?>
 
-    <?php include_once head_new; ?>
-
-    <title>Data Base Development Services</title>
-
+    <title>Content Marketing Services</title>
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
+            background-image: url("<?= get_img() ?>dm/ppc.webp");
         }
     </style>
 </head>
@@ -41,14 +39,14 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Data Base Development Services
+                Content Marketing Services
                 </h1>
 
                 <ul class="landing-ul">
-                    <li class="text">Database developers are vital to the development of numerous businesses. They design and administer the systems that enable businesses to store and organize all information. This information may include contact details, customer listings, inventory, and financial documents, among other things..</li>
+                    <p class="text">One of the most vital aspects of successful online marketing is content marketing. All company executives who want to advance their organization and increase income must use content marketing services. It could increase website traffic, improve conversion rates, and raise brand exposure.</p>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire Data Base Development Specialists
+                <a class="basic-button landing-btn" href="#">Hire PPC Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -141,7 +139,8 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
+                        loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -163,7 +162,7 @@ include_once '../../init.php';
         <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
             <div class="hiring_step_order-1">
                 <div>
-                    <p class="section-heading">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+                    <p class="section-heading">HIRE PPC SPECIALISTS ONLINE WITH EASY STEP</p>
                     <p class="text hiring_step_content">You won't have to deal with the hassles of traditional
                         outsourcing thanks to our
                         novel business model, which gives you complete control over who you work with.</p>
@@ -173,7 +172,8 @@ include_once '../../init.php';
             <div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer" loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                            loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Talk To Us</p>
@@ -182,7 +182,8 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire legal process outsourcing" loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                            alt="hire legal process outsourcing" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Handpick Best Expert</p>
@@ -191,7 +192,8 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer" loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                            loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Build Your Team</p>
@@ -201,7 +203,8 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer" loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                            loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Get Going</p>
@@ -215,119 +218,118 @@ include_once '../../init.php';
 
     <!-- content section start -->
     <section class="content_section">
+        <div class="content_div">
+            <h2 class="content-heading">Why Choose Hire Coworker for Content Marketing Services Provider?</h2>
+            <p class="text_content">Hire Coworker is a full-service online marketing agency with over 150 web developers, programmers, designers, and marketers on staff.</p><br>
+            <p class="text_content">There are various benefits to partnering with Hire Coworker for content marketing:</p>
+            <div class="ul_div">
+                <ul>
+                    <li><p class="text_content">We are a full-service online content marketing agency that can handle more than just content marketing. We provide web development, social media content marketing, design, and marketing, and there are numerous advantages to having a single company manage all of these services for your organization.</p></li>
+                    <li><p class="text_content">Hire Coworker; never subcontracts! Our team of skilled content writers will compose all content developed in-house.</p></li>
+                    <li><p class="text_content">We are e-commerce Professionals! We have extensive experience with B2B and lead generation strategies, but e-commerce is our specialization. Our expert content writers come from a diverse range of sectors and backgrounds.</p></li>
+                </ul>
+
+            </div>
+
+        </div>
 
         <div class="content_div">
-            <!-- <h2 class="content-heading">Data Base Development Services</h2> -->
-            <!-- <p class="text_content">Database developers are vital to the development of numerous businesses. They design and administer the systems that enable businesses to store and organize all information. This information may include contact details, customer listings, inventory, and financial documents, among other things.</p><br> -->
-            <p class="text_content">If you want to invest in database development services, choose a team focusing on your project's technology needs. Hire Coworker are ready to help you build a database that is the most current database.</p>
+            <h2 class="content-heading">Process of Hire Coworker for Content Marketing Services</h2>
+            <p class="text_content">We want your messaging to be honest, innovative, and truthful at Hire Coworker. But, most importantly, we want it to be you. Your material must be consistent with your brand. It should reflect your company's tone, style, and pizazz. We use a unique, exclusive method to do this in our content marketing process.</p><br>
+            <p class="text_content">You will notice an immediate effect when you join our content marketing initiatives.</p>
+            <div class="ul_div">
+                <ul>
+                    <li> <p class="text_content">Our content marketing manager will meet with you and one or more team members to assess your company's messaging requirements and branding guidelines.</p></li>
+                    <li> <p class="text_content">Our writers will generate content for your company to deliver value across all your marketing channels (website, blog, email, social media, and so on).</p></li>
+                    <li> <p class="text_content">Our designers will collaborate with you to create brand-specific visual content (graphics and video).</p></li>
+                    <li> <p class="text_content">Our editorial team collaborates with you to keep modifications to a minimum.</p></li>
+                    <li> <p class="text_content">Our management team hosts a monthly meeting where you can discuss any content (or other) marketing ideas, problems, or goals you may have.</p></li>
+                    </ul>
+                    </div>
 
         </div>
         <div class="content_div">
-            <h2 class="content-heading">Who exactly are these Database Developers?</h2>
-            <p class="text_content">Why is it necessary for any firm to work with a database developer? The reason for this is that they create and implement database software. Engineers specializing in database development create the database management systems (DBMS) used on computers. They analyze the user's requirements and then build the procedure to fulfill them. They might work with the existing databases to make them more effective or update the databases to reflect the most recent technological developments.</p>
-           
+            <h2 class="content-heading">Advantages of Content Marketing Services</h2>
+            <div class="ul_div">
+                <ul>
+                    <li style="list-style-type: none;"><strong>1. Increase the Traffic to Your Website</strong></li>
+                    <p class="text_content">Anyone serious about their online marketing efforts understands that winning at SEO with a robust content strategy is possible. Compelling content is the cornerstone of organic search and the most effective method to bring more traffic to your website. When you consistently publish important and valuable content that answers search queries, Google will reward you with high ranks on the search engine results page (SERP). If you continue to produce new and valuable material, you will receive requests for backlinks from high-authority websites and blogs.</p>
+                    <li style="list-style-type: none;"><strong>2. Increases sales</strong></li>
+                    <p class="text_content">Many believe increasing website traffic (mainly inorganic traffic) will increase sales. This, however, is only sometimes the case. However, content marketing services can help you with more traffic and revenue. Before making any purchase, a buyer must recognize that they have an issue that must be solved (awareness), research their problem and its solutions (consideration), then decide which option to pursue (choice). Content marketing services assist in resolving all three of these stages by helping potential clients with what they are looking for and establishing a relationship with them.</p>
+                    <li style="list-style-type: none;"><strong>3. Does not irritate people</strong></li>
+                    <p class="text_content">Advertising is an excellent method to promote your brand, but there are more effective strategies than spending much money on it. Traditional marketing is losing effectiveness because nobody appreciates intrusive advertising. Consider the last time you purchased something because of an advertisement that interrupted your day. According to research, 40 percent of people use ad blockers, which will almost certainly not decrease over time. It is essential to note that effective content marketing services generate three times as many leads and costs 62% less than other marketing channels.</p>
+                    <li style="list-style-type: none;"><strong>4. Increase your following on social media.</strong></li>
+                    <p class="text_content">Gaining more social media followers is one of the most significant advantages of content marketing. Although this may not be your initial objective when creating quality content, it will undoubtedly occur as your readers develop a greater affinity for your brand. They want to follow you on social media to ensure they are always aware of your latest articles. Many of your readers will share your blog posts and articles with their subscribers, exponentially increasing your brand's exposure.</p>
+                    <li style="list-style-type: none;"><strong>5. Improved Customer Service</strong></li>
+                    <p class="text_content">How many times a day does your customer service staff need to respond to the same inquiries? Whether it's how to sign up for a new service or how to use your product, a blog can provide the answers. Also, most individuals prefer to discover these answers through an online search instead of contacting customer service. This frees up more time for your team to address other consumer issues rather than routine inquiries.</p>
+                   
+                </ul>
+            </div>
         </div>
         <div class="content_div">
-            <h2 class="content-heading">Why businesses require a strong database development service; Databases' unique advantages</h2>
-            <p class="text_content">Most business people need clarification on why they must utilize databases to grow their companies. Whether you manage a technical or non-technical organization, databases are vital to a successful business model. According to the research, 95% of businesses require a database management system to ensure rapid development and efficient workflow. The collected data is utilized in a multitude of methods.</p>
+            <h2 class="content-heading">Social Media Content Marketing Service</h2>
+            <div class="ul_div">
+                <ul>
+                    <li><strong>Integration of Facebook Pages</strong></li>
+                    <p class="text_content">Management of the Facebook account, optimization, and data analysis with insight are all necessary to guarantee audience engagement and growth.</p>
+                    <li><strong>Integration of Twitter Accounts</strong></li>
+                    <p class="text_content">Twitter Account Integration Managing and optimizing the Twitter account, evaluating the metrics with knowledge, and ensuring an increase in connection and followers.</p>
+                    <li><strong>Production and optimization of YouTube videos</strong></li>
+                    <p class="text_content">To encourage views and participation, the YouTube account must be managed and optimized by consistent video uploads and analytically insightful assessments.</p>    
+                    <li><strong>Integration & Management of Instagram Pages</strong></li>
+                    <p class="text_content">The Instagram account needs to be managed and optimized to increase the number of followers and engagement, and the metrics should be reviewed with understanding.</p>
+                    <li><strong>Branding and reputation management on LinkedIn</strong></li>
+                    <p class="text_content">Management and optimization of the LinkedIn profile and thoughtful analytics analysis are necessary to ensure increased confirmed and relevant connections.</p>
+                    <li><strong>Integration and management of Pinterest accounts</strong></li>
+                    <p class="text_content">Management and optimization of the Pinterest business account by frequently uploading rich pins, monitoring the information other users are pinning, and carefully analyzing the data.</p>
+                   
+                </ul>
+            </div>
             
-            <div class="ul_div">
-                <ul>
-                 <li><strong>Enhance business procedures</strong></li>
-                 <p class="text_content">Business entities collect data on systems and various processes, such as income growth, order specifics, and product quality. The collected data can enhance business procedures, revenue streams, and productivity</p>
-                 <li><strong>Manage customer information</strong></li>
-                 <p class="text_content">Databases can collect user information, such as those frequently using social media, confidential information, email addresses, and all web browsing patterns. The collected data helps recommend online content and ensure client contentment.</p>
-                 <li><strong>Reduce data duplication</strong></li>
-                 <p class="text_content">A sound database system removes similar data and data that doesn't match up by reducing the number of isolated files in the system as duplicate data. It won't help the company minimize data redundancy, but it can control it.</p>
-                 <li><strong>Save time and make sure apps are easy to get to</strong></li>
-                 <p class="text_content">A good database system is an excellent way to handle business processes and save time simultaneously. It's one of the most important reasons to start a business database. If your business has a good database, you'll get all the information you need and have a tool that's easy to use.People usually store data in spreadsheets, CRMs, job sheets, contact information holder sheets, email lists, and many other programs. All the plans are on one base.</p>
-                 <li><strong>Get a clear picture and take charge.</strong></li>
-                 <p class="text_content">To make a custom database program, consider what needs to meet and when. You are in command of everything. Using a company database, you can track who did what and when. It can help you understand and manage your business better. Now you can change everything about your business to fit your business's most essential needs.</p>
-                 <li><strong>Facilitating Working Remotely.</strong></li>
-                 <p class="text_content">Hire Coworker is one of the many companies that encourage their staff to work from home. If you're a business owner that needs to accommodate employees who frequently travel or work from several locations, a custom database system can help you streamline the process.</p><br>
-                 <p class="text_content">All the necessary information for your staff is found in one convenient location. It's simple for them to place orders and schedule various appointments. And make recordings of whatever they like. The main advantage is that any interested party or user can easily access the archived material. The company's entire crew can communicate with one another via the centralized database system.</p>
-                </ul>
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">What is database design and development?</h2>
-            <p class="text_content">Provide easy-to-use functions that add, delete, insert, change, and search. A good Database layout needs to be made to ensure that data is correct and consistent. Data also needs to be changed as required. Since the database is essential to the project, it must be set up correctly. By using the best database design and high-performance database tools, the result comes out to be the best.</p><br>
-    
-            
-        <div class="content_div">
-            <h3 class="content-heading">Our Virtual Assistants Provide Database Development Services.</h3>
-            <p class="text_content">When you hire Virtual Assistant for database development services, Hire Coworker reduces the hassle of locating and supervising the ideal virtual assistant in their roles. Using the following countermeasures, our team will avert any potential obstacles. </p>
-            <div class="ul_div">
-                <ul>
-                 <li><strong>Data Entry</strong></li>
-                 <p class="text_content">Having a full-time data entry position vacant due to attrition could result in a significant backlog of data. Our Virtual Assistant is ideally suited for this task. They have extensive experience recording entries with great precision and adhere to regulations to reduce instances of error and data mismanagement.</p>
-                 <li><strong>Data Organization</strong></li>
-                 <p class="text_content">Having information readily available brings businesses up to speed with the rest of the world. Having a dedicated agent for data cataloging expedites the indexing and classification of data into structures for efficient analysis.</p>
-                 <li><strong>Data Quality Evaluation</strong></li>
-                 <p class="text_content">The importance of data quality in data management cannot overstate. To perform complex checks and eliminate errors, no matter how intricate or well-hidden, requires a tremendous commitment. When you employ Virtual Assistant for database development services, our VA will verify the data's integrity and report any deviations from normal parameters.</p>
-                 <li><strong>Data Update</strong></li>
-                 <p class="text_content">When agents are required to work with an extant database, the system likely has not aged, and technology and data outside the closed system have yet to catch up to the present. They ensure that outdated systems are replaced with new ones to pave the way for advanced analytics and improved business outcomes. This is where our team enters the picture.</p>
-                 <li><strong>Monitoring Data Access</strong></li>
-                 <p class="text_content">Our top priority is always to ensure accountability. As a data analytics company, Hire Coworker provides that data is accessible to the appropriate individuals and that they can modify it to enhance security and data quality.</p>
-                 <li><strong>Customer Reporting</strong></li>
-                 <p class="text_content">An agent must review a checklist and verify data integrity to eradicate a tedious maintenance routine. This is what our Hire Coworker agents do. They compile customer observation reports and communicate the findings to the client. Typically, our stakeholder-oriented reports include interactive elements such as charts and graphs.</p><br>
-                 
-                </ul>
-        </div>
         </div>
 
         <div class="content_div">
-            <h3 class="content-heading">Superior Database for Web Development </h3>
-            <p class="text_content">The most central database management systems are from Oracle to MySQL to PostgreSQL. </p>
-            <div class="ul_div">
-                <ul>
-                 <li style="list-style-type: none;"><strong>1. Oracle</strong></li>
-                 <p class="text_content">Oracle commonly regard as the finest database for web development due to its expandability, adaptability, and exceptional performance. As a result, Oracle is well-known as a database for web applications. It designs with significant computer languages like Java, C, and C++. Additionally, RDBMS is utilized. Oracle's space-saving nature and speedy data delivery are advantageous characteristics. The most updated version of Oracle is 21c, which contains numerous new features. SQL and JSON are two of the latest and most valuable features.</p>
-                 <li style="list-style-type: none;"><strong>2. MySQL</strong></li>
-                 <p class="text_content">MySQL, frequently considered the best database for web development, is gaining popularity. This database focuses on tenacity, resiliency, and maturity. This database is primarily recognized for its web development tools. This database is developed using C and C++, including a structured query language. The leading SQL database is available in multiple editions, each with unique features. The most recent version of this database is 8.0, which is designed with a more robust recovery mechanism.</p>
-                 <li style="list-style-type: none;"><strong>3. Postgre SQL</strong></li>
-                 <p class="text_content">PostgreSQL, formerly known as Postgres, provides a comprehensive solution for various complex requirements. Since it is written in C, it is the most effective database for web development. The package includes a simple curve to analyze, adapt and support capabilities beyond the norm.</p>
-                 
-                </ul>
-        </div>
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">Hire Coworker Provides Database Development and Management Service</h3>
-            <p class="text_content">We offer a variety of outsourced database development and management services, including:</p>
+            <h2 class="content-heading">How a virtual assistant might improve your efforts in content marketing</h2>
+            <p class="text_content">Virtual assistants for content production encourage conversations about your company, goods, or services. They cultivate discussions to turn them into relationships and potential leads by developing and distributing the right content at the right time and on the most efficient channels.</p>
+            <p class="text_content">A lot of thought and research must go into content marketing. The following are some crucial situations where having a virtual assistant is quite helpful.</p>
         </div>
         <div class="ul_div">
             <ul>
-            <li><strong>Design and Development of Databases</strong></li>
-            <p class="text_content">We at Hire Coworker assist you in designing and developing a customized and well-defined database model that satisfies your unique business requirements and enables you to retrieve data efficiently, safely, and time-savingly.</p>
-            <li><strong>Validate and Check Database Records</strong></li>
-            <p class="text_content">Our trained and seasoned data management specialists can effortlessly examine and validate information against all available sources to guarantee the data's integrity.</p>
-            <li><strong>Cleansing and Enrichment of Data</strong></li>
-            <p class="text_content">We meticulously clean and standardize your database to ensure essential consistency. This procedure also includes the eradication of typos and spelling errors to improve the quality of your database.</p>
-            <li><strong>Services for Indexing and Scanning</strong></li>
-            <p class="text_content">We supplement your document management process by offering highly secure scanning and indexing solutions for easy information storage and retrieval.</p>
-            <li><strong>Services for Data Abstraction</strong></li>
-            <p class="text_content">You may cleanse business-critical documents and databases with our data abstraction solutions. We offer database abstraction services such as leasing, research, and academic data abstraction.</p>
-            <li><strong>Remove Duplicate Entries</strong></li>
-            <p class="text_content">We have extensive experience deleting redundant or duplicate information from databases, allowing you to minimize storage space and eliminate unnecessary administration overheads.</p>
-        </ul>
+            <li><strong>Develop a content strategy.</strong></li>
+            <p class="text_content">A virtual assistant (VA) can be beneficial when developing your overall content strategy. As a third party, they make your brand's voice and tone clear, maintaining uniformity across all media. This is why giving time-consuming duties to a VA, including watching audience data, looking for hashtags, and SEO-optimizing your content, can be beneficial.</p>
+            
+            <li><strong>Conduct considerable research</strong></li>
+            <p class="text_content">Comprehensive content research is required for every successful content marketing plan. However, research is a demanding task, like many other parts of content development.</p><br>
+            <p class="text_content">Your virtual assistant will do all of the content research for you. Establish the procedure and guiding strategy so your VA can successfully align with your company's mission.</p>
+            <li><strong>Recognize market conditions</strong></li>
+            <p class="text_content">A virtual assistant does in-depth research on key aspects of your target market. A VA, for example, could establish alerts for specific terms and monitor new developments or activities taken by competitors. They can also monitor news websites, discussion boards, opportunities, and any threats from competitors.</p><br>
+            <p class="text_content">While you cannot continually focus on what your competitors are doing, it is vital to be aware of them. Investigating their apparent winning strategies is critical for staying ahead. Your virtual assistant can handle this while keeping you informed of what's going on in the market.</p>
+            <li><strong>The intended audience</strong></li>
+            <p class="text_content">Creating a content marketing plan that appeals to your target audience is critical. Writing with a specific audience in mind is a good idea. </p>
+            <p class="text_content">Your VA can help you specifically target that audience. They've obtained insights on audience behavior through their work that you might have yet to have the chance to engage with. For example, your VA may follow social media comments or discussions in your specialty to produce ideas. They also observe your audiences and their interests, which they might reflect in future content.</p>
+            </ul>
+
         </div>
         <div class="content_div">
-            <h3 class="content-heading">The Advantages of Working Remotely</h3>
-            <p class="text_content">The ability to work remotely has many unique advantages. Working remotely has several advantages, while some might be more enticing than others.</p>
+            <h2 class="content-heading">Employer advantages of working remotely </h2>
+            <p class="text_content">Organizations may desire to implement working remotely for various reasons, including economic, social, and environmental considerations.</p><br>
+            <p class="text_content">Based on our analysis, the following are the benefits of working remotely for employers:</p>
             <div class="ul_div">
                 <ul>
-                 <li style="list-style-type: none;"><strong>1. Be able to work from anyplace</strong></li>
-                 <p class="text_content">Working remotely from wherever with internet connectivity is the most obvious advantage. You can work from anywhere with a computer, strong Wi-Fi, and the capacity to accomplish duties on time. Working from a home office, a coffee shop, or even while traveling are all options. However, some businesses might have particular guidelines regarding your location, so knowing what your employer expects is critical.</p>
-                 <li style="list-style-type: none;"><strong>2. Become more motivated</strong></li>
-                 <p class="text_content">When working remotely, you can establish routines, habits, and best practices to help you get more done and stay motivated. Additionally, you might feel more motivated to complete your work quickly because of fewer interruptions from your coworkers. As a remote worker, you can regularly arrive at the workplace while logging in from your favorite location. This adaptability is yet another element that raises drive.</p>
+                    <li style="list-style-type: none;"> <strong>1. Increased cost-effectiveness</strong></li>
+                    <p class="text_content">As previously said, one of the significant benefits of working remotely for business managers is its cost-effectiveness. Businesses can save a lot of money by allowing workers to work from home because renting or maintaining office space is unnecessary.</p>
+                    <p class="text_content">And, given the rising energy cost, this will likely become an increasingly crucial element in the future.</p>
+                    <li style="list-style-type: none;"><strong>2. Improved employee retention</strong> </li>
+                    <p class="text_content">Another advantage of working remotely is higher employee satisfaction. This is because the opportunity to work from home frequently gives employees a better work-life balance, leading to higher job satisfaction and motivation.</p>
+                    <p class="text_content">Employees who are happy in their work are less likely to leave, which reduces staff turnover and associated costs.</p>
                 </ul>
+                </div>
         </div>
         <div class="content_div">
-            <h3 class="content-heading">Database Development Costs</h3>
-            <p class="text_content">Software developers will be needed to provide database development services. You can achieve this by investing in software outsourcing or creating an internal team. The latter's price is determined by the size of your project and the hourly fees of the software development firm you select.</p><br>
-            <p class="text_content">The nature of the project also affects the price of database development services. The software development team can assist you in selecting the appropriate tech stack for your project and pick the specifics of your database design if you need assistance.</p>
-        </div>
-
-
+            <h2 class="content-heading">Which types of material will my material Marketer provide? </h2>
+            <p class="text_content">Because we work on the entire spectrum of content marketing, our Content Marketers are marketing strategists and digital marketing specialists who are well-versed in all types of content. Typically, they will write material for blog postings. Depending on your content marketing plan, they will also create website content, email marketing material, ad content, etc. If the information demands visual elements, they will contact our graphic designers.</p>
+            </div>
+                
 
 
     </section>
@@ -340,7 +342,8 @@ include_once '../../init.php';
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image"
+                        alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <p class="expert-name">Edward C.</p>
@@ -350,7 +353,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years
+                    experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Linkedin</p>
@@ -376,7 +380,8 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Syed K.</p>
@@ -386,7 +391,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on
+                    projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Google Data Studio</p>
@@ -412,7 +418,8 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Kristine S.</p>
@@ -422,7 +429,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6
+                    years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Social Media Marketing</p>
@@ -465,143 +473,7 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                Web Development Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                CMS Development Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Software Development Services
-                </div>
-                <div class="list_data">
-                    $6
-                </div>
-                <div class="list_data">
-                    $45
-                </div>
-                <div class="list_data">
-                    $300
-                </div>
-                <div class="list_data">
-                    $1100
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                DataBase Development Services
-                </div>
-                <div class="list_data">
-                    $15
-                </div>
-                <div class="list_data">
-                    $100
-                </div>
-                <div class="list_data">
-                    $650
-                </div>
-                <div class="list_data">
-                    $2500
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                IT security Services
-                </div>
-                <div class="list_data">
-                    $10
-                </div>
-                <div class="list_data">
-                    $70
-                </div>
-                <div class="list_data">
-                    $450
-                </div>
-                <div class="list_data">
-                    $1700
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Machine Learning Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Network Installation Services
-                </div>
-                <div class="list_data">
-                    $15
-                </div>
-                <div class="list_data">
-                    $100
-                </div>
-                <div class="list_data">
-                    $650
-                </div>
-                <div class="list_data">
-                    $2500
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Frontened Development Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Backened Development Services
+                    Search Engine Optimization (SEO)
                 </div>
                 <div class="list_data">
                     $5
@@ -618,19 +490,189 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                FullStack Development Services
+                    Social Media Handler
                 </div>
                 <div class="list_data">
-                    $6
+                    $3
                 </div>
                 <div class="list_data">
-                    $45
+                    $22
                 </div>
                 <div class="list_data">
-                    $300
+                    $150
                 </div>
                 <div class="list_data">
-                    $1100
+                    $550
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Email Marketing Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Local SEO
+                </div>
+                <div class="list_data">
+                    $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Franchise SEO
+                </div>
+                <div class="list_data">
+                    $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Content Marketing Services
+                </div>
+                <div class="list_data">
+                    $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Link Building
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Online Reputation Management (ORM)
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Conversion Rate Optimization (CRO)
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Amazon Marketing Services (AMS)
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    PPC Advertisement Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                    Social Media Advertisement Services
+                </div>
+                <div class="list_data">
+                    $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
                 </div>
             </div>
         </div>
@@ -759,41 +801,42 @@ include_once '../../init.php';
 
             <div class="faqs-child">
                 <details>
-                    <summary>What exactly are web development services?</summary>
+                    <summary>What can my virtual assistant do for me on social media?</summary>
                     <div class="faq__content">
-                        <p class="text">Website development services are a set of options for anyone who wants to build, redesign, or increase the performance/capabilities of their website. These services are critical for developing and maintaining a website that achieves its intended goal, whether that goal is to generate leads, generate revenue, disseminate information, or assist your customer base.</p>
+                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot physically be present in your workplace, but they can log into your numerous social media networks, automate postings, do research, recognize trends, and much more. Ask a VA which hashtags are suitable for your next post. Ask a VA to put up an automatic system for scheduling postings. When you use a VA's experience, there is no limit to what you may do.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Can I hire a web developer full-time?</summary>
+                    <summary>Is it difficult to train a virtual assistant for my particular accounts?</summary>
                     <div class="faq__content">
-                        <p class="text">Web developers can be hired full-time. Your needs will determine whether or not that is the best option for you. Some businesses may choose to hire a specialized web development agency, while others may prefer on-staff, full-time developers, while still others may prefer part-time, freelance, or outsourced web developers. In either case, you should carefully analyze the advantages and disadvantages of each model to choose which option is best for you.</p>
+                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform them of the duties you anticipate them to complete. Respond to their inquiries. As time passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>What types of web development companies?</summary>
+                    <summary>Will my assistant be treated similarly to a full-time employee?</summary>
                     <div class="faq__content">
-                        <p class="text">Leading web development firms to come in a variety of shapes and sizes. Some may be solely committed to web development, while others, like BairesDev, may also focus on software development and other technical disciplines. Some specialize in specific sorts of websites or online applications, such as custom solutions, enterprise goods, CMS development, eCommerce, and others. They can also provide maintenance and upgrades.</p>
+                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a part-time employee or as a full-time employee. They will not be physically present in your firm, but they have the potential to become crucial. Many VAs, on the other hand, discover that they prefer this structure to typical employment since it gives them more authority and influence over their own professional life. And for you, the business, better productivity, and a more prudent budget will help your company succeed.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>What areas of expertise does a web development company have?</summary>
+                    <summary>How effective are virtual assistants at handling social media?</summary>
                     <div class="faq__content">
-                        <p class="text">A web development agency that specializes in building, designing, deploying, updating, and maintaining websites and web applications. They typically employ front-end and back-end developers, as well as professionals like UX or UI designers, QA testers, and project managers to create web products that are attractive, functional, and high-performance. They may specialize in particular services or kinds of web technologies, web products, and digital marketing</p>
+                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train them. But, if you hire someone with a lot of expertise dealing with numerous social media outlets, you'll see that it might be quite different. Many high-quality VAs originate from the realm of social media and may even have a large presence themselves. In certain circumstances, a VA may be able to give advice and advise you on the best technique. You don't have to restrict yourself to automating the most basic chores like scheduling posts or researching in the background. A social media VA may be much more—if you employ the proper one.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How do you find a web development company?</summary>
+                    <summary>Who is a virtual assistant for?</summary>
                     <div class="faq__content">
-                        <p class="text">You can find web development businesses by browsing Google, connecting with a friend, or contacting a company whose website you like and asking for comments. Do your homework on organizations by reading reviews on Google and company directories like UpCity, as well as analyzing case studies of completed projects.</p>
+                        <p class="text">There is no one solution here, yet many people would benefit from having a VA. Executives, freelancers, entrepreneurs, C-level executives, social media managers, and others are all welcome. Everyone who has a lot of social media chores on their plate and wants to make sure they get more done during the day would benefit from the experience.
+                           But we don't want you to believe that you are constrained by these definitions. The reality is that anyone who may profit from having more time in their working days as a result of being able to outsource some of their work to a social media virtual assistant will quickly recognize the benefit.</p>
                     </div>
                 </details>
             </div>
@@ -815,11 +858,9 @@ include_once '../../init.php';
     include_once footer;
     ?>
 
-    <!-- scripts -->
+      <!-- scripts -->
     <!-- -------------------------- -->
-    <?php include_once script_new; ?>
-
-
+    <?php include_once script_new;?>
 </body>
 
 </html>

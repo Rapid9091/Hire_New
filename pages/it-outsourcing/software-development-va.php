@@ -43,11 +43,10 @@ include_once '../../init.php';
                 <h1 class="section-heading animate__fadeInUp animate__animated">
                     Software Development Virtual Assistant
                 </h1>
-                <!-- 
+                
                 <ul class="landing-ul">
-                    <li class="text">Hiring our SEO virtual assistant can help you rank better in search engines and keep
-                        you ahead of your competitors.</li>
-                </ul> -->
+                    <li class="text">Do you need to complete a software development project but the expense of building the program in-house is getting unreasonably expensive? Do you need a virtual assistant for software development services to help you cut implementation costs and meet software development deliverables on time? Are you looking for a software development virtual assistant who employs organized development methods, current software development approaches, and cutting-edge technologies? You've come to the correct spot if this applies to you</li>
+                </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Software Development Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
