@@ -191,7 +191,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a href="<?=home_path()?>cms-development" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/cms-development.png" alt="CMS Developmetnt">
                     <p>CMS Development</p>
                     <div class="categories flex flex-center">
@@ -213,7 +213,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a  href="<?=home_path()?>frontend-development-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/frontend-development.png" alt="Frontend Development">
                     <p>Frontend Development</p>
                     <div class="categories flex flex-center">
@@ -248,7 +248,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a href="<?=home_path()?>database-development-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/database-development.png" alt="Database Developmetnt">
                     <p>Database Development</p>
                     <div class="categories flex flex-center">
@@ -291,7 +291,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a  href="<?=home_path()?>backend-development-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/backend-development.png" alt="Backend Development">
                     <p>Backend Development</p>
                     <div class="categories flex flex-center">
@@ -301,7 +301,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+            <a  href="<?=home_path()?>full-stack-development-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/full-stack-development.png" alt="Fullstack Development">
                     <p>Fullstack Development</p>
                     <div class="categories flex flex-center">
