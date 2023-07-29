@@ -181,7 +181,7 @@ include_once '../../init.php';
             Process Outsourcing services</h3>
         <div class="it-services-grid grid">
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+                <a href="<?=home_path()?>medical-billing-virtual-assistant" class="grid-center">
                     <img src="<?= get_img() ?>it-outsourcing/medical-billing.png" alt="Medical billing services">
                     <p>Medical Billing Service</p>
                     <div class="categories flex flex-center">
@@ -260,7 +260,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+                <a href="<?=home_path()?>insurance-verification-virtual-assistant" class="grid-center">
                     <img src="<?= get_img() ?>it-outsourcing/it-security.png" alt="Insurance Verification">
                     <p>Insurance Verification</p>
                     <div class="categories flex flex-center">
