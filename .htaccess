@@ -90,6 +90,18 @@ ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/busine
 
 ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire-amazon-virtual-assistant.php [NC,L]
 
+
+
+ReWriteRule ^medical-billing-virtual-assistant([/]?)$ pages/medical-process-outsourcing/medical-billing-virtual-assistant.php [NC,L]
+ReWriteRule ^insurance-verification-virtual-assistant([/]?)$ pages/medical-process-outsourcing/insurance-verification-virtual-assistant.php [NC,L]
+
+
+ReWriteRule ^virtual-personal-assistant-services([/]?)$ pages/virtual-assistant/virtual-personal-assistant-services.php [NC,L]
+ReWriteRule ^virtual-administrative-assistant-service([/]?)$ pages/virtual-assistant/virtual-administrative-assistant-service.php [NC,L]
+ReWriteRule ^bookkeeping-service([/]?)$ pages/virtual-assistant/bookkeeping-service.php [NC,L]
+ReWriteRule ^customer-support-virtual-assistant([/]?)$ pages/virtual-assistant/customer-support-virtual-assistant.php [NC,L]
+ReWriteRule ^email-management-virtual-assistant([/]?)$ pages/virtual-assistant/email-management-virtual-assistant.php [NC,L]
+
 ReWriteRule ^pricing([/]?)$ pages/pricing.php [NC,L]
 ReWriteRule ^services([/]?)$ pages/services.php [NC,L]
 ReWriteRule ^about([/]?)$ pages/about-us.php [NC,L]
