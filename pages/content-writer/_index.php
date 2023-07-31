@@ -48,6 +48,9 @@ include_once '../../init.php';
         .landing-section-services {
             background-image: url("<?= get_img() ?>content-writer.jpg");
         }
+        .less{
+            display: block!important;
+        }
     </style>
 </head>
 
@@ -197,7 +200,10 @@ include_once '../../init.php';
                 <p class="text">
                     Turn author because the writers at HireCoworker can assist you in writing your own ebook; procure brochures packed with information; HireCoworker's wordsmiths can help you showcase eye-catching MS PowerPoint presentations.
                 </p>
+            
+                
             </div>
+          
             
             <div class="container-section-boxes more less">
                 <div class="services-box-title ">
@@ -296,8 +302,8 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/movie_script.png" alt="hire gaming and movie script writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
-                                <h5>Gaming/ Movie Script</h5>
+                            <a href="<?=home_path() ?>movie-script-services">
+                                <h5> Movie Script</h5>
                             </a>
                         </div>
                     </div>
@@ -351,8 +357,8 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/book_pitches.png" alt="hire book pitches writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
-                                <h5>Books & Magazines</h5>
+                            <a href="<?=home_path() ?>book-writing-services">
+                                <h5>Books writing</h5>
                             </a>
                         </div>
                     </div>
@@ -415,9 +421,9 @@ include_once '../../init.php';
             </div>
            
         </div>
-        <p style="text-align:center;">
+        <!-- <p style="text-align:center;">
             <button class="view_more_btn" id="view_more_btn" value="#full-section">View More</button>
-        </p>
+        </p> -->
     </section>
     <!-- services end -->
 
@@ -834,6 +840,11 @@ include_once '../../init.php';
     include_once page_bottom;
     ?>
 
+    <!-- <script>
+        document.getElementById('view_more_btn').addEventListener('click',function(){
+            document.querySelectorAll('.less').style.
+        })
+    </script> -->
 
 
 </body>

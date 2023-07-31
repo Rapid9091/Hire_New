@@ -584,6 +584,48 @@ include_once "../init.php";
  
 
   <!-- <script src="<?= get_js() ?>form-validation.js"></script> -->
+  <script>
+    //testimonial
+$('.text-tesimonial').owlCarousel({
+  loop: true,
+  margin: 20,
+  autoplay: true,
+  autoplayTimeout: 5000,
+  autoplayHoverPause: true,
+  responsive: {
+      0: {
+          items: 1
+      },
+
+      800: {
+          items: 3
+      }
+  }
+})
+
+//google_review----
+$('#google_reviews').owlCarousel({
+  loop: true,
+  margin:20,
+  autoplay: true,
+  autoplayTimeout: 3000,
+  autoplayHoverPause: true,
+  responsive: {
+      0: {
+          items: 1
+      },
+
+      800: {
+          items: 2
+      },
+      1000:{
+        item:3
+      }
+  }
+})
+
+$('button.owl-dot').attr('aria-label', 'owl-dot');
+  </script>
 </body>
 
 
