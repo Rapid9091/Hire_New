@@ -310,7 +310,7 @@ include_once '../../init.php';
 
                 </div>
                 <p class="text">
-                    HireCoworker's content writers can write a gripping, tasteful script that promises to turn your winning gaming or movie idea into a huge hit.
+                    HireCoworker's content writers can write a gripping, tasteful script that promises to turn your winning movie idea into a huge hit.
                 </p>
             </div>
            
@@ -419,8 +419,47 @@ include_once '../../init.php';
                     The fiction writers at HireCoworker are imaginative and innovative, giving your readers the right amount of creativity and language skills to captivate them.
                 </p>
             </div>
-           
+            <div class="container-section-boxes more less">
+                <div class="services-box-title ">
+                    <div class="box-title-number flex-center">
+                        <div class="service-img">
+                            <img src="<?= get_img() ?>content-writing/fiction.png" alt="hire fiction writer">
+                        </div>
+                        <div class="box-title-heading">
+                            <a href="">
+                                <h5>Gaming script</h5>
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <p class="text">
+                    HireCoworker's content writers can write a gripping, tasteful script that promises to turn your winning gaming idea into a huge hit.
+                </p>
+            </div>
+            
+            <div class="container-section-boxes more less">
+                <div class="services-box-title ">
+                    <div class="box-title-number flex-center">
+                        <div class="service-img">
+                            <img src="<?= get_img() ?>content-writing/book_pitches.png" alt="hire book pitches writer">
+                        </div>
+                        <div class="box-title-heading">
+                            <a href="<?=home_path() ?>magazines-writing-service">
+                                <h5>Magazines writing</h5>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <p class="text">
+                    Your Magazines manuscript is just as powerful as your pitch. Allow your India-based HireCoworker's content writer to create a proposal that will impress publishers.
+                </p>
+            </div>
         </div>
+         
+           
+    
         <!-- <p style="text-align:center;">
             <button class="view_more_btn" id="view_more_btn" value="#full-section">View More</button>
         </p> -->
