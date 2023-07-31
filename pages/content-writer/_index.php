@@ -426,7 +426,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/fiction.png" alt="hire fiction writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                        <a href="<?=home_path() ?>game-script-writing-services">
                                 <h5>Gaming script</h5>
 
                             </a>
