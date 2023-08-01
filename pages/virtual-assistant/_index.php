@@ -177,7 +177,7 @@ include_once '../../init.php';
         <h2 class="section-heading">Virtual Assistant Services</h2>
         <div class="it-services-grid grid">
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+                <a href="<?=home_path()?>virtual-personal-assistant-services" class="grid-center">
                     <i class='bx bxs-group'></i>
                     <p>Personal Assistant</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ab omnis consectetur architecto, eos itaque.</p>
@@ -185,7 +185,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+                <a href="<?=home_path()?>virtual-administrative-assistant-service" class="grid-center">
                     <i class='bx bxs-user-detail'></i>
                     <p>Administrative Assistantt</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ab omnis consectetur architecto, eos itaque.</p>
@@ -201,7 +201,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+            <a href="<?=home_path()?>bookkeeping-service" class="grid-center">
                     <i class='bx bxs-user-account'></i>
                     <p>Book Keeping & Accounting</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ab omnis consectetur architecto, eos itaque.</p>
@@ -209,7 +209,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+            <a href="<?=home_path()?>customer-support-virtual-assistant" class="grid-center">
                     <i class='bx bxs-user-voice'></i>
                     <p>Customer Support</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ab omnis consectetur architecto, eos itaque.</p>
@@ -256,7 +256,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+                <a href="<?=home_path()?>email-management-virtual-assistant" class="grid-center">
                     <i class='bx bxs-envelope'></i>
                     <p>Email Management</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ab omnis consectetur architecto, eos itaque.</p>

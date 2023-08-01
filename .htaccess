@@ -37,6 +37,7 @@ RewriteRule ^sitemap\.xml/?$ sitemap.xml
 
 
 ReWriteRule ^hire-digital-marketer([/]?)$ pages/digital-marketing/_index.php [NC,L]
+ReWriteRule ^amazon-marketing-services([/]?)$ pages/digital-marketing/amazon-marketing-services.php [NC,L]
 ReWriteRule ^backlink-building-virtual-assistant([/]?)$ pages/digital-marketing/backlink-building-virtual-assistant.php [NC,L]
 ReWriteRule ^google-business-profile-virtual-assistant([/]?)$ pages/digital-marketing/google-business-profile-virtual-assistant.php [NC,L]
 ReWriteRule ^hire-seo-virtual-assistant-specialist([/]?)$ pages/digital-marketing/hire-seo-virtual-assistant-specialist.php [NC,L]

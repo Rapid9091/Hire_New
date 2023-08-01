@@ -176,6 +176,16 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
+            <div class="services-types-child width-100 grid grid-2">
+                <div class="services-types-child-content">
+                    <p>AMS</p>
+                    <h5 class="section-heading">Amazon Marketing Services </h5>
+                        <a href="<?=home_path()?>amazon-marketing-services">Learn More</a>
+                </div>
+                <div class="services-types-child-img">
+                    <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
+                </div>
+            </div>
        
         </div>
         
