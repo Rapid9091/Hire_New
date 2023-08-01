@@ -45,6 +45,7 @@ ReWriteRule ^email-marketing-virtual-assistant([/]?)$ pages/digital-marketing/em
 ReWriteRule ^best-ppc-virtual-assistant([/]?)$ pages/digital-marketing/best-ppc-virtual-assistant.php [NC,L]
 ReWriteRule ^content-marketing-services([/]?)$ pages/digital-marketing/content-marketing-services.php [NC,L]
 # ReWriteRule ^hire-digital-marketer/([0-9A-za-z\-]+)([/]?)$ pages/digital-marketing/$1.php [NC,L]
+ReWriteRule ^reputation-management-services([/]?)$ pages/digital-marketing/reputation-management-services.php [NC,L]
 
 
 ReWriteRule ^it-outsourcing-services([/]?)$ pages/it-outsourcing/_index.php [NC,L]
