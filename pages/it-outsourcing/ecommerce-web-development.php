@@ -7,14 +7,16 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <?php include_once head_new;?>
 
-    <title>Reputation Management Services</title>
+    <?php include_once head_new; ?>
+
+    <title>E-commerce Web Development</title>
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>dm/email_marketing.webp");
+            background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
         }
     </style>
 </head>
@@ -39,14 +41,14 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                    Reputation Management Services
+                E-commerce Web Development
                 </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">You require a savvy Online Reputation Management (ORM) firm that will give your name or brand the reputation you've always desired. Professional brand reputation management services are therefore required! Hire Coworker is an ORM services agency in the United States that provides the best online reputation management services to safeguard your brand and enhance your company's reputation.</p>
+                    <li class="text">Hire Coworker is known for providing best-in-class E-commerce web design and development services. Our e-commerce virtual assistants, with their honed skill sets and extensive running work experience, provide end-to-end e-commerce development services that are inventive, dynamic, efficient, reliable, secure, and cost-effective. Hire Coworker offers excellent services for SMBs, startups, and large-scale organizations at the industry's cheapest costs.</li>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#"> Hire Reputation Management Services Specialists
+                <a class="basic-button landing-btn" href="#">Hire E-commerce Web Development Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -139,8 +141,7 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
-                        loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -162,7 +163,7 @@ include_once '../../init.php';
         <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
             <div class="hiring_step_order-1">
                 <div>
-                    <p class="section-heading">HIRE EMAIL MARKETING ONLINE WITH EASY STEP</p>
+                    <p class="section-heading">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
                     <p class="text hiring_step_content">You won't have to deal with the hassles of traditional
                         outsourcing thanks to our
                         novel business model, which gives you complete control over who you work with.</p>
@@ -172,8 +173,7 @@ include_once '../../init.php';
             <div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
-                            loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Talk To Us</p>
@@ -182,8 +182,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
-                            alt="hire legal process outsourcing" loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire legal process outsourcing" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Handpick Best Expert</p>
@@ -192,8 +191,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
-                            loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Build Your Team</p>
@@ -203,8 +201,7 @@ include_once '../../init.php';
                 </div>
                 <div class="steps flex">
                     <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
-                            loading="lazy">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer" loading="lazy">
                     </div>
                     <div class="step-dtl">
                         <p class="step-dtl-heading">Get Going</p>
@@ -219,26 +216,48 @@ include_once '../../init.php';
     <!-- content section start -->
     <section class="content_section">
         <div class="content_div">
-            
-            <p class="text_content">To locate the best online reputation management service, you must be forthright about your position and needs. The online reputation management process includes Research, Development, Content, Publishing, and Promotion through an efficient online reputation management strategy. In a digital world where an image can be tarnished in mere seconds, it is crucial to employ a top ORM firm to remove negative search results for you or your business.</p>
+        <h2 class="content-heading">Why Hire Coworker for E-commerce Website Development?</h2>
+        <div class="ul_div">
+                <ul>
+                    <li style="list-style-type: none;"><strong>Developers with Priority</strong></li>
+                    <p class="text_content">Our team consists of highly skilled e-commerce developers. They are experienced in analyzing your requirements and developing a tailored solution. Their track record of innovation and flawlessness qualifies them as the ideal candidate.</p>
+
+                    <li style="list-style-type: none;"><strong>The approach based on specific requirements</strong></li>
+                    <p class="text_content">Every project is unique to our developers. They carefully listen to your specific business demands, giving close attention to detail. Your solution is methodically created to ensure that every criterion is met</p>
+                
+                    <li style="list-style-type: none;"><strong>Excellent Communicators</strong></li>
+                    <p class="text_content">Whether it's a detailed discussion of your requirements or a mutual decision on the best potential features, the developers never let you down. Their capacity to listen carefully and communicate facilitates communication.</p>
+
+                    <li style="list-style-type: none;"><strong>Outstanding professionalism</strong></li>
+                    <p class="text_content">Our developers tackle everything professionally, whether it's demand analysis, communication, or project execution. They are educated to remain relaxed and efficient even in stressful conditions.</p>
+
+                    <li style="list-style-type: none;"><strong>Transparency and ethics</strong></li>
+                    <p class="text_content">We maintain the process entirely transparent from the beginning of the hiring process through assigning engineers and delivering the solution. Work ethics is always on our developers' minds.</p>
+                    
+                    <li style="list-style-type: none;"><strong>Facilitating Working Remotely</strong></li>
+                    <p class="text_content">Hire Coworker is one of the many companies that encourage employees to working remotely. If you manage a business and need to accommodate personnel who travel frequently or work from multiple locations, building an e-commerce website will help.</p>
+
+                </ul>
+            </div>
         </div>
 
 
         <div class="content_div">
-            <h2 class="content-heading">Why Select Hire Coworker for Online Reputation Management?</h2>
+            <h2 class="content-heading">Hiring Process for E-commerce Developer</h2>
+            <p class="text_content"> Hire Coworker is the ideal location to find an e-commerce virtual assistant. We have a highly trained and experienced development staff that can assist you in creating a profitable online business. Here's how you hire an e-commerce virtual assistant:</p>
             <div class="ul_div">
                 <ul>
-                    <li style="list-style-type: none;"><strong>Constant Observation</strong></li>
-                    <p class="text_content">Our reputation management professionals constantly monitor your online reputation to ensure it remains pure and secure. Therefore, we serve as your devoted reputation manager.</p>
+                    <li style="list-style-type: none;"><strong>1 Identify Your Requirements</strong></li>
+                    <p class="text_content">What qualifications are required? What kind of background is needed? Which kind of developer are you seeking? If you can answer these and other questions, you'll be well on your way to choosing the right virtual assistant for your company.</p>
 
-                    <li style="list-style-type: none;"><strong>Value for Money Arrangements</strong></li>
-                    <p class="text_content">You will not have to empty your wallet to preserve your reputation. To maintain a long-lasting relationship with you, we provide reasonably priced services for managing your online reputation.</p>
+                    <li style="list-style-type: none;"><strong>2 Study</strong></li>
+                    <p class="text_content">It's time to start looking for what you're looking for. Who are the top developers in your neighborhood? How do their portfolios appear? What are the prices? Doing your research will ensure you pick an e-commerce web developer suitable for your budget and requirements.</p>
                 
-                    <li style="list-style-type: none;"><strong>Complete Confidentiality</strong></li>
-                    <p class="text_content">We take a detailed approach to all processes, which enables us to delve deeply into the know-how and produce the finest for you!</p>
+                    <li style="list-style-type: none;"><strong>3 Candidates Interview</strong></li>
+                    <p class="text_content">After you've identified a few applicants, it's time to conduct interviews. This is your opportunity to get to know the virtual assistant and determine whether or not they are a suitable fit for your team. Inquire about their previous experience, abilities, and aspirations. You should also assign them a project or two to observe their capabilities in action.</p>
 
-                    <li style="list-style-type: none;"><strong>Affirmation & Credibility</strong></li>
-                    <p class="text_content">We comprehend the importance of a person's reputation, so we only take actions in which we are entirely confident.</p>
+                    <li style="list-style-type: none;"><strong>4 Come To A Decision</strong></li>
+                    <p class="text_content">It's time to decide once you've interviewed all your applicants. WWho would be the ideal match for your business? Take your time and hire the best e-commerce developer for your demands.</p>
                     
 
 
@@ -247,89 +266,81 @@ include_once '../../init.php';
 
         </div>
         <div class="content_div">
-            <h2 class="content-heading">How to Manage Your Reputation</h2>
-            <p class="text_content">A successful reputation management plan must be adapted to each situation. Depending on the nature of their operations and the health of their reputation, each organization has unique obstacles. </p><br>
-            <p class="text_content"><strong>An all-encompassing plan might contain the following:</strong></p>
-            <p class="text_content">Creating new websites and pages highlighting the beneficial elements of your identity or brand</p><br>
-            <p class="text_content">It targeted SEO (search engine optimization) to raise the standing of websites that positively represent you or your company.</p><br>
-            <p class="text_content">Production of content promoting your best qualities for websites, press releases, and news organizations.</p><br>
-            <p class="text_content">A solid client base and a positive reputation require effective branding and social media management.</p><br>
-            <p class="text_content">Reputation management campaigns for Fortune 500 corporations, their CEOs, and boards of directors have been handled by our reputation management services organization on behalf of a wide range of client campaigns.</p>
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">What Constitutes Reputation Management's Core Elements? </h3>
-            <p class="text_content">Online reputation management services use a variety of tactics to improve a brand's online reputation. The most frequent are as follows:</p>
+            <h2 class="content-heading">The Benefits of Hiring an E-commerce Website Development Service</h2>
             <div class="ul_div">
                 <ul>
-                    <li style="list-style-type:none ;"><strong>Creation of Content</strong></li>
-                    <p class="text_content">Producing good content is one of the best strategies for suppressing lousy search results and developing a controllable online reputation. Most reputation management companies include content production in some capacity, including creating websites, articles, blog entries, wiki sites, press releases, business profiles, and business listings.</p>
-                    <p class="text_content">SEO (search engine optimization) You may optimize your web content for search engines with the assistance of reputation management organizations. To give your material the best chance of getting seen when people search for your company or other firms in your field, they ensure that it has the appropriate keywords, metadata, and headlines</p>
-                    <li style="list-style-type: none;"><strong>Consideration of Acquisition and Management</strong></li>
-                    <p class="text_content">Services for managing your online reputation can assist you in obtaining and maintaining reviews on various websites, including Google, Facebook, and Yelp. They contact past clients for fresh feedback, provide auto-responses, and encourage favorable reviews. They can respond on your behalf if you get a terrible review or promptly let you know so you can fix it. Some businesses use review acquisition and management tactics as their primary tools for managing their reputation. They offer a platform that lets you handle all your review-related tasks in one location.</p>
-                    <li style="list-style-type: none;"><strong>Social Media Administration</strong></li>
-                    <p class="text_content">Maintaining active social profiles is an excellent method to promote your company and handle unfavorable social media remarks. This entails creating profiles for you on all pertinent social media sites, choosing what and when to post there, and watching for adverse comments. Online reputation management services can set up social media accounts on the networks most important to your company (such as Facebook, Twitter, LinkedIn, Instagram, and Pinterest), monitor those accounts, and take further actions as needed.</p>
-                    <li style="list-style-type: none;"><strong>Crisis Control</strong></li>
-                    <p class="text_content">Although not all reputation management services provide crisis management services, they can be helpful if your reputation is attacked. They may use techniques like content suppression, press releases, and creating good content to boost your reputation swiftly.</p>
-                    <li style="list-style-type: none;"><strong>Monitoring and Reporting Online </strong></li>
-                    <p class="text_content">Online reputation management services can watch for your company's mentions on other websites, blogs, forums, and news sources. In addition to other websites and blogs where your company is being mentioned, they also check review websites like Yelp and Glassdoor. This guarantees you know when and what is being said about your company online. Additionally, businesses can track the outcomes of their reputation management activities and provide feedback. They explain how your search engine results have changed and which social media and review sites are best for your company.</p>
+                    <li style="list-style-type: none;"><strong>1. Mobile Business</strong></li>
+                    <p class="text_content">The modern customer has a diverse set of interests. They want to use their mobile devices for everything from listening to music and watching videos to shopping online. A mobile device must be able to visit your E-commerce website. Many mobile users will only see your site if it is accessible via smartphone or tablet. An E-commerce website development company will ensure your site is user-friendly and functional on all mobile devices.</p>
+                    <p class="text_content">An excellent example of an established e-commerce development company is Hire Coworker, which has a staff of skilled virtual assistant and serves clients worldwide.</p>
+
+                    <li style="list-style-type: none;"><strong>2. Interesting Theme</strong></li>
+                    <p class="text_content">If you're building an E-commerce website, you'll want it to appear suitable. A well-designed website will not only be user-friendly, but it will also be aesthetically beautiful. Your website's design should be consistent. Nobody wants to open your website and discover it has been redesigned before its launch date. An E-commerce website development company's services are the most excellent approach to ensure that your product or service appears as appealing and professional as possible.</p>
+                
+                    <li style="list-style-type: none;"><strong>3. Technical Help</strong></li>
+                    <p class="text_content">If you build your E-commerce site in-house, you will be in charge of upgrading and maintaining it. On the other hand, a seasoned E-commerce website development company will offer various services. They can review your site and offer suggestions on improving it. Your business will also benefit from the technical skills provided by E-commerce website development companies to solve faults and implement new features as needed.</p>
+
+                    <li style="list-style-type: none;"><strong>4. Improved Personalization</strong></li>
+                    <p class="text_content">The advantages of using an E-commerce website builder include expert designers and developers who can tailor your site to your specific requirements. They will walk you through fine-tuning your product or service listings, pricing, and any other essential components of your company. You will be able to make minor modifications to the design of your website, and it will finally look precisely how you want it to.</p>
+
+                    <li style="list-style-type: none;"><strong>5. User Experience</strong></li>
+                    <p class="text_content">A well-designed and simple-to-navigate E-commerce website is the only thing consumers will consider seriously. Your website must be user-friendly to establish a credible presence in your industry. Your audience should be able to navigate your website and quickly locate the information they seek. If a customer has any queries or concerns, they should be able to contact a customer service representative via phone or email without difficulty. And for this to occur, you need the assistance of a professional E-commerce website development company to make your products and services user-friendly</p>
+                    <p class="text_content">You may improve client experience by working with development companies like Hire Coworker. To do this, the company must create a website that operates without slowness, hang-ups, or crashes under any traffic conditions. Hiring a virtual assistant that is knowledgeable about the most recent technological developments and can select the ideal combination for the development of your platform is also the best option.</p>
+
+                    <li style="list-style-type: none;"><strong>6. Traffic circulation</strong></li>
+                    <p class="text_content">The primary objective of a website or application development is to ensure that it functions effectively and has market applications. In addition, you must ensure that your website or application is optimized for the most recent SEO trends. In addition to these factors, simple website design attracts users by making locating the information they seek easy. Your website has an advantage over the competition thanks to its user-friendly layout.</p>
+
+                    <li style="list-style-type: none;"><strong>7. Management</strong></li>
+                    <p class="text_content">The development company handles the entire project independently, so the client's project manager is not required to be engaged in significant development work. After the platform has been completely developed, they can concentrate on developing usage strategies instead. This makes the development process sufficiently smooth, and the flow is basic enough that everything is noticed on time.</p>
+                    
+
+
                 </ul>
             </div>
         </div>
         <div class="content_div">
-            <h2 class="content-heading">Why Employ a Virtual Assistant for Online Reputation Management?</h2>
-            <p class="text_content">If you want to hire a virtual reputation management assistant, look no further. Among the most compelling arguments for selecting our Virtual Assistant are the following:</p>
+            <h2 class="content-heading">Why is e-commerce web design crucial? </h2>
+            <p class="text_content">Let's discuss why effective web design is crucial for the success of your e-commerce site now that you understand what e-commerce web design is.</p>
+            <p class="text_content"><strong>An effective website design is crucial for the following reasons:</strong></p>
+            <p class="text_content">94% of initial impressions are influenced by web design; therefore, it creates the first impression. The majority of the time, a person will interact with your brand for the first time through your website. Thus it must look good to encourage them to stay on your page.</p><br>
+            <p class="text_content">It enhances the user experience because 89% of customers will purchase at a competitor if they have a terrible time on your e-commerce site. Your website's web design is crucial to giving it a pleasing appearance and enhancing user experience so that customers can quickly and easily discover the information they require.</p><br>
+            <p class="text_content">It aids in differentiating you from rivals. 73% of businesses use web design to differentiate themselves from the competition. The implication is that if you don't use web design, your competitors will. If you choose a unique web design, your e-commerce website will stand out from the competition and draw in more visitors and sales.</p><br>
+            <p class="text_content">Your site will rank higher than your rivals when you use an efficient e-commerce website design, and customers will have a favorable and long-lasting impression of your company, which will keep them coming back for more.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">How Do You Select the Best E-Commerce Website Development Company?</h2>
+            <p class="text_content">You've read about the different advantages of having an e-Commerce website. You must select the correct e-Commerce development partner to build an e-Commerce website for your firm. Numerous businesses provide e-Commerce development services, making it tough to choose the best one. Here are some pointers for locating a trustworthy company to build your e-Commerce website.</p>
             <div class="ul_div">
                 <ul>
-                    <li style="list-style-type:none ;"><strong> Only Pay for Completed Work</strong></li>
-                    <p class="text_content">With our services, you do not have to pay for infrastructure or permanent in-house resources. With our pay-as-you-go pricing model, you only pay for the reputation management virtual marketing services our Virtual Assistant provides.</p>
+                    <li style="list-style-type:none ;"><strong> Project Requirements</strong></li>
+                    <p class="text_content">First and foremost, you must comprehend your project's specifications. Determine whether you require a B2B, B2C, multivendor, or other website form.</p>
                    
-                    <li style="list-style-type: none;"><strong>No Administrative Concerns</strong></li>
-                    <p class="text_content">As part of our service, we provide all virtual assistants with first-rate office space. Our prices are all-inclusive and include infrastructure and provisioning expenses, such as the cost of computers.</p>
-                    <!-- <li style="list-style-type: none;"><strong>Social Media Administration</strong></li> -->
-                    <!-- <p class="text_content">Maintaining active social profiles is an excellent method to promote your company and handle unfavorable social media remarks. This entails creating profiles for you on all pertinent social media sites, choosing what and when to post there, and watching for adverse comments. Online reputation management services can set up social media accounts on the networks most important to your company (such as Facebook, Twitter, LinkedIn, Instagram, and Pinterest), monitor those accounts, and take further actions as needed.</p> -->
-                    <p class="text_content">Zero Payroll Concerns</p>
-                    <p class="text_content">You do not have to fret about managing payrolls and providing benefits packages with us. Our prices are all-inclusive, and we handle all administrative and payroll concerns.</p>
-                    <li style="list-style-type: none;"><strong>Superior Services</strong></li>
-                    <p class="text_content">Our virtual assistants are committed to providing consistent service of the utmost quality, which is how we distinguish ourselves from the competition. We take every precaution to ensure that you are always satisfied with the performance of our virtual assistants.</p>
-                    <li style="list-style-type: none;"><strong>Timeliness</strong></li>
-                    <p class="text_content">Hire Coworker recognizes that one of your primary motivations for outsourcing to us is to save time. Keeping this in mind, our virtual assistants will exert additional effort to ensure all deliverables are completed well before the deadlines.</p>
-                    <li style="list-style-type: none;"><strong>Specialized Experts Dedicated to Your Projects</strong></li>
-                    <p class="text_content">Our virtual assistants are recruited based on their specialized skill sets and industry experience. With us, you will always receive a virtual assistant who has been meticulously matched to your needs and abilities.</p>
-                    <li style="list-style-type: none;"><strong>Ability to Grow at Your Rate</strong></li>
-                    <p class="text_content">We can easily accommodate your request if you need to increase or decrease the number of people working on your project. You need not be concerned with adapting to fluctuating business volumes or conditions.</p>
-                    <li style="list-style-type: none;"><strong>Superior Data Privacy & Security</strong></li>
-                    <p class="text_content">Our virtual assistants must sign non-disclosure agreements (NDAs), and our data security measures are highly robust. Our stringent data security measures are intended to guarantee that your data is always utilized safely and securely.</p>
+                    <li style="list-style-type: none;"><strong>Trust Factors</strong></li>
+                    <p class="text_content">When evaluating different companies, you must consider several trust criteria, such as reviews and testimonials, to establish legitimacy. Studies provide information on the quality of service and other details.</p>
+                    
+                   
+                    <li style="list-style-type: none;"><strong>Examine your portfolio</strong></li>
+                    <p class="text_content">It would help to look at a company's portfolio to see what projects they have performed and whether they have worked in a similar area to yours.</p>
+
                 </ul>
             </div>
         </div>
 
         <div class="content_div">
-            <h2 class="content-heading">What are the most significant benefits of working remotely?</h2>
-            <p class="text_content">Working remotely, or work-from-home or telecommuting, has exploded in prominence for various reasons. To begin with, it can help businesses save money on office expenses like rent, utilities, and furniture.</p><br>
-            <p class="text_content">And with the proliferation of high-speed internet and mobile devices, it is simpler than ever for employees to remain connected and productive from anywhere in the world.</p><br>
-            <p class="text_content">Therefore, cost-effectiveness and productivity are among working remotely are most frequently cited benefits. In addition to these economic benefits, working remotely offers numerous other attractive advantages to employers and employees.</p>
-          
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">How long does it take to manage your online reputation?</h2>
-            <p class="text_content">How long it takes to see results from online reputation management services is still being determined; it depends on the current condition of your brand's image and the strategies your hired service employs. Others may see insignificant improvements for six to twelve months. Remember that these services do not offer a fast fix; they use strategies that take time to bear fruit. Typically, online reputation management services are profitable for patient businesses.</p><br>
+            <h2 class="content-heading">What is the cost of an e-commerce website?</h2>
+            <p class="text_content">The cost of developing an e-Commerce website varies greatly depending on your needs. The prices are affordable if you only need a rudimentary online store with minimal functionality and a storefront. Hire Coworker provides reliable e-Commerce development at a reasonable cost.</p>
         
           
         </div>
-
-    </section>
     <!-- content section end -->
 
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            BEST DIGITAL MARKETING EXPERT</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image"
-                        alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <p class="expert-name">Edward C.</p>
@@ -339,8 +350,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years
-                    experience in the banking, fintech, enterprise, etc.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Linkedin</p>
@@ -366,8 +376,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Syed K.</p>
@@ -377,8 +386,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on
-                    projects that were mission-critical.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Google Data Studio</p>
@@ -404,8 +412,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Kristine S.</p>
@@ -415,8 +422,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6
-                    years of diverse digital marketing expertise.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Social Media Marketing</p>
@@ -459,7 +465,143 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                    Search Engine Optimization (SEO)
+                Web Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                CMS Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Software Development Services
+                </div>
+                <div class="list_data">
+                    $6
+                </div>
+                <div class="list_data">
+                    $45
+                </div>
+                <div class="list_data">
+                    $300
+                </div>
+                <div class="list_data">
+                    $1100
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                DataBase Development Services
+                </div>
+                <div class="list_data">
+                    $15
+                </div>
+                <div class="list_data">
+                    $100
+                </div>
+                <div class="list_data">
+                    $650
+                </div>
+                <div class="list_data">
+                    $2500
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                IT security Services
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $450
+                </div>
+                <div class="list_data">
+                    $1700
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Machine Learning Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Network Installation Services
+                </div>
+                <div class="list_data">
+                    $15
+                </div>
+                <div class="list_data">
+                    $100
+                </div>
+                <div class="list_data">
+                    $650
+                </div>
+                <div class="list_data">
+                    $2500
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Frontened Development Services
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $900
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Backened Development Services
                 </div>
                 <div class="list_data">
                     $5
@@ -476,189 +618,19 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Social Media Handler
+                FullStack Development Services
                 </div>
                 <div class="list_data">
-                    $3
+                    $6
                 </div>
                 <div class="list_data">
-                    $22
+                    $45
                 </div>
                 <div class="list_data">
-                    $150
+                    $300
                 </div>
                 <div class="list_data">
-                    $550
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Email Marketing Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Local SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Franchise SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Content Marketing Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Link Building
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Online Reputation Management (ORM)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Conversion Rate Optimization (CRO)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Amazon Marketing Services (AMS)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    PPC Advertisement Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Social Media Advertisement Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
+                    $1100
                 </div>
             </div>
         </div>
@@ -787,68 +759,41 @@ include_once '../../init.php';
 
             <div class="faqs-child">
                 <details>
-                    <summary>What can my virtual assistant do for me on social media?</summary>
+                    <summary>What exactly are web development services?</summary>
                     <div class="faq__content">
-                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot
-                            physically be present in your workplace, but they can log into your numerous social media
-                            networks, automate postings, do research, recognize trends, and much more. Ask a VA which
-                            hashtags are suitable for your next post. Ask a VA to put up an automatic system for
-                            scheduling postings. When you use a VA's experience, there is no limit to what you may do.
-                        </p>
+                        <p class="text">Website development services are a set of options for anyone who wants to build, redesign, or increase the performance/capabilities of their website. These services are critical for developing and maintaining a website that achieves its intended goal, whether that goal is to generate leads, generate revenue, disseminate information, or assist your customer base.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Is it difficult to train a virtual assistant for my particular accounts?</summary>
+                    <summary>Can I hire a web developer full-time?</summary>
                     <div class="faq__content">
-                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will
-                            want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform
-                            them of the duties you anticipate them to complete. Respond to their inquiries. As time
-                            passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
+                        <p class="text">Web developers can be hired full-time. Your needs will determine whether or not that is the best option for you. Some businesses may choose to hire a specialized web development agency, while others may prefer on-staff, full-time developers, while still others may prefer part-time, freelance, or outsourced web developers. In either case, you should carefully analyze the advantages and disadvantages of each model to choose which option is best for you.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will my assistant be treated similarly to a full-time employee?</summary>
+                    <summary>What types of web development companies?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a
-                            part-time employee or as a full-time employee. They will not be physically present in your
-                            firm, but they have the potential to become crucial. Many VAs, on the other hand, discover
-                            that they prefer this structure to typical employment since it gives them more authority and
-                            influence over their own professional life. And for you, the business, better productivity,
-                            and a more prudent budget will help your company succeed.</p>
+                        <p class="text">Leading web development firms to come in a variety of shapes and sizes. Some may be solely committed to web development, while others, like BairesDev, may also focus on software development and other technical disciplines. Some specialize in specific sorts of websites or online applications, such as custom solutions, enterprise goods, CMS development, eCommerce, and others. They can also provide maintenance and upgrades.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How effective are virtual assistants at handling social media?</summary>
+                    <summary>What areas of expertise does a web development company have?</summary>
                     <div class="faq__content">
-                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train
-                            them. But, if you hire someone with a lot of expertise dealing with numerous social media
-                            outlets, you'll see that it might be quite different. Many high-quality VAs originate from
-                            the realm of social media and may even have a large presence themselves. In certain
-                            circumstances, a VA may be able to give advice and advise you on the best technique. You
-                            don't have to restrict yourself to automating the most basic chores like scheduling posts or
-                            researching in the background. A social media VA may be much more—if you employ the proper
-                            one.</p>
+                        <p class="text">A web development agency that specializes in building, designing, deploying, updating, and maintaining websites and web applications. They typically employ front-end and back-end developers, as well as professionals like UX or UI designers, QA testers, and project managers to create web products that are attractive, functional, and high-performance. They may specialize in particular services or kinds of web technologies, web products, and digital marketing</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Who is a virtual assistant for?</summary>
+                    <summary>How do you find a web development company?</summary>
                     <div class="faq__content">
-                        <p class="text">There is no one solution here, yet many people would benefit from having a VA.
-                            Executives, freelancers, entrepreneurs, C-level executives, social media managers, and
-                            others are all welcome. Everyone who has a lot of social media chores on their plate and
-                            wants to make sure they get more done during the day would benefit from the experience.
-                            But we don't want you to believe that you are constrained by these definitions. The reality
-                            is that anyone who may profit from having more time in their working days as a result of
-                            being able to outsource some of their work to a social media virtual assistant will quickly
-                            recognize the benefit.</p>
+                        <p class="text">You can find web development businesses by browsing Google, connecting with a friend, or contacting a company whose website you like and asking for comments. Do your homework on organizations by reading reviews on Google and company directories like UpCity, as well as analyzing case studies of completed projects.</p>
                     </div>
                 </details>
             </div>
@@ -872,7 +817,9 @@ include_once '../../init.php';
 
     <!-- scripts -->
     <!-- -------------------------- -->
-    <?php include_once script_new;?>
+    <?php include_once script_new; ?>
+
+
 </body>
 
 </html>

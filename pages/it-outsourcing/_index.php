@@ -237,7 +237,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a href="<?=home_path()?>ecommerce-web-development"class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/ecommerce-development.png" alt="E-commerce Developmetnt">
                     <p>E-commerce Solution</p>
                     <div class="categories flex flex-center">
