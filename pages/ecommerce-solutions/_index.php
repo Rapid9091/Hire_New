@@ -270,7 +270,7 @@ include_once '../../init.php';
 
 
             <div class="it-services-grid-1  grid-center">
-                <a  href="" class="grid-center">
+                <a  href="<?=home_path()?>goggle-reviews" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/machine-learning.png" alt="Machine Learning">
                     <p>Google Reviews Services</p>
                     <div class="categories flex flex-center">

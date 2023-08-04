@@ -102,6 +102,7 @@ ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/busine
 ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire-amazon-virtual-assistant.php [NC,L]
 ReWriteRule ^sales-funnel-development([/]?)$ pages/ecommerce-solutions/sales-funnel-development.php [NC,L]
 ReWriteRule ^ecommerce-web-development([/]?)$ pages/ecommerce-solutions/ecommerce-web-development.php [NC,L]
+ReWriteRule ^goggle-reviews([/]?)$ pages/ecommerce-solutions/goggle-reviews.php [NC,L]
 
 ReWriteRule ^medical-billing-virtual-assistant([/]?)$ pages/medical-process-outsourcing/medical-billing-virtual-assistant.php [NC,L]
 ReWriteRule ^insurance-verification-virtual-assistant([/]?)$ pages/medical-process-outsourcing/insurance-verification-virtual-assistant.php [NC,L]
