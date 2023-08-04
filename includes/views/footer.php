@@ -103,7 +103,7 @@
         <div class="social-icons flex-center">
             <p>Follow Us at:</p>
 
-            <address class="">
+            <address class="" style="display: flex;gap: 5px;}">
                 <a href="https://www.facebook.com/profile.php?id=100088041885059&mibextid=ZbWKwL" target="_blank"> <img  width="30px" height="30px" src="<?= get_img() ?>facebook-icon.webp" alt="HireCoworker " loading="lazy" /> </a>
                 <a href="https://www.linkedin.com/company/hire-co-worker/" target="_blank"> <img width="30px" height="30px" src="<?= get_img() ?>linkedin-icon.webp" alt="HireCoworker " loading="lazy"/> </a>
                 <a href="https://www.instagram.com/hirecoworker/" target="_blank"> <img width="30px" height="30px" src="<?= get_img() ?>instagram-icon.webp" alt="HireCoworker instagram" loading="lazy" /> </a>

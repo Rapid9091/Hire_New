@@ -8,33 +8,32 @@ include_once '../../init.php';
 
 <head>
 
-    <title>HireCoworker | IT Outsourcing Services & Consulting Company in the USA</title>
-    <meta name="title" content=" IT Outsourcing Services & Consulting Company in the USA">
-    <meta name="description" content="HireCoworker provide IT Outsourcing Services for companies of all sizes. If you looking for best IT outsourcing Services & consulting Company. Then you are right place." />
+<title>HireCoworker | Ecommerce Solutions & Consulting Company in the USA</title>
+    <meta name="title" content=" HireCoworker | Ecommerce Solutions & Consulting Company in the USA">
+    <meta name="description" content="By using our knowledge and resources to provide the ideal eCommerce solutions and ecommerce services for your company, we at Hire Coworker can assist in enhancing your marketing initiatives." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content=" IT Outsourcing Services & Consulting Company in the USA" />
-    <meta property="og:description" content="HireCoworker provide IT Outsourcing Services for companies of all sizes. If you looking for best IT outsourcing Services & consulting Company. Then you are right place." />
-    <meta property="og:url" content="https://hirecoworker.com/services/it-outsourcing" />
-    <meta property="og:site_name" content="IT Outsourcing Services & Consulting Company in the USA" />
+    <meta property="og:title" content=" HireCoworker | Ecommerce Solutions & Consulting Company in the USA" />
+    <meta property="og:description" content="By using our knowledge and resources to provide the ideal eCommerce solutions and ecommerce services for your company, we at Hire Coworker can assist in enhancing your marketing initiatives." />
+    <meta property="og:url" content="https://hirecoworker.com/services/ecommerce-solutions-service" />
+    <meta property="og:site_name" content="HireCoworker | Ecommerce Solutions & Consulting Company in the USA" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content=" IT outsourcing services in usa, IT outsource services, IT service outsourcing, IT outsourcing services company, IT services outsource in usa, IT outsourcing company in usa, outsourcing IT services company, IT services outsourcing company in usa, outsourcing IT company, outsourcing IT company in usa, IT service management outsourcing, IT service management outsourcing company in usa">
-    <meta property="article:tag" content="IT outsourcing services in USA" />
-    <meta property="article:tag" content="IT outsource services" />
-    <meta property="article:tag" content="IT service outsourcing" />
-    <meta property="article:tag" content="IT outsourcing services company" />
-    <meta property="article:tag" content="IT services outsource in USA" />
-    <meta property="article:tag" content="IT outsourcing company in USA" />
-    <meta property="article:tag" content="outsourcing IT services company" />
-    <meta property="article:tag" content="IT services outsourcing company in usa" />
-    <meta property="article:tag" content="outsourcing IT company" />
-    <meta property="article:tag" content="outsourcing IT company in USA" />
-    <meta property="article:tag" content="IT service management outsourcing" />
-    <meta property="article:tag" content="IT service management outsourcing company in USA" />
+    <meta name="keywords" content="ecommerce solutions service, ecommerce website development, ecommerce website development services, ecommerce development services, ecommerce development services, best ecommerce website design,  ecommerce website development company,  ecommerce development solutions ">
+    <meta property="article:tag" content="ecommerce solutions service" />
+    <meta property="article:tag" content="ecommerce website development" />
+    <meta property="article:tag" content="ecommerce website development services" />
+    <meta property="article:tag" content="ecommerce development services" />
+    <meta property="article:tag" content="ecommerce development services" />
+    <meta property="article:tag" content="best ecommerce website design" />
+    <meta property="article:tag" content="ecommerce website development company" />
+    <meta property="article:tag" content="ecommerce development solutions" />
+    
+
+
 
     <?php include_once head; ?>
 
     <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
-    <link rel="stylesheet" href="<?= get_css() ?>it-outsourcing-services/it-outsourcing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>ecommerce-solutions/ecommerce-solutions.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_reviews.css">
@@ -94,9 +93,9 @@ include_once '../../init.php';
     </div>
 
     <!-- -------------------------- -->
-    <!-- Why to IT Outsourcing -->
+    <!-- Why to ecommerce-solutions-->
     <!-- -------------------------- -->
-    <section class="why-outsourcing padding">
+    <!-- <section class="why-outsourcing padding">
         <h2 class="section-heading"></h2>
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out">WHY US</p>
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out">Why Choose HireCoworker For IT Outsource</h3>
@@ -169,20 +168,20 @@ include_once '../../init.php';
                 </ul>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- -------------------------- -->
     <!-- Services in IT Outsourcing -->
     <!-- -------------------------- -->
     <section class="it-services padding">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">SERVICES</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">IT outsourcing Services</h3>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Ecommerce Solutions Services</h3>
 
         <div class="it-services-grid grid">
             <div class="it-services-grid-1  grid-center">
-                <a href="<?=home_path()?>va-web-development" class="grid-center">
+            <a href="<?=home_path()?>ecommerce-web-development"class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/web-development.png" alt="Web Developmetnt">
-                    <p>Website Development</p>
+                    <p>Ecommerce Web Development</p>
                     <div class="categories flex flex-center">
                         <div class="category">Development</div>
                         <div class="category">Website</div>
@@ -191,97 +190,97 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="<?=home_path()?>cms-development" class="grid-center">
-                    <img loading="lazy" src="<?= get_img() ?>it-outsourcing/cms-development.png" alt="CMS Developmetnt">
-                    <p>CMS Development</p>
+                <a href="" class="grid-center">
+                    <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/coustmer-mail.png" alt="CMS Developmetnt">
+                    <p>Customer Mail Handling</p>
                     <div class="categories flex flex-center">
-                        <div class="category">Development</div>
-                        <div class="category">CMS</div>
+                        <div class="category"> Mail</div>
+                        <div class="category">Handling</div>
                     </div>
                 </a>
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a  href="<?=home_path()?>software-development-va" class="grid-center">
-                    <img loading="lazy" src="<?= get_img() ?>it-outsourcing/software-development.png" alt="Software Developmetnt">
-                    <p>Software Development</p>
+                <a  href="" class="grid-center">
+                    <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/chargebackk.png" alt="Software Developmetnt">
+                    <p>Chargebacks Handling</p>
                     <div class="categories flex flex-center">
-                        <div class="category">Development</div>
-                        <div class="category">Software</div>
+                        <div class="category">Chargebacks</div>
+                        <div class="category">Handling</div>
                     </div>
                 </a>
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a  href="<?=home_path()?>frontend-development-services" class="grid-center">
-                    <img loading="lazy" src="<?= get_img() ?>it-outsourcing/frontend-development.png" alt="Frontend Development">
-                    <p>Frontend Development</p>
+                <a  href="<?=home_path()?>hire-amazon-virtual-assistant" class="grid-center">
+                    <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/amazon-handling.png" alt="Frontend Development">
+                    <p>Amazon Account Handling</p>
                     <div class="categories flex flex-center">
-                        <div class="category">Frontend</div>
-                        <div class="category">Development</div>
+                        <div class="category">Account</div>
+                        <div class="category">Handling</div>
 
                     </div>
                 </a>
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
-                    <img loading="lazy" src="<?= get_img() ?>it-outsourcing/app-development.png" alt="Application Development">
-                    <p>Application Development</p>
+                <a href="" class="grid-center">
+                    <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/ebayy.png" alt="Application Development">
+                    <p>Ebay Account Handling</p>
                     <div class="categories flex flex-center">
-                        <div class="category">App</div>
-                        <div class="category">Application</div>
+                        <div class="category">Account</div>
+                        <div class="category">Handling</div>
 
                     </div>
                 </a>
             </div>
 
-            <!-- <div class="it-services-grid-1  grid-center">
-               
+            <div class="it-services-grid-1  grid-center">
+                <a href=""class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/ecommerce-development.png" alt="E-commerce Developmetnt">
-                    <p>E-commerce Solution</p>
+                    <p>Walmart Account Handling</p>
                     <div class="categories flex flex-center">
-                        <div class="category">E-commerce</div>
-                        <div class="category">Management</div>
-                    </div>
-                </a>
-            </div> -->
-
-            <div class="it-services-grid-1  grid-center">
-                <a href="<?=home_path()?>database-development-services" class="grid-center">
-                    <img loading="lazy" src="<?= get_img() ?>it-outsourcing/database-development.png" alt="Database Developmetnt">
-                    <p>Database Development</p>
-                    <div class="categories flex flex-center">
-                        <div class="category">Database</div>
-                        <div class="category">CMS</div>
+                        <div class="category"> Account</div>
+                        <div class="category">Handling</div>
                     </div>
                 </a>
             </div>
 
             <div class="it-services-grid-1  grid-center">
-            <a href="<?=home_path()?>it-security-services" class="grid-center">
+                <a href="" class="grid-center">
+                    <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/dropshippingg.png" alt="Database Developmetnt">
+                    <p>Dropshipping Store Handling</p>
+                    <div class="categories flex flex-center">
+                        <div class="category">Store</div>
+                        <div class="category">Handling</div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="it-services-grid-1  grid-center">
+                <a  href=""  class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/it-security.png" alt="IT Security Development">
-                    <p>IT Security</p>
+                    <p>Sales Funnel Development + Support</p>
                     <div class="categories flex flex-center">
-                        <div class="category">IT</div>
-                        <div class="category">Security</div>
+                        <div class="category">Development</div>
+                        <div class="category"> Support</div>
                     </div>
                 </a>
             </div>
 
 
             <div class="it-services-grid-1  grid-center">
-                <a href="<?=home_path()?>machinelearning-service" class="grid-center">
+                <a  href="" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/machine-learning.png" alt="Machine Learning">
-                    <p>Machine Learning</p>
+                    <p>Google Reviews Services</p>
                     <div class="categories flex flex-center">
-                        <div class="category">ML</div>
-                        <div class="category">AI</div>
+                        <div class="category">Reviews</div>
+                        <div class="category">Services</div>
                     </div>
                 </a>
             </div>
-            <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+            <!-- <div class="it-services-grid-1  grid-center">
+                <a   href="" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/network-installation.png" alt="Network Installation">
                     <p>Network Installation</p>
                     <div class="categories flex flex-center">
@@ -291,7 +290,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-                <a  href="<?=home_path()?>backend-development-services" class="grid-center">
+                <a  href="" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/backend-development.png" alt="Backend Development">
                     <p>Backend Development</p>
                     <div class="categories flex flex-center">
@@ -301,7 +300,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-            <a  href="<?=home_path()?>full-stack-development-services" class="grid-center">
+            <a  href="" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/full-stack-development.png" alt="Fullstack Development">
                     <p>Fullstack Development</p>
                     <div class="categories flex flex-center">
@@ -309,7 +308,7 @@ include_once '../../init.php';
                         <div class="category">Fullstack</div>
                     </div>
                 </a>
-            </div>
+            </div> -->
         </div>
     </section>
 

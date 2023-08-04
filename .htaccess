@@ -53,9 +53,11 @@ ReWriteRule ^it-outsourcing-services([/]?)$ pages/it-outsourcing/_index.php [NC,
 ReWriteRule ^va-web-development([/]?)$ pages/it-outsourcing/va-web-development.php [NC,L]
 ReWriteRule ^software-development-va([/]?)$ pages/it-outsourcing/software-development-va.php [NC,L]
 ReWriteRule ^cms-development([/]?)$ pages/it-outsourcing/cms-development.php [NC,L]
-ReWriteRule ^ecommerce-web-development([/]?)$ pages/it-outsourcing/ecommerce-web-development.php [NC,L]
+#ReWriteRule ^ecommerce-web-development([/]?)$ pages/it-outsourcing/ecommerce-web-development.php [NC,L]
 ReWriteRule ^frontend-development-services([/]?)$ pages/it-outsourcing/frontend-development-services.php [NC,L]
 ReWriteRule ^database-development-services([/]?)$ pages/it-outsourcing/database-development-services.php [NC,L]
+ReWriteRule ^it-security-services([/]?)$ pages/it-outsourcing/it-security-services.php [NC,L]
+ReWriteRule ^machinelearning-service([/]?)$ pages/it-outsourcing/machinelearning-service.php [NC,L]
 ReWriteRule ^backend-development-services([/]?)$ pages/it-outsourcing/backend-development-services.php [NC,L]
 ReWriteRule ^full-stack-development-services([/]?)$ pages/it-outsourcing/full-stack-development-services.php [NC,L]
 
@@ -79,6 +81,7 @@ ReWriteRule ^article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L
 #ReWriteRule ^hire-article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L]
 ReWriteRule ^book-writing-services([/]?)$ pages/content-writer/book-writing-services.php [NC,L]
 ReWriteRule ^movie-script-services([/]?)$ pages/content-writer/movie-script-services.php [NC,L]
+
 ReWriteRule ^magazines-writing-service([/]?)$ pages/content-writer/magazines-writing-service.php [NC,L]
 ReWriteRule ^game-script-writing-services([/]?)$ pages/content-writer/game-script-writing-services.php [NC,L]
 ReWriteRule ^graphic-design-virtual-assistant([/]?)$ pages/dedicated-designer/graphic-design-virtual-assistant.php [NC,L]
@@ -96,8 +99,8 @@ ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/busine
 
 
 ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire-amazon-virtual-assistant.php [NC,L]
-
-
+ReWriteRule ^sales-funnel-development([/]?)$ pages/ecommerce-solutions/sales-funnel-development.php [NC,L]
+ReWriteRule ^ecommerce-web-development([/]?)$ pages/ecommerce-solutions/ecommerce-web-development.php [NC,L]
 
 ReWriteRule ^medical-billing-virtual-assistant([/]?)$ pages/medical-process-outsourcing/medical-billing-virtual-assistant.php [NC,L]
 ReWriteRule ^insurance-verification-virtual-assistant([/]?)$ pages/medical-process-outsourcing/insurance-verification-virtual-assistant.php [NC,L]
@@ -117,6 +120,6 @@ ReWriteRule ^blogs([/]?)$ pages/blogs/blogs.php [NC,L]
 ReWriteRule ^blog([/]?)$ pages/blogs/blog.php [NC,L]
 ReWriteRule ^author([/]?)$ pages/blogs/author_profile.php [NC,L]
 
-
+ReWriteRule ^ecommerce-solutions-service([/]?)$ pages/ecommerce-solutions/_index.php [NC,L]
 
 

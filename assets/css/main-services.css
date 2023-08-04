@@ -37,6 +37,8 @@
 .links-div > div {
   border-bottom: 1px solid rgba(26, 26, 26, 0.5);
   border-right: 1px solid rgba(26, 26, 26, 0.5);
+  border-left: 1px solid rgba(26, 26, 26, 0.5);
+  border-top: 1px solid rgba(26, 26, 26, 0.5);
   padding: 20px 15px;
   transition: 0.3s;
 }
@@ -48,7 +50,7 @@
 }
 .links-div .text {
   color: rgba(26, 26, 26, 0.5);
-  font-weight: 500;
+  font-weight: 600;
   font-family: "poppins", sans-serif;
   width: 100%;
   height: 100%;
@@ -74,7 +76,7 @@
   background-color: var(--pink);
 }
 .main-services-types-child {
-  border-radius: 12px;
+  border-radius: 11px;
   margin-top: 35px;
   margin-top: 5%;
   border: 1px solid var(--white);
@@ -131,14 +133,14 @@
 .main-services-types-child-content-odd-grid
   .main-services-types-child-img
   > img {
-  border-top-right-radius: 12px;
-  border-bottom-right-radius: 12px;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
 }
 .main-services-types-child-content-even-grid
   .main-services-types-child-img
   > img {
-  border-top-left-radius: 12px;
-  border-bottom-left-radius: 12px;
+  border-top-left-radius: 11px;
+  border-bottom-left-radius: 11px;
 }
 .our-values-container {
   display: grid;
@@ -147,8 +149,8 @@
   margin-top: 5%;
 }
 .our-values-box {
-  box-shadow: 2px 2px 15px rgb(0 0 0 / 4%), -2px -2px 15px 1px rgb(0 0 0 / 4%);
-  border-radius: 12px;
+  box-shadow: 1px 1px 15px rgb(0 0 0 / 4%), -1px -1px 15px 1px rgb(0 0 0 / 4%);
+  border-radius: 11px;
 }
 .our-values-box-padding {
   padding: 6.5%;
@@ -164,7 +166,7 @@
   line-height: 1.7;
 }
 .our-values-box > img {
-  border-radius: 12px;
+  border-radius: 11px;
 }
 
 .blog {
@@ -219,10 +221,10 @@
 @media screen and (max-width: 650px) {
   .landing-section-content > h2 {
     font-size: 31px;
-    margin-bottom: 22px;
+    margin-bottom: 21px;
   }
   .landing-offer-div {
-    margin-bottom: 22px;
+    margin-bottom: 21px;
   }
   .landing-section-services {
     height: 1180px;
@@ -253,8 +255,8 @@
     grid-template-columns: 1fr;
   }
   .main-services-types-child-img > img {
-    border-top-left-radius: 12px !important;
-    border-top-right-radius: 12px !important;
+    border-top-left-radius: 11px !important;
+    border-top-right-radius: 11px !important;
     border-bottom-right-radius: 0px !important;
     border-bottom-left-radius: 0px !important;
   }
@@ -269,7 +271,7 @@
     line-height: 1.5;
   }
   .our-values-box > h6 {
-    font-size: 22px;
+    font-size: 21px;
     margin-bottom: 11px;
   }
 
