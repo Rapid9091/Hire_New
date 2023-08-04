@@ -281,7 +281,7 @@ include_once '../../init.php';
                 </a>
             </div>
             <div class="it-services-grid-1  grid-center">
-                <a class="grid-center">
+                <a href="<?=home_path()?>network-installation" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/network-installation.png" alt="Network Installation">
                     <p>Network Installation</p>
                     <div class="categories flex flex-center">

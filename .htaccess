@@ -58,6 +58,7 @@ ReWriteRule ^frontend-development-services([/]?)$ pages/it-outsourcing/frontend-
 ReWriteRule ^database-development-services([/]?)$ pages/it-outsourcing/database-development-services.php [NC,L]
 ReWriteRule ^it-security-services([/]?)$ pages/it-outsourcing/it-security-services.php [NC,L]
 ReWriteRule ^machinelearning-service([/]?)$ pages/it-outsourcing/machinelearning-service.php [NC,L]
+ReWriteRule ^network-installation([/]?)$ pages/it-outsourcing/network-installation.php [NC,L]
 ReWriteRule ^backend-development-services([/]?)$ pages/it-outsourcing/backend-development-services.php [NC,L]
 ReWriteRule ^full-stack-development-services([/]?)$ pages/it-outsourcing/full-stack-development-services.php [NC,L]
 
