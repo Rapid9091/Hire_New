@@ -42,15 +42,14 @@ include_once '../../init.php';
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
                 Google Reviews Services
+
                 </h1>
 
                 <ul class="landing-ul">
-                    <li class="text">To stay ahead of the competition, e-commerce businesses must use every strategy available to .<br>
-                        You can utilize the Google Review Service feature as a helpful marketing tool.
-                    </li>
+                    <li class="text">To stay ahead of the competition, e-commerce businesses must use every strategy available to them.,<br>You can utilize the Google Review Service feature as a helpful marketing tool.</li>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire Google Reviews  Specialists
+                <a class="basic-button landing-btn" href="#">Hire Google Reviews Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -220,36 +219,35 @@ include_once '../../init.php';
     <div class="content_div">
     <h2 class="content-heading"> What are Google Reviews Services?</h2>
     <p class="text_content">Google Customer Reviews is a valuable service that allows businesses to collect reviews
-        directly on their website</p>.
+        directly on their website</p><br>
 
     <p class="text_content">In order to take part in Google Customer Reviews, it is necessary for you to have a Google
-        Merchant account.</p>.
+        Merchant account.</p><br>
 
     <p class="text_content">Google assists in gathering customer feedback, relieving you of the burden of doing it all
-        yourself. </p>.
+        yourself. </p><br>
 
     <p class="text_content">To facilitate this process, Google will email your customers, inquiring if they would like
         to share their feedback regarding their interaction with your brand. After customers decide to take part, they
-        will receive a brief survey form to complete</p>..
+        will receive a brief survey form to complete</p><br>
 
     <p class="text_content">You can showcase the feedback and ratings given by customers in surveys on your website and
         other marketing channels. Seller ratings are a feature Google provides to help customers make informed decisions
-        when shopping online</p>..
+        when shopping online</p><br>
 
     <p class="text_content">These ratings are based on various factors, including the average star rating and the number
         of ratings merchants receive. They serve as a helpful tool for customers to gauge the reputation and reliability
-        of sellers on Google</p>..
+        of sellers on Google</p><br>
 
     <p class="text_content">The rating of a merchant indicates the level of trustworthiness. A higher rating means that
-        the merchant is more trusted.</p>.
+        the merchant is more trusted.</p><br>
 </div>
 <div class="content_div">
     <h2 class="content-heading"> Google Customer Reviews Important ?</h2>
-    <p class="text_content"><strong>When you are looking at Google Reviews, it is important to keep in mind</strong>
-        :</p>.
+    <p class="text_content"><strong>When you are looking at Google Reviews, it is important to keep in mind</strong>:</p>
     <div class=”ul_div”>
-        <ul>.
-            <li>You can find our reviews by visiting our website and navigating to the "Reviews" section</li>.
+        <ul>
+            <li>You can find our reviews by visiting our website and navigating to the "Reviews" section</li>
             <li>Why are they important?</li>
             <li>How can the service improve your website's search engine rankings?</li>
             <li>How can my business obtain this product or service?</li>
@@ -257,25 +255,25 @@ include_once '../../init.php';
         </ul>
     </div>
     <p class="text_content">When potential clients are considering your services, they often look at Google reviews as
-        their first source of information. .</p>
+        their first source of information.</p><br>
 
     <p class="text_content">These reviews can significantly influence their decision to reach out and inquire about your
-        services. .</p>
+        services.</p><br>
 
     <p class="text_content">They can also assist in enhancing your website's visibility in local search engine results.
-        Your reviews must reflect your business positively and accurately represent its value and merits..</p>
+        Your reviews must reflect your business positively and accurately represent its value and merits.</p><br>
 
     <p class="text_content">If you have a small business, you probably understand the significance of getting positive
-        recommendations from customers to attract new clients..</p>
+        recommendations from customers to attract new clients.</p><br>
 
-    <p class="text_content">Reviews help spread these recommendations to a larger group of people..</p>
+    <p class="text_content">Reviews help spread these recommendations to a larger group of people.</p>
 </div>
 <div class="content_div">
     <h2 class="content-heading">Where Can You Find Your Google Review? </h2>
     <p class="text_content">To view all the previous Google reviews that you have posted for various Google My Business
-        listings, please follow these steps:.</p>
+        listings, please follow these steps.</p>
     <div class=”ul_div”>
-        <ul>.
+        <ul>
 
             <li>Log in to your Gmail account.</li>
             <li>Access Google Maps by visiting maps.google.com or using the Google Maps app on your phone.</li>
@@ -291,89 +289,89 @@ include_once '../../init.php';
 <div class="content_div">
     <h2 class="content-heading">Is EDGE Creative Helpful?</h2>
     <p class="text_content">We have helped clients from various industries manage their reviews as a Google Partner. The
-        task is to create a plan for getting good reviews and handling them promptly..</p>
+        task is to create a plan for getting good reviews and handling them promptly.</p><br>
 
     <p class="text_content">We assisted Finance Brokerage Finance 4 Business and Estate Agents Taylor Cole in contacting
-        happy customers for wording and strategy advice. This has significantly boosted their reviews..</p>
+        happy customers for wording and strategy advice. This has significantly boosted their reviews.</p><br>
 
     <p class="text_content">We have worked hard to increase our Google Reviews, and as a result, we are now one of the
-        top agencies in Sutton Coldfield for Google Reviews..</p>
+        top agencies in Sutton Coldfield for Google Reviews.</p><br>
 
-    <p class="text_content">If you are interested in finding more helpful content, please visit our website..</p>
+    <p class="text_content">If you are interested in finding more helpful content, please visit our website.</p><br>
 </div>
 <div class="content_div">
 
     <h2 class="content-heading">Paying For Google Reviews is a No-Go?</h2>
     <p class="text_content">Purchasing Google reviews is not allowed by Google's guidelines and is also considered
-        illegal by the Federal Trade Commission (FTC)..</p>
+        illegal by the Federal Trade Commission (FTC).</p><br>
 
     <p class="text_content">According to Google Support, business owners are not recommended to provide incentives to
-        customers in exchange for leaving reviews. .</p>
+        customers in exchange for leaving reviews.</p><br>
 
     <p class="text_content">This means that businesses cannot force or manipulate customers into writing positive
-        reviews by offering them money, free products, or services in exchange..</p>
+        reviews by offering them money, free products, or services in exchange.</p><br>
 
-    <p class="text_content"> If Google discovers that you have undisclosed, paid reviews, it will promptly remove them..
-    </p>
+    <p class="text_content"> If Google discovers that you have undisclosed, paid reviews, it will promptly remove them.
+    </p><br>
 
     <p class="text_content">In addition, the FTC (Federal Trade Commission) has established strict rules regarding
         reviews that are not genuine or have been paid for. If you give someone something for free or offer them special
-        deals in exchange for a review, they must let others know about it..</p>
+        deals in exchange for a review, they must let others know about it.</p><br>
 
-    <p class="text_content">Some businesses choose to outsource their review management to third-party companies. .</p>
+    <p class="text_content">Some businesses choose to outsource their review management to third-party companies.</p><br>
 
     <p class="text_content">It is essential to be cautious when selecting such companies and ensure they do not pay for
-        reviews. If you don't take action, you may face adverse outcomes..</p>
+        reviews. If you don't take action, you may face adverse outcomes.</p><br>
 </div>
 <div class="content_div">
     <h2 class="content-heading">What happens if you pay for Google reviews?</h2>
     <p class="text_content">The Federal Trade Commission (FTC) recently took action against businesses that were found
-        to be paying for Google reviews without disclosing this information..</p>
+        to be paying for Google reviews without disclosing this information.</p><br>
 
     <p class="text_content">As a result, the FTC sent Notices of Penalty Offences to hundreds of these businesses. These
         notices informed companies that if they don't disclose that they have paid for reviews, they could be fined up
-        to $43,792 for each violation..</p>
+        to $43,792 for each violation.</p><br>
 
     <p class="text_content">Google has a system in place to identify and remove fake reviews, which helps ensure the
-        credibility of online reviews..</p>
+        credibility of online reviews.</p><br>
 
     <p class="text_content"> However, suppose a business is found to be involved in fake or paid reviews. In that case,
         Google's algorithm may lower its ranking in search results. This is because Google has policies to discourage
-        such practices and promote fair and honest reviews..</p>
+        such practices and promote fair and honest reviews.</p><br>
 
     <p class="text_content">This means that your website may experience a decrease in the number of visitors over a long
-        period because your search engine optimization (SEO) will be negatively affected..</p>
+        period because your search engine optimization (SEO) will be negatively affected.</p><br>
 
     <p class="text_content">Another issue that has persisted for a significant amount of time is your company's
-        reputation..</p>
+        reputation.</p><br>
 
     <p class="text_content">Customers may be concerned about a business that pays for positive online reviews instead of
-        earning them naturally..</p>
+        earning them naturally.</p><br>
 
     <p class="text_content">Identifying fake reviews can be challenging, but observant customers may start to have
-        doubts. .</p>
+        doubts.</p><br>
 
     <p class="text_content">This is particularly relevant for new businesses that receive multiple positive reviews on
-        Google before they officially begin operating..</p>
+        Google before they officially begin operating.</p><br>
 </div>
 <div class="content_div">
 
     <h2 class="content-heading">Not all misleading reviews are compensated</h2>
     <p class="text_content">Google and the Federal Trade Commission (FTC) have provided some essential guidelines, even
         if you intend to avoid paying for reviews. Please refrain from providing free products, services, or promotions
-        in exchange for undisclosed reviews..</p>
+        in exchange for undisclosed reviews.</p><br>
 
     <p class="text_content">You may have experienced your friends or family members speaking highly of your business to
-        people they know in person. .</p>
+        people they know in person.</p><br>
 
     <p class="text_content">However, the Federal Trade Commission (FTC) advises against requesting your loved ones or
         even your staff to write positive reviews online for your business without clearly mentioning their relationship
-        with you.</p>.
+        with you.</p><br>
 
     <p class="text_content">The FTC (Federal Trade Commission) has established guidelines for online reviews. These
         guidelines provide rules and recommendations for individuals who write online reviews.</p>
     <div class=”ul_div”>
-        <ul>.
+        <ul>
 
 
             <li>It is essential only to request reviews from individuals who have used or experienced the product or
@@ -395,6 +393,9 @@ include_once '../../init.php';
         you must ensure they openly disclose any relationships with you or your business. Additionally, creating a
         strategy that promotes genuine and natural feedback from your customers would be beneficial.</p>
 </div>
+
+
+
     </section>
     <!-- content section end -->
 
@@ -530,75 +531,41 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                Web Development Services
+                Ecommerce Web Development
                 </div>
                 <div class="list_data">
-                    $5
+                $4
                 </div>
                 <div class="list_data">
-                    $35
+                    $30
                 </div>
                 <div class="list_data">
-                    $230
+                    $200
                 </div>
                 <div class="list_data">
-                    $900
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                CMS Development Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
+                    $800
                 </div>
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Software Development Services
+                Customer Mail Handling
                 </div>
                 <div class="list_data">
-                    $6
+                $4
                 </div>
                 <div class="list_data">
-                    $45
+                    $30
                 </div>
                 <div class="list_data">
-                    $300
+                    $200
                 </div>
                 <div class="list_data">
-                    $1100
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                DataBase Development Services
-                </div>
-                <div class="list_data">
-                    $15
-                </div>
-                <div class="list_data">
-                    $100
-                </div>
-                <div class="list_data">
-                    $650
-                </div>
-                <div class="list_data">
-                    $2500
+                    $800
                 </div>
             </div>
             <div class="list_row">
                 <div class="list_data">
-                IT security Services
+                Chargebacks Handling
                 </div>
                 <div class="list_data">
                     $10
@@ -607,66 +574,15 @@ include_once '../../init.php';
                     $70
                 </div>
                 <div class="list_data">
-                    $450
+                    $470
                 </div>
                 <div class="list_data">
-                    $1700
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Machine Learning Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
+                    $1850
                 </div>
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Network Installation Services
-                </div>
-                <div class="list_data">
-                    $15
-                </div>
-                <div class="list_data">
-                    $100
-                </div>
-                <div class="list_data">
-                    $650
-                </div>
-                <div class="list_data">
-                    $2500
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Frontened Development Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $900
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                Backened Development Services
+                Amazon Account Handling
                 </div>
                 <div class="list_data">
                     $5
@@ -683,21 +599,80 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                FullStack Development Services
+                Ebay Account Handling
                 </div>
                 <div class="list_data">
-                    $6
+                    $5
                 </div>
                 <div class="list_data">
-                    $45
+                    $35
                 </div>
                 <div class="list_data">
-                    $300
+                    $230
                 </div>
                 <div class="list_data">
-                    $1100
+                    $920
                 </div>
             </div>
+            <div class="list_row">
+                <div class="list_data">
+                Walmart Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Dropshipping Virtual Assistant
+                </div>
+                <div class="list_data">
+                    $3
+                </div>
+                <div class="list_data">
+                    $22
+                </div>
+                <div class="list_data">
+                    $150
+                </div>
+                <div class="list_data">
+                    $550
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Sales Funnel Development + Support
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $450
+                </div>
+                <div class="list_data">
+                    $1800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Google Reviews Services
+                </div>
+                <div class="list_data">
+                    $1.5 per review
+                </div>
+            </div>            
         </div>
     </section>
 
@@ -824,41 +799,41 @@ include_once '../../init.php';
 
             <div class="faqs-child">
                 <details>
-                    <summary>What exactly are web development services?</summary>
+                    <summary>What is an SEO expert?</summary>
                     <div class="faq__content">
-                        <p class="text">Website development services are a set of options for anyone who wants to build, redesign, or increase the performance/capabilities of their website. These services are critical for developing and maintaining a website that achieves its intended goal, whether that goal is to generate leads, generate revenue, disseminate information, or assist your customer base.</p>
+                        <p class="text">An SEO expert or SEO specialister finds methods, tactics, and procedures to boost the number of website visits and seeks to get a high-ranking placement in search engine results such as Google or Bing. Creating more leads for the organization opens up new avenues for profit and growth.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Can I hire a web developer full-time?</summary>
+                    <summary>Why would you hire a virtual SEO assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">Web developers can be hired full-time. Your needs will determine whether or not that is the best option for you. Some businesses may choose to hire a specialized web development agency, while others may prefer on-staff, full-time developers, while still others may prefer part-time, freelance, or outsourced web developers. In either case, you should carefully analyze the advantages and disadvantages of each model to choose which option is best for you.</p>
+                        <p class="text">If you lack the ability to develop keyword-rich SEO material, you will not maximize your Google ranks. Use a virtual assistant to avoid monthly retainer fees and the necessity to engage an onsite person, which will cost you extra. Let your virtual assistant to handle your Search Engine Optimization by examining critical data like as page visits, bounce rates, backlinks, link building activities, and other SEO chores such as writing blog articles and other related material. You may utilize the internet and other platforms to reach your target consumers, giving you the opportunity to expand your company faster.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>What types of web development companies?</summary>
+                    <summary>What are the advantages of hiring an SEO Virtual Assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">Leading web development firms to come in a variety of shapes and sizes. Some may be solely committed to web development, while others, like BairesDev, may also focus on software development and other technical disciplines. Some specialize in specific sorts of websites or online applications, such as custom solutions, enterprise goods, CMS development, eCommerce, and others. They can also provide maintenance and upgrades.</p>
+                        <p class="text">Expert search engine optimization may significantly boost your ranks. Spend less money since hiring a virtual assistant is more cost-effective over time. You may devote more time to your main tasks.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>What areas of expertise does a web development company have?</summary>
+                    <summary>What is the difference between SEO and SEM?</summary>
                     <div class="faq__content">
-                        <p class="text">A web development agency that specializes in building, designing, deploying, updating, and maintaining websites and web applications. They typically employ front-end and back-end developers, as well as professionals like UX or UI designers, QA testers, and project managers to create web products that are attractive, functional, and high-performance. They may specialize in particular services or kinds of web technologies, web products, and digital marketing</p>
+                        <p class="text">SEO (search engine optimization) is sometimes used as a catch-all word for SEM (Search engine marketing). SEM, on the other hand, refers to sponsored advertising. As a result, the two words should be distinguished. This is because SEM is about delivering bought traffic to a website, but SEO is about bringing organic traffic to a site and monitoring traffic trends.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How do you find a web development company?</summary>
+                    <summary>What factors contribute to effective SEO?</summary>
                     <div class="faq__content">
-                        <p class="text">You can find web development businesses by browsing Google, connecting with a friend, or contacting a company whose website you like and asking for comments. Do your homework on organizations by reading reviews on Google and company directories like UpCity, as well as analyzing case studies of completed projects.</p>
+                        <p class="text">The primary driver of search engine results is high-quality, authoritative content, and there is no alternative for unique and excellent material. This is especially true while performing SEO marketing. Excellent content for your target audience increases site traffic, increasing the relevance and authority of your site.</p>
                     </div>
                 </details>
             </div>
