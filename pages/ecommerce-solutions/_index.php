@@ -236,7 +236,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href=""class="grid-center">
+                <a href="<?=home_path()?>walmart-virtual-assistant"class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>it-outsourcing/ecommerce-development.png" alt="E-commerce Developmetnt">
                     <p>Walmart Account Handling</p>
                     <div class="categories flex flex-center">
