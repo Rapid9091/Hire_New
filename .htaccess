@@ -104,6 +104,7 @@ ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/busine
 
 ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire-amazon-virtual-assistant.php [NC,L]
 ReWriteRule ^sales-funnel-development([/]?)$ pages/ecommerce-solutions/sales-funnel-development.php [NC,L]
+ReWriteRule ^chargebacks-handling([/]?)$ pages/ecommerce-solutions/chargebacks-handling.php [NC,L]
 ReWriteRule ^ecommerce-web-development([/]?)$ pages/ecommerce-solutions/ecommerce-web-development.php [NC,L]
 ReWriteRule ^e-bay-services([/]?)$ pages/ecommerce-solutions/e-bay-services.php [NC,L]
 ReWriteRule ^goggle-reviews([/]?)$ pages/ecommerce-solutions/goggle-reviews.php [NC,L]

@@ -201,7 +201,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a  href="" class="grid-center">
+                <a  href="<?=home_path()?>chargebacks-handling" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/chargebackk.png" alt="Software Developmetnt">
                     <p>Chargebacks Handling</p>
                     <div class="categories flex flex-center">
