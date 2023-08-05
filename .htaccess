@@ -107,6 +107,7 @@ ReWriteRule ^sales-funnel-development([/]?)$ pages/ecommerce-solutions/sales-fun
 ReWriteRule ^ecommerce-web-development([/]?)$ pages/ecommerce-solutions/ecommerce-web-development.php [NC,L]
 ReWriteRule ^e-bay-services([/]?)$ pages/ecommerce-solutions/e-bay-services.php [NC,L]
 ReWriteRule ^goggle-reviews([/]?)$ pages/ecommerce-solutions/goggle-reviews.php [NC,L]
+ReWriteRule ^customer-mail-handling([/]?)$ pages/ecommerce-solutions/customer-mail-handling.php [NC,L]
 ReWriteRule ^walmart-virtual-assistant([/]?)$ pages/ecommerce-solutions/walmart-virtual-assistant.php [NC,L]
 
 ReWriteRule ^medical-billing-virtual-assistant([/]?)$ pages/medical-process-outsourcing/medical-billing-virtual-assistant.php [NC,L]
