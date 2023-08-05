@@ -119,7 +119,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/android.png" alt="hire android app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                        <a href="<?=home_path() ?>android-app-development">
                                 <h5>ANDROID APP DEVELOPMENT</h5>
                             </a>
                         </div>

@@ -1,0 +1,181 @@
+t>Android App Development
+Android App development is software engineering that builds applications for Android operating system devices.
+<div class="content_div">
+    <h2 class="content-heading">What is an Android App?</h2>
+    <p class="text_content">An Android app is software created to work on devices using the Android operating system.
+    </p><br>
+
+    <p class="text_content">An Android app is a type of software specifically created for smartphones or tablet
+        computers that run on the Android operating system.</p><br>
+
+    <p class="text_content">Android apps are created using a programming language called Java, and they rely on a set of
+        pre-built tools and functions called Java core libraries. </p><br>
+
+    <p class="text_content">Before apps can run on your mobile device, they must be converted into a format the machine
+        can understand. This process is called compilation.</p><br>
+
+    <p class="text_content"> In the case of Android apps, they are compiled into Dalvik executables. These executables
+        are designed to be run on the Dalvik virtual machine, a particular virtual machine created explicitly for mobile
+        devices.</p><br>
+
+    <p class="text_content">Customers can download the Android software development kit (SDK) from the official Android
+        website. </p><br>
+
+    <p class="text_content">The SDK (Software Development Kit) package contains helpful tools, sample code, and
+        documents that you can use to create apps for Android devices.</p><br>
+
+    <p class="text_content">App Inventor is a tool that is helpful for beginner developers who are interested in
+        exploring Android programming. It allows them to create and experiment with their own Android apps easily. </p>
+    <br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">What is Android App Development?</h2>
+    <p class="text_content">Android development is software engineering that builds applications for Android operating
+        system devices.</p><br>
+
+    <p class="text_content">Android App development involves using different programming languages to create
+        applications for Android devices. </p><br>
+
+    <p class="text_content">These applications comprise four main components that work together to make the app function
+        correctly.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Language use in Android App Development</h2>
+    <p class="text_content">Developers use Java as the primary programming language to create Android device
+        applications. </p><br>
+
+    <p class="text_content">When you write code in Java, it is converted into a format that can be understood and
+        executed by the Dalvik Virtual Machine responsible for running Android apps</p><br>
+
+    <p class="text_content">Most Android APIs are created to be compatible with Java, the primary programming language
+        used in Android Studio. Android App developers can use various programming languages for their development work.
+    </p><br>
+
+    <p class="text_content">React Native app development is a prevalent method for creating applications. React Native
+        technology enables developers to build mobile applications for both iOS and Android platforms. </p><br>
+
+    <p class="text_content">It uses JavaScript, a popular programming language, and familiar user interface frameworks
+        to speed up development. </p><br>
+
+    <p class="text_content">C# is a programming language that takes elements from both C++ and Java. It is designed to
+        be user-friendly and allows beginners to create Android applications.</p><br>
+
+    <p class="text_content">In addition to Java, developers utilize other programming languages such as C/C++, Kotlin,
+        BASIC, and Lua for Android App development.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">What are Components of an Android App?</h2>
+    <h3><strong>Activities</strong></h3>
+    <p class="text_content">Activity is where the user starts interacting with the app. The device has a single screen
+        that displays information and allows users to interact with it through a user-friendly interface. </p><br>
+
+    <p class="text_content">An email app has different activities for different tasks: one to view new emails, compose
+        emails, and read emails. </p><br>
+
+    <p class="text_content">The activities in the email app work together for a cohesive user experience. However, each
+        movement is separate from the others.</p><br>
+
+    <p class="text_content">Another app can initiate any of these activities if the email app allows. A camera app
+    <p class="text_content">can open the email app to help the user send a picture.</p><br>
+
+    <p class="text_content">The activity helps the system and app interact in significant ways:</p>
+    <div class=”ul_div”>
+        <ul>
+            <li>The system needs to know what the user is currently focused on to continue running the corresponding
+                process.</li>
+            <li>The system keeps track of processes with stopped activities so users can quickly return to them. It
+                gives them higher priority to ensure they remain available.</li>
+            <li>They assist the app in handling process termination, allowing users to resume activities with their
+                previous state intact.</li>
+            <li>We are enabling apps to connect and interact with each other, with the system managing these
+                interactions. The primary example is sharing.</li>
+        </ul>
+    </div>
+
+
+    <h3><strong>Services</strong></h3>
+    <p class="text_content">Services are used to keep an app running in the background while the user is doing
+    <p class="text_content">something else on their device. Service is when the music continues to play while using
+        another app. </p><br>
+
+    <p class="text_content"><strong>There are two types of services available:</strong></p><br>
+
+    <p class="text_content">Started Services: This feature allows an app to continue running in the background until it
+        finishes its task or process.</p><br>
+
+    <p class="text_content">Bound Services :This means that the app is still running because either another app or the
+        system itself is using it for its own operations.</p><br>
+    <h3><strong>Content Provider</strong></h3>
+    <p class="text_content">A content provider is a tool that helps manage data collections that can be stored in a file
+        system and accessed by an application.</p><br>
+
+    <p class="text_content"> Content providers are a feature that allows authorized apps to access and make changes to
+        specific data. </p><br>
+
+    <p class="text_content">An example would be a service that helps you manage your contact information. It will enable
+        apps that have been permitted to access and update the contact information to do so.</p><br>
+    <h3><strong>Broadcast Receiver </strong></h3>
+    <p class="text_content">A broadcast receiver lets the system send events to an app outside its regular use, like
+        system-wide announcements. </p><br>
+
+    <p class="text_content">An app can schedule an alarm to remind the user about an upcoming event. The app can send a
+        notice to the broadcast receiver, making it close until the alarm sounds. </p><br>
+
+    <p class="text_content">The system sends broadcasts to inform users about events such as shutdowns, low battery
+        levels, or when a picture has been taken.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Why Android App Development Important?</h2>
+    <p class="text_content">Having a mobile app for your online business is very important. Mobile apps have
+        revolutionized the way we conduct business operations.</p><br>
+
+    <p class="text_content"> These apps make it easier for customers to quickly access business information, stay
+        connected with their favorite brands, and receive updates and offers. </p><br>
+
+    <p class="text_content">Apps are crucial in helping businesses reach more customers and increase their brand
+        visibility.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Benefits of Android App Development</h2>
+    <h3><strong>Accessibility on Various Platforms</strong></h3>
+    <p class="text_content">Creating a mobile app lets you connect with various online platforms and access their
+        services. </p><br>
+
+    <p class="text_content">App development is a process that helps businesses and individuals make their applications
+        available on different platforms like Blackberry, Google Play, and the Apple App Store. </p><br>
+
+    <p class="text_content">These platforms are popular places where people can find and download apps. Additionally,
+        app development can help make apps accessible through social media sites, which many people widely use. </p><br>
+
+    <p class="text_content">Furthermore, apps can send customers information, provide evaluation of features, offer
+        coupon codes, and send notifications.</p><br>
+    <h3><strong>Get Your Message Out to the World</strong></h3>
+    <p class="text_content">According to a recent report by DataReportal in July 2022, it was discovered that there are
+        approximately 5.34 billion individuals who use mobile phones globally. We have a large number of potential new
+        customers.</p><br>
+
+    <p class="text_content">It is not surprising that there are more online marketplaces available nowadays. A mobile
+        app lets you connect with people worldwide and grow your customer community.</p><br>
+
+    <p class="text_content">As a business owner, it's important to consider strategies to help your business expand and
+        increase its size. Developing a mobile application for your online business is a reliable method to achieve
+        long-term success.</p><br>
+
+    <h3><strong>Enhance Availability</strong></h3>
+    <p class="text_content">Mobile apps are valuable tools that can improve the accessibility of your business. It helps
+        companies to build strong relationships with customers, which leads to loyal customers and a genuine customer
+        base. </p><br>
+
+    <p class="text_content">Mobile apps are software applications that allow users to easily access and use products,
+        information, processes, and services whenever they need them using their mobile devices. </p><br>
+
+    <p class="text_content">Additionally, it will enable the business to notify customers of any updates or new
+        offerings related to their products and services. </p><br>
+
+    <p class="text_content">The apps are designed to perform basic tasks even when you don't have an internet
+        connection. Apps are crucial in making businesses more accessible and user-friendly for customers.</p><br>
+    <h3><strong>Combining Social Media Features</strong></h3>
+    <p class="text_content">Adding social media icons to your mobile apps allows users to share their feedback on
+        different social media platforms easily. A mobile app can be a valuable tool for businesses to market their
+        products or services effectively.</p><br>
+</div>
