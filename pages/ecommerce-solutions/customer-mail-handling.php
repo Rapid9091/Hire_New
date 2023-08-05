@@ -301,15 +301,15 @@ include_once '../../init.php';
     <h2 class="content-heading">Benefits of Customer Mail Handling</h2>
     <p class="text_content">Having a well-functioning system for handling customer mail, supported by a knowledgeable
         assistant, can bring many advantages to businesses:</p><br>
-    Enhance Customer Satisfaction
+        <h3><strong> Enhance Customer Satisfaction</strong></h3>
     <p class="text_content">When a company responds to customer inquiries in a timely and accurate manner, it shows that
         the company is dedicated to meeting the needs of its customers. When customers are happy with their experience,
         they are more likely to continue supporting the business and tell others about it.</p><br>
-    Professionalism
+        <h3><strong> Professionalism/strong></h3>
     <p class="text_content">Having a well-organized mail handling system helps create a professional image for the
         company. When a company effectively manages its communication, customers see them as dependable and trustworthy.
     </p><br>
-    Time and Resource Efficiency
+    <h3><strong> Time and Resource Efficiency/strong></h3>
     <p class="text_content">A dedicated mail-handling assistant is a person who helps with managing and organizing mail
         for a company. </p><br>
 
@@ -318,12 +318,12 @@ include_once '../../init.php';
 
     <p class="text_content">With our mail sorting and management solution, you can save time that would be used for
         organizing and handling mail. This means you can now focus on more critical and strategic tasks.</p><br>
-    Effective Issue Resolving
+        <h3><strong> Effective Issue Resolving/strong></h3>
     <p class="text_content">By accurately categorizing and directing mail, customer concerns were quickly sent to the
         appropriate departments for resolution. This helps resolve issues more efficiently and reduces the time it takes
         to respond to them.</p><br>
 
-    Compliance and Record Keeping
+        <h3><strong> Compliance and Record Keeping/strong></h3>
     <p class="text_content">In industries with specific rules and regulations, it is essential to keep well-organized
         records of all the communication you have with your customers.</p><br>
 
@@ -332,7 +332,7 @@ include_once '../../init.php';
 
     <p class="text_content">Efficient mail handling means that we handle your mail in a way that ensures the records are
         accurate, complete, and easy to find when you need them.</p><br>
-    Less Costly
+        <h3><strong> Less Costly</strong></h3>
     <p class="text_content">By improving how businesses handle mail, they can reduce the chances of mistakes, like
         losing or sending it to the wrong place. This means it helps save money by avoiding the need to process or send
         mail again.</p><br>
