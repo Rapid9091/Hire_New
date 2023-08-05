@@ -101,7 +101,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/ios.png" alt="hire ios app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>ios-development">
                                 <h5>IOS DEVELOPMENT</h5>
                             </a>
                         </div>
@@ -137,7 +137,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/windows.png" alt="hire windows app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>windows-application-development">
                                 <h5>WINDOWS APP DEVELOPMENT</h5>
                             </a>
                         </div>
