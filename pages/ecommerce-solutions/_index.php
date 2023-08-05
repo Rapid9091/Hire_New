@@ -224,7 +224,7 @@ include_once '../../init.php';
             </div>
 
             <div class="it-services-grid-1  grid-center">
-                <a href="" class="grid-center">
+                <a href="<?=home_path()?>e-bay-services" class="grid-center">
                     <img loading="lazy" src="<?= get_img() ?>ecommerce-solutions/ebayy.png" alt="Application Development">
                     <p>Ebay Account Handling</p>
                     <div class="categories flex flex-center">
