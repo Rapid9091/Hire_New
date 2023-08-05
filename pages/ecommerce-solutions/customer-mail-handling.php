@@ -342,7 +342,7 @@ include_once '../../init.php';
     <h2 class="content-heading"> Best way of Customer Mail Handling </h2>
     <p class="text_content">To create an effective system for customer mail handling , it is recommended to follow these
         proven methods:</p><br>
-    <h3><strong>1)Invest in Technology</strong></h3>
+    <h3><strong>1) Invest in Technology</strong></h3>
     <p class="text_content">Use mail management software to make organizing, keeping track of, and generating reports
         for customer mail more efficient. </p><br>
 
