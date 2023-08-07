@@ -25,6 +25,7 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_hiring-step.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_call-to-action.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap-2.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
 
     <style>
         .landing-section-services {
@@ -676,66 +677,66 @@ include_once '../../init.php';
         include_once pricing; ?>
 
     <!-- hiring-step start -->
-    <section class="hiring_step">
+    <section class="hiring_step1">
 
-        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-            <div class="hiring_step_order-1">
-                <div>
-                    <h3 class="section-heading">HIRE InDESIGN EPXERTS ONLINE WITH EASY STEP</h3>
-                    <p class="text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. A perspiciatis similique
-                        assumenda laboriosam laborum dolore saepe aut culpa, id animi?</p>
-                    <button class="btn hire-btn">Hire InDesign Experts</button>
-                </div>
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                    loading="lazy">
             </div>
-            <div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img()?>engineer-architecture/brief.png" alt="hire legal process outsourcing"
-                            loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Talk To Us</h4>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat totam similique natus, sunt
-                            quos aliquid laudantium a incidunt odit tempora.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img()?>engineer-architecture/handpick.png"
-                            alt="hire logo designer">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Handpick Best Expert</h4>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat totam similique natus, sunt
-                            quos aliquid laudantium a incidunt odit tempora.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img()?>engineer-architecture/team.png" alt="hire logo designer"
-                            loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Build Your Team</h4>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat totam similique natus, sunt
-                            quos aliquid laudantium a incidunt odit tempora.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img()?>engineer-architecture/going.png" alt="hire logo designer"
-                            loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Get Going</h4>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat totam similique natus, sunt
-                            quos aliquid laudantium a incidunt odit tempora.</p>
-                    </div>
-                </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">Talk To Us</p>
+                <p>What sort of graphic design position are you seeking?</p>
             </div>
         </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">Handpick Best Expert</p>
+                <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">Build Your Team</p>
+                <p>Phone or video conference interviews of selected candidates are available. You may assign
+                    tests to them.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">Get Going</p>
+                <p>If you are pleased with the results, immediately hire them and get to work.</p>
+            </div>
+        </div>
+        
+    </div>
+    <button class="btn hire-btn">Get Qoute</button>
+</div>
 
-    </section>
+</section>
     <!-- hiring-step end -->
 
 

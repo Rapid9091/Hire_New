@@ -14,6 +14,7 @@ include_once '../../init.php';
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
+    <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
     <style>
         .landing-section-services {
             background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
@@ -41,12 +42,13 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Machine Learning Service
+                    Machine Learning Service
                 </h1>
-                
+
                 <ul class="landing-ul">
-                    <li class="text">Machine learning is a popular term used to describe a type of technology companies like Google, Facebook, and Amazon use.
-</li>
+                    <li class="text">Machine learning is a popular term used to describe a type of technology companies
+                        like Google, Facebook, and Amazon use.
+                    </li>
                 </ul>
                 <br>
                 <a class="basic-button landing-btn" href="#">Hire Machine Learning Servicet Specialists
@@ -142,7 +144,8 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
+                        loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -159,57 +162,63 @@ include_once '../../init.php';
     <!-- number section end -->
 
     <!-- hiring-step start -->
-    <section class="hiring_step">
+    <section class="hiring_step1">
 
-        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-            <div class="hiring_step_order-1">
+        <div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step1_order-1">
                 <div>
-                    <p class="section-heading">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
-                    <p class="text hiring_step_content">You won't have to deal with the hassles of traditional
-                        outsourcing thanks to our
-                        novel business model, which gives you complete control over who you work with.</p>
-                    <button class="btn hire-btn">Get Qoute</button>
+                    <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+                    <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+                    <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
                 </div>
             </div>
-            <div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer" loading="lazy">
+            <div class="main">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                            loading="lazy">
                     </div>
-                    <div class="step-dtl">
-                        <p class="step-dtl-heading">Talk To Us</p>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Talk To Us</p>
                         <p>What sort of graphic design position are you seeking?</p>
                     </div>
                 </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire legal process outsourcing" loading="lazy">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                            alt="hire legal process outsourcing" loading="lazy">
                     </div>
-                    <div class="step-dtl">
-                        <p class="step-dtl-heading">Handpick Best Expert</p>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Handpick Best Expert</p>
                         <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
                     </div>
                 </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer" loading="lazy">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                            loading="lazy">
                     </div>
-                    <div class="step-dtl">
-                        <p class="step-dtl-heading">Build Your Team</p>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Build Your Team</p>
                         <p>Phone or video conference interviews of selected candidates are available. You may assign
                             tests to them.</p>
                     </div>
                 </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer" loading="lazy">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                            loading="lazy">
                     </div>
-                    <div class="step-dtl">
-                        <p class="step-dtl-heading">Get Going</p>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Get Going</p>
                         <p>If you are pleased with the results, immediately hire them and get to work.</p>
                     </div>
                 </div>
+
             </div>
+            <button class="btn hire-btn">Get Qoute</button>
         </div>
 
     </section>
@@ -219,93 +228,156 @@ include_once '../../init.php';
 
         <div class="content_div">
             <!-- <h2 class="content-heading">What Can an SEO Virtual Assistant Provide for Your Company?</h2> -->
-            <p class="text_content">It's when computers learn on their own and make predictions or choices without being told to. </p><br>
-            <p class="text_content">The concept is to use data to improve the quality of services beyond what humans can do on their own.</p></br>
-            <p class="text_content">However, there are several difficulties associated with traditional machine learning. To begin with, you would have to create a machine-learning model from the ground up</p></br>
-            <p class="text_content">Additionally, you would need to construct and oversee robust servers, handle data pipelines, and manage other complex technical infrastructures, which can be challenging</p></br>
-            <p class="text_content">Machine Learning as a Service (MLaaS) refers to a service that provides access to machine learning capabilities.</p></br>
-            <p class="text_content"> Our system simplifies creating and deploying machine learning models by automating various steps</p></br>
-            <p class="text_content">Instead of investing time and effort in developing and implementing your models on your servers, you can save time and start faster by using a Machine Learning as a Service (MLaaS) platform.</p></br>
-            <p class="text_content">Various types of Machine Learning as a Service (MLaaS) platforms are available. Some AI models are designed to specialize in specific tasks like recognizing images or converting text to speech.</p></br>
-            <p class="text_content"> On the other hand, there are AI models that are more versatile and can be used in various industries, such as sales and marketing.</p></br>
+            <p class="text_content">It's when computers learn on their own and make predictions or choices without being
+                told to. </p><br>
+            <p class="text_content">The concept is to use data to improve the quality of services beyond what humans can
+                do on their own.</p></br>
+            <p class="text_content">However, there are several difficulties associated with traditional machine
+                learning. To begin with, you would have to create a machine-learning model from the ground up</p></br>
+            <p class="text_content">Additionally, you would need to construct and oversee robust servers, handle data
+                pipelines, and manage other complex technical infrastructures, which can be challenging</p></br>
+            <p class="text_content">Machine Learning as a Service (MLaaS) refers to a service that provides access to
+                machine learning capabilities.</p></br>
+            <p class="text_content"> Our system simplifies creating and deploying machine learning models by automating
+                various steps</p></br>
+            <p class="text_content">Instead of investing time and effort in developing and implementing your models on
+                your servers, you can save time and start faster by using a Machine Learning as a Service (MLaaS)
+                platform.</p></br>
+            <p class="text_content">Various types of Machine Learning as a Service (MLaaS) platforms are available. Some
+                AI models are designed to specialize in specific tasks like recognizing images or converting text to
+                speech.</p></br>
+            <p class="text_content"> On the other hand, there are AI models that are more versatile and can be used in
+                various industries, such as sales and marketing.</p></br>
 
         </div>
         <div class="content_div">
-            <h2 class="content-heading">Why to Choose Higher Coworker And Need Of  Machine Learning service </h2>
-            <p class="text_content">Machine learning is a part of AI and computer science that uses data and algorithms to mimic human learning and improve over time.</p>
-            <p class="text_content">Higher Coworker has extensive experience and knowledge in the field of machine learning. This achievement is seen as a significant milestone in artificial intelligence, although it may seem insignificant compared to current capabilities.</p>
-            <p class="text_content">Technological advancements have allowed the development of machine learning-based products like Netflix's recommendation engine and self-driving cars.</p><br>
-            <p class="text_content">Machine learning is crucial in data science. Statistical methods train algorithms for making classifications, predictions, and uncovering insights in data mining projects. </p><br>
-            <p class="text_content">These insights help make decisions in applications and businesses, to affect essential growth metrics. </p><br>
-            <p class="text_content">The demand for data scientists will increase as big data continues to grow. Users will need to assist in identifying important business questions and the corresponding data required to answer them. </p><br>
-            <p class="text_content">Machine learning algorithms use frameworks like TensorFlow and PyTorch for faster development.</p>
+            <h2 class="content-heading">Why to Choose Higher Coworker And Need Of Machine Learning service </h2>
+            <p class="text_content">Machine learning is a part of AI and computer science that uses data and algorithms
+                to mimic human learning and improve over time.</p>
+            <p class="text_content">Higher Coworker has extensive experience and knowledge in the field of machine
+                learning. This achievement is seen as a significant milestone in artificial intelligence, although it
+                may seem insignificant compared to current capabilities.</p>
+            <p class="text_content">Technological advancements have allowed the development of machine learning-based
+                products like Netflix's recommendation engine and self-driving cars.</p><br>
+            <p class="text_content">Machine learning is crucial in data science. Statistical methods train algorithms
+                for making classifications, predictions, and uncovering insights in data mining projects. </p><br>
+            <p class="text_content">These insights help make decisions in applications and businesses, to affect
+                essential growth metrics. </p><br>
+            <p class="text_content">The demand for data scientists will increase as big data continues to grow. Users
+                will need to assist in identifying important business questions and the corresponding data required to
+                answer them. </p><br>
+            <p class="text_content">Machine learning algorithms use frameworks like TensorFlow and PyTorch for faster
+                development.</p>
         </div>
         <div class="content_div">
             <h2 class="content-heading">What Is Machine Learning?</h2>
-            <p class="text_content">Machine learning is a field where scientists create algorithms and models that enable computer systems to perform tasks without being explicitly told what to do.</p><br>
-            <p class="text_content"> Instead, these systems rely on patterns and inference to make decisions and complete tasks. It is a specific area of study within the field of Artificial Intelligence</p>
+            <p class="text_content">Machine learning is a field where scientists create algorithms and models that
+                enable computer systems to perform tasks without being explicitly told what to do.</p><br>
+            <p class="text_content"> Instead, these systems rely on patterns and inference to make decisions and
+                complete tasks. It is a specific area of study within the field of Artificial Intelligence</p>
 
 
         </div>
         <div class="content_div">
             <h2 class="content-heading">How does it work?</h2>
-           
-            <p class="text_content">Machine learning is a method that uses two different approaches. The first is supervised learning, where a model is trained using input and output data. </p>
-            <p class="text_content"> This allows the model to make predictions about future outputs. The second approach, unsupervised learning, looks for hidden patterns or structures in the input data without any specific output information</p><br>
-           
+
+            <p class="text_content">Machine learning is a method that uses two different approaches. The first is
+                supervised learning, where a model is trained using input and output data. </p>
+            <p class="text_content"> This allows the model to make predictions about future outputs. The second
+                approach, unsupervised learning, looks for hidden patterns or structures in the input data without any
+                specific output information</p><br>
+
             <h3><strong>Supervised Learning</strong></h3>
-            <p class="text_content">Supervised machine learning uses evidence to make predictions in uncertain situations:</p>
-            <p class="text_content">A supervised learning algorithm uses known data and responses to train a model that can make predictions for new data. </p>
-            <p class="text_content">Supervised learning is used when you have known data for the output you want to predict. </p><br>
+            <p class="text_content">Supervised machine learning uses evidence to make predictions in uncertain
+                situations:</p>
+            <p class="text_content">A supervised learning algorithm uses known data and responses to train a model that
+                can make predictions for new data. </p>
+            <p class="text_content">Supervised learning is used when you have known data for the output you want to
+                predict. </p><br>
             <h3><strong>Unsupervised Learning</strong></h3>
-            <p class="text_content">Unsupervised learning is a type of machine learning that helps us discover hidden patterns or structures in data without prior knowledge or guidance. </p><br>
-            <p class="text_content"> It allows us to uncover valuable insights and understand the underlying relationships within the data. This tool helps make conclusions from datasets with input data but no labeled responses. </p><br>
-            <p class="text_content">For example, let's say an unsupervised learning program gives you a set of pictures of cats and dogs that are all different</p><br>
-            <p class="text_content">The algorithm has yet to be trained on the dataset, so it doesn't know anything about its features.</p><br>
-            <p class="text_content"> The unsupervised learning algorithm finds image features without guidance. The unsupervised learning algorithm clusters the image dataset based on similarities between images</p><br>
+            <p class="text_content">Unsupervised learning is a type of machine learning that helps us discover hidden
+                patterns or structures in data without prior knowledge or guidance. </p><br>
+            <p class="text_content"> It allows us to uncover valuable insights and understand the underlying
+                relationships within the data. This tool helps make conclusions from datasets with input data but no
+                labeled responses. </p><br>
+            <p class="text_content">For example, let's say an unsupervised learning program gives you a set of pictures
+                of cats and dogs that are all different</p><br>
+            <p class="text_content">The algorithm has yet to be trained on the dataset, so it doesn't know anything
+                about its features.</p><br>
+            <p class="text_content"> The unsupervised learning algorithm finds image features without guidance. The
+                unsupervised learning algorithm clusters the image dataset based on similarities between images</p><br>
 
         </div>
         <div class="content_div">
             <h2 class="content-heading">What Is Azure Machine Learning</h2>
-            <p class="text_content">Azure Machine Learning (Azure ML) is a service provided by Microsoft that allows you to create and manage machine learning solutions in the cloud</p>
-            <p class="text_content">Our product is specifically designed to assist data scientists and machine learning engineers in utilizing their current data processing and model development abilities. </p>
-            <p class="text_content">Additionally, we help customers expand their capacity, spread out, and implement their tasks on cloud platforms</p>
-            <p class="text_content">The Azure ML SDK for Python is a set of tools that allows you to interact with Azure ML, a machine learning service provided by Microsoft, through your Azure subscription.</p>
-            <p class="text_content">It provides classes that you can use to perform various tasks and operations within Azure ML.</p><br>
+            <p class="text_content">Azure Machine Learning (Azure ML) is a service provided by Microsoft that allows you
+                to create and manage machine learning solutions in the cloud</p>
+            <p class="text_content">Our product is specifically designed to assist data scientists and machine learning
+                engineers in utilizing their current data processing and model development abilities. </p>
+            <p class="text_content">Additionally, we help customers expand their capacity, spread out, and implement
+                their tasks on cloud platforms</p>
+            <p class="text_content">The Azure ML SDK for Python is a set of tools that allows you to interact with Azure
+                ML, a machine learning service provided by Microsoft, through your Azure subscription.</p>
+            <p class="text_content">It provides classes that you can use to perform various tasks and operations within
+                Azure ML.</p><br>
             <h3><strong>How does it Work? </strong></h3>
-            <p class="text_content">An Azure Machine Learning component is a small, independent piece of code that performs a specific task within a machine learning service or process. </p>
-            <p class="text_content">It is designed to be part of a larger workflow to help automate and streamline the machine-learning pipeline</p>
-            <p class="text_content">Components are like individual pieces that come together to create advanced machine-learning channels.  </p>
-            <p class="text_content">Components are tools that can perform different tasks, such as handling data, training models, and evaluating models</p>
-            <p class="text_content"> They help in various aspects of the process. A component is similar to a function with a name and parameters. It can receive input and give output..</p>
-           
+            <p class="text_content">An Azure Machine Learning component is a small, independent piece of code that
+                performs a specific task within a machine learning service or process. </p>
+            <p class="text_content">It is designed to be part of a larger workflow to help automate and streamline the
+                machine-learning pipeline</p>
+            <p class="text_content">Components are like individual pieces that come together to create advanced
+                machine-learning channels. </p>
+            <p class="text_content">Components are tools that can perform different tasks, such as handling data,
+                training models, and evaluating models</p>
+            <p class="text_content"> They help in various aspects of the process. A component is similar to a function
+                with a name and parameters. It can receive input and give output..</p>
+
         </div>
         <div class="content_div">
             <h2 class="content-heading">What is AWS Machine Learning?</h2>
-            <p class="text_content"><strong>Amazon Web Services (AWS),</strong> or AWS Machine Learning  is a cloud computing platform that provides a wide range of services. These services are available in data centers all around the world.`</p>
-            <p class="text_content">AWS offers over 200 fully featured services to meet various computing needs. AWS, which stands for Amazon Web Services, is a popular platform millions of customers use.  </p>
-            <p class="text_content">These customers include fast-growing startups, big companies, and government agencies. They choose to use AWS because it helps them save money, become more flexible, and develop new ideas more quickly.  </p>
-       
+            <p class="text_content"><strong>Amazon Web Services (AWS),</strong> or AWS Machine Learning is a cloud
+                computing platform that provides a wide range of services. These services are available in data centers
+                all around the world.`</p>
+            <p class="text_content">AWS offers over 200 fully featured services to meet various computing needs. AWS,
+                which stands for Amazon Web Services, is a popular platform millions of customers use. </p>
+            <p class="text_content">These customers include fast-growing startups, big companies, and government
+                agencies. They choose to use AWS because it helps them save money, become more flexible, and develop new
+                ideas more quickly. </p>
+
             <h2 class="content-heading">How useful is it?</h2>
-            <p class="text_content">ML revolutionizes education by transforming how we teach, learn, and research. Educators use machine learning services to identify struggling students sooner and help them succeed and stay in school. </p><br>
-            <p class="text_content">Researchers are using machine learning services to speed up their research and make discoveries. ML uses technology to make online learning content more accessible and tailored to individual needs </p><br>
-            <p class="text_content">AWS is collaborating with public sector leaders to adjust to the ML era and help students gain the necessary skills for success.</p><br>
+            <p class="text_content">ML revolutionizes education by transforming how we teach, learn, and research.
+                Educators use machine learning services to identify struggling students sooner and help them succeed and
+                stay in school. </p><br>
+            <p class="text_content">Researchers are using machine learning services to speed up their research and make
+                discoveries. ML uses technology to make online learning content more accessible and tailored to
+                individual needs </p><br>
+            <p class="text_content">AWS is collaborating with public sector leaders to adjust to the ML era and help
+                students gain the necessary skills for success.</p><br>
 
         </div>
         <div class="content_div">
             <h2 class="content-heading">What is Generative AI?</h2>
-            <p class="text_content">Generative AI is a form of artificial intelligence that can generate fresh and original content and ideas.</p><br>
-            <p class="text_content">This can include engaging in conversations, crafting stories, producing images, videos, and even composing music.  </p><br>
-            <p class="text_content">Generative AI, similar to other artificial intelligence systems, relies on machine learning service models to function. </p>
-       
+            <p class="text_content">Generative AI is a form of artificial intelligence that can generate fresh and
+                original content and ideas.</p><br>
+            <p class="text_content">This can include engaging in conversations, crafting stories, producing images,
+                videos, and even composing music. </p><br>
+            <p class="text_content">Generative AI, similar to other artificial intelligence systems, relies on machine
+                learning service models to function. </p>
+
             <h3 class="content-heading">How Work ? </h3>
-            <p class="text_content">Generative AI uses neural networks and deep learning algorithms to find patterns and create new outcomes. </p><br>
-            <p class="text_content">A large dataset of examples like images, text, audio, and videos is used to train a generative model. </p><br>
-            <p class="text_content"><strong>The model examines the input data to identify patterns and relationships, helping it understand the rules behind the content. </strong></p><br>
-            
-            <p class="text_content"> It creates new data by randomly selecting from a learned probability distribution. It keeps changing its settings to improve the chances of producing correct results.</p><br>
-            <p class="text_content"> A generative model trained on cat images can create new ones by sampling from what it learned and refining the output through inference.</p><br>
-            <p class="text_content"> The model fine-tunes its output during inference to improve accuracy and fix mistakes. This helps make the work more realistic and better match the user's preferences.</p><br>
+            <p class="text_content">Generative AI uses neural networks and deep learning algorithms to find patterns and
+                create new outcomes. </p><br>
+            <p class="text_content">A large dataset of examples like images, text, audio, and videos is used to train a
+                generative model. </p><br>
+            <p class="text_content"><strong>The model examines the input data to identify patterns and relationships,
+                    helping it understand the rules behind the content. </strong></p><br>
+
+            <p class="text_content"> It creates new data by randomly selecting from a learned probability distribution.
+                It keeps changing its settings to improve the chances of producing correct results.</p><br>
+            <p class="text_content"> A generative model trained on cat images can create new ones by sampling from what
+                it learned and refining the output through inference.</p><br>
+            <p class="text_content"> The model fine-tunes its output during inference to improve accuracy and fix
+                mistakes. This helps make the work more realistic and better match the user's preferences.</p><br>
         </div>
 
 
@@ -317,11 +389,13 @@ include_once '../../init.php';
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
+            BEST DIGITAL MARKETING EXPERT</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image"
+                        alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <p class="expert-name">Edward C.</p>
@@ -331,7 +405,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years
+                    experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Linkedin</p>
@@ -357,7 +432,8 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Syed K.</p>
@@ -367,7 +443,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on
+                    projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Google Data Studio</p>
@@ -393,7 +470,8 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Kristine S.</p>
@@ -403,7 +481,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6
+                    years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Social Media Marketing</p>
@@ -446,7 +525,7 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                Web Development Services
+                    Web Development Services
                 </div>
                 <div class="list_data">
                     $5
@@ -463,7 +542,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                CMS Development Services
+                    CMS Development Services
                 </div>
                 <div class="list_data">
                     $5
@@ -480,7 +559,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Software Development Services
+                    Software Development Services
                 </div>
                 <div class="list_data">
                     $6
@@ -497,7 +576,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                DataBase Development Services
+                    DataBase Development Services
                 </div>
                 <div class="list_data">
                     $15
@@ -514,7 +593,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                IT security Services
+                    IT security Services
                 </div>
                 <div class="list_data">
                     $10
@@ -531,7 +610,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Machine Learning Services
+                    Machine Learning Services
                 </div>
                 <div class="list_data">
                     $5
@@ -548,7 +627,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Network Installation Services
+                    Network Installation Services
                 </div>
                 <div class="list_data">
                     $15
@@ -565,7 +644,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Frontened Development Services
+                    Frontened Development Services
                 </div>
                 <div class="list_data">
                     $5
@@ -582,7 +661,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                Backened Development Services
+                    Backened Development Services
                 </div>
                 <div class="list_data">
                     $5
@@ -599,7 +678,7 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                FullStack Development Services
+                    FullStack Development Services
                 </div>
                 <div class="list_data">
                     $6
@@ -742,7 +821,8 @@ include_once '../../init.php';
                 <details>
                     <summary>What are the types of software development?</summary>
                     <div class="faq__content">
-                        <p class="text"><b>There are various kinds of software developers. These are some examples :</b></p>
+                        <p class="text"><b>There are various kinds of software developers. These are some examples :</b>
+                        </p>
                         <div class="ul_div">
                             <ul style="text-decoration:dot;">
                                 <li>Frontend development</li>
@@ -765,9 +845,13 @@ include_once '../../init.php';
                 <details>
                     <summary>What are the responsibilities of a virtual assistant for software development?</summary>
                     <div class="faq__content">
-                        <p class="text"><b> A virtual assistant developer often provides administrative, creative, and technical help to software developers. Their responsibilities may include:</b></p>
-                        <p class="text">monitoring project timelines investigating their computer \ creating and revising documents that might be used for training or courses \soffer customer support \ and managing social media accounts.</p>
-                        <p class="text">They may also be in charge of writing code or testing software, such as new automation tools.</p>
+                        <p class="text"><b> A virtual assistant developer often provides administrative, creative, and
+                                technical help to software developers. Their responsibilities may include:</b></p>
+                        <p class="text">monitoring project timelines investigating their computer \ creating and
+                            revising documents that might be used for training or courses \soffer customer support \ and
+                            managing social media accounts.</p>
+                        <p class="text">They may also be in charge of writing code or testing software, such as new
+                            automation tools.</p>
                     </div>
                 </details>
             </div>
@@ -775,7 +859,12 @@ include_once '../../init.php';
                 <details>
                     <summary>What are the advantages of hiring a virtual assistant for software development?</summary>
                     <div class="faq__content">
-                        <p class="text">There are many advantages to having a software virtual assistant. The most obvious advantage is that it can free up your time so that you can focus on other elements of your career or personal life. A software development virtual assistant can also help to improve the quality of your software development projects by giving expert guidance and support. Furthermore, a software development virtual assistant might help to improve communication and collaboration among your software development team.</p>
+                        <p class="text">There are many advantages to having a software virtual assistant. The most
+                            obvious advantage is that it can free up your time so that you can focus on other elements
+                            of your career or personal life. A software development virtual assistant can also help to
+                            improve the quality of your software development projects by giving expert guidance and
+                            support. Furthermore, a software development virtual assistant might help to improve
+                            communication and collaboration among your software development team.</p>
                     </div>
                 </details>
             </div>
