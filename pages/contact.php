@@ -129,7 +129,7 @@ include_once "../init.php";
                         </h3>
                         <p>
                             <a href="https://www.google.com/maps/place/Rapid+Auto+Shipping/@34.4686156,-101.3040011,3a,64.1y,225.98h,87.97t/data=!3m6!1e1!3m4!1smO6Tx6ID-QAIY-cItwzHog!2e0!7i16384!8i8192!4m5!3m4!1s0x0:0x9f3bfd5545d14ae8!8m2!3d34.4683842!4d-101.3042842?hl=en"
-                                title="Live location"> 906 S Silverton Texas USA-79257</a>
+                                title="Live location">Texas United States of America</a>
                         </p>
                     </address>
                 </div>
