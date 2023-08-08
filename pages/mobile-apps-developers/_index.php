@@ -155,7 +155,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/hybrid.png" alt=" hire hybrid app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>hybrid-app-development">
                                 <h5>HYBRID APP DEVELOPMENT</h5>
                             </a>
                         </div>
@@ -173,7 +173,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/native.png" alt="hire native app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>native-app-developers">
                                 <h5>NATIVE APP DEVELOPMENT</h5>
                             </a>
                         </div>
@@ -282,7 +282,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/mobile-game.png" alt="hire mobile game developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>mobile-game-development">
                                 <h5>MOBILE GAME DEVELOPMENT</h5>
                             </a>
                         </div>
