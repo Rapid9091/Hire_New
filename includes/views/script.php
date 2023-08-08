@@ -71,8 +71,8 @@
  <!-- ---- modal form ----->
  <script src="<?= get_js('modal-form.js');?>"></script>
 
- <!-- lordicon
- <script async src="https://cdn.lordicon.com/fudrjiwc.js"></script> -->
+ <!-- lordicon -->
+ <script async src="https://cdn.lordicon.com/fudrjiwc.js"></script>
 
 <!-- -------------------------- -->
 <!-- Icons Links -->
