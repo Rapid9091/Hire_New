@@ -1,9 +1,8 @@
 <header class="header flex-center-between ">
 
     <div class="logo">
-        <a href="<?= home_path() ?>">
-         <img src="<?= get_img() ?>new-logo-white.webp" width="100%" height="100%" alt="HireCoworker" loading="lazy" id="header-logo" />
-                </a>
+        <a href="<?= home_path() ?>"> <img src="<?= get_img() ?>new-logo-white.webp" alt="HireCoworker" loading="lazy"
+                id="header-logo" /></a>
     </div>
     <nav>
         <ul class="links-list flex-center nav-list">

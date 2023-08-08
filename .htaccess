@@ -43,8 +43,10 @@ ReWriteRule ^google-business-profile-virtual-assistant([/]?)$ pages/digital-mark
 ReWriteRule ^hire-seo-virtual-assistant-specialist([/]?)$ pages/digital-marketing/hire-seo-virtual-assistant-specialist.php [NC,L]
 ReWriteRule ^va-for-social-media-marketing([/]?)$ pages/digital-marketing/va-for-social-media-marketing.php [NC,L]
 ReWriteRule ^email-marketing-virtual-assistant([/]?)$ pages/digital-marketing/email-marketing-virtual-assistant.php [NC,L]
+ReWriteRule ^franchise-seo-services([/]?)$ pages/digital-marketing/franchise-seo-services.php [NC,L]
 ReWriteRule ^best-ppc-virtual-assistant([/]?)$ pages/digital-marketing/best-ppc-virtual-assistant.php [NC,L]
 ReWriteRule ^content-marketing-services([/]?)$ pages/digital-marketing/content-marketing-services.php [NC,L]
+ReWriteRule ^conversion-rate-optimization([/]?)$ pages/digital-marketing/conversion-rate-optimization.php [NC,L]
 # ReWriteRule ^hire-digital-marketer/([0-9A-za-z\-]+)([/]?)$ pages/digital-marketing/$1.php [NC,L]
 ReWriteRule ^reputation-management-services([/]?)$ pages/digital-marketing/reputation-management-services.php [NC,L]
 
@@ -109,6 +111,7 @@ ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire
 ReWriteRule ^sales-funnel-development([/]?)$ pages/ecommerce-solutions/sales-funnel-development.php [NC,L]
 ReWriteRule ^chargebacks-handling([/]?)$ pages/ecommerce-solutions/chargebacks-handling.php [NC,L]
 ReWriteRule ^ecommerce-web-development([/]?)$ pages/ecommerce-solutions/ecommerce-web-development.php [NC,L]
+ReWriteRule ^dropshipping-virtual-assistant([/]?)$ pages/ecommerce-solutions/dropshipping-virtual-assistant.php [NC,L]
 ReWriteRule ^e-bay-services([/]?)$ pages/ecommerce-solutions/e-bay-services.php [NC,L]
 ReWriteRule ^goggle-reviews([/]?)$ pages/ecommerce-solutions/goggle-reviews.php [NC,L]
 ReWriteRule ^customer-mail-handling([/]?)$ pages/ecommerce-solutions/customer-mail-handling.php [NC,L]

@@ -186,7 +186,27 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
-       
+            <div class="services-types-child width-100 grid grid-2">
+                <div class="services-types-child-content">
+                    <p>SEO</p>
+                    <h5 class="section-heading">Franchise SEO Services</h5>
+                    <a href="<?=home_path()?>franchise-seo-services">Learn More</a>
+                </div>
+                <div class="services-types-child-img">
+                    <img src="<?= get_img() ?>dm/video-marketing.webp" class="width-100" alt="Hire Video Marketing Expert">
+                </div>
+            </div>
+            <div class="services-types-child width-100 grid grid-2">
+                <div class="services-types-child-content">
+                    <p>CRO</p>
+                    <h5 class="section-heading">Conversion Rate Optimization </h5>
+                    <a href="conversion-rate-optimization">Learn More</a>
+                </div>
+                <div class="<?=home_path()?>services-types-child-img">
+                <img src="<?= get_img() ?>dm/service-img-digital-v1.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
+                </div>
+            </div>
+            
         </div>
         
       
