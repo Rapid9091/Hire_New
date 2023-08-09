@@ -191,7 +191,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/wearable.png" alt="hire wearable app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>wearable-mobile-developers">
                                 <h5>WEARABLE APP DEVELOPMENT</h5>
                             </a>
                         </div>
@@ -226,8 +226,8 @@ include_once '../../init.php';
                         <div class="service-img">
                             <img src="<?= get_img() ?>mobile-apps/maintenance.png" alt="hire app maintenance & support" loading="lazy">
                         </div>
-                        <div class="box-title-heading">
-                            <a href="">
+                 <div class="<?=home_path() ?>box-title-heading">
+                            <a href="app-maintanance-sevices">
                                 <h5>APP MAINTENANCE & SUPPORT</h5>
                             </a>
                         </div>
