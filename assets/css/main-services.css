@@ -31,7 +31,7 @@
 }
 .links-div {
   display: grid;
-  grid-template-columns: repeat(4, minmax(170px, 1fr));
+  grid-template-columns: repeat(6, minmax(170px, 1fr));
   padding: 4% 8%;
 }
 .links-div > div {
