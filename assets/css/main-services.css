@@ -175,7 +175,7 @@
 
 @media screen and (max-width: 1250px) {
   .links-div{
-    grid-template-columns: repeat(4, minmax(170px, 1fr));
+    grid-template-columns: repeat(8, minmax(170px, 1fr));
   }
   .main-service-types {
     padding: 5% 6%;
