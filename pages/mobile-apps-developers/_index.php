@@ -880,7 +880,7 @@ include_once '../../init.php';
     include_once page_bottom;
     ?>
 
-    <!-- <script>
+    <script>
 
         document.getElementById('view_more_btn').addEventListener('click',function(){
             var a = document.querySelectorAll('#more')
@@ -889,7 +889,7 @@ include_once '../../init.php';
         }
         })
         
-    </script> -->
+    </script>
 </body>
 
 </html>
