@@ -202,7 +202,7 @@ include_once '../../init.php';
                     From wearable app development to integration, hire a dedicated mobile app developer who knows it all.
                 </p>
             </div>
-            <div class="container-section-boxes more less">
+            <div class="container-section-boxes  more less" id="more">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
@@ -220,14 +220,14 @@ include_once '../../init.php';
                     HireCoworker conducts headhunting for the best Indian mobile app developers to meet all of your specific needs.
                 </p>
             </div>
-            <div class="container-section-boxes more less">
+            <div class="container-section-boxes more less" id="more">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
                             <img src="<?= get_img() ?>mobile-apps/maintenance.png" alt="hire app maintenance & support" loading="lazy">
                         </div>
-                 <div class="<?=home_path() ?>box-title-heading">
-                            <a href="app-maintanance-sevices">
+                 <div class="box-title-heading">
+                            <a href="<?=home_path() ?>app-maintanance-sevices">
                                 <h5>APP MAINTENANCE & SUPPORT</h5>
                             </a>
                         </div>
@@ -239,7 +239,7 @@ include_once '../../init.php';
 
                 </p>
             </div>
-            <div class="container-section-boxes more less">
+            <div class="container-section-boxes more less" id="more">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
@@ -257,7 +257,7 @@ include_once '../../init.php';
                     Are you interested in porting an existing app to a new platform? Let's get the best developers of mobile apps to work on it.
                 </p>
             </div>
-            <div class="container-section-boxes more less">
+            <div class="container-section-boxes more less" id="more">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
@@ -275,7 +275,7 @@ include_once '../../init.php';
                     Hire developers to build apps that work like charm on both iOS and Android devices without writing the code twice.
                 </p>
             </div>
-            <div class="container-section-boxes more less">
+            <div class="container-section-boxes more less" id="more">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
@@ -293,7 +293,7 @@ include_once '../../init.php';
                     HireCoworker developers can create flawless mobile games with feature-rich functionality that keep users engaged.
                 </p>
             </div>
-            <div class="container-section-boxes more less">
+            <div class="container-section-boxes more less" id="more">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
@@ -879,6 +879,17 @@ include_once '../../init.php';
     <?php
     include_once page_bottom;
     ?>
+
+    <script>
+
+        document.getElementById('view_more_btn').addEventListener('click',function(){
+            var a = document.querySelectorAll('#more')
+            for(i=0;i<a.length;i++){
+            a[i].classList.toggle('less')
+        }
+        })
+        
+    </script>
 </body>
 
 </html>
