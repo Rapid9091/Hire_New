@@ -61,7 +61,7 @@ include_once '../init.php';
     <div class="links-div section-background">
 
         <div>
-            <a href="#it-outsourcing" class="links-div-child text">
+            <a href="<?= home_path() ?>it-outsourcing-services" class="links-div-child text">
                 IT Outsourcing
             </a>
         </div>
@@ -77,6 +77,11 @@ include_once '../init.php';
         <div>
             <a href="#hire-developer" class="links-div-child text">
                 Hire Developers
+            </a>
+        </div>
+        <div>
+            <a href="#hire-developer" class="links-div-child text">
+            Ecommerce Solutions
             </a>
         </div>
 
@@ -135,7 +140,13 @@ include_once '../init.php';
         </div>
         <div>
             <a href="#outsource-to-india" class="links-div-child text">
-                Outsource To India
+            Digital Production Services
+            </a>
+        </div>
+       
+        <div>
+            <a href="#outsource-to-india" class="links-div-child text">
+            Movies Production Services
             </a>
         </div>
 
