@@ -73,12 +73,6 @@ include_once '../init.php';
             </a>
         </div>
 
-        <div>
-            <a href="#digital-marketing" class="links-div-child text">
-               Ecommerce solution
-            </a>
-        </div>
-
 
         <div>
             <a href="#hire-developer" class="links-div-child text">
@@ -141,12 +135,7 @@ include_once '../init.php';
         </div>
         <div>
             <a href="#outsource-to-india" class="links-div-child text">
-                Digital Production Services
-            </a>
-        </div>
-        <div>
-            <a href="#outsource-to-india" class="links-div-child text">
-            Movies Production Services
+                Outsource To India
             </a>
         </div>
 
