@@ -31,7 +31,7 @@
 }
 .links-div {
   display: grid;
-  grid-template-columns: repeat(7, minmax(170px, 1fr));
+  grid-template-columns: repeat(6, minmax(170px, 1fr));
   padding: 4% 8%;
 }
 .links-div > div {
@@ -232,10 +232,10 @@
   .landing-section-form form {
     width: 100%;
   }
-  /* .links-div {
+  .links-div {
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     padding: 5%;
-  } */
+  }
   .main-service-types > h2 {
     font-size: 28px;
     line-height: 1.5;
