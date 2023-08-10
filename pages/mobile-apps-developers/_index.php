@@ -209,7 +209,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/custom.png" alt="hire custom app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>custom-app-development">
                                 <h5>CUSTOM APP DEVELOPMENT</h5>
                             </a>
                         </div>
@@ -246,7 +246,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/migration.png" alt="hire migration & app porting services" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>migration-app-porting">
                                 <h5>MIGRATION & APP PORTING</h5>
                             </a>
                         </div>
@@ -264,7 +264,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/xamarin.png" alt="hire xamarin app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>xamarin-app-development">
                                 <h5>XAMARIN APP DEVELOPMENT</h5>
                             </a>
                         </div>
@@ -300,7 +300,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/ar.png" alt="hire AR developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>augmented-reality-development">
                                 <h5>AUGMENTED REALITY DEVELOPMENT</h5>
                             </a>
                         </div>

@@ -98,7 +98,7 @@ include_once '../../init.php';
             <div class="services-types-child width-100 grid grid-2">
                 <div class="services-types-child-content">
                     <p>Social Media</p>
-                    <h5 class="section-heading">Social Media Marketing</h5>
+                    <h5 class="section-heading">Social Media Advertisement</h5>
                     <a href="<?=home_path()?>va-for-social-media-marketing">Learn More</a>
                 </div>
                 <div class="services-types-child-img">

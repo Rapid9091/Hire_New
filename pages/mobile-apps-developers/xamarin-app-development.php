@@ -7,15 +7,17 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <?php include_once head_new;?>
 
-    <title>Google Business Profile Management Service</title>
+    <?php include_once head_new; ?>
+
+    <title>Xamarin App Development </title>
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>dm/google_business.webp");
+            background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
         }
     </style>
 </head>
@@ -40,17 +42,15 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Google Business Profile Management
+                Xamarin App Development 
                 </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">If you don't know what Google Business Profile is and operate a local business,
-                        you're missing out on a lot of prospective clients. Many customers search for stuff like
-                        "restaurants near me." Before consumers see individual websites, they will see a map with local
-                        companies listed on it.</p>
+                    <li class="text">In the fast-changing world of mobile app development, staying ahead of the game is essential to create smooth and enjoyable experiences for our users.
+</li>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire GMP Specialists
+                <a class="basic-button landing-btn" href="#">Hire Xamarin App Development  Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -143,8 +143,7 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
-                        loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -224,101 +223,197 @@ include_once '../../init.php';
 
     <!-- content section start -->
     <section class="content_section">
-        <p class="text_content"> These are companies that have a Google Business Profile listing. If you
-                        aren't mentioned, you will lose all of those prospective consumers. Google Business Profile
-                        Management is an excellent option for busy business owners.</p><br>
-        <div class="content_div">
-            <h2 class="content-heading">What Is Google Business Profile?</h2>
-            <p class="text_content">A Google Business Profile (GBP) listing is more necessary and successful than a
-                website for your business in most cases! Google Business profile is free and easy to use. It assists
-                clients in locating and learning about local companies. It enables you to advertise your company's
-                website and profile on Google Maps and Google Search. You may get feedback, publish updates, and tell
-                your experience.</p>
 
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">What Does A Business Get Out Of A GBP Profile?</h3>
-            <div class="ul_div">
-                <ul>
-                    <li>Free and effective marketing</li>
-                    <li>Google maps visibility</li>
-                    <li>Google search visibility</li>
-                    <li>A message with customers or potential customers</li>
-                    <li>Greater exposure to the local community</li>
-                    <li>Feature menu from a business if appropriate</li>
-                </ul>
-            </div>
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">Tips For Google Business Profile</h3>
-            <div class="ul_div">
-                <ul>
-                    <li>Fill out the entire profile (Name, Address, Phone Number)</li>
-                    <li>Create posts regularly to update those searching</li>
-                    <li>Share photos regularly of your business</li>
-                    <li>Share specials, discounts, and events</li>
-                    <li>Build trust by responding to every review</li>
-                    <li>Ask customers to leave reviews on GBP</li>
-                </ul>
-            </div>
-        </div>
+    <div class="content_div">
+<p class="text_content"> Xamarin is a platform highly favored by developers because it is known for its ability to
+    create advanced Android applications. In this detailed guide, we will explore Xamarin app development for Android.
+</p><br>
 
-        <div class="content_div">
-            <h4 class="content-heading">THE 3 MOST IMPORTANT BENEFITS OF A GOOGLE BUSINESS LISTING</h4>
-            <p class="text_content">The fact that billions of people use Google every day to seek various products and
-                services demonstrates how crucial it is to be listed on its company listings. Here are the top reasons
-                why having a Google Business Profile profile is important:</p>
-            <p class="content_text_bold">ADVERTISING FOR FREE (YOUR BUSINESS APPEARS IN MAPS AND LOCAL SEARCHES)</p>
-            <p class="text_content">Google provides a search engine results page (SERP) feature called Local Pack, which
-                highlights relevant local companies based on your query in a prominent portion of the search engine's
-                search results. It's a highly prominent part that provides users with the information they want, making
-                it a must-have for organizations. Please keep in mind that this section only displays the top three most
-                relevant results for a particular search.
-                One of the most important variables in Local Pack rankings is the GMB. If you want to boost your local
-                Google position and reach your target audience, you must optimize your company listing precisely and
-                promptly. Google provides a how-to guide.</p>
-            <p class="content_text_bold">GMB RATINGS INCREASE CREDIT AND APPEAL</p>
-            <p class="text_content">Customers who have a Google business listing will be able to write reviews and
-                testimonials for others to see. It also includes a star rating, which is another type of helpful
-                feedback you can use to improve products or services. The disadvantage is that dissatisfied consumers
-                may utilize the review area to complain about your company.</p>
-            <p class="text_content">It is critical to undertake excellent reputation management when this occurs. It is
-                preferable to reply to the input right away by publicly admitting your error or deficiency. Consumers
-                want to be heard and understood, and the best approach to de-escalate a situation is to own the mistake,
-                apologize, and do your best to move ahead.</p>
-            <p class="text_content">You may also contact the consumer directly by sending an email or calling them.
-                Every company wants 5-star evaluations, but no one is flawless, and mistakes are unavoidable. Coping
-                with unfavorable reviews can be difficult, but managing them right and reacting honestly can help turn
-                things around. Customers consider more than simply star ratings. They also seek evidence of how
-                organizations manage problems.</p>
+<p class="text_content">We will discuss its features, advantages, and how it enables developers to create high-quality
+    applications that work on multiple platforms.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Xamarin Development</h2>
+    <h3><strong>Xamarin for Android: Empowering Cross-Platform Excellence</strong></h3>
 
-            <p class="content_text_bold">OFFERS VALUED CUSTOMER ANALYTICS</p>
-            <p class="text_content">The GMB website includes an Insights section with statistics about your company and
-                target clients. Insights include the number of people who have viewed your photographs, profile, and
-                posts. It also displays the various keywords clients use to locate your company, the amount of
-                interaction, and the number of clicks on the website, directions, and phone numbers.</p>
-            <p class="text_content">Looking at this data may help you have a better understanding of how the firm is
-                performing and what you can do to improve the success of specific marketing efforts. Only verified GMB
-                profiles have access to the Insights section.</p>
-        </div>
+    <p class="text_content">Xamarin development is a technology that allows developers to create Android applications
+        using
+        a common C# codebase.</p><br>
 
-        <div class="content_div">
-            <h4 class="content-heading">Why Should I Hire a Hire Coworker to Maintain My Google Business Profile
-                Listing?</h4>
-            <p class="text_content">It takes a lot of work to improve your listing and keep it up to date. You might not
-                have enough time! Hire Coworker will focus on optimizing your profile, managing weekly changes, and
-                staying on top of queries and reviews. The establishment and optimization of your GBP listing cost $200,
-                and monitoring of your Google Business Profile costs $200 per month. This is a generic price package
-                that may be tailored to your specific needs. Contact Hire Coworker, describe your project, and we'll get
-                to work.</p>
-        </div>
-        <div class="content_div">
-            <h4 class="content-heading">Choose a Property Management Virtual Assistant for Your Google Business Profile
-            </h4>
-            <p class="text_content">When you're ready to work with a property management VA, Hire Coworker has the
-                best-skilled people in the business! With your Free Business Profile, you may search through hundreds of
-                excellent virtual assistants.</p>
-        </div>
+
+    <p class="text_content">This means developers can write code once and use it for multiple platforms, making the
+        development process more efficient and cost-effective. </p><br>
+
+
+    <p class="text_content">Xamarin allows you to write one set of code that can be used on different platforms, making
+        it
+        easier to develop apps for multiple devices. </p><br>
+
+
+    <p class="text_content">Our product utilizes the capabilities of the .NET framework to provide you with a complete
+        set
+        of tools for creating dynamic and advanced Android applications.</p>
+    <h3><strong>Xamarin App Development: A Glimpse into the Future</strong></h3>
+    <p class="text_content">In the ever-changing world of creating apps, keeping up with the latest trends and
+        technologies
+        is essential to stay ahead. </p><br>
+
+
+    <p class="text_content">Xamarin's adaptability and innovative approach make it a leading contender in this
+        competition.
+        Sharing code across different platforms without sacrificing performance and user experience is a significant
+        advancement that can significantly impact how software is developed and used. </p><br>
+
+
+    <p class="text_content">Xamarin is a platform that enables developers, whether working for small startups or large
+        enterprises, to influence the future of Android app development dramatically.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Advantages of Xamarin App Development</h2>
+    <h3></strong>Seamless Integration with Native APIs</strong></h3>
+    <p class="text_content">Xamarin app development is unique because it can efficiently work with Android devices'
+        built-in
+        features and functions. This close integration means that developers can fully utilize the features of the
+        Android
+        system, including device-specific functions.</p><br>
+
+
+    <p class="text_content"> This ensures that users have a seamless and authentic experience with the app. Xamarin is a
+        software development platform that allows developers to create mobile applications using features like the
+        camera,
+        GPS, and push notifications.</p>
+    <h3><strong>Code Reusability: The Holy Grail of Efficiency</strong></h3>
+    <p class="text_content">Xamarin app development focuses on maximizing efficiency. By using a shared codebase for
+        multiple platforms, developers can save significant time and effort.</p><br>
+
+
+    <p class="text_content">They can write code once and use it across different platforms rather than writing separate
+        code
+        for each forum. This helps to streamline the development process and make it more efficient.</p><br>
+
+
+    <p class="text_content">Reusing code means using existing code in new projects, which helps speed up development and
+        makes it easier to maintain and update the software in the future.</p><br>
+
+
+    <p class="text_content"> Xamarin is a practical choice for ambitious projects because it allows you to save time and
+        money by bringing your product to market faster.</p>
+
+    <h3><strong>Native Performance:Unrivaled Experience</strong></h3>
+    <p class="text_content">Xamarin prioritizes performance and does not compromise on quality. Our software converts
+        your
+        C# code into machine code, allowing it to run faster and respond more quickly. </p><br>
+
+
+    <p class="text_content">Customers love using apps that provide a captivating and seamless experience. At the same
+        time,
+        developers take pride in creating apps that meet the highest quality standards.</p>
+
+    <h3><strong>Visual Studio Integration: A Developer's Delight</strong></h3>
+    <p class="text_content">Xamarin is a software tool that works smoothly with Microsoft's Visual Studio, a widely used
+        program for developers. This integration makes the development process more efficient by providing a
+        user-friendly
+        and robust platform for writing, troubleshooting, and testing code. Xamarin's user-friendly interface and Visual
+        Studio's powerful features allow developers to concentrate on creating innovative solutions instead of dealing
+        with
+        complicated tools.</p>
+
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Xamarin in Action: Crafting the Future of Android Apps</h2>
+    <h3><strong>Creating Engaging User Interfaces</strong></h3>
+    <p class="text_content">Xamarin is a software development platform that allows developers to create mobile
+        applications
+        for different operating systems; such forms are a user interface toolkit that is part of Xamarin.</p><br>
+
+
+    <p class="text_content"> It will enable developers to easily create visually appealing and interactive user
+        interfaces
+        for their applications. With Forms, developers can write code once and use it across different platforms, saving
+        time and effort. </p><br>
+
+
+    <p class="text_content">Designing once and deploying across multiple platforms means developers can create an
+        application or software once and make it work on other devices or operating systems. This reduces the time and
+        effort required for development.</p><br>
+
+
+    <p class="text_content"> XAML is a technology that makes it easier to create the application's user interface (UI).
+        It
+        simplifies the process of designing how the app looks and feels for the users. </p><br>
+
+
+    <p class="text_content">This approach helps maintain a consistent brand image and user experience across various
+        devices, encouraging customer engagement and loyalty.</p>
+    <h3><strong>Optimizing User Experience</strong></h3>
+    <p class="text_content">In the highly competitive world of mobile applications, the most crucial factor is the
+        experience that users have while using the app.</p><br>
+
+
+    <p class="text_content"> Xamarin's native-level performance means that applications run smoothly and quickly, so
+        they
+        respond promptly to user actions. </p><br>
+
+
+    <p class="text_content">The responsiveness of our app means that it reacts quickly to user actions, which leads to
+        happier users, more people keeping the app on their devices for more extended periods, and a greater likelihood
+        of
+        receiving positive reviews and recommendations from users.</p>
+    <h3><strong>Effortless Third-Party Integration</strong></h3>
+    <p class="text_content">Modern apps frequently utilize third-party libraries and services to improve their features
+        and
+        capabilities. Xamarin has a wide range of NuGet packages, making it easier for developers to incorporate
+        different
+        components into their projects. </p><br>
+
+
+    <p class="text_content">This means they can add new features without having to start from scratch. Xamarin's
+        ecosystem
+        offers many opportunities, including features like social media sharing and payment gateways. </p><br>
+
+
+    <p class="text_content">This means you can easily integrate these functionalities into your app and explore various
+        possibilities for your business.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Challenges and Best Practices</h2>
+    <h3><strong>Platform-Specific Considerations</strong></h3>
+    <p class="text_content">Although Xamarin is excellent for developing apps that work on multiple platforms, there are
+        times when it's essential to make specific optimizations for each forum. Developers must know Android's specific
+        design guidelines, navigation patterns, and performance quirks to create a great user experience.</p>
+    <h3><strong>App Size and Performance</strong></h3>
+    <p class="text_content">Xamarin apps are typically larger than native apps because they include the Mono runtime. To
+        address this challenge, it is essential to carefully manage how code is shared and optimize the use of assets.
+        In
+        addition, it is necessary to continuously improve performance to ensure a fast and smooth user experience.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Conclusion</h2>
+    <p class="text_content">Xamarin is a powerful toolset for developing Android apps that combines efficiency and
+        innovation.</p><br>
+
+
+    <p class="text_content">The technology can use shared code effectively, resulting in fast and smooth applications
+        that
+        provide a great user experience.</p><br>
+
+
+    <p class="text_content">This makes it an attractive option for developers who want to create applications that are
+        flexible, responsive, and packed with features. Xamarin is a powerful tool that allows developers to create
+        innovative Android apps without limitations. </p><br>
+
+
+    <p class="text_content">The possibilities for the future of Android app development are endless with Xamarin.
+        Xamarin is
+        a reliable tool that helps developers create impressive Android applications by harnessing the power of evolving
+        technology. </p><br>
+
+
+    <p class="text_content">Why should you wait? Start your Xamarin journey today and discover endless opportunities for
+        developing your apps.</p><br>
+    
+
+
 
     </section>
     <!-- content section end -->
@@ -326,13 +421,11 @@ include_once '../../init.php';
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            BEST DIGITAL MARKETING EXPERT</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image"
-                        alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <p class="expert-name">Edward C.</p>
@@ -342,8 +435,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years
-                    experience in the banking, fintech, enterprise, etc.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Linkedin</p>
@@ -369,8 +461,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Syed K.</p>
@@ -380,8 +471,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on
-                    projects that were mission-critical.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Google Data Studio</p>
@@ -407,8 +497,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Kristine S.</p>
@@ -418,8 +507,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6
-                    years of diverse digital marketing expertise.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Social Media Marketing</p>
@@ -462,7 +550,58 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                    Search Engine Optimization (SEO)
+                Ecommerce Web Development
+                </div>
+                <div class="list_data">
+                $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Customer Mail Handling
+                </div>
+                <div class="list_data">
+                $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Chargebacks Handling
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $470
+                </div>
+                <div class="list_data">
+                    $1850
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Amazon Account Handling
                 </div>
                 <div class="list_data">
                     $5
@@ -479,7 +618,41 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Social Media Handler
+                Ebay Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Walmart Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Dropshipping Virtual Assistant
                 </div>
                 <div class="list_data">
                     $3
@@ -496,174 +669,29 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Email Marketing Services
+                Sales Funnel Development + Support
                 </div>
                 <div class="list_data">
-                    $5
+                    $10
                 </div>
                 <div class="list_data">
-                    $35
+                    $70
                 </div>
                 <div class="list_data">
-                    $230
+                    $450
                 </div>
                 <div class="list_data">
-                    $920
+                    $1800
                 </div>
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Local SEO
+                Google Reviews Services
                 </div>
                 <div class="list_data">
-                    $4
+                    $1.5 per review
                 </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Franchise SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Content Marketing Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Link Building
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Online Reputation Management (ORM)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Conversion Rate Optimization (CRO)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Amazon Marketing Services (AMS)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    PPC Advertisement Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Social Media Advertisement Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
+            </div>            
         </div>
     </section>
 
@@ -790,68 +818,41 @@ include_once '../../init.php';
 
             <div class="faqs-child">
                 <details>
-                    <summary>What can my virtual assistant do for me on social media?</summary>
+                    <summary>What is an SEO expert?</summary>
                     <div class="faq__content">
-                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot
-                            physically be present in your workplace, but they can log into your numerous social media
-                            networks, automate postings, do research, recognize trends, and much more. Ask a VA which
-                            hashtags are suitable for your next post. Ask a VA to put up an automatic system for
-                            scheduling postings. When you use a VA's experience, there is no limit to what you may do.
-                        </p>
+                        <p class="text">An SEO expert or SEO specialister finds methods, tactics, and procedures to boost the number of website visits and seeks to get a high-ranking placement in search engine results such as Google or Bing. Creating more leads for the organization opens up new avenues for profit and growth.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Is it difficult to train a virtual assistant for my particular accounts?</summary>
+                    <summary>Why would you hire a virtual SEO assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will
-                            want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform
-                            them of the duties you anticipate them to complete. Respond to their inquiries. As time
-                            passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
+                        <p class="text">If you lack the ability to develop keyword-rich SEO material, you will not maximize your Google ranks. Use a virtual assistant to avoid monthly retainer fees and the necessity to engage an onsite person, which will cost you extra. Let your virtual assistant to handle your Search Engine Optimization by examining critical data like as page visits, bounce rates, backlinks, link building activities, and other SEO chores such as writing blog articles and other related material. You may utilize the internet and other platforms to reach your target consumers, giving you the opportunity to expand your company faster.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will my assistant be treated similarly to a full-time employee?</summary>
+                    <summary>What are the advantages of hiring an SEO Virtual Assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a
-                            part-time employee or as a full-time employee. They will not be physically present in your
-                            firm, but they have the potential to become crucial. Many VAs, on the other hand, discover
-                            that they prefer this structure to typical employment since it gives them more authority and
-                            influence over their own professional life. And for you, the business, better productivity,
-                            and a more prudent budget will help your company succeed.</p>
+                        <p class="text">Expert search engine optimization may significantly boost your ranks. Spend less money since hiring a virtual assistant is more cost-effective over time. You may devote more time to your main tasks.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How effective are virtual assistants at handling social media?</summary>
+                    <summary>What is the difference between SEO and SEM?</summary>
                     <div class="faq__content">
-                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train
-                            them. But, if you hire someone with a lot of expertise dealing with numerous social media
-                            outlets, you'll see that it might be quite different. Many high-quality VAs originate from
-                            the realm of social media and may even have a large presence themselves. In certain
-                            circumstances, a VA may be able to give advice and advise you on the best technique. You
-                            don't have to restrict yourself to automating the most basic chores like scheduling posts or
-                            researching in the background. A social media VA may be much more—if you employ the proper
-                            one.</p>
+                        <p class="text">SEO (search engine optimization) is sometimes used as a catch-all word for SEM (Search engine marketing). SEM, on the other hand, refers to sponsored advertising. As a result, the two words should be distinguished. This is because SEM is about delivering bought traffic to a website, but SEO is about bringing organic traffic to a site and monitoring traffic trends.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Who is a virtual assistant for?</summary>
+                    <summary>What factors contribute to effective SEO?</summary>
                     <div class="faq__content">
-                        <p class="text">There is no one solution here, yet many people would benefit from having a VA.
-                            Executives, freelancers, entrepreneurs, C-level executives, social media managers, and
-                            others are all welcome. Everyone who has a lot of social media chores on their plate and
-                            wants to make sure they get more done during the day would benefit from the experience.
-                            But we don't want you to believe that you are constrained by these definitions. The reality
-                            is that anyone who may profit from having more time in their working days as a result of
-                            being able to outsource some of their work to a social media virtual assistant will quickly
-                            recognize the benefit.</p>
+                        <p class="text">The primary driver of search engine results is high-quality, authoritative content, and there is no alternative for unique and excellent material. This is especially true while performing SEO marketing. Excellent content for your target audience increases site traffic, increasing the relevance and authority of your site.</p>
                     </div>
                 </details>
             </div>
@@ -875,7 +876,9 @@ include_once '../../init.php';
 
     <!-- scripts -->
     <!-- -------------------------- -->
-    <?php include_once script_new;?>
+    <?php include_once script_new; ?>
+
+
 </body>
 
 </html>

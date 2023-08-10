@@ -7,15 +7,17 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <?php include_once head_new;?>
 
-    <title>Google Business Profile Management Service</title>
+    <?php include_once head_new; ?>
+
+    <title>Migration & App Porting</title>
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>dm/google_business.webp");
+            background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
         }
     </style>
 </head>
@@ -40,17 +42,15 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Google Business Profile Management
+                Migration & App Porting
                 </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">If you don't know what Google Business Profile is and operate a local business,
-                        you're missing out on a lot of prospective clients. Many customers search for stuff like
-                        "restaurants near me." Before consumers see individual websites, they will see a map with local
-                        companies listed on it.</p>
+                    <li class="text">In today's fast-changing world of technology, businesses and individuals are always looking for ways to make communication easier and improve their ability to connect with others. 
+</li>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire GMP Specialists
+                <a class="basic-button landing-btn" href="#">Hire Migration & App Porting Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -143,8 +143,7 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
-                        loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -224,101 +223,164 @@ include_once '../../init.php';
 
     <!-- content section start -->
     <section class="content_section">
-        <p class="text_content"> These are companies that have a Google Business Profile listing. If you
-                        aren't mentioned, you will lose all of those prospective consumers. Google Business Profile
-                        Management is an excellent option for busy business owners.</p><br>
-        <div class="content_div">
-            <h2 class="content-heading">What Is Google Business Profile?</h2>
-            <p class="text_content">A Google Business Profile (GBP) listing is more necessary and successful than a
-                website for your business in most cases! Google Business profile is free and easy to use. It assists
-                clients in locating and learning about local companies. It enables you to advertise your company's
-                website and profile on Google Maps and Google Search. You may get feedback, publish updates, and tell
-                your experience.</p>
 
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">What Does A Business Get Out Of A GBP Profile?</h3>
-            <div class="ul_div">
-                <ul>
-                    <li>Free and effective marketing</li>
-                    <li>Google maps visibility</li>
-                    <li>Google search visibility</li>
-                    <li>A message with customers or potential customers</li>
-                    <li>Greater exposure to the local community</li>
-                    <li>Feature menu from a business if appropriate</li>
-                </ul>
-            </div>
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">Tips For Google Business Profile</h3>
-            <div class="ul_div">
-                <ul>
-                    <li>Fill out the entire profile (Name, Address, Phone Number)</li>
-                    <li>Create posts regularly to update those searching</li>
-                    <li>Share photos regularly of your business</li>
-                    <li>Share specials, discounts, and events</li>
-                    <li>Build trust by responding to every review</li>
-                    <li>Ask customers to leave reviews on GBP</li>
-                </ul>
-            </div>
-        </div>
+    <div class="content_div">
+    <p class="text_content">A widespread transition that many people are making is moving away from traditional landline
+        phone systems and switching to more modern communication platforms like Google Voice. During the migration
+        process, there is a step called app porting. </p><br>
 
-        <div class="content_div">
-            <h4 class="content-heading">THE 3 MOST IMPORTANT BENEFITS OF A GOOGLE BUSINESS LISTING</h4>
-            <p class="text_content">The fact that billions of people use Google every day to seek various products and
-                services demonstrates how crucial it is to be listed on its company listings. Here are the top reasons
-                why having a Google Business Profile profile is important:</p>
-            <p class="content_text_bold">ADVERTISING FOR FREE (YOUR BUSINESS APPEARS IN MAPS AND LOCAL SEARCHES)</p>
-            <p class="text_content">Google provides a search engine results page (SERP) feature called Local Pack, which
-                highlights relevant local companies based on your query in a prominent portion of the search engine's
-                search results. It's a highly prominent part that provides users with the information they want, making
-                it a must-have for organizations. Please keep in mind that this section only displays the top three most
-                relevant results for a particular search.
-                One of the most important variables in Local Pack rankings is the GMB. If you want to boost your local
-                Google position and reach your target audience, you must optimize your company listing precisely and
-                promptly. Google provides a how-to guide.</p>
-            <p class="content_text_bold">GMB RATINGS INCREASE CREDIT AND APPEAL</p>
-            <p class="text_content">Customers who have a Google business listing will be able to write reviews and
-                testimonials for others to see. It also includes a star rating, which is another type of helpful
-                feedback you can use to improve products or services. The disadvantage is that dissatisfied consumers
-                may utilize the review area to complain about your company.</p>
-            <p class="text_content">It is critical to undertake excellent reputation management when this occurs. It is
-                preferable to reply to the input right away by publicly admitting your error or deficiency. Consumers
-                want to be heard and understood, and the best approach to de-escalate a situation is to own the mistake,
-                apologize, and do your best to move ahead.</p>
-            <p class="text_content">You may also contact the consumer directly by sending an email or calling them.
-                Every company wants 5-star evaluations, but no one is flawless, and mistakes are unavoidable. Coping
-                with unfavorable reviews can be difficult, but managing them right and reacting honestly can help turn
-                things around. Customers consider more than simply star ratings. They also seek evidence of how
-                organizations manage problems.</p>
+    <p class="text_content">This step is crucial because it helps transfer all the features and data from one system to
+        another in a seamless manner. It can be complex, but it ensures everything works smoothly during the transfer.
+    </p><br>
 
-            <p class="content_text_bold">OFFERS VALUED CUSTOMER ANALYTICS</p>
-            <p class="text_content">The GMB website includes an Insights section with statistics about your company and
-                target clients. Insights include the number of people who have viewed your photographs, profile, and
-                posts. It also displays the various keywords clients use to locate your company, the amount of
-                interaction, and the number of clicks on the website, directions, and phone numbers.</p>
-            <p class="text_content">Looking at this data may help you have a better understanding of how the firm is
-                performing and what you can do to improve the success of specific marketing efforts. Only verified GMB
-                profiles have access to the Insights section.</p>
-        </div>
+    <p class="text_content">In this detailed guide, we will explore the process of moving your phone service from a
+        traditional landline to Google Voice. We will explain the advantages, difficulties, and recommended transition
+        methods.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Understanding Migration & App Porting</h2>
+    <p class="text_content">In simple terms, migration means moving from one communication system to another. It
+        involves transferring all the information and settings from the old system to the new one. </p><br>
 
-        <div class="content_div">
-            <h4 class="content-heading">Why Should I Hire a Hire Coworker to Maintain My Google Business Profile
-                Listing?</h4>
-            <p class="text_content">It takes a lot of work to improve your listing and keep it up to date. You might not
-                have enough time! Hire Coworker will focus on optimizing your profile, managing weekly changes, and
-                staying on top of queries and reviews. The establishment and optimization of your GBP listing cost $200,
-                and monitoring of your Google Business Profile costs $200 per month. This is a generic price package
-                that may be tailored to your specific needs. Contact Hire Coworker, describe your project, and we'll get
-                to work.</p>
-        </div>
-        <div class="content_div">
-            <h4 class="content-heading">Choose a Property Management Virtual Assistant for Your Google Business Profile
-            </h4>
-            <p class="text_content">When you're ready to work with a property management VA, Hire Coworker has the
-                best-skilled people in the business! With your Free Business Profile, you may search through hundreds of
-                excellent virtual assistants.</p>
-        </div>
+    <p class="text_content">App porting refers to making an application work in a different environment. This involves
+        adapting and transferring the application so that it works smoothly and still has all its essential features.
+    </p><br>
+
+    <p class="text_content">When you transition from a landline to Google Voice, you are moving your organization's
+        phone system from the old-fashioned landline system to Google Voice, a more modern and internet-based platform
+        for communication.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Benefits of Migrating to Google Voice</h2>
+    <p class="text_content"><strong>1)Cost Efficiency:</strong> Traditional landline systems can be expensive to
+        maintain and operate, impacting overall costs. By switching to Google Voice, you can save significant money
+        because you won't need to invest in physical equipment, and your call charges will be reduced.</p><br>
+
+    <p class="text_content"><strong>2)Flexibility & Mobility:</strong> With Google Voice, you can make and receive calls
+        from any device with an internet connection. This means you can use your phone, tablet, or computer to stay
+        connected wherever you are. This feature allows you to be more productive and communicate efficiently, no matter
+        where you are.</p><br>
+    <p class="text_content"><strong>3)Integrated Communication: </strong> Google Voice is a service that works well with
+        other Google services like Gmail and Google Calendar. This means that you can easily communicate and work
+        together with others in one place, making things more efficient.</p><br>
+
+    <p class="text_content"><strong>4)Advanced Features: </strong> Google Voice offers a range of advanced features that
+        can enhance your calling experience. These features include the ability to transcribe your voicemail messages
+        into text, record your calls for future reference, and easily forward your calls to another number. These
+        features make it easier for you to communicate and improve your overall experience using the product.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Challenges to Consider</h2>
+    <p class="text_content">Although there are many advantages to switching to Google Voice, it's important to note that
+        there may be some difficulties involved in the process. Here are some essential things to think about:Some very
+        important considerations are as follows:</p><br>
+
+    <p class="text_content"><strong>1)Integration Complexity:</strong> When it comes to connecting Google Voice with
+        your current business systems and workflows, some complexity may be involved. This could mean that custom
+        development might be necessary to ensure everything works seamlessly during the transition.</p><br>
+    <p class="text_content"><strong>2)Training & Adoption:</strong> Some users who are used to using traditional
+        landline systems may need some training to get familiar with the new Google Voice interface and its features.
+    </p><br>
+    <p class="text_content"><strong>3)Data Migration:</strong> When moving call logs, voicemails, and contacts from a
+        landline system to Google Voice, it is essential to plan carefully to prevent any data loss.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">The Role of App Porting in Migration</h2>
+    <p class="text_content">App porting is a necessary process that helps you move your phone number from a traditional
+        landline service to Google Voice.</p><br>
+
+    <p class="text_content"> This is crucial in ensuring a smooth transition and successful use of Google Voice for your
+        communication needs.</p><br>
+
+    <p class="text_content">This process includes moving or modifying current applications and features to work on the
+        new platform. App porting is a process in communication systems that allows essential features like call
+        routing, voicemail management, and contact synchronization to be smoothly transferred from one app to another.
+    </p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Best Practices for App Porting</h2>
+    <p class="text_content"><strong>1)Assessment & Planning: </strong> We will evaluate your current landline system and
+        its capabilities thoroughly. We will determine the essential features that need to be transferred to the new
+        system and prioritize them based on their importance to your business.</p><br>
+
+
+    <p class="text_content"><strong>2)Custom Development:</strong> In some cases, additional development work may be
+        needed to ensure the migration process goes smoothly. The complexity of the migration will determine if this is
+        necessary. Work with skilled developers to create customized solutions that meet your organization's specific
+        needs.</p><br>
+
+
+    <p class="text_content"><strong>3) Data Migration Strategy:</strong> Create a firm plan for transferring data from
+        the traditional landline system to Google Voice. We can help you move your call history, voicemails, contacts,
+        and other vital data to another device or system.</p><br>
+
+
+    <p class="text_content"><strong>4)Testing & Validation:</strong> We will carefully test the ported application to
+        ensure all its features are working correctly as intended. Before making the new system available to users, it
+        is essential to address any problems or inconsistencies that may arise. This will ensure a smooth and efficient
+        transition for our customers.</p><br>
+
+
+    <p class="text_content"><strong>5)User Training:</strong> We will offer thorough training sessions to help users
+        become familiar with the new Google Voice interface and its various features. Please feel free to raise concerns
+        or ask questions to ensure a seamless transition.</p><br>
+
+
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Case Study: Seamless Transition from Landline to Google Voice</h2>
+    <p class="text_content">Company XYZ, a medium-sized retail business, faced challenges with its old-fashioned
+        landline communication system that was no longer meeting its needs. The company decided to switch to Google
+        Voice because they wanted to be happier with the increasing costs and limited communication choices they had
+        before. The company carefully moved the app to a different platform to ensure everything went smoothly.</p><br>
+
+
+    <p class="text_content"><strong>1)Explanation:</strong> Company XYZ carefully evaluated its current landline system and
+            identified essential features like call forwarding, voicemail management, and call recording that must be
+            transferred to a new system.</p><br>
+
+
+    <p class="text_content"><strong>2)Custom Development:</strong> Company XYZ worked with skilled app developers to modify the
+            Google Voice interface to meet their unique business requirements. We developed a system that automatically
+            directs customer calls to the appropriate department based on their inquiries. Additionally, we integrated a
+            service that converts voicemail messages into written text for easier access and review.</p><br>
+    <p class="text_content"><strong>3)Data Migration:</strong> The company created a plan to move its extensive contact database
+            and years of call logs to Google Voice. We performed data cleansing and mapping to ensure accurate and
+            synchronized information.</p><br>
+
+
+    <p class="text_content"><strong>4)Testing & Training:</strong> We thoroughly tested to ensure the ported application functions
+            properly. After being happy with the new Google Voice features, Company XYZ gave their employees through
+            training on how to use them effectively.</p><br>
+
+
+    <p class="text_content">Moving and adapting the app for Company XYZ was done smoothly, resulting in a seamless
+        transition. </p><br>
+
+
+    <p class="text_content">The company experienced a significant decrease in money spent on communication, better
+        organization of phone calls, and increased ability to handle customer questions and requests. </p><br>
+
+
+    <p class="text_content">The employees could learn and use the new system easily, which significantly increased the
+        company's overall productivity.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Conclusion</h2>
+    <p class="text_content">Moving from traditional landline systems to modern communication platforms like Google Voice
+        offers several benefits. </p><br>
+
+    <p class="text_content">These include increased efficiency, saving costs, and providing better user experiences. App
+        porting is a process that helps organizations smoothly transition their applications to new technologies while
+        keeping all the essential features intact. </p><br>
+
+    <p class="text_content">By following industry standards and working with experienced developers, businesses can
+        successfully overcome the difficulties of moving and adapting their applications. This will result in a more
+        flexible and interconnected communication system, bringing various advantages to the business. </p><br>
+
+    <p class="text_content">To remain competitive in today's fast-paced business world, embracing and adapting to the
+        ongoing advancements in technology is necessary.</p><br>
+
 
     </section>
     <!-- content section end -->
@@ -326,13 +388,11 @@ include_once '../../init.php';
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            BEST DIGITAL MARKETING EXPERT</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image"
-                        alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <p class="expert-name">Edward C.</p>
@@ -342,8 +402,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years
-                    experience in the banking, fintech, enterprise, etc.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Linkedin</p>
@@ -369,8 +428,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Syed K.</p>
@@ -380,8 +438,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on
-                    projects that were mission-critical.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Google Data Studio</p>
@@ -407,8 +464,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Kristine S.</p>
@@ -418,8 +474,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6
-                    years of diverse digital marketing expertise.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Social Media Marketing</p>
@@ -462,7 +517,58 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                    Search Engine Optimization (SEO)
+                Ecommerce Web Development
+                </div>
+                <div class="list_data">
+                $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Customer Mail Handling
+                </div>
+                <div class="list_data">
+                $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Chargebacks Handling
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $470
+                </div>
+                <div class="list_data">
+                    $1850
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Amazon Account Handling
                 </div>
                 <div class="list_data">
                     $5
@@ -479,7 +585,41 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Social Media Handler
+                Ebay Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Walmart Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Dropshipping Virtual Assistant
                 </div>
                 <div class="list_data">
                     $3
@@ -496,174 +636,29 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Email Marketing Services
+                Sales Funnel Development + Support
                 </div>
                 <div class="list_data">
-                    $5
+                    $10
                 </div>
                 <div class="list_data">
-                    $35
+                    $70
                 </div>
                 <div class="list_data">
-                    $230
+                    $450
                 </div>
                 <div class="list_data">
-                    $920
+                    $1800
                 </div>
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Local SEO
+                Google Reviews Services
                 </div>
                 <div class="list_data">
-                    $4
+                    $1.5 per review
                 </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Franchise SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Content Marketing Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Link Building
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Online Reputation Management (ORM)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Conversion Rate Optimization (CRO)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Amazon Marketing Services (AMS)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    PPC Advertisement Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Social Media Advertisement Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
+            </div>            
         </div>
     </section>
 
@@ -790,68 +785,41 @@ include_once '../../init.php';
 
             <div class="faqs-child">
                 <details>
-                    <summary>What can my virtual assistant do for me on social media?</summary>
+                    <summary>What is an SEO expert?</summary>
                     <div class="faq__content">
-                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot
-                            physically be present in your workplace, but they can log into your numerous social media
-                            networks, automate postings, do research, recognize trends, and much more. Ask a VA which
-                            hashtags are suitable for your next post. Ask a VA to put up an automatic system for
-                            scheduling postings. When you use a VA's experience, there is no limit to what you may do.
-                        </p>
+                        <p class="text">An SEO expert or SEO specialister finds methods, tactics, and procedures to boost the number of website visits and seeks to get a high-ranking placement in search engine results such as Google or Bing. Creating more leads for the organization opens up new avenues for profit and growth.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Is it difficult to train a virtual assistant for my particular accounts?</summary>
+                    <summary>Why would you hire a virtual SEO assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will
-                            want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform
-                            them of the duties you anticipate them to complete. Respond to their inquiries. As time
-                            passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
+                        <p class="text">If you lack the ability to develop keyword-rich SEO material, you will not maximize your Google ranks. Use a virtual assistant to avoid monthly retainer fees and the necessity to engage an onsite person, which will cost you extra. Let your virtual assistant to handle your Search Engine Optimization by examining critical data like as page visits, bounce rates, backlinks, link building activities, and other SEO chores such as writing blog articles and other related material. You may utilize the internet and other platforms to reach your target consumers, giving you the opportunity to expand your company faster.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will my assistant be treated similarly to a full-time employee?</summary>
+                    <summary>What are the advantages of hiring an SEO Virtual Assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a
-                            part-time employee or as a full-time employee. They will not be physically present in your
-                            firm, but they have the potential to become crucial. Many VAs, on the other hand, discover
-                            that they prefer this structure to typical employment since it gives them more authority and
-                            influence over their own professional life. And for you, the business, better productivity,
-                            and a more prudent budget will help your company succeed.</p>
+                        <p class="text">Expert search engine optimization may significantly boost your ranks. Spend less money since hiring a virtual assistant is more cost-effective over time. You may devote more time to your main tasks.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How effective are virtual assistants at handling social media?</summary>
+                    <summary>What is the difference between SEO and SEM?</summary>
                     <div class="faq__content">
-                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train
-                            them. But, if you hire someone with a lot of expertise dealing with numerous social media
-                            outlets, you'll see that it might be quite different. Many high-quality VAs originate from
-                            the realm of social media and may even have a large presence themselves. In certain
-                            circumstances, a VA may be able to give advice and advise you on the best technique. You
-                            don't have to restrict yourself to automating the most basic chores like scheduling posts or
-                            researching in the background. A social media VA may be much more—if you employ the proper
-                            one.</p>
+                        <p class="text">SEO (search engine optimization) is sometimes used as a catch-all word for SEM (Search engine marketing). SEM, on the other hand, refers to sponsored advertising. As a result, the two words should be distinguished. This is because SEM is about delivering bought traffic to a website, but SEO is about bringing organic traffic to a site and monitoring traffic trends.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Who is a virtual assistant for?</summary>
+                    <summary>What factors contribute to effective SEO?</summary>
                     <div class="faq__content">
-                        <p class="text">There is no one solution here, yet many people would benefit from having a VA.
-                            Executives, freelancers, entrepreneurs, C-level executives, social media managers, and
-                            others are all welcome. Everyone who has a lot of social media chores on their plate and
-                            wants to make sure they get more done during the day would benefit from the experience.
-                            But we don't want you to believe that you are constrained by these definitions. The reality
-                            is that anyone who may profit from having more time in their working days as a result of
-                            being able to outsource some of their work to a social media virtual assistant will quickly
-                            recognize the benefit.</p>
+                        <p class="text">The primary driver of search engine results is high-quality, authoritative content, and there is no alternative for unique and excellent material. This is especially true while performing SEO marketing. Excellent content for your target audience increases site traffic, increasing the relevance and authority of your site.</p>
                     </div>
                 </details>
             </div>
@@ -875,7 +843,9 @@ include_once '../../init.php';
 
     <!-- scripts -->
     <!-- -------------------------- -->
-    <?php include_once script_new;?>
+    <?php include_once script_new; ?>
+
+
 </body>
 
 </html>

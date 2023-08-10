@@ -7,15 +7,17 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <?php include_once head_new;?>
 
-    <title>Google Business Profile Management Service</title>
+    <?php include_once head_new; ?>
+
+    <title>AUGMENTED REALITY DEVELOPMENT</title>
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>dm/google_business.webp");
+            background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
         }
     </style>
 </head>
@@ -40,17 +42,14 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Google Business Profile Management
+                AUGMENTED REALITY DEVELOPMENT
                 </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">If you don't know what Google Business Profile is and operate a local business,
-                        you're missing out on a lot of prospective clients. Many customers search for stuff like
-                        "restaurants near me." Before consumers see individual websites, they will see a map with local
-                        companies listed on it.</p>
+                    <li class="text">Augmented Reality (AR) is an exciting technology that combines the physical and digital worlds. It allows you to experience digital content in real-world settings, creating a unique and immersive experience.</li>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire GMP Specialists
+                <a class="basic-button landing-btn" href="#">HIRE AUGMENTED REALITY DEVELOPMENT  SPECIALISTS
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -143,8 +142,7 @@ include_once '../../init.php';
             </div>
             <div class="number-counter">
                 <div class="text-center number-counter-item">
-                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer"
-                        loading="lazy">
+                    <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
                 </div>
                 <p class="text-center number_p">8+</p>
                 <p class="text-center">Year's Industry Experience</p>
@@ -224,101 +222,140 @@ include_once '../../init.php';
 
     <!-- content section start -->
     <section class="content_section">
-        <p class="text_content"> These are companies that have a Google Business Profile listing. If you
-                        aren't mentioned, you will lose all of those prospective consumers. Google Business Profile
-                        Management is an excellent option for busy business owners.</p><br>
-        <div class="content_div">
-            <h2 class="content-heading">What Is Google Business Profile?</h2>
-            <p class="text_content">A Google Business Profile (GBP) listing is more necessary and successful than a
-                website for your business in most cases! Google Business profile is free and easy to use. It assists
-                clients in locating and learning about local companies. It enables you to advertise your company's
-                website and profile on Google Maps and Google Search. You may get feedback, publish updates, and tell
-                your experience.</p>
 
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">What Does A Business Get Out Of A GBP Profile?</h3>
-            <div class="ul_div">
-                <ul>
-                    <li>Free and effective marketing</li>
-                    <li>Google maps visibility</li>
-                    <li>Google search visibility</li>
-                    <li>A message with customers or potential customers</li>
-                    <li>Greater exposure to the local community</li>
-                    <li>Feature menu from a business if appropriate</li>
-                </ul>
-            </div>
-        </div>
-        <div class="content_div">
-            <h3 class="content-heading">Tips For Google Business Profile</h3>
-            <div class="ul_div">
-                <ul>
-                    <li>Fill out the entire profile (Name, Address, Phone Number)</li>
-                    <li>Create posts regularly to update those searching</li>
-                    <li>Share photos regularly of your business</li>
-                    <li>Share specials, discounts, and events</li>
-                    <li>Build trust by responding to every review</li>
-                    <li>Ask customers to leave reviews on GBP</li>
-                </ul>
-            </div>
-        </div>
 
-        <div class="content_div">
-            <h4 class="content-heading">THE 3 MOST IMPORTANT BENEFITS OF A GOOGLE BUSINESS LISTING</h4>
-            <p class="text_content">The fact that billions of people use Google every day to seek various products and
-                services demonstrates how crucial it is to be listed on its company listings. Here are the top reasons
-                why having a Google Business Profile profile is important:</p>
-            <p class="content_text_bold">ADVERTISING FOR FREE (YOUR BUSINESS APPEARS IN MAPS AND LOCAL SEARCHES)</p>
-            <p class="text_content">Google provides a search engine results page (SERP) feature called Local Pack, which
-                highlights relevant local companies based on your query in a prominent portion of the search engine's
-                search results. It's a highly prominent part that provides users with the information they want, making
-                it a must-have for organizations. Please keep in mind that this section only displays the top three most
-                relevant results for a particular search.
-                One of the most important variables in Local Pack rankings is the GMB. If you want to boost your local
-                Google position and reach your target audience, you must optimize your company listing precisely and
-                promptly. Google provides a how-to guide.</p>
-            <p class="content_text_bold">GMB RATINGS INCREASE CREDIT AND APPEAL</p>
-            <p class="text_content">Customers who have a Google business listing will be able to write reviews and
-                testimonials for others to see. It also includes a star rating, which is another type of helpful
-                feedback you can use to improve products or services. The disadvantage is that dissatisfied consumers
-                may utilize the review area to complain about your company.</p>
-            <p class="text_content">It is critical to undertake excellent reputation management when this occurs. It is
-                preferable to reply to the input right away by publicly admitting your error or deficiency. Consumers
-                want to be heard and understood, and the best approach to de-escalate a situation is to own the mistake,
-                apologize, and do your best to move ahead.</p>
-            <p class="text_content">You may also contact the consumer directly by sending an email or calling them.
-                Every company wants 5-star evaluations, but no one is flawless, and mistakes are unavoidable. Coping
-                with unfavorable reviews can be difficult, but managing them right and reacting honestly can help turn
-                things around. Customers consider more than simply star ratings. They also seek evidence of how
-                organizations manage problems.</p>
+    <div class="content_div">
+<p class="text_content">AR development refers to technology combining computer-generated elements with the real world.
+    This technology has significantly impacted different industries, including entertainment, gaming, education, and
+    business solutions.</p><br>
 
-            <p class="content_text_bold">OFFERS VALUED CUSTOMER ANALYTICS</p>
-            <p class="text_content">The GMB website includes an Insights section with statistics about your company and
-                target clients. Insights include the number of people who have viewed your photographs, profile, and
-                posts. It also displays the various keywords clients use to locate your company, the amount of
-                interaction, and the number of clicks on the website, directions, and phone numbers.</p>
-            <p class="text_content">Looking at this data may help you have a better understanding of how the firm is
-                performing and what you can do to improve the success of specific marketing efforts. Only verified GMB
-                profiles have access to the Insights section.</p>
-        </div>
+<p class="text_content">This article explores the fascinating field of augmented reality development. It explains how
+    augmented reality is used, its advantages, and its significant impact on the future of technology.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">AR Development: Redefining Reality</h2>
+<p class="text_content">Augmented Reality development creates digital elements that enhance how you see and interact
+    with the real world. These digital overlays can add extra information or enhance your perception of the physical
+    environment around you. </p><br>
 
-        <div class="content_div">
-            <h4 class="content-heading">Why Should I Hire a Hire Coworker to Maintain My Google Business Profile
-                Listing?</h4>
-            <p class="text_content">It takes a lot of work to improve your listing and keep it up to date. You might not
-                have enough time! Hire Coworker will focus on optimizing your profile, managing weekly changes, and
-                staying on top of queries and reviews. The establishment and optimization of your GBP listing cost $200,
-                and monitoring of your Google Business Profile costs $200 per month. This is a generic price package
-                that may be tailored to your specific needs. Contact Hire Coworker, describe your project, and we'll get
-                to work.</p>
-        </div>
-        <div class="content_div">
-            <h4 class="content-heading">Choose a Property Management Virtual Assistant for Your Google Business Profile
-            </h4>
-            <p class="text_content">When you're ready to work with a property management VA, Hire Coworker has the
-                best-skilled people in the business! With your Free Business Profile, you may search through hundreds of
-                excellent virtual assistants.</p>
-        </div>
+<p class="text_content">Augmented Reality (AR) is a technology that adds digital information, like images, videos, and
+    interactive elements, to your real-world surroundings. It enhances your experience by blending the digital and
+    physical worlds, unlike Virtual Reality (VR) which creates entirely simulated environments. Combining the natural
+    world and digital technology has led to many creative applications in various industries.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">AR in Entertainment and Gaming</h2>
+<p class="text_content">The entertainment industry has significantly changed with the introduction of augmented reality
+    (AR) technology. Games like "Pokémon GO," created by Niantic, have become very popular because they use augmented
+    reality (AR) to change how we interact with entertainment. </p><br>
+
+<p class="text_content">Players can venture into their surroundings and catch virtual creatures in this game. This
+    unique experience blurs the boundaries between what is real and what is not.</p><br>
+
+<p class="text_content">These games use augmented reality technology to create interactive experiences that fully engage
+    users and promote physical movement.</p><br>
+
+<p class="text_content">In gaming, augmented reality (AR) technology is advancing quickly. Our developers are working on
+    ways to combine the real world with virtual elements to create interactive and exciting experiences. </p><br>
+
+<p class="text_content">Niantic's augmented reality games have been very successful, leading to a new gaming era. In
+    these games, the lines between the natural and digital worlds are blurred.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Augmented Reality for Education</h2>
+<p class="text_content">AR development has significantly transformed education by enhancing the learning experience
+    through increased engagement and interactivity. </p><br>
+
+<p class="text_content">Imagine students having the ability to see and understand complex scientific concepts,
+    historical events, or architectural wonders in a three-dimensional format right in their classrooms. This increased
+    level of immersion can significantly enhance your understanding and memory.</p><br>
+
+<p class="text_content"><strong>For example,</strong> in anatomy lessons, students can use interactive 3D models of the
+    human body to study its intricate details. They can explore different layers of the body to gain a deeper
+    understanding. </p><br>
+
+<p class="text_content">Virtual reconstruction of historical sites enables students to experience significant events
+    from the past as if they were there. AR development refers to educators and developers working together to create
+    educational apps and tools that use augmented reality (AR) technology. These apps and tools are designed to enhance
+    the learning experience by incorporating AR elements.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Niantic Augmented Reality: Pioneering Innovation</h2>
+<p class="text_content">Niantic is a company that has been at the forefront of creating augmented reality experiences.
+    They have been instrumental in making AR applications more well-known and widely used. The company's unique way of
+    combining gaming and real-world exploration has attracted much attention. "Pokémon GO" is a popular game created by
+    Niantic that took the world by storm. It uses augmented reality technology to bring virtual Pokémon characters into
+    the real world, allowing players to catch and collect them.</p><br>
+
+<p class="text_content">Niantic's success is due to its skill in combining technology with people's behavior. Niantic
+    has used augmented reality (AR) technology to create a fun and exciting player experience. They encourage players to
+    explore their real-world surroundings, meet and interact with other players, and find hidden treasures. This creates
+    a sense of adventure and friendship among players. This new approach has paved the way for augmented reality to be
+    used in different areas beyond gaming.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">AR Development for Business Solutions</h2>
+<p class="text_content">Businesses use AR technology to improve customer experiences and make operations more efficient.
+    Companies in retail, real estate, and tourism use augmented reality (AR) technology to give customers a more
+    engaging and interactive experience when previewing their products and services. Customers who are interested in
+    buying a home have the opportunity to explore properties virtually. </p><br>
+
+<p class="text_content">They can take virtual tours of the houses, allowing them to experience different layouts and
+    interior designs before making final decisions.</p><br>
+
+<p class="text_content">In the retail industry, augmented reality (AR) technology allows customers to virtually try on
+    clothing and accessories without needing physical changing rooms</p><br>
+
+<p class="text_content">This feature not only makes shopping more accessible but also helps to decrease the number of
+    returns for online orders.</p><br>
+
+<p class="text_content"> Furthermore, augmented reality (AR)-powered navigation and wayfinding solutions are used in
+    places such as shopping malls and airports to make it easier for people to find their way around. These solutions
+    use AR technology to provide users a smooth and hassle-free experience while navigating these large venues.</p>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Future Trends in AR Development</h2>
+<p class="text_content">Businesses use AR technology to improve customer experiences and make operations more efficient.
+    Companies in retail, real estate, and tourism use augmented reality (AR) technology to give customers a more
+    engaging and interactive experience when previewing their products and services. </p><br>
+
+<p class="text_content">Customers who are interested in buying a home have the opportunity to explore properties
+    virtually. They can take virtual tours of the houses, allowing them to experience different layouts and interior
+    designs before making final decisions.</p><br>
+
+<p class="text_content">In the retail industry, augmented reality (AR) technology allows customers to virtually try on
+    clothing and accessories without needing physical changing rooms. </p><br>
+
+<p class="text_content">This feature not only makes shopping more accessible but also helps to decrease the number of
+    returns for online orders. </p><br>
+
+<p class="text_content">Furthermore, augmented reality (AR)-powered navigation and wayfinding solutions are used in
+    places such as shopping malls and airports to make it easier for people to find their way around. These solutions
+    use AR technology to provide users a smooth and hassle-free experience while navigating these large venues.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">Conclusion</h2>
+<p class="text_content">The development of Augmented Reality has brought about exciting technological advancements that
+    are captivating users in various industries. It is changing how we see and interact with the world. AR, or Augmented
+    Reality, is a technology that enhances our real-world experiences by overlaying digital content onto the physical
+    world. </p><br>
+
+<p class="text_content">It has been widely used in the gaming industry, with Niantic being a prominent creator of AR
+    games that have revolutionized entertainment. However, the applications of AR extend beyond gaming and have found
+    their way into education and business solutions.</p><br>
+
+<p class="text_content"> The possibilities for AR are vast and offer endless opportunities for enhancing various aspects
+    of our lives. As technology progresses, "AR development" will remain a significant focus. It involves creating
+    innovative experiences that expand our possibilities and allow us to explore a limitless world of imagination. </p>
+<br>
+
+<p class="text_content">Augmented reality is a technology that combines the real world with virtual elements, creating
+    an enhanced and interactive experience. It has the potential to bring about exciting advancements in various fields,
+    making our world more immersive and connected.</p><br>
+</div>
+    
+
+
 
     </section>
     <!-- content section end -->
@@ -326,13 +363,11 @@ include_once '../../init.php';
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            BEST DIGITAL MARKETING EXPERT</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image"
-                        alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <p class="expert-name">Edward C.</p>
@@ -342,8 +377,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years
-                    experience in the banking, fintech, enterprise, etc.</p>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Linkedin</p>
@@ -369,8 +403,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Syed K.</p>
@@ -380,8 +413,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on
-                    projects that were mission-critical.</p>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Google Data Studio</p>
@@ -407,8 +439,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert"
-                        loading="lazy">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <p class="expert-name">Kristine S.</p>
@@ -418,8 +449,7 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6
-                    years of diverse digital marketing expertise.</p>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>Social Media Marketing</p>
@@ -462,7 +492,58 @@ include_once '../../init.php';
         <div class="panel">
             <div class="list_row">
                 <div class="list_data">
-                    Search Engine Optimization (SEO)
+                Ecommerce Web Development
+                </div>
+                <div class="list_data">
+                $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Customer Mail Handling
+                </div>
+                <div class="list_data">
+                $4
+                </div>
+                <div class="list_data">
+                    $30
+                </div>
+                <div class="list_data">
+                    $200
+                </div>
+                <div class="list_data">
+                    $800
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Chargebacks Handling
+                </div>
+                <div class="list_data">
+                    $10
+                </div>
+                <div class="list_data">
+                    $70
+                </div>
+                <div class="list_data">
+                    $470
+                </div>
+                <div class="list_data">
+                    $1850
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Amazon Account Handling
                 </div>
                 <div class="list_data">
                     $5
@@ -479,7 +560,41 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Social Media Handler
+                Ebay Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Walmart Account Handling
+                </div>
+                <div class="list_data">
+                    $5
+                </div>
+                <div class="list_data">
+                    $35
+                </div>
+                <div class="list_data">
+                    $230
+                </div>
+                <div class="list_data">
+                    $920
+                </div>
+            </div>
+            <div class="list_row">
+                <div class="list_data">
+                Dropshipping Virtual Assistant
                 </div>
                 <div class="list_data">
                     $3
@@ -496,174 +611,29 @@ include_once '../../init.php';
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Email Marketing Services
+                Sales Funnel Development + Support
                 </div>
                 <div class="list_data">
-                    $5
+                    $10
                 </div>
                 <div class="list_data">
-                    $35
+                    $70
                 </div>
                 <div class="list_data">
-                    $230
+                    $450
                 </div>
                 <div class="list_data">
-                    $920
+                    $1800
                 </div>
             </div>
             <div class="list_row">
                 <div class="list_data">
-                    Local SEO
+                Google Reviews Services
                 </div>
                 <div class="list_data">
-                    $4
+                    $1.5 per review
                 </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Franchise SEO
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Content Marketing Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Link Building
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Online Reputation Management (ORM)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Conversion Rate Optimization (CRO)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Amazon Marketing Services (AMS)
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    PPC Advertisement Services
-                </div>
-                <div class="list_data">
-                    $5
-                </div>
-                <div class="list_data">
-                    $35
-                </div>
-                <div class="list_data">
-                    $230
-                </div>
-                <div class="list_data">
-                    $920
-                </div>
-            </div>
-            <div class="list_row">
-                <div class="list_data">
-                    Social Media Advertisement Services
-                </div>
-                <div class="list_data">
-                    $4
-                </div>
-                <div class="list_data">
-                    $30
-                </div>
-                <div class="list_data">
-                    $200
-                </div>
-                <div class="list_data">
-                    $800
-                </div>
-            </div>
+            </div>            
         </div>
     </section>
 
@@ -790,68 +760,41 @@ include_once '../../init.php';
 
             <div class="faqs-child">
                 <details>
-                    <summary>What can my virtual assistant do for me on social media?</summary>
+                    <summary>What is an SEO expert?</summary>
                     <div class="faq__content">
-                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot
-                            physically be present in your workplace, but they can log into your numerous social media
-                            networks, automate postings, do research, recognize trends, and much more. Ask a VA which
-                            hashtags are suitable for your next post. Ask a VA to put up an automatic system for
-                            scheduling postings. When you use a VA's experience, there is no limit to what you may do.
-                        </p>
+                        <p class="text">An SEO expert or SEO specialister finds methods, tactics, and procedures to boost the number of website visits and seeks to get a high-ranking placement in search engine results such as Google or Bing. Creating more leads for the organization opens up new avenues for profit and growth.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Is it difficult to train a virtual assistant for my particular accounts?</summary>
+                    <summary>Why would you hire a virtual SEO assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will
-                            want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform
-                            them of the duties you anticipate them to complete. Respond to their inquiries. As time
-                            passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
+                        <p class="text">If you lack the ability to develop keyword-rich SEO material, you will not maximize your Google ranks. Use a virtual assistant to avoid monthly retainer fees and the necessity to engage an onsite person, which will cost you extra. Let your virtual assistant to handle your Search Engine Optimization by examining critical data like as page visits, bounce rates, backlinks, link building activities, and other SEO chores such as writing blog articles and other related material. You may utilize the internet and other platforms to reach your target consumers, giving you the opportunity to expand your company faster.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will my assistant be treated similarly to a full-time employee?</summary>
+                    <summary>What are the advantages of hiring an SEO Virtual Assistant?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a
-                            part-time employee or as a full-time employee. They will not be physically present in your
-                            firm, but they have the potential to become crucial. Many VAs, on the other hand, discover
-                            that they prefer this structure to typical employment since it gives them more authority and
-                            influence over their own professional life. And for you, the business, better productivity,
-                            and a more prudent budget will help your company succeed.</p>
+                        <p class="text">Expert search engine optimization may significantly boost your ranks. Spend less money since hiring a virtual assistant is more cost-effective over time. You may devote more time to your main tasks.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How effective are virtual assistants at handling social media?</summary>
+                    <summary>What is the difference between SEO and SEM?</summary>
                     <div class="faq__content">
-                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train
-                            them. But, if you hire someone with a lot of expertise dealing with numerous social media
-                            outlets, you'll see that it might be quite different. Many high-quality VAs originate from
-                            the realm of social media and may even have a large presence themselves. In certain
-                            circumstances, a VA may be able to give advice and advise you on the best technique. You
-                            don't have to restrict yourself to automating the most basic chores like scheduling posts or
-                            researching in the background. A social media VA may be much more—if you employ the proper
-                            one.</p>
+                        <p class="text">SEO (search engine optimization) is sometimes used as a catch-all word for SEM (Search engine marketing). SEM, on the other hand, refers to sponsored advertising. As a result, the two words should be distinguished. This is because SEM is about delivering bought traffic to a website, but SEO is about bringing organic traffic to a site and monitoring traffic trends.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Who is a virtual assistant for?</summary>
+                    <summary>What factors contribute to effective SEO?</summary>
                     <div class="faq__content">
-                        <p class="text">There is no one solution here, yet many people would benefit from having a VA.
-                            Executives, freelancers, entrepreneurs, C-level executives, social media managers, and
-                            others are all welcome. Everyone who has a lot of social media chores on their plate and
-                            wants to make sure they get more done during the day would benefit from the experience.
-                            But we don't want you to believe that you are constrained by these definitions. The reality
-                            is that anyone who may profit from having more time in their working days as a result of
-                            being able to outsource some of their work to a social media virtual assistant will quickly
-                            recognize the benefit.</p>
+                        <p class="text">The primary driver of search engine results is high-quality, authoritative content, and there is no alternative for unique and excellent material. This is especially true while performing SEO marketing. Excellent content for your target audience increases site traffic, increasing the relevance and authority of your site.</p>
                     </div>
                 </details>
             </div>
@@ -875,7 +818,9 @@ include_once '../../init.php';
 
     <!-- scripts -->
     <!-- -------------------------- -->
-    <?php include_once script_new;?>
+    <?php include_once script_new; ?>
+
+
 </body>
 
 </html>
