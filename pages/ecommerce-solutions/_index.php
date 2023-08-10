@@ -46,7 +46,7 @@ include_once '../../init.php';
 
     <style>
         .landing-section-services {
-            background-image: url("<?= get_img() ?>coder-bg.jpg");
+            background-image: url("<?= get_img() ?>ecommerce_solution/ebackground.webp");
         }
     </style>
 </head>
@@ -60,7 +60,7 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h2 class="section-heading">
-                    Get your It work done
+                Ecommerce Solutions
                 </h2>
                 <div class="landing-offer-div">
                     <p>Save Upto 72% with outsourcing IT work </p>
