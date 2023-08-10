@@ -16,7 +16,7 @@ include_once '../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_call-to-action.css">
     <link rel="stylesheet" href="<?= get_css() ?>main-services.css">
-    <link rel="stylesheet" href="<?= get_css() ?>main-services.css">
+    <link rel="stylesheet" href="<?= get_css() ?>main-services.css?v=1">
 
 </head>
 
