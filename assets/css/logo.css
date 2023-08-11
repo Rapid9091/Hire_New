@@ -36,6 +36,11 @@ font-weight: 700;
 }
 .step-dtll p {
     font-size: large!important;
+
+}
+.step-dtll{
+    width: 90%;
+    margin: auto;
 }
 .btn {
     background-color: #ed1575;

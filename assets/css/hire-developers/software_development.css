@@ -1325,6 +1325,8 @@ margin-top: 10px;
 .links-div > div {
   border-bottom: 1px solid rgba(26, 26, 26, 0.5);
   border-right: 1px solid rgba(26, 26, 26, 0.5);
+  border-top: 1px solid rgba(26, 26, 26, 0.5);
+  border-left: 1px solid rgba(26, 26, 26, 0.5);
   padding: 20px 15px;
   transition: 0.3s;
 }
