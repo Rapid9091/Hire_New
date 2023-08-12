@@ -111,6 +111,10 @@ ReWriteRule ^hire-illustrator-experts([/]?)$ pages/dedicated-designer/illustrato
 ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/business_card.php [NC,L]
 #ReWriteRule ^hire-multimedia-animation-expert([/]?)$ pages/dedicated-designer/multimedia-animation.php [NC,L]
 
+ReWriteRule ^digital-production-services([/]?)$ pages/digital-production-services/_index.php [NC,L]
+ReWriteRule ^video-production-services([/]?)$ pages/digital-production-services/video-production-services.php [NC,L]
+ReWriteRule ^video-topic-strategist([/]?)$ pages/digital-production-services/video-topic-strategist.php [NC,L]
+
 
 
 ReWriteRule ^hire-amazon-virtual-assistant([/]?)$ pages/ecommerce-solutions/hire-amazon-virtual-assistant.php [NC,L]

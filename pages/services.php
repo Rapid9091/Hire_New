@@ -68,84 +68,84 @@ include_once '../init.php';
 
 
         <div>
-            <a href="#digital-marketing" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-digital-marketer" class="links-div-child text">
                 Digital Marketing
             </a>
         </div>
 
 
         <div>
-            <a href="#hire-developer" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-developers" class="links-div-child text">
                 Hire Developers
             </a>
         </div>
         <div>
-            <a href="#hire-developer" class="links-div-child text">
+            <a href="<?= home_path() ?>ecommerce-solutions-service" class="links-div-child text">
             Ecommerce Solutions
             </a>
         </div>
 
 
         <div>
-            <a href="#hire-dedicated-designer" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-dedicated-designers" class="links-div-child text">
                 Hire Dedicated Designers
             </a>
         </div>
 
 
         <div>
-            <a href="#content-writer" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-content-writer" class="links-div-child text">
                 Content Writer
             </a>
         </div>
 
 
         <div>
-            <a href="#engineers" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-engineers-architects" class="links-div-child text">
                 Engineers And Architects
             </a>
         </div>
 
 
         <div>
-            <a href="#app-developer" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-professional-mobile-app-developers" class="links-div-child text">
                 Mobile Apps Developers
             </a>
         </div>
 
 
         <div>
-            <a href="#finance" class="links-div-child text">
+            <a href="#" class="links-div-child text">
                 Finance & Accounts Experts
             </a>
         </div>
 
 
         <div>
-            <a href="#remote-medical" class="links-div-child text">
+            <a href="<?= home_path() ?>medical-process-outsourcing" class="links-div-child text">
                 Remote Medical Professionals
             </a>
         </div>
 
 
         <div>
-            <a href="#legal-process-outsourcing" class="links-div-child text">
+            <a href="#" class="links-div-child text">
                 Legal Process Outsourcing
             </a>
         </div>
         <div>
-            <a href="#virtual-assistant" class="links-div-child text">
+            <a href="<?= home_path() ?>virtual-assistant" class="links-div-child text">
                 Hire Virtual Assistant
             </a>
         </div>
         <div>
-            <a href="#outsource-to-india" class="links-div-child text">
+            <a href="<?= home_path() ?>digital-production-services" class="links-div-child text">
             Digital Production Services
             </a>
         </div>
        
         <div>
-            <a href="#outsource-to-india" class="links-div-child text">
+            <a href="#" class="links-div-child text">
             Movies Production Services
             </a>
         </div>
@@ -368,6 +368,26 @@ include_once '../init.php';
                 <img class="wh-100" src="<?= get_img() ?>ecommerce_solution/Ecommerce-Solution.jpg" alt=" Ecommerce Solutions">
             </div>
         </div>
+        <div class="main-services-types-child main-services-types-child-content-even-grid grid"
+            id="digital-production-services">
+
+            <div class="main-services-types-child-img wh-100">
+                <img class="wh-100" src="<?= get_img() ?>service_img/outsource_india.jpg"
+                    alt="Outsourcing to india">
+            </div>
+            <div class="main-services-types-child-content ">
+                <h3 class="sub-heading">
+                Digital Production Services
+                </h3>
+                <p class="text">"Digital production services" is a wide category that can include a variety of tasks connected to the production and administration of digital material. These services are frequently offered by businesses, organizations, or people with knowledge of many facets of digital media and content development. The following are some typical categories that encompass digital production services</p>
+
+                <a href="<?= home_path() ?>digital-production-services">Learn More <ion-icon
+                        name="arrow-forward-outline"></ion-icon>
+                </a>
+            </div>
+        </div>
+
+        
 
     </section>
     <!-- main services types section end here -->
