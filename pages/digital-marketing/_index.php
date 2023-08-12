@@ -51,6 +51,9 @@ include_once '../../init.php';
         .landing-section-services {
             background-image: url("<?= get_img() ?>digital-marketing-bg.png");
         }
+        .less {
+    display: none;
+}
     </style>
 </head>
 
@@ -146,7 +149,11 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v1.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
-            <div class="services-types-child width-100 grid grid-2">
+
+
+
+            <!-- SIX -->
+            <div class="services-types-child width-100 grid grid-2  more less" id="more">
                 <div class="services-types-child-content">
                     <p>Backlink</p>
                     <h5 class="section-heading">BACKLINK BUILDING VIRTUAL ASSISTANT</h5>
@@ -156,7 +163,7 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
-            <div class="services-types-child width-100 grid grid-2">
+            <div class="services-types-child width-100 grid grid-2 more less" id="more">
                 <div class="services-types-child-content">
                     <p>Google Business</p>
                     <h5 class="section-heading">GOOGLE BUSINESS PROFILE VIRTUAL ASSISTANT</h5>
@@ -166,7 +173,7 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v1.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
-            <div class="services-types-child width-100 grid grid-2">
+            <div class="services-types-child width-100 grid grid-2 more less" id="more">
                 <div class="services-types-child-content">
                     <p>ORM</p>
                     <h5 class="section-heading">REPUTATION MANAGEMENT SERVICES</h5>
@@ -176,7 +183,7 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
-            <div class="services-types-child width-100 grid grid-2">
+            <div class="services-types-child width-100 grid grid-2 more less" id="more">
                 <div class="services-types-child-content">
                     <p>AMS</p>
                     <h5 class="section-heading">Amazon Marketing Services </h5>
@@ -186,7 +193,7 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/service-img-digital-v2.png" class="width-100" alt="Hire Digital Media & PPC Advertising Expert">
                 </div>
             </div>
-            <div class="services-types-child width-100 grid grid-2">
+            <div class="services-types-child width-100 grid grid-2 more less" id="more">
                 <div class="services-types-child-content">
                     <p>SEO</p>
                     <h5 class="section-heading">Franchise SEO Services</h5>
@@ -196,7 +203,7 @@ include_once '../../init.php';
                     <img src="<?= get_img() ?>dm/video-marketing.webp" class="width-100" alt="Hire Video Marketing Expert">
                 </div>
             </div>
-            <div class="services-types-child width-100 grid grid-2">
+            <div class="services-types-child width-100 grid grid-2 more less" id="more">
                 <div class="services-types-child-content">
                     <p>CRO</p>
                     <h5 class="section-heading">Conversion Rate Optimization </h5>
@@ -208,6 +215,9 @@ include_once '../../init.php';
             </div>
             
         </div>
+        <p style="text-align:center;">
+            <button class="view_more_btn" id="view_more_btn" value="#full-section">View More</button>
+        </p>
         
       
 
@@ -217,7 +227,7 @@ include_once '../../init.php';
     <!-- Roadmap Start From here  -->
 
 
-    <!-- ////////// -->
+    <!-- ////////// --> 
     <section class="section-roadmap dm-services-roadmap">
         <p class="p-pink">DIGITAL MARKETING PROCESS</p>
         <h6 class="section-heading">A Simple, Iterative Process</h6>
@@ -795,6 +805,16 @@ include_once '../../init.php';
     <?php
     include_once page_bottom;
     ?>
+     <script>
+
+document.getElementById('view_more_btn').addEventListener('click',function(){
+    var a = document.querySelectorAll('#more')
+    for(i=0;i<a.length;i++){
+    a[i].classList.toggle('less')
+}
+})
+
+</script>
 
 </body>
 
