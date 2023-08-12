@@ -334,7 +334,7 @@ p.p-pink::after {
 .header {
     padding: 1% 5%;
     position: fixed;
-    top: 29px;
+    /* top: 29px; */
     z-index: 1000;
     width: 100%;
     transition: all 0.5s;
@@ -1325,6 +1325,8 @@ margin-top: 10px;
 .links-div > div {
   border-bottom: 1px solid rgba(26, 26, 26, 0.5);
   border-right: 1px solid rgba(26, 26, 26, 0.5);
+  border-top: 1px solid rgba(26, 26, 26, 0.5);
+  border-left: 1px solid rgba(26, 26, 26, 0.5);
   padding: 20px 15px;
   transition: 0.3s;
 }
@@ -1593,11 +1595,12 @@ margin-top: 10px;
   color: #222;
 }
 .test-item .test-user {
-  margin-top: 20px;
+  margin-bottom: 20px;
 }
 .test-item .user-img {
   width: 60px;
   height: 60px;
+
 }
 .test-item .user-img img {
   border-radius: 50%;
@@ -1618,6 +1621,11 @@ p.test_name_designation{
 .test-item .test-user .test-user-dtl {
   margin-left: 10px;
 }
+.test-user-dtl p{
+  color: var(--dark-color);
+}
+
+
 .owl-theme .owl-nav.disabled + .owl-dots {
   margin-top: 15px;
 }

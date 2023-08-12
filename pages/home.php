@@ -29,6 +29,7 @@ include_once "../init.php";
   <link rel="stylesheet" href="<?= get_css() ?>view-css/view_home-about.css">
   <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-choose-us.css">
   <link rel="stylesheet" href="<?= get_css() ?>home.css" />
+  <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
 
 
   <!-- -------------------------- -->
@@ -120,6 +121,19 @@ include_once "../init.php";
         <a href="<?= home_path() ?>it-outsourcing-services">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
+        <ion-icon name="crop-sharp"></ion-icon>
+        <h3>Hire Dedicated Designers</h3>
+        <p>
+          Using our graphic design services will help you realize your
+          marketing concepts. The only thing left to do is determine whether
+          you require such services. An intelligent design is beneficial to
+          business. In our decision-making process for choosing goods,
+          services, and people, attractiveness plays a big role—from online
+          dating services to online shopping.
+        </p>
+        <a href="<?= home_path() ?>hire-dedicated-designers">Know More</a>
+      </div>
+      <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
         <ion-icon name="qr-code-sharp"></ion-icon>
         <h3>Content Writer</h3>
         <p>
@@ -127,6 +141,16 @@ include_once "../init.php";
           content writer within your budget.
         </p>
         <a href="<?= home_path() ?>hire-content-writer">Know More</a>
+      </div>
+      <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="30">
+        <ion-icon name="logo-chrome"></ion-icon>
+        <h3>Ecommerce Solutions</h3>
+        <p>
+          <!-- It's important to choose the greatest IT outsourcing company. It
+          makes sure that it benefits your company greatly and aids in
+          increasing relevant search traffic to websites. -->
+        </p>
+        <a href="<?= home_path() ?>it-outsourcing-services">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
         <ion-icon name="share-social-sharp"></ion-icon>
@@ -140,14 +164,14 @@ include_once "../init.php";
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="30">
         <ion-icon name="business-sharp"></ion-icon>
-        <h3>Engineers and Architects</h3>
+        <h3>Digital Production Services</h3>
         <p>
-          Engineers and Architects work with clients to design, plan and oversee construction projects, ensuring safety,
-          cost-effectiveness, aesthetic appeal and compliance with regulations and codes.
+          <!-- Engineers and Architects work with clients to design, plan and oversee construction projects, ensuring safety,
+          cost-effectiveness, aesthetic appeal and compliance with regulations and codes. -->
         </p>
         <a href="<?= home_path() ?>hire-engineers-architects">Know More</a>
       </div>
-      <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
+      <!-- <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
         <ion-icon name="crop-sharp"></ion-icon>
         <h3>Hire Dedicated Designers</h3>
         <p>
@@ -159,8 +183,8 @@ include_once "../init.php";
           dating services to online shopping.
         </p>
         <a href="<?= home_path() ?>hire-dedicated-designers">Know More</a>
-      </div>
-      <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
+      </div> -->
+      <!-- <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
         <ion-icon name="code-slash-sharp"></ion-icon>
         <h3>Hire Developers</h3>
         <p>
@@ -176,7 +200,7 @@ include_once "../init.php";
           services.
         </p>
         <a href="<?= home_path() ?>hire-dedicated-developers">Know More</a>
-      </div>
+      </div> -->
 
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="30">
         <ion-icon name="card-sharp"></ion-icon>
@@ -194,12 +218,12 @@ include_once "../init.php";
         <a href="<?= home_path() ?>hire-professional-mobile-app-developers">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
-        <i class='bx bxs-briefcase-alt'></i>
-        <h3>Legal Process Outsourcing</h3>
+        <!-- <i class='bx bxs-briefcase-alt'></i> -->
+        <h3>Movies Production Services</h3>
         <p>
-          Legal Process Outsourcing Experts provide comprehensive legal support services to clients by handling tasks
+          <!-- Legal Process Outsourcing Experts provide comprehensive legal support services to clients by handling tasks
           such as legal research, document review, drafting legal documents, and contract management, allowing clients
-          to focus on their core business operations.
+          to focus on their core business operations. -->
         </p>
         <a href="<?= home_path() ?>legal-outsourcing-services">Know More</a>
       </div>
@@ -225,33 +249,33 @@ include_once "../init.php";
       </div>
 
       <div class="pricing-boxes flex-center-center">
-        <h4>EMBEDDED DEVELOPMENT</h4>
-        <p>Starting just at</p>
-        <h4>$5 / Hour</h4>
-      </div>
-
-      <div class="pricing-boxes flex-center-center">
-        <h4>DIGITAL MARKETING</h4>
-        <p>Starting just at</p>
-        <h4>$6 / Hour</h4>
-      </div>
-
-      <div class="pricing-boxes flex-center-center">
-        <h4>ENGINEERS AND ARCHITECTURE</h4>
-        <p>Starting just at</p>
-        <h4>$6 / Hour</h4>
-      </div>
-
-      <div class="pricing-boxes flex-center-center">
         <h4>HIRE DEDICATED DESIGNERS</h4>
         <p>Starting just at</p>
         <h4>$5 / Hour</h4>
       </div>
 
       <div class="pricing-boxes flex-center-center">
-        <h4>HIRE DEVELOPERS</h4>
+        <h4>CONTENT WRITER</h4>
         <p>Starting just at</p>
-        <h4>$6 / Hour</h4>
+        <h4>$5 / Hour</h4>
+      </div>
+
+      <div class="pricing-boxes flex-center-center">
+        <h4>ECOMMERCE SOLUTIONS</h4>
+        <p>Starting just at</p>
+        <h4>$3 / Hour</h4>
+      </div>
+
+      <div class="pricing-boxes flex-center-center">
+        <h4>DIGITAL MARKETING EXPERT</h4>
+        <p>Starting just at</p>
+        <h4>$3 / Hour</h4>
+      </div>
+
+      <div class="pricing-boxes flex-center-center">
+        <h4>DIGITAL PRODUCTION SERVICES</h4>
+        <p>Starting just at</p>
+        <h4>$5 / Hour</h4>
       </div>
 
       <div class="pricing-boxes flex-center-center">
@@ -577,6 +601,31 @@ include_once "../init.php";
   <!-- -------------------------- -->
   <!-- Page bottom includes footer and some global script -->
   <!-- -------------------------- -->
+  <?php
+
+ $testimonial1 = "With the help of SEO and PPC, Hirecoworker's was able to boost online leads by more than +260% and boost overall traffic to the new  website by +364%.";
+ $test_name1 = "Jeffrey Reyes";
+ $test_role1 = "Regional Director";
+
+
+ $testimonial2 = "These men are amazing. They have assisted us in expanding our firm, and now the biggest issue we are experiencing is having too much business, which is the ideal situation.";
+ $test_name2 = "Aaron. G";
+ $test_role2 = "Founder & CEO";
+
+
+
+ $testimonial3 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred";
+ $test_name3 = "Marcio. M";
+ $test_role3 = "Managing Partner";
+
+
+$testimonial4 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred.";
+ $test_name4 = "Robert. S";
+ $test_role4 = "IT Manager"; 
+
+include_once testimonial_slider; ?>
+
+
   <?php include_once page_bottom ?>
 
 
