@@ -471,7 +471,6 @@ include_once '../init.php';
 
     include_once page_bottom;
     ?>
-
 </body>
 
 </html>
