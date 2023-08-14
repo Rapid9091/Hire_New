@@ -385,6 +385,22 @@ include_once '../init.php';
                         name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
+            
+        </div>
+        <div class="main-services-types-child main-services-types-child-content-odd-grid grid" id="app-developer">
+            <div class="main-services-types-child-content ">
+                <h3 class="sub-heading">
+                    Mobile App Developers
+                </h3>
+                <p class="text">Hire Coworker’s Mobile App Developers is the best option to design, develop, test, and maintain mobile applications for clients, creating feature-rich, user-friendly, less expensive, and high-performance software that meets the client's specific needs and requirements. Remote hiring is the best of all the hiring options. You hire app developers who are employed only on a contractual basis.</p>
+
+                <a href="<?= home_path() ?>hire-professional-mobile-app-developers">Learn More <ion-icon
+                        name="arrow-forward-outline"></ion-icon></a>
+            </div>
+            <div class="main-services-types-child-img wh-100">
+                <img class="wh-100" src="<?= get_img() ?>service_img/mobile_app_devlopement.jpg"
+                    alt="Hire Mobile App Developers">
+            </div>
         </div>
 
         

@@ -119,6 +119,24 @@ const imgTags = document.getElementsByTagName("img");
 for (let i = 0; i < imgTags.length; i++) {
   imgTags[i].setAttribute("loading", "lazy");
 }
+
+
+$('.text-tesimonial').owlCarousel({
+  loop: true,
+  margin: 20,
+  autoplay: true,
+  autoplayTimeout: 5000,
+  autoplayHoverPause: true,
+  responsive: {
+      0: {
+          items: 1
+      },
+
+      800: {
+          items: 3
+      }
+  }
+})
 </script>
 
  <!-- Main JS of the page  -->

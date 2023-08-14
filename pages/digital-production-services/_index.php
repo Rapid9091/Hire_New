@@ -7,7 +7,7 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>HireCoworker | Hire Content Writer For Website, Articles, Blogs Content</title>
+    <title>HireCoworker | Hire Digital Production Services</title>
     <meta name="title" content=" HireCoworker | Hire Content Writer For Website, Articles, Blogs Content">
     <meta name="description" content="Hire a dedicated content writer for your website, articles, blogs and more! Get personal, creative content written by professional writers from around the world." />
     <meta property="og:type" content="website" />
@@ -154,7 +154,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/seo.png" alt="hire website and seo content writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>cameramans-services">
                                 <h5> Camera Man Services</h5>
                             </a>
                         </div>
@@ -172,7 +172,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/social_media.png" alt="hire social media content writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>wedding-video-shooting-services">
                                 <h5>Wedding Video Shooting Services</h5>
                             </a>
                         </div>

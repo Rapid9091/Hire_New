@@ -43,6 +43,9 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_testimonial-slider.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-choose-us.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
+    <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
+
 
     <style>
         .landing-section-services {
@@ -92,84 +95,7 @@ include_once '../../init.php';
         </div>
     </div>
 
-    <!-- -------------------------- -->
-    <!-- Why to ecommerce-solutions-->
-    <!-- -------------------------- -->
-    <!-- <section class="why-outsourcing padding">
-        <h2 class="section-heading"></h2>
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out">WHY US</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out">Why Choose HireCoworker For IT Outsource</h3>
-
-        <div class="why-outsourcing-img grid-center">
-            <ul>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Team size flexibility: </b>
-                    Customer service at Hire Coworker goes above and beyond using the best, most cutting-edge, tested producIn order to be the digital outsource partner for productivity, a team of seasoned sales and digital milling professionals helps laboratoriThe goal of this has been and will remain to help laboratories expand their businesses.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Increased speed to market: </b>
-                    Market adaptation - The aforementioned flexibility also refers to the ability to adjust to ongoing market developments and new client needs. Long-term goals demand a trustworthy team and some flexibility in the approach because the end product's concept may change.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Avoid interruptions in workflow: </b>
-                    There are a number of key departments in multinational corporations that require ongoing attention. It becomes challenging to set aside time to oversee the operations of support departments like payroll and taxes during this period. When this occurs, businesses choose to outsource the majority of these departments' tasks to those who have the requisite expertise rather than managing everything themselves. By streamlining the process, efficiency is ultimately improved.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Prevent in-house team overload: </b>
-                    If your internal staff members are overburdened, you should think about outsourcing. Not in order to increase profit margins by replacing your personnel with an offshore crew. It's about distributing the burden and improving the working environment for your internal hires.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Reduce hiring and vetting hassleless: </b>
-                    When there is an overflow in clients, it may become necessary to expand the scope of the project. Your team may not be able to complete highly specialized duties if they are lacking a certain skill set.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Well Experience:</b>
-                    We have more than 9+ years experience in the Outsourcing IT field. We have experienced and professional agents for your work.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Affordable price:</b>
-                    We provide an affordable price (less than $5 per hour) for outsourcing IT service. 
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Easy communication:</b>
-                    Without regard to market or professional boundaries, you may manage any administrative task requiring the use of a terminal and/or a phone with Easy Communication outsourcing.
-                </li>
-            </ul>
-        </div>
-        <div class="why-outsourcing-grid grid">
-            <div class="why-outsourcing-grid-left flex-center-center">
-                <img loading="lazy" src="<?= get_img() ?>user.jpg" alt="User review">
-                <h3>John Larens</h3>
-                <p>When I found HireCoworker, their support was invaluable in getting my buisness on track and getting the most benefit from my buissness at lowest costs. </p>
-            </div>
-            <div class="why-outsourcing-grid-right">
-                <h3 class="sub-heading">Let Us help you</h3>
-                <p>Our expertise lies in attending to the little things, streamlining procedures, and increasing effectiveness. We enjoy interacting and working together with our clients in a way that fosters our mutual development and enables us to jointly accomplish significant objectives. We just want to assist you in moving your business in the direction you desire.</p>
-                <ul class="why-choose-ul">
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We have served more than 1000 clients</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We have 9+ years of experience </li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We offer service at less $5 per hour</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> 100% money-back guarantee</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> Serving in more than 30 fields</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We provide complete Data security</li>
-                </ul>
-            </div>
-        </div>
-    </section> -->
-
+    
     <!-- -------------------------- -->
     <!-- Services in IT Outsourcing -->
     <!-- -------------------------- -->
@@ -309,6 +235,112 @@ include_once '../../init.php';
                     </div>
                 </a>
             </div> -->
+        </div>
+    </section>
+
+
+     <!-- expert section start -->
+     <section class="experts-section">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST CONTENT WRITER</h3>
+        <div class="expert-grid">
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>content-writing/content-expert.jpg" class="expert-image" alt="hire content writer" loading="lazy">
+                </div>
+                <div class="expert-profile text-center">
+                    <h2>MARRY L.</h2>
+                    <P class="light-grey">Content Writer</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.3/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">As a blog writer since 8 years, I specialize in creating informative, engaging, and well-written content for a variety of audiences.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>BLOGS</p>
+                    </div>
+                    <div class="skill">
+                        <p>WEB PAGES</p>
+                    </div>
+                    <div class="skill">
+                        <p>SOCIAL MEDIA POST</p>
+                    </div>
+                    <div class="skill">
+                        <p>PRESS RELEASE</p>
+                    </div>
+                    <div class="skill">
+                        <p>3+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>content-writing/content-expert2.jpg" class="expert-image" alt="hire content writer" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">JAMES M.</h2>
+                    <P class="light-grey">Sr. Content Writer</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.7/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">My expertise spans multiple industries and topics, and I am skilled at crafting compelling narratives and engaging readers.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>ARTICLES</p>
+                    </div>
+                    <div class="skill">
+                        <p>SEO CONTENT</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>BROUCHURES</p>
+                    </div>
+                    <div class="skill">
+                        <p>NEWSLETTERS</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>4+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>content-writing/content-expert3.jpg" class="expert-image" alt="hire content writer" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">ASAD A.</h2>
+                    <P class="light-grey">Sr. Content Writer</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.5/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">As a senior blog writer, I have extensive experience creating high-quality, thought-provoking content and have a industry exposure of more than 10 years .</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>EBOOKS</p>
+                    </div>
+                    <div class="skill">
+                        <p>PRODUCT DESCRIPTIONS</p>
+                    </div>
+                    <div class="skill">
+                        <p>LANDING PAGES</p>
+                    </div>
+                    <div class="skill">
+                        <p>EDITING</p>
+                    </div>
+
+
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
         </div>
     </section>
 
@@ -714,29 +746,28 @@ include_once '../../init.php';
     <!-- -------------------------- -->
     <?php
 
-    $testimonial1 = "The engineers are outstanding. extremely informed and welcoming. Calls are always promptly returned by them. On demand, they also offer hands-on work. Could not be more pleased.";
-    $test_name1 = "Jeffrey Reyes";
-    $test_role1 = "Regional Director";
-    $user_img1 = "hire-developer/dev-test-01.jpeg";
+$testimonial1 = "With the help of SEO and PPC, Hirecoworker's was able to boost online leads by more than +260% and boost overall traffic to the new  website by +364%.";
+$test_name1 = "Jeffrey Reyes";
+$test_role1 = "Regional Director";
 
 
-    $testimonial2 = "HireCoworker is now our MSP, and they take care of everything for our company. From the servers of our company to all computer software and CM's, they have it all to help us.";
-    $test_name2 = "Ben Cathoc";
-    $test_role2 = "Founder & CEO";
-    $user_img2 = "hire-developer/dev-test-02.jpeg";
+$testimonial2 = "These men are amazing. They have assisted us in expanding our firm, and now the biggest issue we are experiencing is having too much business, which is the ideal situation.";
+$test_name2 = "Aaron. G";
+$test_role2 = "Founder & CEO";
 
 
-    $testimonial3 = "Within a few weeks, HireCoworker was able to update and backup 70% of our discs, giving us extra storage capacity. This project is progressing more quickly and smoothly than we anticipated.";
-    $test_name3 = "Timothy G";
-    $test_role3 = "Managing Partner";
-    $user_img3 = "hire-developer/dev-test-03.jpeg";
 
-    $testimonial4 = "When dealing with a remote contractor, communication is crucial, and Hire Co-worker excels at it. I wholeheartedly recommend Hire Co-worker as a supplier of top-notch developers that follow specifications and are consistently delivered on time.";
-    $test_name4 = "Rob Groot";
-    $test_role4 = "IT Manager";
-    $user_img4 = "hire-developer/dev-test-04.jpeg";
+$testimonial3 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred";
+$test_name3 = "Marcio. M";
+$test_role3 = "Managing Partner";
 
-    include_once testimonial_slider; ?>
+
+$testimonial4 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred.";
+$test_name4 = "Robert. S";
+$test_role4 = "IT Manager"; 
+
+include_once testimonial_slider; ?>
+
 
     <!-- -------------------------- -->
     <!-- Blog section page -->

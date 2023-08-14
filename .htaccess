@@ -49,6 +49,7 @@ ReWriteRule ^content-marketing-services([/]?)$ pages/digital-marketing/content-m
 ReWriteRule ^conversion-rate-optimization([/]?)$ pages/digital-marketing/conversion-rate-optimization.php [NC,L]
 # ReWriteRule ^hire-digital-marketer/([0-9A-za-z\-]+)([/]?)$ pages/digital-marketing/$1.php [NC,L]
 ReWriteRule ^reputation-management-services([/]?)$ pages/digital-marketing/reputation-management-services.php [NC,L]
+ReWriteRule social-media-handler([/]?)$ pages/digital-marketing/social-media-handler.php [NC,L]
 
 
 ReWriteRule ^it-outsourcing-services([/]?)$ pages/it-outsourcing/_index.php [NC,L]
@@ -114,6 +115,8 @@ ReWriteRule ^hire-business-card-designers([/]?)$ pages/dedicated-designer/busine
 ReWriteRule ^digital-production-services([/]?)$ pages/digital-production-services/_index.php [NC,L]
 ReWriteRule ^video-production-services([/]?)$ pages/digital-production-services/video-production-services.php [NC,L]
 ReWriteRule ^video-topic-strategist([/]?)$ pages/digital-production-services/video-topic-strategist.php [NC,L]
+ReWriteRule ^cameramans-services([/]?)$ pages/digital-production-services/cameramans-services.php [NC,L]
+ReWriteRule ^wedding-video-shooting-services([/]?)$ pages/digital-production-services/wedding-video-shooting-services.php [NC,L]
 
 
 
