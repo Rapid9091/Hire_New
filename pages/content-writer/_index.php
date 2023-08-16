@@ -118,7 +118,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/landing_pages.png" alt="hire landing page writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>landing&sales">
                                 <h5>Landing & Sales Pages</h5>
                             </a>
                         </div>

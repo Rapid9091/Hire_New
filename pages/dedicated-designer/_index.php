@@ -149,7 +149,7 @@ include_once '../../init.php';
                 <i class='bx bx-video'></i>
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>hire-multimedia-animation-expert">Multimedia Animation Experts</a></h3>
+                    <h3><a href="<?= home_path() ?>hire-multimedia-animation-experts">Multimedia Animation Experts</a></h3>
                     <p>A multimedia animation artist uses a variety of technological technologies and media types to produce animations and special effects.</p>
                 </div>
             </div>
@@ -160,6 +160,24 @@ include_once '../../init.php';
                 <div class="service-dtl">
                     <h3><a href="<?= home_path() ?>hire-business-card-designers">Business Card, Podcast, Brochures</a></h3>
                     <p>A business card is a small card with contact information for a person or business.</p>
+                </div>
+            </div>
+            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
+                <div class="icon">
+                    <!-- <i class='bx bx-id-card'></i> -->
+                </div>
+                <div class="service-dtl">
+                    <h3><a href="<?= home_path() ?>#">UI/UX Designers</a></h3>
+                    <!-- <p>A business card is a small card with contact information for a person or business.</p> -->
+                </div>
+            </div>
+            <div class="services-item" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
+                <div class="icon">
+                    <!-- <i class='bx bx-id-card'></i> -->
+                </div>
+                <div class="service-dtl">
+                    <h3><a href="<?= home_path() ?>#">Mobile App Design</a></h3>
+                    <!-- <p>A business card is a small card with contact information for a person or business.</p> -->
                 </div>
             </div>
         </div>

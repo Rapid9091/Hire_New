@@ -25,7 +25,8 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_hiring-step.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_call-to-action.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap-2.css">
-    <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
+    <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
+    <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
 
     <style>
         .landing-section-services {
@@ -77,8 +78,7 @@ include_once '../../init.php';
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/logo.png" alt="custom logo design"
-                                loading="lazy">
+                            <img src="<?= get_img() ?>designer/logo.png" alt="custom logo design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
                             <h5>Custom Logo Design</h5>
@@ -86,7 +86,8 @@ include_once '../../init.php';
                     </div>
 
                 </div>
-                <p class="text">Describe your brand's values and vision. The professionals in remote logo design are skilled at making your vision a reality.</p>
+                <p class="text">Describe your brand's values and vision. The professionals in remote logo design are
+                    skilled at making your vision a reality.</p>
             </div>
             <div class="container-section-boxes">
                 <div class="services-box-title ">
@@ -101,14 +102,14 @@ include_once '../../init.php';
                     </div>
 
                 </div>
-                <p class="text">Get stunning, high-impact CYMK color business cards that best serve your company's needs and portray it professionally.</p>
+                <p class="text">Get stunning, high-impact CYMK color business cards that best serve your company's needs
+                    and portray it professionally.</p>
             </div>
             <div class="container-section-boxes">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/brand.png" alt="brand identity"
-                                loading="lazy">
+                            <img src="<?= get_img() ?>designer/brand.png" alt="brand identity" loading="lazy">
                         </div>
                         <div class="box-title-heading">
                             <h5>Brand Identity</h5>
@@ -116,22 +117,24 @@ include_once '../../init.php';
                     </div>
 
                 </div>
-                <p class="text">For a distinctive brand identity, hire logo designers from India or the United States. We do everything, from business stationary to logo design services.</p>
+                <p class="text">For a distinctive brand identity, hire logo designers from India or the United States.
+                    We do everything, from business stationary to logo design services.</p>
             </div>
             <div class="container-section-boxes">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/illustration.png" alt="vector graphics"
-                                loading="lazy">
+                            <img src="<?= get_img() ?>designer/illustration.png" alt="vector graphics" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>Vector Graphics</h5>
+                            <h5>Vector Graphics Logo</h5>
                         </div>
                     </div>
 
                 </div>
-                <p class="text">Adobe Illustrator is used by professionals in business logo design. This brings vividly colored, highly imaginative vector graphics to life. Give your brand's colors and shades the real respect they deserve.</p>
+                <p class="text">Adobe Illustrator is used by professionals in business logo design. This brings vividly
+                    colored, highly imaginative vector graphics to life. Give your brand's colors and shades the real
+                    respect they deserve.</p>
             </div>
             <div class="container-section-boxes">
                 <div class="services-box-title ">
@@ -140,19 +143,21 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>designer/2d.png" alt="2d animation" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <h5>2D Animation</h5>
+                            <h5>2D Animation Logo
+                            </h5>
                         </div>
                     </div>
 
                 </div>
-                <p class="text">For amazing two-dimensional designs and a great brand identity, outsource logo design. For exceptional designs, professional logo designers in India or the United States are experts in Autodesk Maya and Adobe Flash.</p>
+                <p class="text">For amazing two-dimensional designs and a great brand identity, outsource logo design.
+                    For exceptional designs, professional logo designers in India or the United States are experts in
+                    Autodesk Maya and Adobe Flash.</p>
             </div>
             <div class="container-section-boxes">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
-                            <img src="<?= get_img() ?>designer/banner.png" alt="custom banner design"
-                                loading="lazy">
+                            <img src="<?= get_img() ?>designer/banner.png" alt="custom banner design" loading="lazy">
                         </div>
                         <div class="box-title-heading">
                             <h5>Custom Banner Design</h5>
@@ -160,19 +165,184 @@ include_once '../../init.php';
                     </div>
 
                 </div>
-                <p class="text">India's logo designers use Adobe Photoshop and Corel Draw to create eye-catching banner designs that can be used for flex printing and brand awareness campaigns.</p>
+                <p class="text">India's logo designers use Adobe Photoshop and Corel Draw to create eye-catching banner
+                    designs that can be used for flex printing and brand awareness campaigns.</p>
             </div>
-           
+
 
         </div>
 
     </section>
     <!-- services end -->
+    <!-- content section start -->
+    <section class="content_section">
+
+    <div class="content_div">
+    <h2 class="content-heading">Logo Design</h2>
+        <p class="text_content">A logo is a significant symbol that represents a brand's identity in the world of visual communication. Brand recognition and recall are enhanced through this tool. A carefully designed logo can mean a brand's identity, beliefs, and goals with a quick look. This article explores the world of logo design, explaining its importance, the role of logo makers, and the creative process behind creating a successful logo.
+</p><br>
+    </div>
+
+        <div class="content_div">
+
+            <h2 class="content-heading">The Significance of Logo Design</h2>
+
+            <p class="text_content">In today's fast-paced world, where people's attention spans are short, a logo is a
+                recognizable symbol for a brand. It represents a brand's core principles, beliefs, and goals in a
+                concentrated form. Consider well-known logos such as the golden arches of McDonald's or the apple with a
+                bite taken out of it representing the Apple. These logos are easily recognizable and strongly associated
+                with their brands. They evoke strong emotions and are instantly familiar to consumers.</p><br>
+
+            <p class="text_content">A well-designed logo helps customers remember your brand more easily. The first
+                touchpoint refers to the initial interaction between a brand and its audience. This interaction is
+                significant because it helps to build brand loyalty. How a brand looks, including its curves, colors,
+                and font choices, plays a vital role in how people perceive it. Logo design goes beyond just creating a
+                visual representation. It involves a strategic process where we consider the target audience and create
+                a plan that connects with them.</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">The Role of Logo Makers</h2>
+            <p class="text_content">Logo design has become more accessible to everyone in the digital age because of the
+                introduction of logo makers. These tools combine creativity and technology, making it possible for
+                businesses and individuals to create logos even without a lot of design experience. </p><br>
+
+
+            <p class="text_content">A logo maker is a helpful tool for new businesses and small companies that may have
+                a limited amount of money to spend. It allows them to create a logo for their brand without sacrificing
+                quality.</p><br>
+
+
+            <p class="text_content">One popular tool you can use is the "logo maker." It is a versatile solution that
+                can be used for different design needs. A logo maker is a tool that helps you create a logo for your
+                business. It offers a variety of features, such as pre-designed templates, different color options, and
+                a library of fonts to choose from. </p><br>
+
+
+            <p class="text_content">This makes the design process easier and more convenient for you. Businesses can try
+                out other elements and make changes until they find a design that matches their vision.</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Unveiling the Creative Process</h2>
+            <p class="text_content">Creating a logo involves more than just making it look good. It requires careful
+                planning and attention to detail to ensure that it has a meaningful impact. Our approach combines the
+                principles of psychology, design, and strategic thinking. Here's an overview of the different stages
+                involved in the logo design process:</p><br>
+
+
+            <h3><strong>Understanding the Brand</strong></h3>
+            <p class="text_content">When creating a logo, it's essential to have a deep understanding of what the brand
+                represents, who its customers are, and the overall industry they operate in. This knowledge helps ensure
+                that the logo accurately reflects the brand's values and appeals to the right audience. It is essential
+                to do this groundwork to make sure that the emblem connects with the specific group of people it is
+                meant for.
+            </p><br>
+
+            <h3><strong>Conceptualization</strong></h3>
+            <p class="text_content">During this phase, engaging in brainstorming and sketching activities is essential.
+                These activities help generate ideas and visualize concepts, which are crucial for the overall process.
+                Designers use different visual elements like shapes, symbols, and typography to come up with ideas that
+                can represent your brand. They experiment with these elements to find the best way to communicate your
+                brand's identity visually.</p><br>
+
+
+            <h3><strong>Simplicity and Versatility</strong></h3>
+            <p class="text_content">A logo should be designed to be used effectively in various formats and sizes,
+                ensuring it looks good and remains recognizable across different platforms and sizes. The design should
+                be easily identifiable and readable, whether printed on a small business card or on a giant billboard.
+                Keeping a logo simple is essential because a cluttered logo can make it less impactful.</p><br>
+
+
+            <h3><strong>Color Psychology</strong></h3>
+            <p class="text_content">Colors have the power to make us feel certain emotions and remind us of certain
+                things. The colors used in a logo can affect how customers view a brand. For example, the color red can
+                make you feel passionate and energetic. In contrast, the color blue can give a sense of trustworthiness
+                and professionalism.</p><br>
+
+            <h3><strong>Typography Matters</strong></h3>
+            <p class="text_content">Choosing the appropriate font is important because it helps convey a brand's unique
+                personality. Different types of fonts can be used to create a specific look and feel for different
+                businesses. For example, a children's clothing brand might choose playful fonts to match its fun and
+                energetic image. On the other hand, a law firm might prefer more formal fonts to convey a sense of
+                professionalism and seriousness.</p><br>
+
+
+            <h3><strong>Feedback and Iteration</strong></h3>
+            <p class="text_content"> Getting feedback from customers is extremely helpful when designing a product. It
+                provides valuable insights and suggestions that can significantly improve the final result. Designers
+                take feedback from customers and use it to improve their initial ideas. This collaborative process helps
+                create a final product that meets the customer's needs and preferences.</p><br>
+
+
+            <h3><strong>Adaptation and Evolution</strong></h3>
+            <p class="text_content">Companies may update their logos to reflect their new identity and progress as they
+                grow and change. Over the years, Google's logo has undergone changes while keeping its main identity
+                intact. A logo should represent the current time while being flexible enough to use in the future.
+            </p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">The Dynamic Duo: Logo Design and Brand Identity</h2>
+            <p class="text_content">A logo is not just a standalone symbol but part of a more extensive system
+                representing a brand. A cohesive brand identity includes elements like the logo, colors, fonts, images,
+                and the brand's communication. These elements, such as logos, colours, and fonts, are designed to work
+                together in order to create a consistent and easily recognisable brand image for your business.
+                Consistency across different aspects of a brand, such as its logo, colors, and messaging, helps to build
+                a solid and recognizable brand identity. This, in turn, helps to establish trust and familiarity with
+                customers.</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">The Pitfalls to Avoid</h2>
+            <p class="text_content">Logo design is a creative process, but there are some things that designers and
+                businesses should be careful about.</p><br>
+
+
+
+            <h3><strong>Copying Trends</strong></h3>
+
+            <p class="text_content"> Keeping up with current design trends is essential, but simply copying them without
+                adding your unique touch can result in a logo that lacks originality and may not stand the test of time.
+            </p><br>
+
+
+            <h3><strong>Complexity</strong></h3>
+
+            <p class="text_content">A logo that has too many intricate details can make it difficult for people to
+                understand and may be overwhelming for them. Keeping things simple and straightforward is essential to
+                make a lasting impression.</p><br>
+
+
+            <h3><strong>Lack of Adaptability</strong></h3>
+
+            <p class="text_content">If a logo doesn't look good or clear on different devices and sizes, it may not have
+                the same strong effect.</p><br>
+
+
+            <h3><strong>Ignoring Target Audience</strong></h3>
+
+            <p class="text_content">A logo should be designed to connect with the people it is meant for. Consider this
+                aspect to avoid a situation where your brand's image doesn't align with what customers expect from it.
+            </p><br>
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Conclusion</h2>
+            <p class="text_content">Logo design is a careful combination of artistic creativity and strategic thinking.
+                The process requires being creative, thinking strategically, and thoroughly understanding a brand's core
+                identity. Logo makers are online tools that help people create logos easily, even if they need to gain
+                design skills. They are helpful in today's digital world because they make logo design accessible to
+                everyone. Logo design is an integral part of how businesses communicate visually. As businesses change
+                and grow, they often update their logos to reflect their new identity and values. A well-designed logo
+                is essential for a big company or a small business. It helps tell the brand's story and makes people
+                feel connected to it.</p><br>
+        </div>
+    </section>
+    <!-- content section end -->
+
 
     <!-- why outsource us start -->
     <section class="why_content_writing">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
-        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR LOGO DESIGNING SERVICES ACROSS ALL INDUSTRIES & DOMAINS</h4>
+        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR LOGO
+            DESIGNING SERVICES ACROSS ALL INDUSTRIES & DOMAINS</h4>
         <div class="flex content-reason">
             <div class="reason-side">
                 <div class="reason-side-item left-item">
@@ -207,7 +377,8 @@ include_once '../../init.php';
             <div class="reason-side">
                 <div class="reason-side-item right-item">
                     <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>designer/healthcare.png" alt="Pharmaceutical & Healthcare" width="32px">
+                        <img src="<?= get_img(); ?>designer/healthcare.png" alt="Pharmaceutical & Healthcare"
+                            width="32px">
                     </div>
                     <div class="reason-dtl">
                         <p>Pharmaceutical & Healthcare</p>
@@ -252,7 +423,9 @@ include_once '../../init.php';
             <div class="services-item-2 box-shadow" data-aos="fade-up" data-aos-easing="ease-in-out"
                 data-aos-duration="500" data-aos-delay="0">
                 <div class="icon_blank_bg">
-                <lord-icon src="https://cdn.lordicon.com/cmrzxpzz.json" trigger="loop"  stroke="80"    delay="1500"  scale="65" colors="primary:#ed1575,secondary:#2b2350"style="width:64px;height:64px"></lord-icon>
+                    <lord-icon src="https://cdn.lordicon.com/cmrzxpzz.json" trigger="loop" stroke="80" delay="1500"
+                        scale="65" colors="primary:#ed1575,secondary:#2b2350"
+                        style="width:64px;height:64px"></lord-icon>
 
                 </div>
                 <div class="service-dtl">
@@ -263,7 +436,7 @@ include_once '../../init.php';
             <div class="services-item-2 box-shadow" data-aos="fade-up" data-aos-easing="ease-in-out"
                 data-aos-duration="500" data-aos-delay="50">
                 <div class="icon_blank_bg">
-                <i class='bx bx-user-circle'></i>
+                    <i class='bx bx-user-circle'></i>
                 </div>
                 <div class="service-dtl">
                     <h4>Software Experts</h4>
@@ -355,9 +528,10 @@ include_once '../../init.php';
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
             BEST LOGO DESIGNER</h3>
         <div class="expert-grid">
-        <div class="expert-item">
+            <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>designer/steven.jpg" class="expert-image" alt="hire photoshop expert" loading="lazy">
+                    <img src="<?= get_img() ?>designer/steven.jpg" class="expert-image" alt="hire photoshop expert"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
                     <h2>STEVEN H.</h2>
@@ -367,7 +541,9 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">I design brand identities, mobile app UI & UX, design systems, websites and graphic design for advertising. We use various tools to make the work smooth and fast for the clients.
+                <p class="light-grey text-center expert-desc">I design brand identities, mobile app UI & UX, design
+                    systems, websites and graphic design for advertising. We use various tools to make the work smooth
+                    and fast for the clients.
                 </p>
                 <div class="expert-skill">
                     <div class="skill">
@@ -388,7 +564,7 @@ include_once '../../init.php';
                     <div class="skill">
                         <p>PHOTO MANIPULATION</p>
                     </div>
-                   
+
                     <div class="skill">
                         <p>3+</p>
                     </div>
@@ -397,7 +573,8 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>graphic_designer.jpg" class="expert-image" alt="hire graphic designer" loading="lazy">
+                    <img src="<?= get_img() ?>graphic_designer.jpg" class="expert-image" alt="hire graphic designer"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <h2 class="text-center">WILLIAM M.</h2>
@@ -407,7 +584,8 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">As technology advances, it becomes increasingly important for designers to create engaging and meaningful interactions between people and products.</p>
+                <p class="light-grey text-center expert-desc">As technology advances, it becomes increasingly important
+                    for designers to create engaging and meaningful interactions between people and products.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>PHOTOSHOP</p>
@@ -431,7 +609,7 @@ include_once '../../init.php';
                     <div class="skill">
                         <p>ADOBE CREATIVE SUITE</p>
                     </div>
-                   
+
                     <div class="skill">
                         <p>4+</p>
                     </div>
@@ -440,7 +618,8 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>logo_designer.jpg" class="expert-image" alt="hire logo designer" loading="lazy">
+                    <img src="<?= get_img() ?>logo_designer.jpg" class="expert-image" alt="hire logo designer"
+                        loading="lazy">
                 </div>
                 <div class="expert-profile">
                     <h2 class="text-center">MICHAEL L.</h2>
@@ -450,7 +629,9 @@ include_once '../../init.php';
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">I am a specialist logo designer, offering my identity design services to businesses and entrepreneurs from around the globe, working with them to take their business identity to the next level.</p>
+                <p class="light-grey text-center expert-desc">I am a specialist logo designer, offering my identity
+                    design services to businesses and entrepreneurs from around the globe, working with them to take
+                    their business identity to the next level.</p>
                 <div class="expert-skill">
                     <div class="skill">
                         <p>PHOTOSHOP</p>
@@ -598,64 +779,64 @@ include_once '../../init.php';
     <!-- hiring-step start -->
     <section class="hiring_step1">
 
-<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-    <div class="hiring_step1_order-1">
-        <div>
-            <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
-            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+        <div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step1_order-1">
+                <div>
+                    <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+                    <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
                 outsourcing thanks to our
                 novel business model, which gives you complete control over who you work with.</p> -->
-            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
-        </div>
-    </div>
-    <div class="main">
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
-                    loading="lazy">
+                    <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+                </div>
             </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Talk To Us</p>
-                <p>What sort of graphic design position are you seeking?</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/handpick.png"
-                    alt="hire legal process outsourcing" loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Handpick Best Expert</p>
-                <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
-                    loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Build Your Team</p>
-                <p>Phone or video conference interviews of selected candidates are available. You may assign
-                    tests to them.</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
-                    loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Get Going</p>
-                <p>If you are pleased with the results, immediately hire them and get to work.</p>
-            </div>
-        </div>
-        
-    </div>
-    <button class="btn hire-btn">Get Qoute</button>
-</div>
+            <div class="main">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Talk To Us</p>
+                        <p>What sort of graphic design position are you seeking?</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                            alt="hire legal process outsourcing" loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Handpick Best Expert</p>
+                        <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Build Your Team</p>
+                        <p>Phone or video conference interviews of selected candidates are available. You may assign
+                            tests to them.</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Get Going</p>
+                        <p>If you are pleased with the results, immediately hire them and get to work.</p>
+                    </div>
+                </div>
 
-</section>
+            </div>
+            <button class="btn hire-btn">Get Qoute</button>
+        </div>
+
+    </section>
     <!-- hiring-step end -->
 
 
@@ -708,7 +889,9 @@ include_once '../../init.php';
                 <details>
                     <summary>Can I hire part-time logo designers on a monthly model?</summary>
                     <div class="faq__content">
-                        <p class="text">You can, of course. "Choice" is always yours, as we said. Nevertheless, for additional information, you should speak with your client account manager (CAM). The resource's availability will be determined by their monthly work schedule.</p>
+                        <p class="text">You can, of course. "Choice" is always yours, as we said. Nevertheless, for
+                            additional information, you should speak with your client account manager (CAM). The
+                            resource's availability will be determined by their monthly work schedule.</p>
                     </div>
                 </details>
             </div>
@@ -716,7 +899,9 @@ include_once '../../init.php';
                 <details>
                     <summary>How transparent is the assessment test?</summary>
                     <div class="faq__content">
-                        <p class="text">When you hire logo designers from HireCoworker, they are put through a rigorous evaluation process to make sure you get the best possible resource. Regarding transparency, the test can always be viewed in real time. Our job is to make sure you're happy.</p>
+                        <p class="text">When you hire logo designers from HireCoworker, they are put through a rigorous
+                            evaluation process to make sure you get the best possible resource. Regarding transparency,
+                            the test can always be viewed in real time. Our job is to make sure you're happy.</p>
                     </div>
                 </details>
             </div>
@@ -724,7 +909,10 @@ include_once '../../init.php';
                 <details>
                     <summary>What’s your payment model?</summary>
                     <div class="faq__content">
-                        <p class="text">We cater to every kind of business, from a small start-up to a large corporation, and we guarantee it. Our pricing strategy is entirely pre-paid and resource-based. Take a trial of the resource you want, and only after you are satisfied do we charge!</p>
+                        <p class="text">We cater to every kind of business, from a small start-up to a large
+                            corporation, and we guarantee it. Our pricing strategy is entirely pre-paid and
+                            resource-based. Take a trial of the resource you want, and only after you are satisfied do
+                            we charge!</p>
                     </div>
                 </details>
             </div>
@@ -732,7 +920,9 @@ include_once '../../init.php';
                 <details>
                     <summary>Can I retain Intellectual Property (IP) rights on the designs?</summary>
                     <div class="faq__content">
-                        <p class="text">Absolutly not! HireCoworker serves as merely a link between you and skilled logo designers. You are free to claim any and all designs created by HireCoworker's expert logo designers. It is your property, your resource, and your vision.</p>
+                        <p class="text">Absolutly not! HireCoworker serves as merely a link between you and skilled logo
+                            designers. You are free to claim any and all designs created by HireCoworker's expert logo
+                            designers. It is your property, your resource, and your vision.</p>
                     </div>
                 </details>
             </div>
@@ -740,7 +930,9 @@ include_once '../../init.php';
                 <details>
                     <summary>What do you mean by Free Trial?</summary>
                     <div class="faq__content">
-                        <p class="text">You can test the resource out before you hire the verified professional logo designers from HireCoworker. This means that you can evaluate their work and determine whether it meets your requirements. All of this is completely free!</p>
+                        <p class="text">You can test the resource out before you hire the verified professional logo
+                            designers from HireCoworker. This means that you can evaluate their work and determine
+                            whether it meets your requirements. All of this is completely free!</p>
                     </div>
                 </details>
             </div>
@@ -748,7 +940,9 @@ include_once '../../init.php';
                 <details>
                     <summary>What happens if my logo designer is on leave?</summary>
                     <div class="faq__content">
-                        <p class="text">You are completely covered if you have chosen team-model hiring. One takes time off; Your entire team is behind you. However, in the case of a stand-alone hire, there is no room for substitution.</p>
+                        <p class="text">You are completely covered if you have chosen team-model hiring. One takes time
+                            off; Your entire team is behind you. However, in the case of a stand-alone hire, there is no
+                            room for substitution.</p>
                     </div>
                 </details>
             </div>
