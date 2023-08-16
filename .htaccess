@@ -152,3 +152,12 @@ ReWriteRule ^author([/]?)$ pages/blogs/author_profile.php [NC,L]
 ReWriteRule ^ecommerce-solutions-service([/]?)$ pages/ecommerce-solutions/_index.php [NC,L]
 
 
+ReWriteRule ^movies-production-services([/]?)$ pages/movies-production-services/_index.php [NC,L]
+ReWriteRule ^movie-script-services([/]?)$ pages/movies-production-services/movie-script-services.php [NC,L]
+ReWriteRule ^movie-director-services([/]?)$ pages/movies-production-services/movie-director-services.php [NC,L]
+ReWriteRule ^movie-cameraman-services([/]?)$ pages/movies-production-services/movie-cameraman-services.php [NC,L]
+ReWriteRule ^hire-actor-actrees([/]?)$ pages/movies-production-services/hire-actor-actrees.php [NC,L]
+ReWriteRule ^short-movies([/]?)$ pages/movies-production-services/short-movies.php [NC,L]
+
+
+

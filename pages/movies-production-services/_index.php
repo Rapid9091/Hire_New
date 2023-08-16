@@ -66,17 +66,17 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h2 class="main-heading ">
-                    Hire MOBILE APP DEVELOPERS
+                    Hire Movies Production 
                 </h2>
                 <div class="landing-offer-div">
                     <p>Starts from US $10/Hour - Save 70%</p>
                 </div>
 
                 <ul class="landing-ul">
-                    <p class="text">Turn your ideas into Apps and improve your business global online presence.</p>
+                    <!-- <p class="text">Turn your ideas into Apps and improve your business global online presence.</p> -->
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire MOBILE APP DEVELOPERS
+                <a class="basic-button landing-btn" href="#">Hire Movies Production
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -91,7 +91,7 @@ include_once '../../init.php';
     <section class="full-section" id="full-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">SERVICES</p>
         <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">
-            OUR MOBILE APP DEVELOPMENT SERVICES
+            OUR Movies Production SERVICES
         </h4>
         <div class="container-grid grid grid-3">
             <div class="container-section-boxes">
@@ -101,15 +101,15 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/ios.png" alt="hire ios app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>ios-development">
-                                <h5>IOS DEVELOPMENT</h5>
+                            <a href="<?=home_path() ?>movie-director-services">
+                                <h5>Movie Director Services</h5>
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <p class="text">
-                    Get dedicated mobile app developers to use Swift and Objective-C to make iOS apps that are easy to use (for iPad and iPhone).
+                    <!-- Get dedicated mobile app developers to use Swift and Objective-C to make iOS apps that are easy to use (for iPad and iPhone). -->
                 </p>
             </div>
             <div class="container-section-boxes">
@@ -119,15 +119,15 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/android.png" alt="hire android app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                        <a href="<?=home_path() ?>android-app-development">
-                                <h5>ANDROID APP DEVELOPMENT</h5>
+                        <a href="<?=home_path() ?>movie-script-services">
+                                <h5>Movie Script Writer Services</h5>
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <p class="text">
-                    One of the few mobile app development companies that works with Kotlin, Android TV, Android phones, and other platforms is HireCoworker.
+                    <!-- One of the few mobile app development companies that works with Kotlin, Android TV, Android phones, and other platforms is HireCoworker. -->
                 </p>
             </div>
             <div class="container-section-boxes">
@@ -137,15 +137,15 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/windows.png" alt="hire windows app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>windows-application-development">
-                                <h5>WINDOWS APP DEVELOPMENT</h5>
+                            <a href="<?=home_path() ?>movie-cameraman-services">
+                                <h5>Movie Camera Man Services </h5>
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <p class="text">
-                    Are you eager to develop some Universal Windows Platform (UWP) applications? Don't waste any time. HireCoworker is a good choice.
+                    <!-- Are you eager to develop some Universal Windows Platform (UWP) applications? Don't waste any time. HireCoworker is a good choice. -->
                 </p>
             </div>
             <div class="container-section-boxes">
@@ -155,15 +155,15 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/hybrid.png" alt=" hire hybrid app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>hybrid-app-development">
-                                <h5>HYBRID APP DEVELOPMENT</h5>
+                            <a href="<?=home_path() ?>hire-actor-actrees">
+                                <h5>Hire Actor/Actress</h5>
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <p class="text">
-                    For hybrid apps that are wrapped in a native container and built with HTML5 and JavaScript, hire dedicated mobile app developers.
+                    <!-- For hybrid apps that are wrapped in a native container and built with HTML5 and JavaScript, hire dedicated mobile app developers. -->
                 </p>
             </div>
             <div class="container-section-boxes">
@@ -173,18 +173,18 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>mobile-apps/native.png" alt="hire native app developer" loading="lazy">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>native-app-developers">
-                                <h5>NATIVE APP DEVELOPMENT</h5>
+                            <a href="<?=home_path() ?>short-movies">
+                                <h5>Short Movie</h5>
                             </a>
                         </div>
                     </div>
 
                 </div>
                 <p class="text">
-                    Our mobile app developers are proficient in Xcode, Objective-C, Eclipse, Java, XAML, and C#, allowing them to quickly develop applications.
+                    <!-- Our mobile app developers are proficient in Xcode, Objective-C, Eclipse, Java, XAML, and C#, allowing them to quickly develop applications. -->
                 </p>
             </div>
-            <div class="container-section-boxes">
+            <!-- <div class="container-section-boxes">
                 <div class="services-box-title ">
                     <div class="box-title-number flex-center">
                         <div class="service-img">
@@ -315,7 +315,7 @@ include_once '../../init.php';
         </div>
         <p style="text-align:center;">
             <button class="view_more_btn" id="view_more_btn" value="#full-section">View More</button>
-        </p>
+        </p> -->
 
     </section>
     <!-- services end -->

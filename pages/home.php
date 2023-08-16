@@ -146,9 +146,7 @@ include_once "../init.php";
         <ion-icon name="logo-chrome"></ion-icon>
         <h3>Ecommerce Solutions</h3>
         <p>
-          <!-- It's important to choose the greatest IT outsourcing company. It
-          makes sure that it benefits your company greatly and aids in
-          increasing relevant search traffic to websites. -->
+          E-commerce solutions are the tools and technologies used in the modern market to make buying and selling online easier. They offer a variety of ways, means, and help for businesses to do well on the internet. Our solutions help you make online stores that work well and ensure your customers can pay safely. This way, your customers can shop on your website in a full-fledged manner. Whether you're a new business or have been around for a while, they can help you reach customers worldwide and connect with them more. In just 60 words, we look at the world of Ecommerce Solutions, tools that help businesses set up and run online stores. These tools allow companies to show off and sell their goods and services online. With Ecommerce Solutions, companies can easily set up online stores and take advantage of the growing online market.
         </p>
         <a href="<?= home_path() ?>it-outsourcing-services">Know More</a>
       </div>
@@ -166,8 +164,7 @@ include_once "../init.php";
         <ion-icon name="business-sharp"></ion-icon>
         <h3>Digital Production Services</h3>
         <p>
-          <!-- Engineers and Architects work with clients to design, plan and oversee construction projects, ensuring safety,
-          cost-effectiveness, aesthetic appeal and compliance with regulations and codes. -->
+           Digital Production Services is a perfect example of how technology and creativity come together. We create captivating digital content by combining digital tools and innovative concepts skillfully. Our services cover various visual techniques, from developing ideas to bringing them to life. This includes animation, special effects, and designing multimedia content. Digital Production Services combines creativity and advanced digital skills to bring your ideas to life. We use the latest technology to create visually stunning and engaging content. With our expertise, we can help you transform your imagination into reality. 
         </p>
         <a href="<?= home_path() ?>hire-engineers-architects">Know More</a>
       </div>
@@ -221,9 +218,7 @@ include_once "../init.php";
         <!-- <i class='bx bxs-briefcase-alt'></i> -->
         <h3>Movies Production Services</h3>
         <p>
-          <!-- Legal Process Outsourcing Experts provide comprehensive legal support services to clients by handling tasks
-          such as legal research, document review, drafting legal documents, and contract management, allowing clients
-          to focus on their core business operations. -->
+        Looking at the world of Movies Production Services, we see a complex web of artistic skills. When cinematic parts are put together in a complicated way, scripts become exciting stories that can be seen. All these different steps work together to make the magic of film that entertains and inspires. We explain what Movie Production Services is all about in only 60 words.
         </p>
         <a href="<?= home_path() ?>legal-outsourcing-services">Know More</a>
       </div>
