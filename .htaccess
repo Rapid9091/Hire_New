@@ -110,6 +110,7 @@ ReWriteRule ^virtual-assistant-for-mobile-app-development([/]?)$ pages/dedicated
 ReWriteRule ^ui-ux-design-virtual-assistant([/]?)$ pages/dedicated-designer/ui-ux-design-virtual-assistant.php [NC,L]
 ReWriteRule ^hire-web-designers([/]?)$ pages/dedicated-designer/web-designer.php [NC,L]
 ReWriteRule ^hire-multimedia-animation-experts([/]?)$ pages/dedicated-designer/multimedia-animation.php [NC,L]
+ReWriteRule ^ui-ux-design-virtual-assistant([/]?)$ pages/dedicated-designer/ui-ux-design-virtual-assistant.php [NC,L]
 ReWriteRule ^hire-photoshop-experts([/]?)$ pages/dedicated-designer/photoshop_expert.php [NC,L]
 ReWriteRule ^hire-logo-designers([/]?)$ pages/dedicated-designer/logo_designer.php [NC,L]
 ReWriteRule ^hire-indesign-experts([/]?)$ pages/dedicated-designer/indesign_expert.php [NC,L]

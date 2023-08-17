@@ -167,7 +167,7 @@ include_once '../../init.php';
                     <!-- <i class='bx bx-id-card'></i> -->
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="<?= home_path() ?>#">UI/UX Designers</a></h3>
+                    <h3><a href="<?= home_path() ?>ui-ux-design-virtual-assistant">UI/UX Designers</a></h3>
                     <!-- <p>A business card is a small card with contact information for a person or business.</p> -->
                 </div>
             </div>
