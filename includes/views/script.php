@@ -137,6 +137,27 @@ $('.text-tesimonial').owlCarousel({
       }
   }
 })
+$('#google_reviews').owlCarousel({
+  loop: true,
+  margin:20,
+  autoplay: true,
+  autoplayTimeout: 3000,
+  autoplayHoverPause: true,
+  responsive: {
+      0: {
+          items: 1
+      },
+
+      800: {
+          items: 2
+      },
+      1000:{
+        item:3
+      }
+  }
+})
+
+$('button.owl-dot').attr('aria-label', 'owl-dot');
 </script>
 
  <!-- Main JS of the page  -->

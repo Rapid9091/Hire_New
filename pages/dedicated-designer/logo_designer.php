@@ -66,9 +66,165 @@ include_once '../../init.php';
             <?php include_once landing_form; ?>
         </div>
     </div>
+  <!-- review section -->
+  <?php include_once reviews2; ?>
 
+<!-- Roadmap Start From here  -->
+
+<section class="section-roadmap dm-services-roadmap">
+    <p class="p-pink">DIGITAL MARKETING PROCESS</p>
+    <p class="section-heading">A Simple, Iterative Process</p>
+    <ul class="roadmap">
+        <li>
+
+            <div class="roadmap-item">
+                <p class="road_heading">RESEARCH</p>
+                <p class="text">
+                    We do Keyword research as per the niche of the website. We also do the analysis of competitor
+                    websites.
+                </p>
+            </div>
+        </li>
+        <li>
+            <div class="roadmap-item">
+                <p class="road_heading">CREATING PLATFORM</p>
+                <p class="text">
+                    1. After analysis, we placed the keywords in our website content and website URL'S.
+                    <br> 2. We create a strategy, which keywords we focused on more.
+                    <br> 3. How we can generate leads.
+                </p>
+            </div>
+        </li>
+        <li>
+
+            <div class="roadmap-item">
+                <p class="road_heading">How we work</p>
+                <p class="text">
+                    i. We do only <em style="font-style:normal;">white hat SEO</em>
+                    <br> ii. We generate <em style="font-style:normal;">high traffic on website</em> (organic & paid
+                    traffic)
+                    <br> iii. For keywords ranking improvement, we work on high DA, TA, PA websites.
+                    <br> iv. Increase the ranking of keywords & increase traffic on websites.
+                </p>
+            </div>
+        </li>
+        <li>
+            <div class="roadmap-item">
+                <p class="road_heading">Tools we use</p>
+                <p class="text">
+                    We use <em style="font-style:normal;">Google webmaster</em> (To check the website health)
+                    <br> <em style="font-style:normal;">Google analytics</em> (To track the website traffic)
+                    <br> <em style="font-style:normal;">Google AdWords</em> (for google ads and Keywords planner
+                    tools for keywords research)
+                </p>
+            </div>
+        </li>
+        <div class="v-line"></div>
+    </ul>
+</section>
+
+<!-- Roadmap End From here  -->
+
+<!-- number section start -->
+<section class="number_section">
+    <p class="p-pink">HIRE COWORKER</p>
+    <p class="section-heading">The Numbers Do the Talking</p>
+    <div class="grid grid-4">
+        <div class="number-counter">
+            <div class="text-center number-counter-item">
+                <img src="<?= get_img(); ?>hire-developer/app-development.png" alt="Hire developer" loading="lazy">
+            </div>
+            <p class="text-cente number_p">3500+</p>
+            <p class="text-center">Successful Project</p>
+        </div>
+        <div class="number-counter">
+            <div class="text-center number-counter-item">
+                <img src="<?= get_img(); ?>hire-developer/coding.png" alt="Hire android developer" loading="lazy">
+            </div>
+            <p class="text-center number_p">750+</p>
+            <p class="text-center">Certified PHP Developers</p>
+        </div>
+        <div class="number-counter">
+            <div class="text-center number-counter-item">
+                <img src="<?= get_img(); ?>hire-developer/mobile_developed.png" alt="Hire mobile app developer" loading="lazy">
+            </div>
+            <p class="text-center number_p">8+</p>
+            <p class="text-center">Year's Industry Experience</p>
+        </div>
+        <div class="number-counter">
+            <div class="text-center number-counter-item">
+                <img src="<?= get_img(); ?>hire-developer/web_tech.png" alt="Hire web developer" loading="lazy">
+            </div>
+            <p class="text-center number_p">600+</p>
+            <p class="text-center">Satisfied Global Clients</p>
+        </div>
+    </div>
+</section>
+<!-- number section end -->
+
+<!-- hiring-step start -->
+<section class="hiring_step1">
+
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+<div class="hiring_step1_order-1">
+    <div>
+        <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+        <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+            outsourcing thanks to our
+            novel business model, which gives you complete control over who you work with.</p> -->
+        <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+    </div>
+</div>
+<div class="main">
+    <div class="steps2 flexs">
+        <div class="step_iconns">
+            <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                loading="lazy">
+        </div>
+        <div class="step-dtll">
+            <p class="step-dtll-heading2">Talk To Us</p>
+            <p>What sort of graphic design position are you seeking?</p>
+        </div>
+    </div>
+    <div class="steps2 flexs">
+        <div class="step_iconns">
+            <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                alt="hire legal process outsourcing" loading="lazy">
+        </div>
+        <div class="step-dtll">
+            <p class="step-dtll-heading2">Handpick Best Expert</p>
+            <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
+        </div>
+    </div>
+    <div class="steps2 flexs">
+        <div class="step_iconns">
+            <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                loading="lazy">
+        </div>
+        <div class="step-dtll">
+            <p class="step-dtll-heading2">Build Your Team</p>
+            <p>Phone or video conference interviews of selected candidates are available. You may assign
+                tests to them.</p>
+        </div>
+    </div>
+    <div class="steps2 flexs">
+        <div class="step_iconns">
+            <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                loading="lazy">
+        </div>
+        <div class="step-dtll">
+            <p class="step-dtll-heading2">Get Going</p>
+            <p>If you are pleased with the results, immediately hire them and get to work.</p>
+        </div>
+    </div>
+    
+</div>
+<button class="btn hire-btn" style="padding: 1% 2%;">Get Qoute</button>
+</div>
+
+</section>
     <!-- services start -->
-    <section class="full-section" id="full-section">
+    <!-- <section class="full-section" id="full-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">SERVICES</p>
         <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">
             OUR COMPLETE RANGE OF LOGO DESIGN SERVICES
@@ -172,7 +328,7 @@ include_once '../../init.php';
 
         </div>
 
-    </section>
+    </section> -->
     <!-- services end -->
     <!-- content section start -->
     <section class="content_section">
