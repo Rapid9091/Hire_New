@@ -65,7 +65,7 @@
             <ul>
             <li><a href="<?= home_path() ?>about">About us</a></li>
             <li><a href="<?= home_path() ?>pricing">Pricing</a></li>
-            <li><a href="<?= home_path() ?>about">Services</a></li>
+            <li><a href="<?= home_path() ?>services ">Services</a></li>
             <li><a href="tel:+1 (848) 200-0555">Call Us</a></li>
             <li><a href="<?= home_path() ?>contact">Contact Us</a></li>
             </ul>

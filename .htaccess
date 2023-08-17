@@ -97,6 +97,10 @@ ReWriteRule ^article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L
 ReWriteRule ^book-writing-services([/]?)$ pages/content-writer/book-writing-services.php [NC,L]
 ReWriteRule ^landing&sales([/]?)$ pages/content-writer/landing&sales.php [NC,L]
 ReWriteRule ^movie-script-services([/]?)$ pages/content-writer/movie-script-services.php [NC,L]
+ReWriteRule ^technical-medical([/]?)$ pages/content-writer/technical-medical.php [NC,L]
+ReWriteRule ^website-&-seo-content([/]?)$ pages/content-writer/website-&-seo-content.php [NC,L]
+ReWriteRule ^social-media-content([/]?)$ pages/content-writer/social-media-content.php [NC,L]
+
 
 
 ReWriteRule ^magazines-writing-service([/]?)$ pages/content-writer/magazines-writing-service.php [NC,L]

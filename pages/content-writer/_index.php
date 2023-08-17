@@ -136,7 +136,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/technical.png" alt="hire technical and medical writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>technical-medical">
                                 <h5>Technical & Medical</h5>
                             </a>
                         </div>
@@ -154,7 +154,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/seo.png" alt="hire website and seo content writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>website-&-seo-content">
                                 <h5>Website & Seo Content</h5>
                             </a>
                         </div>
@@ -172,7 +172,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/social_media.png" alt="hire social media content writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>social-media-content">
                                 <h5>Social Media Content</h5>
                             </a>
                         </div>
