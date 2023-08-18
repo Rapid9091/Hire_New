@@ -9,7 +9,7 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Book Writing Services</title>
+    <title>Speeches & Reviews</title>
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
@@ -40,14 +40,14 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                    Book Writing Services
+                Speeches & Reviews
                 </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">Hire Coworker is the leading book writing service in the United States. It provides professional and high-quality book writing services to people seeking resources to write and publish their books. The organization has established itself as one of the significant book writing websites, with a team of experienced and talented authors accessible for hiring as book writer virtual assistant.</p>
+                    <p class="text">In the world of good talking, speeches are potent tools. They've changed history, started essential things, and made people from different times and places feel connected. Along with making good speeches, looking at reviews is necessary too.</p>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire Book Writing  Specialists
+                <a class="basic-button landing-btn" href="#">Hire Speeches & Reviews  Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>

@@ -7,12 +7,12 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-   <?php include_once head_new;?>
+    <?php include_once head_new;?>
 
-    <title>Book Writing Services</title>
+    <title>Ebook & Brochure</title>
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
-    <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
+    <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
     <style>
         .landing-section-services {
             background-image: url("<?= get_img() ?>dm/ppc.webp");
@@ -40,14 +40,20 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                    Book Writing Services
+                    Ebook & Brochure
                 </h1>
 
                 <ul class="landing-ul">
-                    <p class="text">Hire Coworker is the leading book writing service in the United States. It provides professional and high-quality book writing services to people seeking resources to write and publish their books. The organization has established itself as one of the significant book writing websites, with a team of experienced and talented authors accessible for hiring as book writer virtual assistant.</p>
+                    <p class="text">In the world today, where we can get info easily on our devices, ebooks and
+                        brochures are strong tools for showing ideas, talking about businesses, and giving knowledge.
+                        With things like Kindle Direct Publishing (KDP) on Amazon and easy apps like Libby, ebooks and
+                        brochures have changed how we put out and read stuff. This piece looks at how ebooks and
+                        brochures are important for branding, marketing, and learning, and checks out KDP Amazon and the
+                        simple Libby app.
+                    </p>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="#">Hire Book Writing  Specialists
+                <a class="basic-button landing-btn" href="#">Hire  Ebook & Brochure Specialists
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -160,173 +166,182 @@ include_once '../../init.php';
     <!-- hiring-step start -->
     <section class="hiring_step1">
 
-<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-    <div class="hiring_step1_order-1">
-        <div>
-            <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
-            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+        <div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step1_order-1">
+                <div>
+                    <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+                    <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
                 outsourcing thanks to our
                 novel business model, which gives you complete control over who you work with.</p> -->
-            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
-        </div>
-    </div>
-    <div class="main">
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
-                    loading="lazy">
+                    <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+                </div>
             </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Talk To Us</p>
-                <p>What sort of graphic design position are you seeking?</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/handpick.png"
-                    alt="hire legal process outsourcing" loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Handpick Best Expert</p>
-                <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
-                    loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Build Your Team</p>
-                <p>Phone or video conference interviews of selected candidates are available. You may assign
-                    tests to them.</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
-                    loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Get Going</p>
-                <p>If you are pleased with the results, immediately hire them and get to work.</p>
-            </div>
-        </div>
-        
-    </div>
-    <button class="btn hire-btn">Get Qoute</button>
-</div>
+            <div class="main">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Talk To Us</p>
+                        <p>What sort of graphic design position are you seeking?</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                            alt="hire legal process outsourcing" loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Handpick Best Expert</p>
+                        <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Build Your Team</p>
+                        <p>Phone or video conference interviews of selected candidates are available. You may assign
+                            tests to them.</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Get Going</p>
+                        <p>If you are pleased with the results, immediately hire them and get to work.</p>
+                    </div>
+                </div>
 
-</section>
+            </div>
+            <button class="btn hire-btn">Get Qoute</button>
+        </div>
+
+    </section>
 
     <!-- content section start -->
     <section class="content_section">
-    <div class="content_div">
-    <p class="text_content"> Reviews give thoughts, thinking, and careful looks at things. In this talk, we look at
-        speeches and reviews, check how they matter, studies for words online and on the Speech Pathways platform, and
-        even find the best book about speeches to get better at talking.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">The Power of Speeches</h2>
-    <p class="text_content">When people make really strong talks, they can change how everyone thinks and make things
-        different. Think about talks from famous folks like Martin Luther King Jr. and Winston Churchill, like "I Have a
-        Dream" and "We Shall Fight on the Beaches." These talks made lots of people do important things, which changed
-        history. If a talk is done really well, it can get everyone interested, make them want to do stuff, and make
-        them remember it for a long time.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">The Art of Crafting Effective Speeches</h2>
-    <p class="text_content">Strong talk requires skill, care, and knowing who's listening. There are different kinds of
-        conversations – some try to change minds, others teach stuff – each has its job. Picking the right words, how
-        you say things, and how you talk are all important to make the talk interesting and make sense to the listeners.
-    </p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Reviews</h2>
-    <p class="text_content">Reviews are strong and can change people's thoughts, help them choose, and give valuable
-        ideas. When it comes to talks, studies do many things. They help speakers get better by providing helpful
-        advice. And they let people who listened share their thoughts, which helps everyone feel more connected.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Virtual Speech Reviews</h2>
-    <p class="text_content">In today's digital time, technology lets us give talks and get thoughts back in new ways.
-        Looking at addresses online has become critical. Online places let speakers talk to many people worldwide, no
-        matter where they are. And since online talks are recorded, speakers can watch and learn from them later.</p>
-    <br>
-    <h3><strong>Empowering Speakers Through Constructive Critique</strong></h3>
-    <p class="text_content">Platforms like Speech Pathways Reviews are revolutionizing the way speakers perceive their
-        virtual presence. These platforms offer a space for peers and experts to provide constructive feedback on
-        virtual speeches, offering a unique opportunity for growth. Through the strategic integration of the "Speeches &
-        Reviews" keyword, speakers can harness the power of search engine optimization to ensure their content reaches
-        the right audience.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Speech Pathways Reviews</h2>
-    <p class="text_content">Speech Pathways, a top place for getting better at talking and communicating, has lots of
-        stuff to help people improve their public speaking. With Speech Pathways reviews, people can see what's good and
-        what needs work in their talking, which helps them get better. Doing this over and over helps people keep
-        getting better.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Unlocking Insights Through Reviews</h2>
-    <p class="text_content">Looking at reviews is really important when we're trying to get better in our personal and
-        work lives. Like when we read reviews to choose things to buy, speakers can learn a lot from looking at reviews
-        of their virtual talks. These reviews aren't just about saying what's good or bad; they show how to improve.
-        They help speakers make their talks, how they say things, and their effect on people even better.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">The Role of Reviews in Skill Refinement</h2>
-    <p class="text_content">What's excellent about reviews is that they give detailed thoughts. In public speaking,
-        reviews tell you a lot about how you did different things, like how you moved, talked, and what you said. If you
-        use the helpful advice in the reviews to get better, you can go from being new at talking to being good at it.
-    </p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Exploring the Best Book on Speeches</h2>
-    <p class="text_content">Of all the books about public speaking, one is good: "Talk Like TED" by Carmine Gallo. This
-        famous book takes the best parts of great talks, like the ones on TED Talks, where people talk well. The book
-        uses clear examples and gives advice that you can use. "Talk Like TED" shows you how to make talks that people
-        like, feel excited about, and pay attention to.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Best Book on Speeches</h2>
-    <p class="text_content">If you want to improve public speaking, having the right stuff to learn from is super
-        important. Of all the choices, one book is helpful: "Speak Like Churchill, Stand Like Lincoln" by James C.
-        Humes. This book examines how famous people like Churchill and Lincoln talked and gives tips on making solid
-        talks and saying them confidently.</p><br>
 
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Unveiling the Essence of "Talk Like TED"</h2>
-    <p class="text_content">In "Talk Like TED," the book discusses what makes TED Talks so exciting and easy to
-        remember. It says that telling stories, being authentic, and making people feel are essential. When speakers
-        share their stories, use facts, and talk about things everyone can relate to, listeners feel excited and
-        interested.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Embracing the TED Approach</h2>
-    <p class="text_content">Gallo's book tells speakers to use the TED way, about making people feel, talking about new
-        stuff, and saying things in a way people will remember. These things make talks solid and exciting, making
-        people remember them for a long time.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Speak Like Churchill, Stand Like Lincoln</h2>
-    <p class="text_content">James C. Humes' book is precious and never gets old. It has a lot of good thoughts about
-        public speaking. When readers look at how famous talkers did it, they can learn important things about how to
-        talk well, convince people, and make listeners interested. For people who want to get better at talking, using
-        the "best book on speeches" word in their stuff can get other learners' attention and help them learn useful
-        stuff.</p><br>
-</div>
-<div class="content_div">
-    <h2 class="content-heading">Conclusion</h2>
-    <p class="text_content">Talking and reviews are really important in how people talk to each other. Talks can change
-        stories, make people feel strong emotions, and make things happen. On the other hand, reviews help people get
-        better at talking by giving valuable thoughts. From looking at talks online to using places like Speech Pathways
-        and reading brilliant books like "Talk Like TED," getting good at public speaking happens when words and reviews
-        work together. People who want to be great at talking learn by speaking well and thinking about it afterward.
-    </p><br>
-    </div>
-                
+        <div class="content_div">
+            <h2 class="content-heading">The Evolution of Ebooks and Brochures</h2>
+            <p class="text_content">In today's world of screens and connected gadgets, regular paper materials have
+                changed because of ebooks and brochures. Ebooks, which means electronic books, are super popular because
+                you can easily carry and read them. You can read these digital versions of books on different gadgets
+                like special e-readers, smartphones, and tablets. But brochures have changed even more. They used to be
+                plain paper, but now they're excellent interactive digital papers with videos and links that grab your
+                attention. These things have brought new and creative ways to share info and get people interested.</p>
+            <br>
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">The Significance of Ebooks and Brochures</h2>
+
+                <p class="text_content">Ebooks and brochures have lots of good things for different people and reasons.
+                    For writers and creators, ebooks are a smooth way to share their stuff without old-style printing
+                    costs. On Amazon's Kindle Direct Publishing (KDP), new authors can make their ebooks available
+                    everywhere really easily. KDP Amazon helps writers keep control, choose prices, and reach lots of
+                    Amazon customers..</p><br>
+
+                <p class="text_content">Brochures have also changed. They used to be plain, but now they're cool tools
+                    for showing off things. Businesses and groups can use these digital brochures to share their ideas
+                    in a fun way. With videos, animations, and interactive pictures, digital brochures get people's
+                    attention and explain tough ideas better..</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Kindle Direct Publishing (KDP) Amazon</h2>
+
+            <p class="text_content">Leading the way in the ebook change is Amazon's Kindle Direct Publishing (KDP)
+                system. KDP Amazon has made publishing fair for all, letting writers publish their own stuff and get
+                noticed around the world. This system is easy to use and helps writers with getting their ebooks ready,
+                putting them out there, and getting people interested. Writers can pick prices, where to sell, and get
+                paid for their work – something they never had much say in before.
+                .</p><br>
+            <p class="text_content">KDP Amazon reaches millions of Kindle readers everywhere, so writers can share their
+                work with lots of different people. It works really well with Amazon's stuff, so when writers publish
+                with KDP, their ebooks are right there on the Amazon Kindle Store for everyone to buy. This means
+                millions of Amazon customers can get the ebooks..</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Unleashing the Potential of Kindle Direct Publishing</h2>
+
+            <p class="text_content">Kindle Direct Publishing is more than just putting stuff out there; it's about
+                building a group of readers and writers. Writers can talk to their readers using things like Kindle
+                Notes & Highlights, which helps them get to know their readers better. There's also something called KDP
+                Select, which writers can use. It has tools to help get ebooks noticed. With Kindle Countdown Deals and
+                Free Book Promotions, writers can find new readers and sell more books..</p><br>
+
+            <p class="text_content">Because ebooks on KDP Amazon can be read on many gadgets using the Kindle app, it's
+                easy for everyone to read. Readers can switch between devices and still know where they left off, so
+                they stay in their place. This has changed how people read, letting them carry lots of books in their
+                pockets..</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">The Power of Visual Appeal</h2>
+
+            <p class="text_content">Both in eBooks and brochures, how things look is super important. Using pictures,
+                fonts, and how things are put together can make the stuff more fun and easier to remember. If you mix
+                words and pictures the right way, it makes the reading better and the message stronger. Also, it's
+                really important to keep your style looking the same to show who you are and be known..</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Libby App</h2>
+
+            <p class="text_content">In the world of digital stuff, easy is really important. An app called Libby, made
+                by OverDrive, has changed how people get ebooks and audiobooks from their local libraries. With just a
+                library card, you can check out lots of digital books, including popular ones, old ones, and even
+                special ones. Libby's easy-to-use screen makes it simple to borrow and read, whether you're good with
+                gadgets or not..</p><br>
+
+            <p class="text_content">The Libby app has made borrowing from libraries exciting again.Libby works together
+                with local libraries' digital stuff, making reading fit in with how things are now – where everyone uses
+                digital things and can easily read and learn..</p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Enhancing Branding Through eBooks and Brochures</h2>
+
+            <p class="text_content">For businesses, ebooks and brochures are a unique chance to improve their brand.
+                They let companies show what they care about and what they sell excellently. If they use suitable
+                designs and always look the same, it helps them look excellent and be liked by the people they want to
+                reach..</p><br>
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Crafting Compelling eBooks for Marketing</h2>
+
+            <p class="text_content">Ebooks are a great way for businesses to do good marketing and find potential
+                customers. If a business makes a really good ebook that helps with a problem or gives useful
+                information, it can show that the business knows a lot about its field. By using the right words on KDP
+                Amazon, the ebook can be found more easily by more people, which is really helpful for the business..
+            </p><br>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">The Synergy of Ebooks and Brochures</h2>
+
+
+            <p class="text_content">Even though ebooks and brochures might seem different, they can change and interest
+                people. Businesses can use both of them to make excellent marketing plans. For example, a company could
+                write an ebook that explains a lot about their business area, teaching their readers. At the same time,
+                they could make a digital brochure that shows off their things in a fun way. Using ebooks and brochures
+                together makes a brand feel complete and cool to people nowadays..</p><br>
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Conclusion</h2>
+
+            <p class="text_content">In the always-changing world of digital stuff, ebooks and brochures show how smart
+                and creative people are. These things aren't just easy – they also let writers talk to readers,
+                businesses talk to customers, and learners find out things. Places like KDP Amazon and apps like Libby
+                make this even better, helping us discover, learn, and be part of things like never before. As
+                technology gets better, ebooks and brochures will keep getting cooler, changing how we talk, teach, and
+                have fun online..</p><br>
+        </div>
+
 
 
     </section>
@@ -335,7 +350,8 @@ include_once '../../init.php';
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST DIGITAL MARKETING EXPERT</p>
+        <p class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
+            BEST DIGITAL MARKETING EXPERT</p>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
@@ -800,7 +816,12 @@ include_once '../../init.php';
                 <details>
                     <summary>What can my virtual assistant do for me on social media?</summary>
                     <div class="faq__content">
-                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot physically be present in your workplace, but they can log into your numerous social media networks, automate postings, do research, recognize trends, and much more. Ask a VA which hashtags are suitable for your next post. Ask a VA to put up an automatic system for scheduling postings. When you use a VA's experience, there is no limit to what you may do.</p>
+                        <p class="text">You could log in and manage almost anything. A virtual assistant cannot
+                            physically be present in your workplace, but they can log into your numerous social media
+                            networks, automate postings, do research, recognize trends, and much more. Ask a VA which
+                            hashtags are suitable for your next post. Ask a VA to put up an automatic system for
+                            scheduling postings. When you use a VA's experience, there is no limit to what you may do.
+                        </p>
                     </div>
                 </details>
             </div>
@@ -808,7 +829,10 @@ include_once '../../init.php';
                 <details>
                     <summary>Is it difficult to train a virtual assistant for my particular accounts?</summary>
                     <div class="faq__content">
-                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform them of the duties you anticipate them to complete. Respond to their inquiries. As time passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
+                        <p class="text">No, it shouldn't be hard. There may be a transition phase during which you will
+                            want to onboard your VA as precisely as feasible. Tell them exactly what you want. Inform
+                            them of the duties you anticipate them to complete. Respond to their inquiries. As time
+                            passes, the VA will have more autonomy and you will not have to check in as frequently.</p>
                     </div>
                 </details>
             </div>
@@ -816,7 +840,12 @@ include_once '../../init.php';
                 <details>
                     <summary>Will my assistant be treated similarly to a full-time employee?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a part-time employee or as a full-time employee. They will not be physically present in your firm, but they have the potential to become crucial. Many VAs, on the other hand, discover that they prefer this structure to typical employment since it gives them more authority and influence over their own professional life. And for you, the business, better productivity, and a more prudent budget will help your company succeed.</p>
+                        <p class="text">Yes, in some ways. No, in different ways. A virtual assistant might work as a
+                            part-time employee or as a full-time employee. They will not be physically present in your
+                            firm, but they have the potential to become crucial. Many VAs, on the other hand, discover
+                            that they prefer this structure to typical employment since it gives them more authority and
+                            influence over their own professional life. And for you, the business, better productivity,
+                            and a more prudent budget will help your company succeed.</p>
                     </div>
                 </details>
             </div>
@@ -824,7 +853,14 @@ include_once '../../init.php';
                 <details>
                     <summary>How effective are virtual assistants at handling social media?</summary>
                     <div class="faq__content">
-                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train them. But, if you hire someone with a lot of expertise dealing with numerous social media outlets, you'll see that it might be quite different. Many high-quality VAs originate from the realm of social media and may even have a large presence themselves. In certain circumstances, a VA may be able to give advice and advise you on the best technique. You don't have to restrict yourself to automating the most basic chores like scheduling posts or researching in the background. A social media VA may be much more—if you employ the proper one.</p>
+                        <p class="text">It is conditional. If you hire a general office assistant, you may have to train
+                            them. But, if you hire someone with a lot of expertise dealing with numerous social media
+                            outlets, you'll see that it might be quite different. Many high-quality VAs originate from
+                            the realm of social media and may even have a large presence themselves. In certain
+                            circumstances, a VA may be able to give advice and advise you on the best technique. You
+                            don't have to restrict yourself to automating the most basic chores like scheduling posts or
+                            researching in the background. A social media VA may be much more—if you employ the proper
+                            one.</p>
                     </div>
                 </details>
             </div>
@@ -832,8 +868,14 @@ include_once '../../init.php';
                 <details>
                     <summary>Who is a virtual assistant for?</summary>
                     <div class="faq__content">
-                        <p class="text">There is no one solution here, yet many people would benefit from having a VA. Executives, freelancers, entrepreneurs, C-level executives, social media managers, and others are all welcome. Everyone who has a lot of social media chores on their plate and wants to make sure they get more done during the day would benefit from the experience.
-                           But we don't want you to believe that you are constrained by these definitions. The reality is that anyone who may profit from having more time in their working days as a result of being able to outsource some of their work to a social media virtual assistant will quickly recognize the benefit.</p>
+                        <p class="text">There is no one solution here, yet many people would benefit from having a VA.
+                            Executives, freelancers, entrepreneurs, C-level executives, social media managers, and
+                            others are all welcome. Everyone who has a lot of social media chores on their plate and
+                            wants to make sure they get more done during the day would benefit from the experience.
+                            But we don't want you to believe that you are constrained by these definitions. The reality
+                            is that anyone who may profit from having more time in their working days as a result of
+                            being able to outsource some of their work to a social media virtual assistant will quickly
+                            recognize the benefit.</p>
                     </div>
                 </details>
             </div>
@@ -855,7 +897,7 @@ include_once '../../init.php';
     include_once footer;
     ?>
 
-      <!-- scripts -->
+    <!-- scripts -->
     <!-- -------------------------- -->
     <?php include_once script_new;?>
 </body>

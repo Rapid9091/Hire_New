@@ -190,7 +190,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/white_papers.png" alt="hire ebook and brochure writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="ebook&brochur">
                                 <h5>Ebook & Brochure</h5>
                             </a>
                         </div>
@@ -212,7 +212,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/speeches.png" alt="hire speeches writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>speeches-&-reviews">
                                 <h5>Speeches & Reviews</h5>
                             </a>
                         </div>
@@ -230,7 +230,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/travel.png" alt="hire travel & lifestyle writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>travel-&-lifestyle">
                                 <h5>Travel & Lifestyle</h5>
                             </a>
                         </div>
