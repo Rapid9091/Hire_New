@@ -76,7 +76,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-          It Outsourcing
+          It Outsourcing    <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -269,7 +269,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Ecommerce Solutions
+        Ecommerce Solutions   <span>▼</span>
         </div>
         <div class="list_data">
         $3 onwards
@@ -445,7 +445,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-         Digital Marketing Services
+         Digital Marketing Services   <span>▼</span>
         </div>
         <div class="list_data">
         $3 onwards
@@ -672,7 +672,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-         Digital Production Services
+         Digital Production Services   <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -780,7 +780,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-         Movies Production Services
+         Movies Production Services  <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -888,7 +888,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Hire Dedicated Designer
+        Hire Dedicated Designer  <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -1081,7 +1081,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Dedicated Content Writer
+        Dedicated Content Writer  <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -1359,7 +1359,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Engineers and Architects
+        Engineers and Architects  <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -1535,7 +1535,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Mobile Developers
+        Mobile Developers   <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -1762,7 +1762,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Finance & Accounts Experts 
+        Finance & Accounts Experts  <span>▼</span>
         </div>
         <div class="list_data">
         $10 onwards
@@ -1887,7 +1887,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-         Medical Process Outsourcing  
+         Medical Process Outsourcing    <span>▼</span>
         </div>
         <div class="list_data">
         $10 onwards
@@ -2114,7 +2114,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Legal Process Outsourcing 
+        Legal Process Outsourcing  <span>▼</span>
         </div>
         <div class="list_data">
         $10 onwards
@@ -2290,7 +2290,7 @@ include_once "../init.php";
     <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-        Hire Virtual Assistant (VA) 
+        Hire Virtual Assistant (VA)   <span>▼</span>
         </div>
         <div class="list_data">
         $5 onwards
@@ -2466,7 +2466,7 @@ include_once "../init.php";
      <div class="accordion">
       <div class="list_row">
         <div class="list_data">
-         Outsource To India 
+         Outsource To India <span>▼</span>
         </div>
         <div class="list_data">
         

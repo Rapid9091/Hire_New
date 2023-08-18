@@ -121,7 +121,7 @@ include_once '../../init.php';
                     <ion-icon name="aperture-outline"></ion-icon>
                 </div>
                 <div class="service-dtl">
-                    <!-- <h3><a href="<?= home_path() ?>hire-photoshop-experts">Photoshop Expert</a></h3> -->
+                    <h3><a href="<?= home_path() ?>hire-photoshop-experts">Photoshop Expert</a></h3>
                     <p>A skilled user of Adobe Photoshop, capable of creating and editing digital images for various purposes.</p>
                 </div>
             </div>
@@ -176,7 +176,7 @@ include_once '../../init.php';
                     <!-- <i class='bx bx-id-card'></i> -->
                 </div>
                 <div class="service-dtl">
-                    <h3><a href="">Mobile App Design</a></h3>
+                    <h3><a href="<?= home_path() ?>#">Mobile App Design</a></h3>
                     <!-- <p>A business card is a small card with contact information for a person or business.</p> -->
                 </div>
             </div>
