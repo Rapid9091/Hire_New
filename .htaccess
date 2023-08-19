@@ -92,17 +92,21 @@ ReWriteRule ^virtual-assistant([/]?)$ pages/virtual-assistant/_index.php [NC,L]
 ReWriteRule ^outsource-to-india([/]?)$ pages/outsource_india/_index.php [NC,L]
 
 ReWriteRule ^hire-content-writer([/]?)$ pages/content-writer/_index.php [NC,L]
+
+ReWriteRule ^academic-&-curriculum-courses([/]?)$ pages/content-writer/academic-&-curriculum.php [NC,L]
 ReWriteRule ^article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L]
 #ReWriteRule ^hire-article-writer([/]?)$ pages/content-writer/article-writer.php [NC,L]
 ReWriteRule ^book-writing-services([/]?)$ pages/content-writer/book-writing-services.php [NC,L]
 ReWriteRule ^ebook&brochur([/]?)$ pages/content-writer/ebook&brochur.php [NC,L]
 ReWriteRule ^landing&sales([/]?)$ pages/content-writer/landing&sales.php [NC,L]
 ReWriteRule ^movie-script-services([/]?)$ pages/content-writer/movie-script-services.php [NC,L]
+ReWriteRule ^press-release-&-newsletters([/]?)$ pages/content-writer/press-release-&-newsletters.php [NC,L]
 ReWriteRule ^technical-medical([/]?)$ pages/content-writer/technical-medical.php [NC,L]
 ReWriteRule ^website-&-seo-content([/]?)$ pages/content-writer/website-&-seo-content.php [NC,L]
 ReWriteRule ^social-media-content([/]?)$ pages/content-writer/social-media-content.php [NC,L]
 ReWriteRule ^speeches-&-reviews([/]?)$ pages/content-writer/speeches-&-reviews.php [NC,L]
 ReWriteRule ^travel-&-lifestyle([/]?)$ pages/content-writer/travel-&-lifestyle.php [NC,L]
+ReWriteRule ^whitepaper-in-marketing([/]?)$ pages/content-writer/whitepaper-in-marketing.php [NC,L]
 
 
 

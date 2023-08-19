@@ -248,7 +248,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/white_papers.png" alt="hire white paper writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>whitepaper-in-marketing">
                                 <h5>White Papers</h5>
                             </a>
                         </div>
@@ -266,7 +266,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/newsletter.png" alt="hire press release newsletter writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>press-release-&-newsletters">
                                 <h5>Press Release & Newsletters</h5>
                             </a>
                         </div>
@@ -284,7 +284,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/academic.png" alt="hire academic & curriculam course writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>academic-&-curriculum">
                                 <h5>Academic & Curriculum Courses</h5>
                             </a>
                         </div>
