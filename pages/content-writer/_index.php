@@ -321,7 +321,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/product.png" alt="hire product and services description writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>product-&-services-descriptions">
                                 <h5>Product & Services Descriptions</h5>
                             </a>
                         </div>
@@ -339,7 +339,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/proofreading.png" alt="hire editin and proofreading writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>editing-&-proofreading">
                                 <h5>Editing & Proofreading</h5>
                             </a>
                         </div>
@@ -375,7 +375,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/legal.png" alt="hire legal content writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>legal-content">
                                 <h5>Legal Content</h5>
                             </a>
                         </div>
