@@ -45,7 +45,7 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-choose-us.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
-
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
 
     <style>
         .landing-section-services {
@@ -94,7 +94,68 @@ include_once '../../init.php';
             <?php include_once landing_form; ?>
         </div>
     </div>
+<!-- -------------------------- -->
+    <!-- Why to IT Outsourcing -->
+    <!-- -------------------------- -->
+    <section class="hiring_step1" style="padding-top:5%;">
 
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For Ecommerce Solutions</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>Without regard to market or professional boundaries, you may manage any administrative task requiring the use of a terminal and/or a phone with Easy Communication outsourcing</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24-hours-support</p>
+                <p>If you are pleased with the results, immediately hire them and get to work.</p>
+            </div>
+        </div>
+        
+    </div>
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
     
     <!-- -------------------------- -->
     <!-- Services in IT Outsourcing -->
@@ -239,7 +300,7 @@ include_once '../../init.php';
     </section>
 
 
-     <!-- expert section start -->
+     <!-- expert section start
      <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST CONTENT WRITER</h3>
@@ -342,7 +403,7 @@ include_once '../../init.php';
                 <button class="btn hire-btn">Hire Me</button>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- -------------------------- -->
     <!-- Roadmap Start From here  -->

@@ -86,7 +86,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/autocadd.png" alt="Outsource autocadd engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>autocad">
                                 <h5>AUTOCADD</h5>
                             </a>
                         </div>
@@ -103,7 +103,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/mechanical.png" alt="Outsource mechanical engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>mep-engineering">
                                 <h5>MECHANICAL ENGINEERING</h5>
                             </a>
                         </div>

@@ -392,7 +392,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/cv_resume.png" alt="hire cv and cover letter writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>cv-&-cover-letter">
                                 <h5>CVs & Cover Letter</h5>
                             </a>
                         </div>
@@ -409,7 +409,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/fiction.png" alt="hire fiction writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>fiction">
                                 <h5>Fiction</h5>
                             </a>
                         </div>

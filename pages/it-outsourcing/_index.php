@@ -44,6 +44,11 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_testimonial-slider.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-choose-us.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    
+    
+
 
     <style>
         .landing-section-services {
@@ -96,80 +101,65 @@ include_once '../../init.php';
     <!-- -------------------------- -->
     <!-- Why to IT Outsourcing -->
     <!-- -------------------------- -->
-    <section class="why-outsourcing padding">
-        <h2 class="section-heading"></h2>
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out">WHY US</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out">Why Choose HireCoworker For IT Outsource</h3>
+      <section class="hiring_step1" style="padding-top:5%;">
 
-        <div class="why-outsourcing-img grid-center">
-            <ul>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Team size flexibility: </b>
-                    Customer service at Hire Coworker goes above and beyond using the best, most cutting-edge, tested producIn order to be the digital outsource partner for productivity, a team of seasoned sales and digital milling professionals helps laboratoriThe goal of this has been and will remain to help laboratories expand their businesses.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Increased speed to market: </b>
-                    Market adaptation - The aforementioned flexibility also refers to the ability to adjust to ongoing market developments and new client needs. Long-term goals demand a trustworthy team and some flexibility in the approach because the end product's concept may change.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Avoid interruptions in workflow: </b>
-                    There are a number of key departments in multinational corporations that require ongoing attention. It becomes challenging to set aside time to oversee the operations of support departments like payroll and taxes during this period. When this occurs, businesses choose to outsource the majority of these departments' tasks to those who have the requisite expertise rather than managing everything themselves. By streamlining the process, efficiency is ultimately improved.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Prevent in-house team overload: </b>
-                    If your internal staff members are overburdened, you should think about outsourcing. Not in order to increase profit margins by replacing your personnel with an offshore crew. It's about distributing the burden and improving the working environment for your internal hires.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Reduce hiring and vetting hassleless: </b>
-                    When there is an overflow in clients, it may become necessary to expand the scope of the project. Your team may not be able to complete highly specialized duties if they are lacking a certain skill set.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Well Experience:</b>
-                    We have more than 9+ years experience in the Outsourcing IT field. We have experienced and professional agents for your work.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Affordable price:</b>
-                    We provide an affordable price (less than $5 per hour) for outsourcing IT service. 
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Easy communication:</b>
-                    Without regard to market or professional boundaries, you may manage any administrative task requiring the use of a terminal and/or a phone with Easy Communication outsourcing.
-                </li>
-            </ul>
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
         </div>
-        <div class="why-outsourcing-grid grid">
-            <div class="why-outsourcing-grid-left flex-center-center">
-                <img loading="lazy" src="<?= get_img() ?>user.jpg" alt="User review">
-                <h3>John Larens</h3>
-                <p>When I found HireCoworker, their support was invaluable in getting my buisness on track and getting the most benefit from my buissness at lowest costs. </p>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
             </div>
-            <div class="why-outsourcing-grid-right">
-                <h3 class="sub-heading">Let Us help you</h3>
-                <p>Our expertise lies in attending to the little things, streamlining procedures, and increasing effectiveness. We enjoy interacting and working together with our clients in a way that fosters our mutual development and enables us to jointly accomplish significant objectives. We just want to assist you in moving your business in the direction you desire.</p>
-                <ul class="why-choose-ul">
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We have served more than 1000 clients</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We have 9+ years of experience </li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We offer service at less $5 per hour</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> 100% money-back guarantee</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> Serving in more than 30 fields</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We provide complete Data security</li>
-                </ul>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
             </div>
         </div>
-    </section>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
 
     <!-- -------------------------- -->
     <!-- Services in IT Outsourcing -->
@@ -577,60 +567,6 @@ include_once '../../init.php';
     </section>
 
     <!-- -------------------------- -->
-    <!-- faq section -->
-    <!-- -------------------------- -->
-    <section class="faq-section">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FAQ'S</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">IT Outsourcing FAQ's</h3>
-        <div class="faqs">
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. Is there any data security available ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            Yes, there is data security available at Hire Co-Worker. Don't worry, your data will be fully safe and secure with Hire Coworker. </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. Where do I get the best VA IT outsourcing ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            At HireCoworker, you will get reliable and professional agents for your next outsourcing IT project with the price less than $5 per hour.  </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. How much is the price for IT Outsourcing ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            We provide Less than $5 per hour for outsourcing IT projects. The main reason why most organizations choose to outsource their IT requirements is to save expenses (true, check the comparison costs below), but there are a lot of additional advantages as well.</p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. How do I benefit by outsourcing IT services to you ?</summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            At Hire Coworker, We provide you Cost saving and 24*7 IT support team to help mitigate IT disasters and keep your business running smoothly. </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q: How are you different from other Virtual Assistant companies? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            We offer money back guarantee, lowest price in market, best and most IT qualified agents for your outsourcing IT project. </p>
-                    </div>
-                </details>
-            </div>
-        </div>
-
-    </section>
 
     <!-- -------------------------- -->
     <!-- Working section  -->
@@ -737,7 +673,63 @@ include_once '../../init.php';
     $test_role4 = "IT Manager";
     $user_img4 = "hire-developer/dev-test-04.jpeg";
 
+    
+
     include_once testimonial_slider; ?>
+    <!-- faq section -->
+    <!-- -------------------------- -->
+    <section class="faq-section">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FAQ'S</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">IT Outsourcing FAQ's</h3>
+        <div class="faqs">
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. Is there any data security available ? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            Yes, there is data security available at Hire Co-Worker. Don't worry, your data will be fully safe and secure with Hire Coworker. </p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. Where do I get the best VA IT outsourcing ? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            At HireCoworker, you will get reliable and professional agents for your next outsourcing IT project with the price less than $5 per hour.  </p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. How much is the price for IT Outsourcing ? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            We provide Less than $5 per hour for outsourcing IT projects. The main reason why most organizations choose to outsource their IT requirements is to save expenses (true, check the comparison costs below), but there are a lot of additional advantages as well.</p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. How do I benefit by outsourcing IT services to you ?</summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            At Hire Coworker, We provide you Cost saving and 24*7 IT support team to help mitigate IT disasters and keep your business running smoothly. </p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q: How are you different from other Virtual Assistant companies? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            We offer money back guarantee, lowest price in market, best and most IT qualified agents for your outsourcing IT project. </p>
+                    </div>
+                </details>
+            </div>
+        </div>
+
+    </section>
 
     <!-- -------------------------- -->
     <!-- Blog section page -->
