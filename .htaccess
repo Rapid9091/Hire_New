@@ -91,7 +91,9 @@ ReWriteRule ^windows-application-development([/]?)$ pages/mobile-apps-developers
 
 ReWriteRule ^hire-engineers-architects([/]?)$ pages/engineers-architecture/_index.php [NC,L]
 ReWriteRule ^autocad([/]?)$ pages/engineers-architecture/autocad.php [NC,L]
+ReWriteRule ^civil-engineering([/]?)$ pages/engineers-architecture/civil-engineering.php [NC,L]
 ReWriteRule ^mep-engineering([/]?)$ pages/engineers-architecture/mep-engineering.php [NC,L]
+ReWriteRule ^mechanical-engineering([/]?)$ pages/engineers-architecture/mechanical-engineering.php [NC,L]
 
 
 

@@ -180,3 +180,8 @@
 section.section-roadmap {
   background-color: var(--primary-lighter-color);
 }
+.box .content{
+  background-color:white;
+  padding:0;
+  margin:0;
+}

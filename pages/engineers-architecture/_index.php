@@ -26,6 +26,10 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_hiring-step.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-coworker.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
 
 
     <style>
@@ -70,7 +74,68 @@ include_once '../../init.php';
         </div>
     </div>
 
+ <!-- -------------------------- -->
+    <!-- Why to IT Outsourcing -->
+    <!-- -------------------------- -->
+    <section class="hiring_step1" style="padding-top:5%;">
 
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
 
     <!-- services start -->
     <section class="full-section" id="full-section">
@@ -103,7 +168,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/mechanical.png" alt="Outsource mechanical engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>mep-engineering">
+                            <a href="<?=home_path() ?>mechanical-engineering">
                                 <h5>MECHANICAL ENGINEERING</h5>
                             </a>
                         </div>
@@ -121,7 +186,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/mep.png" alt="Outsource Mep engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>mep-engineering">
                                 <h5>MEP ENGINEERING</h5>
                             </a>
                         </div>
@@ -138,7 +203,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/civil.png" alt="Outsource civil engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>civil-engineering">
                                 <h5>CIVIL ENGINEERING</h5>
                             </a>
                         </div>
@@ -238,7 +303,329 @@ include_once '../../init.php';
     </section>
     <!-- services end -->
 
+ <!-- -------------------------- -->
+    <!-- Roadmap Start From here  -->
+    <!-- -------------------------- -->
+    <section class="section-roadmap dm-services-roadmap">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">APPROACH</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR WAY TO WORK FOR YOU</h3>
 
+        <ul class="roadmap">
+            <li>
+                <div class="roadmap-item">
+                    <h2>RESEARCH</h2>
+                    <p>
+                        We research about the project and study the competitor website. In order to fully capitalize on their competitive advantages, businesses might outsource research in order to concentrate on their core competencies while contracting out non-core tasks that specialty businesses can perform better.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>PROTOTYPE</h2>
+                    <p>
+                        We Ready project layout & client approved it. Hire CoWorker teams can concentrate on designing and testing new products while the prototype development team handles the production side of things by outsourcing the prototyping process. This enables more effective resource management and quicker development cycles for new goods.
+                    </p>
+                </div>
+            </li>
+            <li>
+
+                <div class="roadmap-item">
+                    <h2>DEVELOPEMENT</h2>
+                    <p>
+                        After the client's approval of the prototype, we design the project in phases and get approved. Outsourcing software development entails transferring all or a portion of the project's control to a third-party vendor while yet maintaining the desired level of control. This procedure greatly lowers development expenses for businesses and helps them get around a lack of internal IT personnel.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>TEST/ LAUNCH</h2>
+                    <p>
+                        After getting final approval from the client we launch the project. When it comes to quality testing software & apps, outsourced software testing is a tremendous help.
+                    </p>
+                </div>
+            </li>
+            <div class="v-line"></div>
+        </ul>
+
+    </section>
+
+    <!-- -------------------------- -->
+
+
+
+
+
+
+<!-- -------------------------- -->
+   <!-- Industris we Cover start -->
+    <!-- -------------------------- -->
+    <section class="industries-section section-padding">
+        <div class="container">
+            <div class="section_title">
+                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
+                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Industries We Cover</h3>
+                <h2 class="section-heading"></h2>
+                <!-- <p class="text">
+
+                    We have Web & Mobile App Development Services for Every Industry
+                </p> -->
+            </div>
+            <div class="row">
+                <div class="col-3 ">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="business-sharp"></ion-icon>
+                            </div>
+                            <h4>Real Estate <br />Property</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing services in the field of Real Estate.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="cart-sharp"></ion-icon>
+                            </div>
+                            <h4>
+                                Ecommerce<br />
+                                Retail & B2B
+                            </h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We are providing services in the field of Ecommerce Retail & B2B.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="fast-food-sharp"></ion-icon>
+                            </div>
+                            <h4>Food & <br />Restaurant</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Hotel & Restaurant industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="trail-sign-sharp"></ion-icon>
+                            </div>
+                            <h4>Tour & <br />Travel</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We have a nice client base in Tour & Travel industries
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="heart-sharp"></ion-icon>
+                            </div>
+                            <h4>Healthcare and <br />diagnosis</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Great experience in the Healthcare industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="wallet-sharp"></ion-icon>
+                            </div>
+                            <h4>Banking, Finance <br />& Insurance</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing mobile and web app services in Banking, Finance &
+                                Insurance
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>Blockchain</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered the blockchain field with our web designing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="car-sharp"></ion-icon>
+                            </div>
+                            <h4>Automotive</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered Automotive field with our mobile app services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="tv-sharp"></ion-icon>
+                            </div>
+                            <h4>Entertainment</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered Entertainment industries with our web designing
+                                services
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>News</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered all news industries with our digital marketing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="pencil-sharp"></ion-icon>
+                            </div>
+                            <h4>Legal</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Legal field with our services.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="home-sharp"></ion-icon>
+                            </div>
+                            <h4>Home Services</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Providing web designing & mobile app for Home Services field.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<!-- -------------------------- -->
+    <!-- Working section  -->
+    <!-- -------------------------- -->
+    <section class="working" id="how_we_work">
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
+
+        <!-- Contact US -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Contact Us</h2>
+                <p>
+                    Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+
+        <!-- Get Started -->
+        <div class="working-container grid grid-2">
+            <div class="working-content">
+                <h2 class="sub-heading">Get Started</h2>
+                <p>
+                    Your work is almost done at the first step itself now you just need to relax. Now your buisness is ours we'll take care of everything it need. </p>
+                <button class="basic-button">Know More</button>
+            </div>
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
+            </div>
+        </div>
+
+        <!-- Provide Feedback -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>feedback.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Provide Feedback</h2>
+                <p>
+                    Once your work is done from our side now you just need to provide your valuable feedback to us. So that next time we can provide you more good service and can grow your buissness 10 times more.
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- -------------------------- -->
 
     <!-- why choose section start here -->
 
@@ -269,7 +656,7 @@ include_once '../../init.php';
 
 
     <!-- serviec type start -->
-    <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
+    <!-- <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">REASONS OF HIRE ENGINEERS & Architects FROM COWORKER</h3>
         <div class="why_about">
@@ -340,12 +727,12 @@ include_once '../../init.php';
 
 
     </section>
-    <!-- serviec type end -->
+    serviec type end -->
 
 
 
     <!-- roadmap start -->
-    <section class="roadmap-2">
+    <!-- <section class="roadmap-2">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">TIMELINE</p>
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">ENGINEERING & ARCHITECTURAL PROCESS</h3>
         <div class="timeline">
@@ -383,7 +770,7 @@ include_once '../../init.php';
             </div>
 
         </div>
-    </section>
+    </section> -->
     <!-- roadmap end -->
 
     <!-- expert section start -->
@@ -499,7 +886,7 @@ include_once '../../init.php';
     <!-- expert section end -->
 
     <!-- hiring-step start -->
-    <section class="hiring_step">
+    <!-- <section class="hiring_step">
 
         <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
             <div class="hiring_step_order-1">
@@ -553,12 +940,12 @@ include_once '../../init.php';
 
 
 
-    </section>
+    </section> -->
     <!-- hiring-step end -->
 
 
     <!-- why remote start -->
-    <section class="why-remote">
+    <!-- <section class="why-remote">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY HIRE VIRTUAL STAFF</p>
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Remote work benifits for employers</h3>
         <div class="benifit_grid">
@@ -587,7 +974,7 @@ include_once '../../init.php';
                 </div>
 
                 <!-- <p class="text-center">Increased Productivity</p> -->
-            </div>
+            <!-- </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
                 <div class="benifit ben-3">
                     <div class="ben_icon">
@@ -597,10 +984,10 @@ include_once '../../init.php';
                         03
                     </div>
                     <p class="text-center">Reduced <br> Cost</p>
-                </div>
+                </div> -->
 
                 <!-- <p class="text-center">Lower Cost</p> -->
-            </div>
+            <!-- </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
                 <div class="benifit ben-4">
                     <div class="ben_icon">
@@ -615,14 +1002,14 @@ include_once '../../init.php';
                 <!-- <p class="text-center">24x7 Support</p> -->
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- benfit section end -->
 
     <!-- pricing start-->
 
     <?php
-    $post_name = "Engineers & Architects";
-    include_once pricing; ?>
+   # $post_name = "Engineers & Architects";
+    #include_once pricing; ?>
 
     <!-- pricing end -->
 

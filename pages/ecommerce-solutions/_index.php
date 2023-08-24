@@ -668,61 +668,7 @@ include_once '../../init.php';
         </div>
     </section>
 
-    <!-- -------------------------- -->
-    <!-- faq section -->
-    <!-- -------------------------- -->
-    <section class="faq-section">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FAQ'S</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">IT Outsourcing FAQ's</h3>
-        <div class="faqs">
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. Is there any data security available ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            Yes, there is data security available at Hire Co-Worker. Don't worry, your data will be fully safe and secure with Hire Coworker. </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. Where do I get the best VA IT outsourcing ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            At HireCoworker, you will get reliable and professional agents for your next outsourcing IT project with the price less than $5 per hour.  </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. How much is the price for IT Outsourcing ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            We provide Less than $5 per hour for outsourcing IT projects. The main reason why most organizations choose to outsource their IT requirements is to save expenses (true, check the comparison costs below), but there are a lot of additional advantages as well.</p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. How do I benefit by outsourcing IT services to you ?</summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            At Hire Coworker, We provide you Cost saving and 24*7 IT support team to help mitigate IT disasters and keep your business running smoothly. </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q: How are you different from other Virtual Assistant companies? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            We offer money back guarantee, lowest price in market, best and most IT qualified agents for your outsourcing IT project. </p>
-                    </div>
-                </details>
-            </div>
-        </div>
-
-    </section>
+    
 
     <!-- -------------------------- -->
     <!-- Working section  -->
@@ -801,6 +747,124 @@ include_once '../../init.php';
             </div>
         </div>
     </section>
+     <!-- expert section start -->
+     <section class="experts-section">
+        <p class="p-pink">EXPERTS</p>
+        <h3 class="section-heading ">HIRE OUR BEST DEVELOPERS</h3>
+        <div class="expert-grid">
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>hire-developer/dev-expert-01.jpeg" class="expert-image" alt="Hire Java Developer" loading="lazy">
+                </div>
+                <div class="expert-profile text-center">
+                    <h2>Robel M.</h2>
+                    <P class="light-grey">Sr. Java Developer/Team Lead</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.3/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years' experience in the banking, fintech, enterprise, etc.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>Java</p>
+                    </div>
+                    <div class="skill">
+                        <p>Spring</p>
+                    </div>
+                    <div class="skill">
+                        <p>MySQL</p>
+                    </div>
+                    <div class="skill">
+                        <p>Hibernate</p>
+                    </div>
+                    <div class="skill">
+                        <p>REST API</p>
+                    </div>
+                    <div class="skill">
+                        <p>Oracle</p>
+                    </div>
+                    <div class="skill">
+                        <p>4+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>hire-developer/dev-expert-02.jpeg" class="expert-image" alt="Hire DevOps Engineer" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">Tim M.</h2>
+                    <P class="light-grey">DevOps Engineer</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.7/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">Senior DevOps Engineer with 10+ years of experience working on projects that were mission-critical.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>Team City</p>
+                    </div>
+                    <div class="skill">
+                        <p>Docker</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>Kubernetes</p>
+                    </div>
+                    <div class="skill">
+                        <p>Terraform</p>
+                    </div>
+                    <div class="skill">
+                        <p>AWS</p>
+                    </div>
+                    <div class="skill">
+                        <p>5+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>hire-developer/dev-expert-03.jpeg" class="expert-image" alt="Hire sr. front end developer" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">Akashdeep N.</h2>
+                    <P class="light-grey">Sr. Front-End Developer</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.5/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">Front-End engineer at the senior level with nearly 6 years of diverse software development expertise.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>Tizen OS</p>
+                    </div>
+                    <div class="skill">
+                        <p>JavaScript</p>
+                    </div>
+                    <div class="skill">
+                        <p>React.js</p>
+                    </div>
+                    <div class="skill">
+                        <p>AWS</p>
+                    </div>
+                    <div class="skill">
+                        <p>TypeScript</p>
+                    </div>
+                    <div class="skill">
+                        <p>3+</p>
+                    </div>
+
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+        </div>
+    </section>
+    <!-- expert section end -->
 
     <!-- -------------------------- -->
     <!-- Reviews with the user -->
@@ -828,6 +892,62 @@ $test_name4 = "Robert. S";
 $test_role4 = "IT Manager"; 
 
 include_once testimonial_slider; ?>
+
+ <!-- -------------------------- -->
+    <!-- faq section -->
+    <!-- -------------------------- -->
+    <section class="faq-section">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FAQ'S</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">IT Outsourcing FAQ's</h3>
+        <div class="faqs">
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. Is there any data security available ? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            Yes, there is data security available at Hire Co-Worker. Don't worry, your data will be fully safe and secure with Hire Coworker. </p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. Where do I get the best VA IT outsourcing ? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            At HireCoworker, you will get reliable and professional agents for your next outsourcing IT project with the price less than $5 per hour.  </p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. How much is the price for IT Outsourcing ? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            We provide Less than $5 per hour for outsourcing IT projects. The main reason why most organizations choose to outsource their IT requirements is to save expenses (true, check the comparison costs below), but there are a lot of additional advantages as well.</p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q. How do I benefit by outsourcing IT services to you ?</summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            At Hire Coworker, We provide you Cost saving and 24*7 IT support team to help mitigate IT disasters and keep your business running smoothly. </p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Q: How are you different from other Virtual Assistant companies? </summary>
+                    <div class="faq__content">
+                        <p class="text">
+                            We offer money back guarantee, lowest price in market, best and most IT qualified agents for your outsourcing IT project. </p>
+                    </div>
+                </details>
+            </div>
+        </div>
+
+    </section>
 
 
     <!-- -------------------------- -->

@@ -436,36 +436,11 @@ include_once '../../init.php';
     <!-- expert section end -->
 
 
-    <!-- testimonial slider section start here -->
-    <?php
-
-    $testimonial1 = "With the help of SEO and PPC, Hirecoworker's was able to boost online leads by more than +260% and boost overall traffic to the new  website by +364%.";
-    $test_name1 = "Jeffrey Reyes";
-    $test_role1 = "Regional Director";
-
-
-    $testimonial2 = "These men are amazing. They have assisted us in expanding our firm, and now the biggest issue we are experiencing is having too much business, which is the ideal situation.";
-    $test_name2 = "Aaron. G";
-    $test_role2 = "Founder & CEO";
-
-
-
-    $testimonial3 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred";
-    $test_name3 = "Marcio. M";
-    $test_role3 = "Managing Partner";
-
-
-    $testimonial4 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred.";
-    $test_name4 = "Robert. S";
-    $test_role4 = "IT Manager";
-
-
-    include_once testimonial_slider; ?>
-    <!-- testimonia; slider section end here -->
+   
 
 
     <!-- -------------------------- -->
-    <!-- why choose section start here -->
+    <!-- why choose section start here
     <section class="why-choose-section">
         <div class="grid grid-2 width-100 why-choose-section-container">
             <div class="why-choose-section-content">
@@ -488,16 +463,16 @@ include_once '../../init.php';
                 <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why Hirecoworker">
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- why choose section end here -->
 
     <!-- pricing start-->
     <!-- pricing start-->
-    <section class="pricing">
+    <!-- <section class="pricing">
         <?php
-        $post_name = 'Digital Marketer';
-        include_once pricing; ?>
-    </section>
+        #$post_name = 'Digital Marketer';
+        #include_once pricing; ?>
+    </section> -->
     <!-- pricing end -->
 
 
@@ -516,7 +491,7 @@ include_once '../../init.php';
                 <p class="p-pink">
                     Industries We Cover
                 </p>
-                <h2 class="section-heading">We have Web & Mobile App Development Services</h2>
+                <h2 class="section-heading">INDUSTRIES WE COVER</h2>
             </div>
             <div class="row">
                 <div class="col-3 ">
@@ -722,7 +697,96 @@ include_once '../../init.php';
     </section>
     <!-- Industris we Cover end -->
 
+     <!-- -------------------------- -->
 
+    <!-- -------------------------- -->
+    <!-- Working section  -->
+    <!-- -------------------------- -->
+    <section class="working" id="how_we_work">
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
+
+        <!-- Contact US -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Contact Us</h2>
+                <p>
+                    Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+
+        <!-- Get Started -->
+        <div class="working-container grid grid-2">
+            <div class="working-content">
+                <h2 class="sub-heading">Get Started</h2>
+                <p>
+                    Your work is almost done at the first step itself now you just need to relax. Now your buisness is ours we'll take care of everything it need. </p>
+                <button class="basic-button">Know More</button>
+            </div>
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
+            </div>
+        </div>
+<!-- -------------------------- -->
+    <!-- why choose section start here -->
+    <!-- -------------------------- -->
+    <section class="why-choose-section">
+        <div class="grid grid-2 width-100 why-choose-section-container">
+            <div class="why-choose-section-content">
+                <p>Solve Your Business Issues With Outsourcing IT </p>
+                <h4 class="section-heading">Why Hire <span>Co-Woker</span> ?</h4>
+                <p>The advantages of outsourcing can help you achieve your objectives, whether they be to lower operational expenses, boost corporate productivity and efficiency, or ease the process of growing. </p>
+                <ul class="why-choose-ul">
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 100% money-back guarantee. </li>
+
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Least price in the market. </li>
+
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> We offer Best and most IT-qualified person</li>
+
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Serving in more than 10 fields</li>
+
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> We provide Data security</li>
+                </ul>
+            </div>
+            <div class="why-choose-section-img grid-center">
+                <img loading="lazy" src="<?= get_img() ?>Business decisions-broo.png" alt="Hire virtual assistant">
+            </div>
+        </div>
+    </section>
+
+ <!-- testimonial slider section start here -->
+ <?php
+
+$testimonial1 = "With the help of SEO and PPC, Hirecoworker's was able to boost online leads by more than +260% and boost overall traffic to the new  website by +364%.";
+$test_name1 = "Jeffrey Reyes";
+$test_role1 = "Regional Director";
+
+
+$testimonial2 = "These men are amazing. They have assisted us in expanding our firm, and now the biggest issue we are experiencing is having too much business, which is the ideal situation.";
+$test_name2 = "Aaron. G";
+$test_role2 = "Founder & CEO";
+
+
+
+$testimonial3 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred";
+$test_name3 = "Marcio. M";
+$test_role3 = "Managing Partner";
+
+
+$testimonial4 = "Hirecoworker is a much-needed blessing that has far surpassed our expectations. They are trustworthy, up front, and quick to attend to all of your demands. You can rely on them, and most importantly, they deliver on their promises with no holds barred.";
+$test_name4 = "Robert. S";
+$test_role4 = "IT Manager";
+
+
+include_once testimonial_slider; ?>
+<!-- testimonia; slider section end here -->
     <!-- faq section -->
     <section class="faq-section">
         <p class="p-pink">
