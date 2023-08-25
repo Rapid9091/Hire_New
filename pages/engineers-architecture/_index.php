@@ -131,7 +131,7 @@ include_once '../../init.php';
             </div>
         </div>
         
-    </div>
+    </div>`
     <!-- <button class="btn hire-btn">Get Qoute</button>
 </div> -->
 
@@ -220,7 +220,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/electronic.png" alt="Outsource electronic engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>electronics-engineering">
                                 <h5>ELECTRONIC ENGINEERING</h5>
                             </a>
                         </div>
@@ -237,7 +237,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/electrical.png" alt="Outsource electrical engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>electrical-engineering">
                                 <h5>ELECTRICAL ENGINEERING</h5>
                             </a>
                         </div>
