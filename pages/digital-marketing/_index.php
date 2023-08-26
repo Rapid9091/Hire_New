@@ -46,7 +46,7 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_remote-benifit.css">
     <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_pricing.css">
-
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
     <style>
         .landing-section-services {
             background-image: url("<?= get_img() ?>digital-marketing-bg.png");
@@ -81,7 +81,67 @@ include_once '../../init.php';
     </div>
 
 
+<!-- Why to IT Outsourcing -->
+    <!-- -------------------------- -->
+    <section class="hiring_step1" style="padding-top:5%;">
 
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>`
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
     <section class="services-types">
         <p class="p-pink">SERVICES WE OFFERING</p>
         <h3 class="section-heading">Our Digital Marketing Services</h3>
@@ -281,7 +341,7 @@ include_once '../../init.php';
 
     <!-- Roadmap End From here  -->
     <!-- number section start -->
-    <section class="number_section">
+    <!-- <section class="number_section">
         <p class="p-pink">HIRE COWORKER</p>
         <h3 class="section-heading">The Numbers Do the Talking</h3>
         <div class="grid grid-4">
@@ -314,127 +374,11 @@ include_once '../../init.php';
                 <p class="text-center">Tools We Mastered</p>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- number section end -->
 
 
-    <!-- expert section start -->
-    <section class="experts-section">
-        <p class="p-pink">EXPERTS</p>
-        <h3 class="section-heading ">HIRE OUR BEST Digital Marketing Expert</h3>
-        <div class="expert-grid">
-            <div class="expert-item">
-                <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
-                </div>
-                <div class="expert-profile text-center">
-                    <h2>Edward C.</h2>
-                    <p class="light-grey">Digital Marketer</p>
-                    <div class="expert-rating text-center">
-                        <i class='bx bxs-star'></i>
-                        <span class="rating_number light-grey">4.3/5</span>
-                    </div>
-                </div>
-                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
-                <div class="expert-skill">
-                    <div class="skill">
-                        <p>Linkedin</p>
-                    </div>
-                    <div class="skill">
-                        <p>B2B</p>
-                    </div>
-                    <div class="skill">
-                        <p>Marketing Strategy</p>
-                    </div>
-                    <div class="skill">
-                        <p>Lead Generation</p>
-                    </div>
-                    <div class="skill">
-                        <p>Technical SEO</p>
-                    </div>
-
-                    <div class="skill">
-                        <p>6+</p>
-                    </div>
-                </div>
-                <button class="btn hire-btn">Hire Me</button>
-            </div>
-            <div class="expert-item">
-                <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
-                </div>
-                <div class="expert-profile">
-                    <h2 class="text-center">Syed K.</h2>
-                    <p class="light-grey">Digital Marketer</p>
-                    <div class="expert-rating text-center">
-                        <i class='bx bxs-star'></i>
-                        <span class="rating_number light-grey">4.7/5</span>
-                    </div>
-                </div>
-                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
-                <div class="expert-skill">
-                    <div class="skill">
-                        <p>Google Data Studio</p>
-                    </div>
-                    <div class="skill">
-                        <p>Web Analytics</p>
-                    </div>
-
-                    <div class="skill">
-                        <p>Google Ads</p>
-                    </div>
-                    <div class="skill">
-                        <p>eCommerce</p>
-                    </div>
-                    <div class="skill">
-                        <p>SEO Writing</p>
-                    </div>
-                    <div class="skill">
-                        <p>10+</p>
-                    </div>
-                </div>
-                <button class="btn hire-btn">Hire Me</button>
-            </div>
-            <div class="expert-item">
-                <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
-                </div>
-                <div class="expert-profile">
-                    <h2 class="text-center">Kristine S.</h2>
-                    <p class="light-grey">Digital Marketer</p>
-                    <div class="expert-rating text-center">
-                        <i class='bx bxs-star'></i>
-                        <span class="rating_number light-grey">4.5/5</span>
-                    </div>
-                </div>
-                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
-                <div class="expert-skill">
-                    <div class="skill">
-                        <p>Social Media Marketing</p>
-                    </div>
-                    <div class="skill">
-                        <p>Facebook Marketing</p>
-                    </div>
-                    <div class="skill">
-                        <p>Email Marketing</p>
-                    </div>
-                    <div class="skill">
-                        <p>WordPress</p>
-                    </div>
-                    <div class="skill">
-                        <p>Strategic Plan</p>
-                    </div>
-                    <div class="skill">
-                        <p>7+</p>
-                    </div>
-
-                </div>
-                <button class="btn hire-btn">Hire Me</button>
-            </div>
-        </div>
-    </section>
-    <!-- expert section end -->
-
+  
 
    
 
@@ -480,7 +424,7 @@ include_once '../../init.php';
 
 
     <!-- why remote section start -->
-    <?php include_once why_remote; ?>
+    <?php #include_once why_remote; ?>
     <!-- why remote section end -->
 
     <!-- Industris we Cover start -->
@@ -760,6 +704,123 @@ include_once '../../init.php';
             </div>
         </div>
     </section>
+      <!-- expert section start -->
+      <section class="experts-section">
+        <p class="p-pink">EXPERTS</p>
+        <h3 class="section-heading ">HIRE OUR BEST Digital Marketing Expert</h3>
+        <div class="expert-grid">
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>dm/dm-experts-1.jpg" class="expert-image" alt="Hire Digital Marketing Expert" loading="lazy">
+                </div>
+                <div class="expert-profile text-center">
+                    <h2>Edward C.</h2>
+                    <p class="light-grey">Digital Marketer</p>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.3/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">A accomplished IT specialist with more than 7 years experience in the banking, fintech, enterprise, etc.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>Linkedin</p>
+                    </div>
+                    <div class="skill">
+                        <p>B2B</p>
+                    </div>
+                    <div class="skill">
+                        <p>Marketing Strategy</p>
+                    </div>
+                    <div class="skill">
+                        <p>Lead Generation</p>
+                    </div>
+                    <div class="skill">
+                        <p>Technical SEO</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>6+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">Syed K.</h2>
+                    <p class="light-grey">Digital Marketer</p>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.7/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">SEO Executive with 10+ years of experience working on projects that were mission-critical.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>Google Data Studio</p>
+                    </div>
+                    <div class="skill">
+                        <p>Web Analytics</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>Google Ads</p>
+                    </div>
+                    <div class="skill">
+                        <p>eCommerce</p>
+                    </div>
+                    <div class="skill">
+                        <p>SEO Writing</p>
+                    </div>
+                    <div class="skill">
+                        <p>10+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>dm/dm-expert-3.jpg" class="expert-image" alt="Hire Lead Generation expert" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">Kristine S.</h2>
+                    <p class="light-grey">Digital Marketer</p>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.5/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">Social Media Manager at the senior level with nearly 6 years of diverse digital marketing expertise.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>Social Media Marketing</p>
+                    </div>
+                    <div class="skill">
+                        <p>Facebook Marketing</p>
+                    </div>
+                    <div class="skill">
+                        <p>Email Marketing</p>
+                    </div>
+                    <div class="skill">
+                        <p>WordPress</p>
+                    </div>
+                    <div class="skill">
+                        <p>Strategic Plan</p>
+                    </div>
+                    <div class="skill">
+                        <p>7+</p>
+                    </div>
+
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+        </div>
+    </section>
+    <!-- expert section end -->
+
 
  <!-- testimonial slider section start here -->
  <?php
