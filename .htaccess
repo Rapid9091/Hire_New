@@ -90,8 +90,10 @@ ReWriteRule ^windows-application-development([/]?)$ pages/mobile-apps-developers
 
 
 ReWriteRule ^hire-engineers-architects([/]?)$ pages/engineers-architecture/_index.php [NC,L]
+ReWriteRule ^architectural-drafting([/]?)$ pages/engineers-architecture/architectural-drafting.php [NC,L]
 ReWriteRule ^autocad([/]?)$ pages/engineers-architecture/autocad.php [NC,L]
 ReWriteRule ^civil-engineering([/]?)$ pages/engineers-architecture/civil-engineering.php [NC,L]
+ReWriteRule ^construction-drawing([/]?)$ pages/engineers-architecture/construction-drawing.php [NC,L]
 ReWriteRule ^electronics-engineering([/]?)$ pages/engineers-architecture/electronics-engineering.php [NC,L]
 ReWriteRule ^electrical-engineering([/]?)$ pages/engineers-architecture/electrical-engineering.php [NC,L]
 ReWriteRule ^mep-engineering([/]?)$ pages/engineers-architecture/mep-engineering.php [NC,L]

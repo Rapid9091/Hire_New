@@ -44,6 +44,11 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-choose-us.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
 
     <style>
         .landing-section-services {
@@ -92,83 +97,67 @@ include_once '../../init.php';
 
 
     <!-- -------------------------- -->
-    <!-- Why to IT Outsourcing -->
+   <!-- Why to IT Outsourcing -->
     <!-- -------------------------- -->
-    <section class="why-outsourcing padding">
-        <h2 class="section-heading">Why Choose HireCoworker For IT Outsource</h2>
-        <div class="why-outsourcing-img grid-center">
-            <ul>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Team size flexibility: </b>
-                    Customer service at Hire Coworker goes above and beyond using the best, most cutting-edge, tested production order to be the digital outsource partner for productivity, a team of seasoned sales and digital milling professionals helps laboratoriThe goal of this has been and will remain to help laboratories expand their businesses.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Increased speed to market: </b>
-                    Market adaptation - The aforementioned flexibility also refers to the ability to adjust to ongoing market developments and new client needs. Long-term goals demand a trustworthy team and some flexibility in the approach because the end product's concept may change.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Avoid interruptions in workflow: </b>
-                    There are a number of key departments in multinational corporations that require ongoing attention. It becomes challenging to set aside time to oversee the operations of support departments like payroll and taxes during this period. When this occurs, businesses choose to outsource the majority of these departments' tasks to those who have the requisite expertise rather than managing everything themselves. By streamlining the process, efficiency is ultimately improved.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Prevent in-house team overload: </b>
-                    If your internal staff members are overburdened, you should think about outsourcing. Not in order to increase profit margins by replacing your personnel with an offshore crew. It's about distributing the burden and improving the working environment for your internal hires.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b>Reduce hiring and vetting HASSLE LESS: </b>
-                    When there is an overflow in clients, it may become necessary to expand the scope of the project. Your team may not be able to complete highly specialized duties if they are lacking a certain skill set.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Well Experience:</b>
-                    We have more than 9+ years experience in the Outsourcing IT field. We have experienced and professional agents for your work.
+    <section class="hiring_step1" style="padding-top:5%;">
 
-                </li>
-
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Affordable price:</b>
-                    We provide an affordable price (less than $5 per hour) for outsourcing IT service. 
-                </li>
-
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon>
-                    <b> Easy communication:</b>
-                    Without regard to market or professional boundaries, you may manage any administrative task requiring the use of a terminal and/or a phone with Easy Communication outsourcing.
-                </li>
-            </ul>
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
         </div>
-        <div class="why-outsourcing-grid grid">
-            <div class="why-outsourcing-grid-left grid-center">
-                <img loading="lazy" src="<?= get_img() ?>user.jpg" alt="User review">
-                <h3>John Larens</h3>
-                <p>When I found HireCoworker, their support was invaluable in getting my business on track and getting the most benefit from my business at lowest costs. </p>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
             </div>
-            <div class="why-outsourcing-grid-right">
-                <h3 class="sub-heading">Let Us help you</h3>
-                <p>Our expertise lies in attending to the little things, streamlining procedures, and increasing effectiveness. We enjoy interacting and working together with our clients in a way that fosters our mutual development and enables us to jointly accomplish significant objectives. We just want to assist you in moving your business in the direction you desire.
-                </p>
-                <ul class="why-choose-ul">
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We have served more than 1000 clients</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We have 9+ years of experience </li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We offer service at less $5 per hour</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> 100% money-back guarantee</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> Serving in more than 30 fields</li>
-
-                    <li class="flex-center"><i class='bx bxs-check-shield'></i> We provide complete Data security</li>
-                </ul>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
             </div>
         </div>
-    </section>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
 
     <!-- -------------------------- -->
     <!-- Services in IT Outsourcing -->
@@ -272,68 +261,24 @@ include_once '../../init.php';
         </div>
     </section>
 
-    <!-- Roadmap Start From here  -->
-    <svg></svg>
-    <section class="section-roadmap dm-services-roadmap">
-        <h6 class="main-heading">OUR APPROACH </h6>
-        <ul class="roadmap">
-            <li>
-                <div class="roadmap-item">
-                    <h2>RESEARCH</h2>
-                    <p>
-                        We research about the project and study the competitor website. In order to fully capitalize on their competitive advantages, businesses might outsource research in order to concentrate on their core competencies while contracting out non-core tasks that specialty businesses can perform better.
-                    </p>
-                </div>
-            </li>
-            <li>
-                <div class="roadmap-item">
-                    <h2>PROTOTYPE</h2>
-                    <p>
-                        We Ready project layout & client approved it. Hire CoWorker teams can concentrate on designing and testing new products while the prototype development team handles the production side of things by outsourcing the prototyping process. This enables more effective resource management and quicker development cycles for new goods.
-                    </p>
-                </div>
-            </li>
-            <li>
-
-                <div class="roadmap-item">
-                    <h2>DEVELOPMENT</h2>
-                    <p>
-                        After the client's approval of the prototype, we design the project in phases and get approved. Outsourcing software development entails transferring all or a portion of the project's control to a third-party vendor while yet maintaining the desired level of control. This procedure greatly lowers development expenses for businesses and helps them get around a lack of internal IT personnel.
-                    </p>
-                </div>
-            </li>
-            <li>
-                <div class="roadmap-item">
-                    <h2>TEST/ LAUNCH</h2>
-                    <p>
-                        After getting final approval from the client we launch the project. When it comes to quality testing software & apps, outsourced software testing is a tremendous help.
-                    </p>
-                </div>
-            </li>
-            <div class="v-line"></div>
-        </ul>
-
-    </section>
-    <!-- -------------------------- -->
-    <!-- Roadmap End From here  -->
-    <!-- -------------------------- -->
-
     <!-- Industris we Cover start -->
-    <!-- services -->
+    <!-- -------------------------- -->
     <section class="industries-section section-padding">
         <div class="container">
             <div class="section_title">
-                <h2 class="main-heading">Industries We Cover</h2>
-                <p class="text">
+                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
+                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Industries We Cover</h3>
+                <h2 class="section-heading"></h2>
+                <!-- <p class="text">
 
                     We have Web & Mobile App Development Services for Every Industry
-                </p>
+                </p> -->
             </div>
             <div class="row">
                 <div class="col-3 ">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="business-sharp"></ion-icon>
                             </div>
                             <h4>Real Estate <br />Property</h4>
@@ -350,7 +295,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="cart-sharp"></ion-icon>
                             </div>
                             <h4>
@@ -370,7 +315,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="fast-food-sharp"></ion-icon>
                             </div>
                             <h4>Food & <br />Restaurant</h4>
@@ -385,7 +330,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="trail-sign-sharp"></ion-icon>
                             </div>
                             <h4>Tour & <br />Travel</h4>
@@ -402,7 +347,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="heart-sharp"></ion-icon>
                             </div>
                             <h4>Healthcare and <br />diagnosis</h4>
@@ -417,7 +362,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="wallet-sharp"></ion-icon>
                             </div>
                             <h4>Banking, Finance <br />& Insurance</h4>
@@ -434,7 +379,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="stop-circle-sharp"></ion-icon>
                             </div>
                             <h4>Blockchain</h4>
@@ -451,7 +396,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="car-sharp"></ion-icon>
                             </div>
                             <h4>Automotive</h4>
@@ -467,7 +412,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="tv-sharp"></ion-icon>
                             </div>
                             <h4>Entertainment</h4>
@@ -485,7 +430,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="stop-circle-sharp"></ion-icon>
                             </div>
                             <h4>News</h4>
@@ -501,7 +446,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="pencil-sharp"></ion-icon>
                             </div>
                             <h4>Legal</h4>
@@ -516,7 +461,7 @@ include_once '../../init.php';
                 <div class="col-3">
                     <div class="box">
                         <div class="icon-head">
-                            <div class="icon">
+                            <div class="iconn">
                                 <ion-icon name="home-sharp"></ion-icon>
                             </div>
                             <h4>Home Services</h4>
@@ -532,80 +477,25 @@ include_once '../../init.php';
         </div>
     </section>
 
-    <!-- Industris we Cover end -->
 
-
-    <!-- faq section -->
-    <section class="faq-section">
-        <h5 class="section-heading">IT Outsourcing FAQ's</h5>
-        <div class="faqs">
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. Is there any data security available ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            Yes, there is data security available at Hire Co-Worker. Don't worry, your data will be fully safe and secure with Hire Coworker. </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. Where do I get the best VA IT outsourcing ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            At HireCoworker, you will get reliable and professional agents for your next outsourcing IT project with the price less than $5 per hour.  </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. How much is the price for IT Outsourcing ? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            We provide Less than $5 per hour for outsourcing IT projects. The main reason why most organizations choose to outsource their IT requirements is to save expenses (true, check the comparison costs below), but there are a lot of additional advantages as well.</p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q. How do I benefit by outsourcing IT services to you ?</summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            At Hire Coworker, We provide you Cost saving and 24*7 IT support team to help mitigate IT disasters and keep your business running smoothly. </p>
-                    </div>
-                </details>
-            </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>Q: How are you different from other Virtual Assistant companies? </summary>
-                    <div class="faq__content">
-                        <p class="text">
-                            We offer money back guarantee, lowest price in market, best and most IT qualified agents for your outsourcing IT project. </p>
-                    </div>
-                </details>
-            </div>
-        </div>
-
-    </section>
-
-    <!--faq end -->
-
-    <!-- -------------------------- -->
+<!-- -------------------------- -->
     <!-- Working section  -->
     <!-- -------------------------- -->
     <section class="working" id="how_we_work">
-        <h2 class="section-heading">How it works</h2>
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
 
         <!-- Contact US -->
         <div class="working-container grid grid-2">
             <div class="working-image grid-center">
-                <img loading="lazy" src="<?= get_img() ?>contact-us-3.jpg" alt="Hire virtual employee" />
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
             </div>
             <div class="working-content">
                 <h2 class="sub-heading">Contact Us</h2>
                 <p>
                     Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
-                    <a href="tel:+tel:+848-200-0555"><b>+848-200-0555</b></a>
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
                 </p>
                 <button class="basic-button">Know More</button>
             </div>
@@ -620,14 +510,14 @@ include_once '../../init.php';
                 <button class="basic-button">Know More</button>
             </div>
             <div class="working-image grid-center">
-                <img loading="lazy" src="<?= get_img() ?>get-started.jpg" alt="Hire virtual assitant" />
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
             </div>
         </div>
 
         <!-- Provide Feedback -->
         <div class="working-container grid grid-2">
             <div class="working-image grid-center">
-                <img loading="lazy" src="<?= get_img() ?>feedback.jpg" alt="Get best virtual employee" />
+                <img loading="lazy" src="<?= get_img() ?>feedback.png" alt="Support us" />
             </div>
             <div class="working-content">
                 <h2 class="sub-heading">Provide Feedback</h2>
@@ -639,47 +529,160 @@ include_once '../../init.php';
         </div>
     </section>
 
+    <!-- -------------------------- -->
+
     <!-- why choose section start here -->
+
     <section class="why-choose-section">
         <div class="grid grid-2 width-100 why-choose-section-container">
-            <div class="why-choose-section-content">
-                <p>Solve Your Business Issues With Outsourcing IT </p>
-                <h4 class="main-heading">Why Hire <span>Co-Woker</span> ?</h4>
-                <p>The advantages of outsourcing can help you achieve your objectives, whether they be to lower operational expenses, boost corporate productivity and efficiency, or ease the process of growing. </p>
+            <div class="why-choose-section-content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="400" data-aos-delay="100">
+                <p>Collaboration With Us</p>
+                <h4 class="section-heading">Why Hire <span>Co-Woker</span> ?</h4>
+                <p class="text">Customers from all over the world depend on our skilled developers to get high-quality, sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They have expertise in a variety of technologies and fields.
+                </p>
                 <ul class="why-choose-ul">
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 100% money-back guarantee. </li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Least price in the market. </li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> We offer Best and most IT-qualified person</li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Serving in more than 10 fields</li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> We provide Data security</li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Expertise in innovations</li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 9+ years of rich experience</li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 9/10 client satisfaction score</li>
+                    <li class="text flex-center">
+                        <i class='bx bxs-check-shield'></i> 100% money-back guarantee
+                    </li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Transparency is Guaranteed</li>
                 </ul>
             </div>
-            <div class="why-choose-section-img grid-center">
-                <img loading="lazy" src="<?= get_img() ?>Business decisions-broo.png" alt="Why hirecoworker">
+            <div class="why-choose-section-img grid-center" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="400" data-aos-delay="100">
+                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why Hirecoworker">
             </div>
         </div>
     </section>
-
-    <!-- why choose section end here -->
-
-    <!-- -------------------------- -->
     <!-- Call To action section-->
     <!-- -------------------------- -->
 
-    <section class="call-to-action flex-center background-property" style="background-image: url('<?= get_img() ?>dark-color-bg.png');">
+    <!-- <section class="call-to-action flex-center background-property" style="background-image: url('<?= get_img() ?>dark-color-bg.png');">
         <h2 class="sub-heading">Sign up to receive regular insights on remote talent.
         </h2>
         <h2 class="sub-heading"> And updates on our services.</h2>
         <p>And updates on our services.</p>
         <button class="basic-button hire-btn">Connect now</button>
     </section>
-
+ -->
 
     <!-- -------------------------- -->
+
+
+ <!-- expert section start -->
+ <section class="experts-section">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST CONTENT WRITER</h3>
+        <div class="expert-grid">
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>engineer-architecture/todd.jpg" class="expert-image" alt="Oursource MECHANICAL DESIGN ENGINEER" loading="lazy">
+                </div>
+                <div class="expert-profile text-center">
+                    <h2>TODD S.</h2>
+                    <P class="light-grey">Sr. MECHANICAL DESIGN ENGINEER</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.3/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">Experienced Sr. Mechanical Design Engineer with 7+ years of experience in designing and developing mechanical systems and components. </p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>MECHANICAL DESIGN</p>
+                    </div>
+                    <div class="skill">
+                        <p>PRODUCT DESIGN</p>
+                    </div>
+                    <div class="skill">
+                        <p>3D MODELING</p>
+                    </div>
+                    <div class="skill">
+                        <p>CAD DRAFTING</p>
+                    </div>
+                    <div class="skill">
+                        <p>3+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>engineer-architecture/asahi.jpg" class="expert-image" alt="Oursource CIVIL ENGINEER" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">ASAHI J.</h2>
+                    <P class="light-grey">CIVIL ENGINEER</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.7/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">Experienced Civil Engineer with 5+ years of experience in designing, planning and executing civil engineering projects.</p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>AUTOCADD CIVIL 3D</p>
+                    </div>
+                    <div class="skill">
+                        <p>ENGINEERING DESIGN</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>CHIEF ARCHITECTS</p>
+                    </div>
+                    <div class="skill">
+                        <p>ENVIRONMENTAL DESIGN</p>
+                    </div>
+
+                    <div class="skill">
+                        <p>4+</p>
+                    </div>
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+            <div class="expert-item">
+                <div class="expert-image-box">
+                    <img src="<?= get_img() ?>engineer-architecture/camilo.jpg" class="expert-image" alt="Oursource Sr. Electrical Engineer" loading="lazy">
+                </div>
+                <div class="expert-profile">
+                    <h2 class="text-center">CAMILO D.</h2>
+                    <P class="light-grey">Sr. Electrical Engineer</P>
+                    <div class="expert-rating text-center">
+                        <i class='bx bxs-star'></i>
+                        <span class="rating_number light-grey">4.5/5</span>
+                    </div>
+                </div>
+                <p class="light-grey text-center expert-desc">Experienced Sr. Electrical Engineer with 5+ years of experience in designing, developing, and implementing electrical systems and solutions. </p>
+                <div class="expert-skill">
+                    <div class="skill">
+                        <p>ELECTRICAL ENGINEERING</p>
+                    </div>
+                    <div class="skill">
+                        <p>SOLAR ENERGY</p>
+                    </div>
+                    <div class="skill">
+                        <p>SUSTAINABLE ENERGY</p>
+                    </div>
+                    <div class="skill">
+                        <p>MEP DESIGN</p>
+                    </div>
+                    <div class="skill">
+                        <p>LOAD CALCULATION</p>
+                    </div>
+                    <div class="skill">
+                        <p>4+</p>
+                    </div>
+
+
+                </div>
+                <button class="btn hire-btn">Hire Me</button>
+            </div>
+        </div>
+    </section>
+    <!-- expert section end -->
+
+
     <!-- Reviews with the user -->
     <!-- -------------------------- -->
 

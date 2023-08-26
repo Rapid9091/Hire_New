@@ -47,6 +47,10 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_remote-benifit.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_expert.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_call-to-action.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
 
     <style>
         .landing-section-services {
@@ -104,73 +108,70 @@ include_once '../../init.php';
     </div>
 
     <!-- -------------------------- -->
-    <!-- Why to IT Outsourcing -->
+  <!-- Why to IT Outsourcing -->
     <!-- -------------------------- -->
-    <section class="why-outsourcing padding">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY US</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Why
-            Outsource Meidcal Process Services</h3>
+    <section class="hiring_step1" style="padding-top:5%;">
 
-        <div class="why-outsourcing-img grid-center">
-            <ul>
-
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon> We focus more on patient care. Maintain error-free
-                    medical records, data and avoid costly mistakes
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon> For the entire range of healthcare business process
-                    services, well-established healthcare outsourcing companies in the United States, such as
-                    HireCoworker, provide dedicated remote medical process experts from its large talent pool of
-                    experienced medical practitioners, medical coders, radiologists, medical billing experts, and
-                    medical transcriptionists.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon> To deliver value-added medical process outsourcing
-                    services to our global clients, which include medical practitioners, hospitals, and insurance
-                    payers, among others, our dedicated medical process experts bring sound knowledge of healthcare IT,
-                    a sharp business focus, and awareness of healthcare regulations. HireCoworker's scalable medical
-                    support solutions, which provide robust work methodologies and processes to its global clients, give
-                    it a competitive edge.
-                </li>
-                <li>
-                    <ion-icon name="play-circle-sharp"></ion-icon> Our expert and experienced medical process
-                    professionals help healthcare providers achieve enhanced growth and ROI by successfully coping with
-                    issues such as statutory regulations, HIPAA regulations, deficient skill-sets for reports and
-                    medical content analytics, ineffective in-house procedures in billing and collections, and much
-                    more.
-                </li>
-            </ul>
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
         </div>
-        <div class="why-outsourcing-grid grid">
-            <div class="why-outsourcing-grid-left grid-center">
-                <img src="<?= get_img() ?>user.jpg" alt="Happy Clients">
-                <h3>John Larens</h3>
-                <p>When I found HireCoworker, their support was invaluable in getting my business on track and getting
-                    the most benefit from my business at lowest costs. </p>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
             </div>
-            <div class="why-outsourcing-grid-right">
-                <h3 class="sub-heading">Let Us help you</h3>
-                <p>Our expertise lies in attending to the little things, streamlining procedures, and increasing
-                    effectiveness. We enjoy interacting and working together with our clients in a way that fosters our
-                    mutual development and enables us to jointly accomplish significant objectives. We just want to
-                    assist you in moving your business in the direction you desire.
-                </p>
-                <ul class="why-choose-ul">
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 100% money-back guarantee. </li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Least price in the market. </li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> We offer Best and most medical
-                        process person</li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Serving in more than 10 fields</li>
-
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> We provide Data security</li>
-                </ul>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
             </div>
         </div>
-    </section>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
+
+    <!-- -------------------------- -->
+    
 
     <!-- -------------------------- -->
     <!-- Services in IT Outsourcing -->
@@ -316,10 +317,358 @@ include_once '../../init.php';
         </div>
     </section>
 
+ <!-- Roadmap Start From here  -->
+    <!-- -------------------------- -->
+    <section class="section-roadmap dm-services-roadmap">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">APPROACH</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR WAY TO WORK FOR YOU</h3>
 
+        <ul class="roadmap">
+            <li>
+                <div class="roadmap-item">
+                    <h2>RESEARCH</h2>
+                    <p>
+                        We research about the project and study the competitor website. In order to fully capitalize on their competitive advantages, businesses might outsource research in order to concentrate on their core competencies while contracting out non-core tasks that specialty businesses can perform better.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>PROTOTYPE</h2>
+                    <p>
+                        We Ready project layout & client approved it. Hire CoWorker teams can concentrate on designing and testing new products while the prototype development team handles the production side of things by outsourcing the prototyping process. This enables more effective resource management and quicker development cycles for new goods.
+                    </p>
+                </div>
+            </li>
+            <li>
 
-    <!-- expert section start -->
-    <section class="experts-section">
+                <div class="roadmap-item">
+                    <h2>DEVELOPEMENT</h2>
+                    <p>
+                        After the client's approval of the prototype, we design the project in phases and get approved. Outsourcing software development entails transferring all or a portion of the project's control to a third-party vendor while yet maintaining the desired level of control. This procedure greatly lowers development expenses for businesses and helps them get around a lack of internal IT personnel.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>TEST/ LAUNCH</h2>
+                    <p>
+                        After getting final approval from the client we launch the project. When it comes to quality testing software & apps, outsourced software testing is a tremendous help.
+                    </p>
+                </div>
+            </li>
+            <div class="v-line"></div>
+        </ul>
+
+    </section>
+
+    <!-- -------------------------- -->
+    <!-- Industris we Cover start -->
+    <!-- -------------------------- -->
+    <section class="industries-section section-padding">
+        <div class="container">
+            <div class="section_title">
+                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
+                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Industries We Cover</h3>
+                <h2 class="section-heading"></h2>
+                <!-- <p class="text">
+
+                    We have Web & Mobile App Development Services for Every Industry
+                </p> -->
+            </div>
+            <div class="row">
+                <div class="col-3 ">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="business-sharp"></ion-icon>
+                            </div>
+                            <h4>Real Estate <br />Property</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing services in the field of Real Estate.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="cart-sharp"></ion-icon>
+                            </div>
+                            <h4>
+                                Ecommerce<br />
+                                Retail & B2B
+                            </h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We are providing services in the field of Ecommerce Retail & B2B.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="fast-food-sharp"></ion-icon>
+                            </div>
+                            <h4>Food & <br />Restaurant</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Hotel & Restaurant industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="trail-sign-sharp"></ion-icon>
+                            </div>
+                            <h4>Tour & <br />Travel</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We have a nice client base in Tour & Travel industries
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="heart-sharp"></ion-icon>
+                            </div>
+                            <h4>Healthcare and <br />diagnosis</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Great experience in the Healthcare industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="wallet-sharp"></ion-icon>
+                            </div>
+                            <h4>Banking, Finance <br />& Insurance</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing mobile and web app services in Banking, Finance &
+                                Insurance
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>Blockchain</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered the blockchain field with our web designing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="car-sharp"></ion-icon>
+                            </div>
+                            <h4>Automotive</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered Automotive field with our mobile app services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="tv-sharp"></ion-icon>
+                            </div>
+                            <h4>Entertainment</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered Entertainment industries with our web designing
+                                services
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>News</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered all news industries with our digital marketing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="pencil-sharp"></ion-icon>
+                            </div>
+                            <h4>Legal</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Legal field with our services.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="icon">
+                                <ion-icon name="home-sharp"></ion-icon>
+                            </div>
+                            <h4>Home Services</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Providing web designing & mobile app for Home Services field.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- -------------------------- -->
+
+    <!-- -------------------------- -->
+    <!-- Working section  -->
+    <!-- -------------------------- -->
+    <section class="working" id="how_we_work">
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
+
+        <!-- Contact US -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Contact Us</h2>
+                <p>
+                    Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+
+        <!-- Get Started -->
+        <div class="working-container grid grid-2">
+            <div class="working-content">
+                <h2 class="sub-heading">Get Started</h2>
+                <p>
+                    Your work is almost done at the first step itself now you just need to relax. Now your buisness is ours we'll take care of everything it need. </p>
+                <button class="basic-button">Know More</button>
+            </div>
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
+            </div>
+        </div>
+
+        <!-- Provide Feedback -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>feedback.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Provide Feedback</h2>
+                <p>
+                    Once your work is done from our side now you just need to provide your valuable feedback to us. So that next time we can provide you more good service and can grow your buissness 10 times more.
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- -------------------------- -->
+
+   
+
+    <!-- why choose section start here -->
+    <section class="why-choose-section">
+        <div class="grid grid-2 width-100 why-choose-section-container">
+            <div class="why-choose-section-content">
+                <p>Collabration With Us</p>
+                <h4 class="main-heading">Why Hire <span>Co-Woker</span> ?</h4>
+                <p class="text">The advantages of outsourcing can help you achieve your objectives, whether they be to
+                    lower operational expenses, boost corporate productivity and efficiency, or ease the process of
+                    growing. </p>
+                <ul class="why-choose-ul">
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 350+ certified Medical Process
+                        Experts</li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 1500+ years of combined experience
+                    </li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Handling 10 million visitors for
+                        various web accounts</li>
+                    <li class="text flex-center">
+                        <i class='bx bxs-check-shield'></i> 100% money-back guarantee
+                    </li>
+                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> ISO 27001:2013 certified for data
+                        security</li>
+                </ul>
+            </div>
+            <div class="why-choose-section-img grid-center">
+                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why hire virtual employee">
+            </div>
+        </div>
+    </section>
+
+    <!-- why choose section end here -->
+
+     <!-- expert section start -->
+     <section class="experts-section">
         <p class="p-pink">EXPERTS</p>
         <h3 class="section-heading ">HIRE OUR BEST MEDICAL EXPERTS</h3>
         <div class="expert-grid">
@@ -438,320 +787,20 @@ include_once '../../init.php';
     </section>
     <!-- expert section end -->
 
-    <!-- why choose section start here -->
-    <section class="why-choose-section">
-        <div class="grid grid-2 width-100 why-choose-section-container">
-            <div class="why-choose-section-content">
-                <p>Collabration With Us</p>
-                <h4 class="main-heading">Why Hire <span>Co-Woker</span> ?</h4>
-                <p class="text">The advantages of outsourcing can help you achieve your objectives, whether they be to
-                    lower operational expenses, boost corporate productivity and efficiency, or ease the process of
-                    growing. </p>
-                <ul class="why-choose-ul">
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 350+ certified Medical Process
-                        Experts</li>
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> 1500+ years of combined experience
-                    </li>
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> Handling 10 million visitors for
-                        various web accounts</li>
-                    <li class="text flex-center">
-                        <i class='bx bxs-check-shield'></i> 100% money-back guarantee
-                    </li>
-                    <li class="text flex-center"><i class='bx bxs-check-shield'></i> ISO 27001:2013 certified for data
-                        security</li>
-                </ul>
-            </div>
-            <div class="why-choose-section-img grid-center">
-                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why hire virtual employee">
-            </div>
-        </div>
-    </section>
+    
 
-    <!-- why choose section end here -->
-
-    <!-- -------------------------- -->
-    <!-- Roadmap End From here  -->
-    <!-- -------------------------- -->
-
-    <!-- Industris we Cover start -->
-    <!-- services -->
-    <section class="industries-section section-padding" style="padding-bottom:0;">
-        <div class="container">
-            <div class="section_title">
-                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FIELDS</p>
-                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">
-                    Industries We Cover</h3>
-            </div>
-            <div class="row">
-                <div class="col-3 ">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="business-sharp"></ion-icon>
-                            </div>
-                            <h4>Real Estate <br />Property</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                Providing services in the field of Real Estate.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="cart-sharp"></ion-icon>
-                            </div>
-                            <h4>
-                                Ecommerce<br />
-                                Retail & B2B
-                            </h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                We are providing services in the field of Ecommerce Retail & B2B.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="fast-food-sharp"></ion-icon>
-                            </div>
-                            <h4>Food & <br />Restaurant</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">Covered Hotel & Restaurant industries</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="trail-sign-sharp"></ion-icon>
-                            </div>
-                            <h4>Tour & <br />Travel</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                We have a nice client base in Tour & Travel industries
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="heart-sharp"></ion-icon>
-                            </div>
-                            <h4>Healthcare and <br />diagnosis</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">Great experience in the Healthcare industries</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="wallet-sharp"></ion-icon>
-                            </div>
-                            <h4>Banking, Finance <br />& Insurance</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                Providing mobile and web app services in Banking, Finance &
-                                Insurance
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="stop-circle-sharp"></ion-icon>
-                            </div>
-                            <h4>Blockchain</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                We Covered the blockchain field with our web designing services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="car-sharp"></ion-icon>
-                            </div>
-                            <h4>Automotive</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                Covered Automotive field with our mobile app services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="tv-sharp"></ion-icon>
-                            </div>
-                            <h4>Entertainment</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                We Covered Entertainment industries with our web designing
-                                services
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="stop-circle-sharp"></ion-icon>
-                            </div>
-                            <h4>News</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                Covered all news industries with our Medical Billing services.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="pencil-sharp"></ion-icon>
-                            </div>
-                            <h4>Legal</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">Covered Legal field with our services.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-3">
-                    <div class="box">
-                        <div class="icon-head">
-                            <div class="icon">
-                                <ion-icon name="home-sharp"></ion-icon>
-                            </div>
-                            <h4>Home Services</h4>
-                        </div>
-                        <div class="content">
-                            <p class="text">
-                                Providing web designing & mobile app for Home Services field.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Industris we Cover end -->
-
-    <!-- why remote start -->
-    <section class="why-remote">
-        <p class="p-pink">WHY HIRE VIRTUAL STAFF</p>
-        <h3 class="section-heading ">Remote work benifits for employers</h3>
-        <div class="benifit_grid">
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500"
-                data-aos-delay="100">
-                <div class="benifit ben-1">
-                    <div class="ben_icon">
-                        <i class='bx bx-search-alt-2'></i>
-                    </div>
-                    <div class="ben-number">
-                        01
-                    </div>
-                    <p class="text-center">Easier Recruitment</p>
-                </div>
-
-
-            </div>
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500"
-                data-aos-delay="100">
-                <div class="benifit ben-2">
-                    <div class="ben_icon">
-                        <i class='bx bx-signal-5'></i>
-                    </div>
-                    <div class="ben-number">
-                        02
-                    </div>
-                    <p class="text-center">Increased Productivity</p>
-                </div>
-
-                <!-- <p class="text-center">Increased Productivity</p> -->
-            </div>
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500"
-                data-aos-delay="150">
-                <div class="benifit ben-3">
-                    <div class="ben_icon">
-                        <i class='bx bx-money-withdraw'></i>
-                    </div>
-                    <div class="ben-number">
-                        03
-                    </div>
-                    <p class="text-center">Reduced <br> Cost</p>
-                </div>
-
-                <!-- <p class="text-center">Lower Cost</p> -->
-            </div>
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500"
-                data-aos-delay="200">
-                <div class="benifit ben-4">
-                    <div class="ben_icon">
-                        <i class='bx bx-support'></i>
-                    </div>
-                    <div class="ben-number">
-                        04
-                    </div>
-                    <p class="text-center">24x7 <br> Support</p>
-                </div>
-
-                <!-- <p class="text-center">24x7 Support</p> -->
-            </div>
-        </div>
-    </section>
-    <!-- why remote end -->
-
+   
 
     <!-- pricing start-->
-    <section class="pricing">
+    <!-- <section class="pricing">
         <?php
-        $post_name = 'Medical billing';
-        include_once pricing; ?>
-    </section>
+        #$post_name = 'Medical billing';
+        #include_once pricing; ?>
+    </section> -->
     <!-- pricing end -->
 
 
-    <section class="section-roadmap dm-services-roadmap">
+    <!-- <section class="section-roadmap dm-services-roadmap">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
         <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR
             approach for you</h3>
@@ -791,7 +840,7 @@ include_once '../../init.php';
 
         </ul>
 
-    </section>
+    </section> -->
 
     <!-- -------------------------- -->
     <!-- Reviews with the user -->

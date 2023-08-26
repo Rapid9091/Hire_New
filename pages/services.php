@@ -115,7 +115,7 @@ include_once '../init.php';
 
 
         <div>
-            <a href="#" class="links-div-child text">
+            <a href="<?= home_path() ?>hire-finance-accounts-experts" class="links-div-child text">
                 Finance & Accounts Experts
             </a>
         </div>
@@ -129,7 +129,7 @@ include_once '../init.php';
 
 
         <div>
-            <a href="#" class="links-div-child text">
+            <a href="<?= home_path() ?>legal-outsourcing-services" class="links-div-child text">
                 Legal Process Outsourcing
             </a>
         </div>

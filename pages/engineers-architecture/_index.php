@@ -254,7 +254,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/drafting.png" alt="Outsource architectural engineer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>architectural-drafting">
                                 <h5>ARCHITECTURAL DRAFTING</h5>
                             </a>
                         </div>
@@ -270,7 +270,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>engineer-architecture/drawing.png" alt="Outsource construction drawing">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>construction-drawing">
                                 <h5>CONSTRUCTION DRAWING</h5>
                             </a>
                         </div>

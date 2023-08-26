@@ -40,6 +40,10 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_hiring-step.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-coworker.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
     <style>
         .landing-section-services {
             background-image: url("<?= get_img() ?>legal-process/legal-process.jpg");
@@ -78,7 +82,69 @@ include_once '../../init.php';
     </div>
 
 
+<!-- Why to IT Outsourcing -->
+    <!-- -------------------------- -->
+    <section class="hiring_step1" style="padding-top:5%;">
 
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
+
+    <!-- -------------------------- -->
     <!-- services start -->
     <section class="full-section" id="full-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">SERVICES</p>
@@ -258,6 +324,326 @@ include_once '../../init.php';
     </section>
     <!-- services end -->
 
+
+ <!-- Roadmap Start From here  -->
+    <!-- -------------------------- -->
+    <section class="section-roadmap dm-services-roadmap">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">APPROACH</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR WAY TO WORK FOR YOU</h3>
+
+        <ul class="roadmap">
+            <li>
+                <div class="roadmap-item">
+                    <h2>RESEARCH</h2>
+                    <p>
+                        We research about the project and study the competitor website. In order to fully capitalize on their competitive advantages, businesses might outsource research in order to concentrate on their core competencies while contracting out non-core tasks that specialty businesses can perform better.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>PROTOTYPE</h2>
+                    <p>
+                        We Ready project layout & client approved it. Hire CoWorker teams can concentrate on designing and testing new products while the prototype development team handles the production side of things by outsourcing the prototyping process. This enables more effective resource management and quicker development cycles for new goods.
+                    </p>
+                </div>
+            </li>
+            <li>
+
+                <div class="roadmap-item">
+                    <h2>DEVELOPEMENT</h2>
+                    <p>
+                        After the client's approval of the prototype, we design the project in phases and get approved. Outsourcing software development entails transferring all or a portion of the project's control to a third-party vendor while yet maintaining the desired level of control. This procedure greatly lowers development expenses for businesses and helps them get around a lack of internal IT personnel.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>TEST/ LAUNCH</h2>
+                    <p>
+                        After getting final approval from the client we launch the project. When it comes to quality testing software & apps, outsourced software testing is a tremendous help.
+                    </p>
+                </div>
+            </li>
+            <div class="v-line"></div>
+        </ul>
+
+    </section>
+
+    <!-- -------------------------- -->
+   <!-- Industris we Cover start -->
+    <!-- -------------------------- -->
+    <section class="industries-section section-padding">
+        <div class="container">
+            <div class="section_title">
+                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
+                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Industries We Cover</h3>
+                <h2 class="section-heading"></h2>
+                <!-- <p class="text">
+
+                    We have Web & Mobile App Development Services for Every Industry
+                </p> -->
+            </div>
+            <div class="row">
+                <div class="col-3 ">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="business-sharp"></ion-icon>
+                            </div>
+                            <h4>Real Estate <br />Property</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing services in the field of Real Estate.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="cart-sharp"></ion-icon>
+                            </div>
+                            <h4>
+                                Ecommerce<br />
+                                Retail & B2B
+                            </h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We are providing services in the field of Ecommerce Retail & B2B.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="fast-food-sharp"></ion-icon>
+                            </div>
+                            <h4>Food & <br />Restaurant</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Hotel & Restaurant industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="trail-sign-sharp"></ion-icon>
+                            </div>
+                            <h4>Tour & <br />Travel</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We have a nice client base in Tour & Travel industries
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="heart-sharp"></ion-icon>
+                            </div>
+                            <h4>Healthcare and <br />diagnosis</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Great experience in the Healthcare industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="wallet-sharp"></ion-icon>
+                            </div>
+                            <h4>Banking, Finance <br />& Insurance</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing mobile and web app services in Banking, Finance &
+                                Insurance
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>Blockchain</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered the blockchain field with our web designing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="car-sharp"></ion-icon>
+                            </div>
+                            <h4>Automotive</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered Automotive field with our mobile app services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="tv-sharp"></ion-icon>
+                            </div>
+                            <h4>Entertainment</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered Entertainment industries with our web designing
+                                services
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>News</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered all news industries with our digital marketing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="pencil-sharp"></ion-icon>
+                            </div>
+                            <h4>Legal</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Legal field with our services.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="home-sharp"></ion-icon>
+                            </div>
+                            <h4>Home Services</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Providing web designing & mobile app for Home Services field.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+<!-- -------------------------- -->
+
+    <!-- -------------------------- -->
+    <!-- Working section  -->
+    <!-- -------------------------- -->
+    <section class="working" id="how_we_work">
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
+
+        <!-- Contact US -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Contact Us</h2>
+                <p>
+                    Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+
+        <!-- Get Started -->
+        <div class="working-container grid grid-2">
+            <div class="working-content">
+                <h2 class="sub-heading">Get Started</h2>
+                <p>
+                    Your work is almost done at the first step itself now you just need to relax. Now your buisness is ours we'll take care of everything it need. </p>
+                <button class="basic-button">Know More</button>
+            </div>
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
+            </div>
+        </div>
+
+        <!-- Provide Feedback -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>feedback.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Provide Feedback</h2>
+                <p>
+                    Once your work is done from our side now you just need to provide your valuable feedback to us. So that next time we can provide you more good service and can grow your buissness 10 times more.
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- -------------------------- -->
+
+
     <!-- why choose section start here -->
 
     <section class="why-choose-section">
@@ -285,332 +671,130 @@ include_once '../../init.php';
         </div>
     </section>
     <!-- why choose section end here -->
-
-    <!-- serviec type start -->
-    <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">BENIFITS OF LEGAL PROCESS OUTSOURCING FROM COWORKER</h3>
-        <div class="why_about">
-            <p class="text text-center">Committed to helping our clients succeed any time, every time. 360° Legal Process Outsourcing Services with maximum productivity at unbeatable prices.
-
-            </p>
+<!-- expert section start -->
+<section class="experts-section">
+<p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
+<h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
+    LEGAL PROCESS EXPERTS</h3>
+<div class="expert-grid">
+    <div class="expert-item">
+        <div class="expert-image-box">
+            <img src="<?= get_img() ?>legal-process/denise.jpg" class="expert-image" alt="hire legal process experts" loading="lazy">
         </div>
-
-        <div class="services-col-3">
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <i class='bx bx-refresh'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Free Trial</h4>
-                    <p>Get a free trial of our outsourcing of legal processes and then hire us once you're satisfied.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <i class='bx bxs-user'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Dedicated Resources</h4>
-                    <p>Similar to your in-house resource, our LPO professionals work exclusively for you. only accountable to and answerable to you.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class="bx bx-dollar"></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>No Hidden Cost</h4>
-                    <p>Apart from the direct massive cost savings, HireCoworker also helps you save 100% on hiring and overhead costs while you get an additional free trial.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="apps-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h4>Handpick Legal Experts</h4>
-                    <p>Take your pick from entry-level legal professionals to the seasoned ones. Hire the ones you seem fit for your case.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="ban-outline"></ion-icon>
-                </div>
-                <div class="service-dtl">
-                    <h4>Zero Overheads</h4>
-                    <p>By only paying for the LPO resource you hire, you can save a lot of money on overhead costs. We take care of things like salaries and office space.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bxl-graphql'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Remote Monitering</h4>
-                    <p>Monitor your offshore legal experts the way you want. Keep a close tab on their work and connect with them directly whenever you want.</p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-    <!-- serviec type end -->
-
-    <!-- hiring-step start -->
-    <section class="hiring_step">
-
-        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-            <div class="hiring_step_order-1">
-                <div>
-                    <h3 class="section-heading">HIRE LEGAL PROCESS OUTSOURCING ONLINE WITH EASY STEP</h3>
-                    <p class="text">Choose the legal professionals you want, give them a free trial for a week, and if you like them, keep using the same resource.
-                    </p>
-                    <button class="btn hire-btn">Hire Legal Process Experts</button>
-                </div>
-            </div>
-            <div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire legal process outsourcing" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Talk To Us</h4>
-                        <p>Please describe your expectations following the outsourcing of US legal process services. Please specify the skills you seek in your experts.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire legal process outsourcing" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Handpick Best Expert</h4>
-                        <p>We share resumes of legal experts for you to choose from. Only the crème la de crème are up for grabs.
-                        </p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire legal process outsourcing" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Build Your Team</h4>
-                        <p>Hire legal experts only if you are satisfied that they can meet your expectations. Feel free to assess beforehand.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire legal process outsourcing" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Get Going</h4>
-                        <p>The entire hiring procedure takes less than eight hours. It's possible that your local law firms haven't even opened yet.</p>
-                    </div>
-                </div>
+        <div class="expert-profile text-center">
+            <h2>Ankita K.</h2>
+            <P class="light-grey">PARALEGAL EXPERTS</P>
+            <div class="expert-rating text-center">
+                <i class='bx bxs-star'></i>
+                <span class="rating_number light-grey">4.3/5</span>
             </div>
         </div>
-    </section>
-    <!-- hiring-step end -->
-
-    <!-- expert section start -->
-    <section class="experts-section">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            LEGAL PROCESS EXPERTS</h3>
-        <div class="expert-grid">
-            <div class="expert-item">
-                <div class="expert-image-box">
-                    <img src="<?= get_img() ?>legal-process/denise.jpg" class="expert-image" alt="hire legal process experts" loading="lazy">
-                </div>
-                <div class="expert-profile text-center">
-                    <h2>Ankita K.</h2>
-                    <P class="light-grey">PARALEGAL EXPERTS</P>
-                    <div class="expert-rating text-center">
-                        <i class='bx bxs-star'></i>
-                        <span class="rating_number light-grey">4.3/5</span>
-                    </div>
-                </div>
-                <p class="light-grey text-center expert-desc">Highly experienced Paralegal with 7 years of expertise in providing support to attorneys and handling complex legal tasks</p>
-                <div class="expert-skill">
-                    <div class="skill">
-                        <p>LEGAL RESEARCH</p>
-                    </div>
-                    <div class="skill">
-                        <p>PROCESS IMPROVEMENT</p>
-                    </div>
-                    <div class="skill">
-                        <p>RESEARCHER</p>
-                    </div>
-                    <div class="skill">
-                        <p>MICROSOFT EXCEL</p>
-                    </div>
-                    <div class="skill">
-                        <p>CONTRACT DRAFTING</p>
-                    </div>
-                    <div class="skill">
-                        <p>PARALEGAL</p>
-                    </div>
-                    <div class="skill">
-                        <p>3+</p>
-                    </div>
-                </div>
-                <button class="btn hire-btn">Hire Me</button>
+        <p class="light-grey text-center expert-desc">Highly experienced Paralegal with 7 years of expertise in providing support to attorneys and handling complex legal tasks</p>
+        <div class="expert-skill">
+            <div class="skill">
+                <p>LEGAL RESEARCH</p>
             </div>
-            <div class="expert-item">
-                <div class="expert-image-box">
-                    <img src="<?= get_img() ?>legal-process/pualla.jpg" class="expert-image" alt="hire legal assistance experts" loading="lazy">
-                </div>
-                <div class="expert-profile">
-                    <h2 class="text-center">Abhishek K.</h2>
-                    <P class="light-grey">LEGAL ASSISTANCE EXPERT</P>
-                    <div class="expert-rating text-center">
-                        <i class='bx bxs-star'></i>
-                        <span class="rating_number light-grey">4.7/5</span>
-                    </div>
-                </div>
-                <p class="light-grey text-center expert-desc">Experienced Legal Assistant with 9 years of expertise in providing administrative and clerical support to attorneys and managing legal documents.</p>
-                <div class="expert-skill">
-                    <div class="skill">
-                        <p>CIVIL LAW</p>
-                    </div>
-                    <div class="skill">
-                        <p>ARCHIVING</p>
-                    </div>
-                    <div class="skill">
-                        <p>LEGAL RESEARCH</p>
-                    </div>
-                    <div class="skill">
-                        <p>LEGAL ASSISTANCE</p>
-                    </div>
-                    <div class="skill">
-                        <p>FILE DOCUMENTATION</p>
-                    </div>
-
-                    <div class="skill">
-                        <p>DOCUMENT ANALYSIS</p>
-                    </div>
-
-                    <div class="skill">
-                        <p>4+</p>
-                    </div>
-                </div>
-                <button class="btn hire-btn">Hire Me</button>
+            <div class="skill">
+                <p>PROCESS IMPROVEMENT</p>
             </div>
-            <div class="expert-item">
-                <div class="expert-image-box">
-                    <img src="<?= get_img() ?>legal-process/angela.jpg" class="expert-image" alt="hire legal drafting experts" loading="lazy">
-                </div>
-                <div class="expert-profile">
-                    <h2 class="text-center">Joshua D.</h2>
-                    <P class="light-grey">LEGAL DRAFTING EXPERT</P>
-                    <div class="expert-rating text-center">
-                        <i class='bx bxs-star'></i>
-                        <span class="rating_number light-grey">4.5/5</span>
-                    </div>
-                </div>
-                <p class="light-grey text-center expert-desc">Expert Legal Drafter with 7 years of experience in drafting, reviewing, and revising legal documents, skilled in ensuring accuracy and compliance with laws and regulations.</p>
-                <div class="expert-skill">
-                    <div class="skill">
-                        <p>LEGAL WRITING</p>
-                    </div>
-                    <div class="skill">
-                        <p>BANKRYPTCY</p>
-                    </div>
-                    <div class="skill">
-                        <p>CONTENT WRITING</p>
-                    </div>
-                    <div class="skill">
-                        <p>RESEARCHER</p>
-                    </div>
-                    <div class="skill">
-                        <p>EDITING & PROOFREADING</p>
-                    </div>
-                    <div class="skill">
-                        <p>4+</p>
-                    </div>
-
-
-                </div>
-                <button class="btn hire-btn">Hire Me</button>
+            <div class="skill">
+                <p>RESEARCHER</p>
+            </div>
+            <div class="skill">
+                <p>MICROSOFT EXCEL</p>
+            </div>
+            <div class="skill">
+                <p>CONTRACT DRAFTING</p>
+            </div>
+            <div class="skill">
+                <p>PARALEGAL</p>
+            </div>
+            <div class="skill">
+                <p>3+</p>
             </div>
         </div>
-    </section>
-    <!-- expert section end -->
-
-
-
-    <!-- why remote start -->
-    <section class="why-remote">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY HIRE VIRTUAL
-            STAFF</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Remote work
-            benifits for employers</h3>
-        <div class="benifit_grid">
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="benifit ben-1">
-                    <div class="ben_icon">
-                        <i class='bx bx-search-alt-2'></i>
-                    </div>
-                    <div class="ben-number">
-                        01
-                    </div>
-                    <p class="text-center">Easier Recruitment</p>
-                </div>
-
-
-            </div>
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="benifit ben-2">
-                    <div class="ben_icon">
-                        <i class='bx bx-signal-5'></i>
-                    </div>
-                    <div class="ben-number">
-                        02
-                    </div>
-                    <p class="text-center">Increased Productivity</p>
-                </div>
-
-                <!-- <p class="text-center">Increased Productivity</p> -->
-            </div>
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
-                <div class="benifit ben-3">
-                    <div class="ben_icon">
-                        <i class='bx bx-money-withdraw'></i>
-                    </div>
-                    <div class="ben-number">
-                        03
-                    </div>
-                    <p class="text-center">Reduced <br> Cost</p>
-                </div>
-
-                <!-- <p class="text-center">Lower Cost</p> -->
-            </div>
-            <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
-                <div class="benifit ben-4">
-                    <div class="ben_icon">
-                        <i class='bx bx-support'></i>
-                    </div>
-                    <div class="ben-number">
-                        04
-                    </div>
-                    <p class="text-center">24x7 <br> Support</p>
-                </div>
-
-                <!-- <p class="text-center">24x7 Support</p> -->
+        <button class="btn hire-btn">Hire Me</button>
+    </div>
+    <div class="expert-item">
+        <div class="expert-image-box">
+            <img src="<?= get_img() ?>legal-process/pualla.jpg" class="expert-image" alt="hire legal assistance experts" loading="lazy">
+        </div>
+        <div class="expert-profile">
+            <h2 class="text-center">Abhishek K.</h2>
+            <P class="light-grey">LEGAL ASSISTANCE EXPERT</P>
+            <div class="expert-rating text-center">
+                <i class='bx bxs-star'></i>
+                <span class="rating_number light-grey">4.7/5</span>
             </div>
         </div>
-    </section>
-    <!-- benfit section end -->
+        <p class="light-grey text-center expert-desc">Experienced Legal Assistant with 9 years of expertise in providing administrative and clerical support to attorneys and managing legal documents.</p>
+        <div class="expert-skill">
+            <div class="skill">
+                <p>CIVIL LAW</p>
+            </div>
+            <div class="skill">
+                <p>ARCHIVING</p>
+            </div>
+            <div class="skill">
+                <p>LEGAL RESEARCH</p>
+            </div>
+            <div class="skill">
+                <p>LEGAL ASSISTANCE</p>
+            </div>
+            <div class="skill">
+                <p>FILE DOCUMENTATION</p>
+            </div>
 
-    <!-- pricing start-->
+            <div class="skill">
+                <p>DOCUMENT ANALYSIS</p>
+            </div>
 
-    <?php
+            <div class="skill">
+                <p>4+</p>
+            </div>
+        </div>
+        <button class="btn hire-btn">Hire Me</button>
+    </div>
+    <div class="expert-item">
+        <div class="expert-image-box">
+            <img src="<?= get_img() ?>legal-process/angela.jpg" class="expert-image" alt="hire legal drafting experts" loading="lazy">
+        </div>
+        <div class="expert-profile">
+            <h2 class="text-center">Joshua D.</h2>
+            <P class="light-grey">LEGAL DRAFTING EXPERT</P>
+            <div class="expert-rating text-center">
+                <i class='bx bxs-star'></i>
+                <span class="rating_number light-grey">4.5/5</span>
+            </div>
+        </div>
+        <p class="light-grey text-center expert-desc">Expert Legal Drafter with 7 years of experience in drafting, reviewing, and revising legal documents, skilled in ensuring accuracy and compliance with laws and regulations.</p>
+        <div class="expert-skill">
+            <div class="skill">
+                <p>LEGAL WRITING</p>
+            </div>
+            <div class="skill">
+                <p>BANKRYPTCY</p>
+            </div>
+            <div class="skill">
+                <p>CONTENT WRITING</p>
+            </div>
+            <div class="skill">
+                <p>RESEARCHER</p>
+            </div>
+            <div class="skill">
+                <p>EDITING & PROOFREADING</p>
+            </div>
+            <div class="skill">
+                <p>4+</p>
+            </div>
 
-    $post_name = "Legal process Expert";
-    include_once pricing; ?>
 
-    <!-- pricing end -->
-
-
+        </div>
+        <button class="btn hire-btn">Hire Me</button>
+    </div>
+</div>
+</section>
+<!-- expert section end -->
     <!-- testimonial slider section start here -->
     <?php
 
