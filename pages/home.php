@@ -148,7 +148,7 @@ include_once "../init.php";
         <p>
           E-commerce solutions are the tools and technologies used in the modern market to make buying and selling online easier. They offer a variety of ways, means, and help for businesses to do well on the internet. Our solutions help you make online stores that work well and ensure your customers can pay safely. This way, your customers can shop on your website in a full-fledged manner. Whether you're a new business or have been around for a while, they can help you reach customers worldwide and connect with them more. In just 60 words, we look at the world of Ecommerce Solutions, tools that help businesses set up and run online stores. These tools allow companies to show off and sell their goods and services online. With Ecommerce Solutions, companies can easily set up online stores and take advantage of the growing online market.
         </p>
-        <a href="<?= home_path() ?>it-outsourcing-services">Know More</a>
+        <a href="<?= home_path() ?>ecommerce-solutions-service">Know More</a>
       </div>
       <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="90">
         <ion-icon name="share-social-sharp"></ion-icon>
@@ -166,7 +166,7 @@ include_once "../init.php";
         <p>
            Digital Production Services is a perfect example of how technology and creativity come together. We create captivating digital content by combining digital tools and innovative concepts skillfully. Our services cover various visual techniques, from developing ideas to bringing them to life. This includes animation, special effects, and designing multimedia content. Digital Production Services combines creativity and advanced digital skills to bring your ideas to life. We use the latest technology to create visually stunning and engaging content. With our expertise, we can help you transform your imagination into reality. 
         </p>
-        <a href="<?= home_path() ?>hire-engineers-architects">Know More</a>
+        <a href="<?= home_path() ?>digital-production-services">Know More</a>
       </div>
       <!-- <div class="service-box" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="60">
         <ion-icon name="crop-sharp"></ion-icon>
@@ -220,7 +220,7 @@ include_once "../init.php";
         <p>
         Looking at the world of Movies Production Services, we see a complex web of artistic skills. When cinematic parts are put together in a complicated way, scripts become exciting stories that can be seen. All these different steps work together to make the magic of film that entertains and inspires. We explain what Movie Production Services is all about in only 60 words.
         </p>
-        <a href="<?= home_path() ?>legal-outsourcing-services">Know More</a>
+        <a href="<?= home_path() ?>movies-production-services">Know More</a>
       </div>
 
     </div>

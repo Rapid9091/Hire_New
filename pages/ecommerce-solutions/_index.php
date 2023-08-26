@@ -137,7 +137,7 @@ include_once '../../init.php';
             </div>
             <div class="step-dtll">
                 <p class="step-dtll-heading2">EASY COMMUNICATION</p>
-                <p>Without regard to market or professional boundaries, you may manage any administrative task requiring the use of a terminal and/or a phone with Easy Communication outsourcing</p>
+                <p>we provide Easy communication for better client approach .</p>
             </div>
         </div>
         <div class="steps2 flexs">
@@ -146,8 +146,8 @@ include_once '../../init.php';
                     loading="lazy">
             </div>
             <div class="step-dtll">
-                <p class="step-dtll-heading2">24-hours-support</p>
-                <p>If you are pleased with the results, immediately hire them and get to work.</p>
+                <p class="step-dtll-heading2">24/7 support</p>
+                <p>our services are available 24 hrs for our customers</p>
             </div>
         </div>
         
