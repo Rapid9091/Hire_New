@@ -39,7 +39,10 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-coworker.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-outsource-us.css">
-
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
 
     <style>
         .landing-section-services {
@@ -84,6 +87,67 @@ include_once '../../init.php';
         </div>
     </div>
 
+  <!-- Why to IT Outsourcing -->
+    <!-- -------------------------- -->
+    <section class="hiring_step1" style="padding-top:5%;">
+
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>`
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
 
 
     <!-- services start -->
@@ -319,143 +383,329 @@ include_once '../../init.php';
     </section>
     <!-- services end -->
 
-    <!-- why choose us start -->
-    <section class="why_content_writing">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES WE COVER</p>
-        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WE BUILD MOBILE APP ACROSS ALL INDUSTRIES & DOMAINS</h4>
-        <div class="flex content-reason">
-            <div class="reason-side">
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>HEALTHCARE</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>mobile-apps/healthcare.png" alt="hire healthcare apps" loading="lazy">
-                    </div>
-                </div>
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>RETAIL & E-COMMERCE</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>mobile-apps/e-commerce.png" alt="hire e-commerce app" loading="lazy">
-                    </div>
-                </div>
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>BANKING & FINANCE</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>mobile-apps/banking.png" alt="hire banking and finance app ">
-                    </div>
-                </div>
-            </div>
-            <div class="reason_center_img" data-aos="zoom-in" data-aos-duration="400">
-                <img src="<?= get_img(); ?>mobile-apps/mobile-app.png" width="100%" alt="hire mobile app developer">
+    <!-- -------------------------- -->
+    <!-- Roadmap Start From here  -->
+    <!-- -------------------------- -->
+    <section class="section-roadmap dm-services-roadmap">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">APPROACH</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR WAY TO WORK FOR YOU</h3>
 
-            </div>
-            <div class="reason-side">
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>mobile-apps/travel.png" alt="hire travel and tourism mobile app">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>TRAVEL & TOURISM</p>
-                    </div>
-
-                </div>
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>mobile-apps/media.png" alt="hire media and entertainment mobile app">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>MEDIA & ENTERTAINMENT</p>
-                    </div>
-
-                </div>
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>mobile-apps/education.png" alt="hire e-learning mobile app">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>EDUCATION & E-LEARNING</p>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- why choose us end -->
-
-
-    <!-- serviec type start -->
-    <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">6 REASONS TO HIRE MOBILE APP DEVELOPER FROM COWORKER</h3>
-        <div class="why_about">
-            <p class="text text-center">HireCoworker is one of the best services for developing mobile apps in the United States. Hire triple-checked mobile app developers who have developed more than 400 apps, including well-known games, social media, finance, news, e-commerce, and entertainment apps.
-            </p>
-        </div>
-
-        <div class="services-col-3">
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <i class='bx bx-refresh'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Free Trial</h4>
-                    <p>Choose a developer by hand, give his work a free week of testing, and only hire him if you want to.
+        <ul class="roadmap">
+            <li>
+                <div class="roadmap-item">
+                    <h2>RESEARCH</h2>
+                    <p>
+                        We research about the project and study the competitor website. In order to fully capitalize on their competitive advantages, businesses might outsource research in order to concentrate on their core competencies while contracting out non-core tasks that specialty businesses can perform better.
                     </p>
                 </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>PROTOTYPE</h2>
+                    <p>
+                        We Ready project layout & client approved it. Hire CoWorker teams can concentrate on designing and testing new products while the prototype development team handles the production side of things by outsourcing the prototyping process. This enables more effective resource management and quicker development cycles for new goods.
+                    </p>
+                </div>
+            </li>
+            <li>
+
+                <div class="roadmap-item">
+                    <h2>DEVELOPEMENT</h2>
+                    <p>
+                        After the client's approval of the prototype, we design the project in phases and get approved. Outsourcing software development entails transferring all or a portion of the project's control to a third-party vendor while yet maintaining the desired level of control. This procedure greatly lowers development expenses for businesses and helps them get around a lack of internal IT personnel.
+                    </p>
+                </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>TEST/ LAUNCH</h2>
+                    <p>
+                        After getting final approval from the client we launch the project. When it comes to quality testing software & apps, outsourced software testing is a tremendous help.
+                    </p>
+                </div>
+            </li>
+            <div class="v-line"></div>
+        </ul>
+
+    </section>
+
+    <!-- -------------------------- -->
+
+
+
+
+
+
+<!-- -------------------------- -->
+   <!-- Industris we Cover start -->
+    <!-- -------------------------- -->
+    <section class="industries-section section-padding">
+        <div class="container">
+            <div class="section_title">
+                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
+                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Industries We Cover</h3>
+                <h2 class="section-heading"></h2>
+                <!-- <p class="text">
+
+                    We have Web & Mobile App Development Services for Every Industry
+                </p> -->
             </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <i class='bx bxs-user'></i>
+            <div class="row">
+                <div class="col-3 ">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="business-sharp"></ion-icon>
+                            </div>
+                            <h4>Real Estate <br />Property</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing services in the field of Real Estate.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>Dedicated Resources</h4>
-                    <p>Your in-house resource is identical to a dedicated mobile app developer.</p>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="cart-sharp"></ion-icon>
+                            </div>
+                            <h4>
+                                Ecommerce<br />
+                                Retail & B2B
+                            </h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We are providing services in the field of Ecommerce Retail & B2B.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class="bx bx-dollar"></i>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="fast-food-sharp"></ion-icon>
+                            </div>
+                            <h4>Food & <br />Restaurant</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Hotel & Restaurant industries</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>Value For Money</h4>
-                    <p>Pay for only one developer and leverage the skill sets of the entire team.</p>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="trail-sign-sharp"></ion-icon>
+                            </div>
+                            <h4>Tour & <br />Travel</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We have a nice client base in Tour & Travel industries
+                            </p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="code-slash-outline"></ion-icon>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="heart-sharp"></ion-icon>
+                            </div>
+                            <h4>Healthcare and <br />diagnosis</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Great experience in the Healthcare industries</p>
+                        </div>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>T-Shaped Development</h4>
-                    <p>The mobile app development expertise of HireCoworker's developers is extensive.</p>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="wallet-sharp"></ion-icon>
+                            </div>
+                            <h4>Banking, Finance <br />& Insurance</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing mobile and web app services in Banking, Finance &
+                                Insurance
+                            </p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <ion-icon name="ban-outline"></ion-icon>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>Blockchain</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered the blockchain field with our web designing services.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>Zero Overheads</h4>
-                    <p>You bear no additional expenses. All your developer’s needs are taken care of.</p>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="car-sharp"></ion-icon>
+                            </div>
+                            <h4>Automotive</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered Automotive field with our mobile app services.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bxl-graphql'></i>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="tv-sharp"></ion-icon>
+                            </div>
+                            <h4>Entertainment</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered Entertainment industries with our web designing
+                                services
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="service-dtl">
-                    <h4>Diverse Experience</h4>
-                    <p>Hire senior-, mid- or junior-level mobile developers as per your need.</p>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>News</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered all news industries with our digital marketing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="pencil-sharp"></ion-icon>
+                            </div>
+                            <h4>Legal</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Legal field with our services.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="home-sharp"></ion-icon>
+                            </div>
+                            <h4>Home Services</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Providing web designing & mobile app for Home Services field.
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- serviec type end -->
+
+
+<!-- -------------------------- -->
+    <!-- Working section  -->
+    <!-- -------------------------- -->
+    <section class="working" id="how_we_work">
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
+
+        <!-- Contact US -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Contact Us</h2>
+                <p>
+                    Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+
+        <!-- Get Started -->
+        <div class="working-container grid grid-2">
+            <div class="working-content">
+                <h2 class="sub-heading">Get Started</h2>
+                <p>
+                    Your work is almost done at the first step itself now you just need to relax. Now your buisness is ours we'll take care of everything it need. </p>
+                <button class="basic-button">Know More</button>
+            </div>
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
+            </div>
+        </div>
+
+        <!-- Provide Feedback -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>feedback.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Provide Feedback</h2>
+                <p>
+                    Once your work is done from our side now you just need to provide your valuable feedback to us. So that next time we can provide you more good service and can grow your buissness 10 times more.
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- -------------------------- -->
 
     <!-- why choose section start here -->
 
@@ -464,9 +714,7 @@ include_once '../../init.php';
             <div class="why-choose-section-content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="400" data-aos-delay="100">
                 <p>Collaboration With Us</p>
                 <h4 class="section-heading">Why Hire <span>Co-Woker</span> ?</h4>
-                <p class="text">Customers from all over the world depend on our skilled developers to get high-quality,
-                    sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They
-                    have expertise in a variety of technologies and fields.
+                <p class="text">Customers from all over the world depend on our skilled developers to get high-quality, sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They have expertise in a variety of technologies and fields.
                 </p>
                 <ul class="why-choose-ul">
                     <li class="text flex-center"><i class='bx bxs-check-shield'></i> Expertise in innovations</li>
@@ -479,50 +727,162 @@ include_once '../../init.php';
                 </ul>
             </div>
             <div class="why-choose-section-img grid-center" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="400" data-aos-delay="100">
-                <img src="<?= get_img() ?>Business decisions-broo.png" alt="HireCoworker virtual assistant">
+                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why Hirecoworker">
             </div>
         </div>
     </section>
     <!-- why choose section end here -->
 
 
+
+    <!-- serviec type start -->
+    <!-- <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">REASONS OF HIRE ENGINEERS & Architects FROM COWORKER</h3>
+        <div class="why_about">
+            <p class="text text-center">A leading provider of engineering and architectural services, and with good reason.</p>
+        </div>
+
+        <div class="services-col-3">
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
+                <div class="icon">
+                    <i class='bx bx-refresh'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Free Trial</h4>
+                    <p>Do you want to see how good an architect is before hiring them online? With HireCoworker, you can make an informed decision.</p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                <div class="icon">
+                    <i class='bx bxs-user'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Dedicated Employees</h4>
+                    <p>Hire architects who work for HireCoworker full-time. Let them know what you think by observing their work.</p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <i class='bx bx-dollar'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Value for Money</h4>
+                    <p>Even though you can hire an architect online, it can be expensive to hire a team. Not so with HireCoworker. For the cost of one architect, make use of the expertise of over 350 specialists.
+                    </p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <i class='bx bx-data'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Data Security</h4>
+                    <p>You could hire a freelance architect or an architect you found online, but your data could be in danger. HireCoworker adheres to strict NDAs, ensuring the security of your data.
+                    </p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <ion-icon name="ban-outline"></ion-icon>
+                </div>
+                <div class="service-dtl">
+                    <h4>Zero Overheads</h4>
+                    <p>Cost of software and hardware, office rent, etc. may cause distraction. You can concentrate on your business with HireCoworker's offshore architectural services.
+                    </p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <i class="bx bxl-graphql"></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Diverse Experience</h4>
+                    <p>We let you hire Junior, Mid and Manager level expert architects from India, depending upon your requirement.</p>
+                </div>
+            </div>
+
+        </div>
+
+
+
+    </section>
+    serviec type end -->
+
+
+
+    <!-- roadmap start -->
+    <!-- <section class="roadmap-2">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">TIMELINE</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">ENGINEERING & ARCHITECTURAL PROCESS</h3>
+        <div class="timeline">
+            <div class="container-roadmap left">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>ANALYSIS</h2>
+                    <p class="text">We start off by analyzing your data and input files to assess which of our online architecture services are best suited for your requirements.</p>
+                </div>
+            </div>
+            <div class="container-roadmap right">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>SCOPE AND PLANNING</h2>
+                    <p class="text">After you hire architects online, this is the phase where we earmark their roles & responsibilities, come up with schedules, and draw up a concrete plan.
+                    </p>
+                </div>
+            </div>
+            <div class="container-roadmap left">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>DESIGN AND DRAFTING</h2>
+                    <p class="text">What makes us a one-stop destination for engineering architectural services in India is that we get a senior architect to supervise the process.</p>
+                </div>
+            </div>
+            <div class="container-roadmap right">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>ASSESSMENT</h2>
+                    <p class="text">The work done by an offshore architect shouldn’t have to be reviewed by an in-house resource. We take full responsibility and revisit the designs, if need be.
+                    </p>
+                </div>
+            </div>
+            <div class="container-roadmap left">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>DELIVERY</h2>
+                    <p class="text">As a leading provider of offshore architectural services, we have a stringent quality control system. The designs are only handed over after thorough checking.</p>
+                </div>
+            </div>
+
+        </div>
+    </section> -->
+    <!-- roadmap end -->
+
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR
-            BEST MOBILE APP DEVELOPER</h3>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HIRE OUR BEST CONTENT WRITER</h3>
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>mobile-apps/seong.jpg" class="expert-image" alt="Hire react native developer " loading="lazy">
+                    <img src="<?= get_img() ?>engineer-architecture/todd.jpg" class="expert-image" alt="Oursource MECHANICAL DESIGN ENGINEER" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
-                    <h2>SEONG H.</h2>
-                    <P class="light-grey">REACT NATIVE DEVELOPER</P>
+                    <h2>TODD S.</h2>
+                    <P class="light-grey">Sr. MECHANICAL DESIGN ENGINEER</P>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Expert React Native developer with a track record of delivering high-performing and visually stunning mobile apps.</p>
+                <p class="light-grey text-center expert-desc">Experienced Sr. Mechanical Design Engineer with 7+ years of experience in designing and developing mechanical systems and components. </p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>REACT NATIVE</p>
+                        <p>MECHANICAL DESIGN</p>
                     </div>
                     <div class="skill">
-                        <p>NATIVE APP DEVELOPMENT</p>
+                        <p>PRODUCT DESIGN</p>
                     </div>
                     <div class="skill">
-                        <p>FIGMA</p>
+                        <p>3D MODELING</p>
                     </div>
                     <div class="skill">
-                        <p>iPHONE UI DESIGN</p>
-                    </div>
-                    <div class="skill">
-                        <p>iOS DEVELOPER</p>
-                    </div>
-                    <div class="skill">
-                        <p>FIEBASE</p>
+                        <p>CAD DRAFTING</p>
                     </div>
                     <div class="skill">
                         <p>3+</p>
@@ -532,41 +892,30 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>mobile-apps/robert.jpg" class="expert-image" alt="Hire mobile app developer" loading="lazy">
+                    <img src="<?= get_img() ?>engineer-architecture/asahi.jpg" class="expert-image" alt="Oursource CIVIL ENGINEER" loading="lazy">
                 </div>
                 <div class="expert-profile">
-                    <h2 class="text-center">ROBERT M.</h2>
-                    <P class="light-grey">MOBILE APP DEVELOPER</P>
+                    <h2 class="text-center">ASAHI J.</h2>
+                    <P class="light-grey">CIVIL ENGINEER</P>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Skilled mobile app developer with expertise in iOS, Android and React Native, delivering high-quality and feature-rich apps.</p>
+                <p class="light-grey text-center expert-desc">Experienced Civil Engineer with 5+ years of experience in designing, planning and executing civil engineering projects.</p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>iOS DEVELOPMENT</p>
+                        <p>AUTOCADD CIVIL 3D</p>
                     </div>
                     <div class="skill">
-                        <p>KOTLIN</p>
-                    </div>
-                    <div class="skill">
-                        <p>SWIFT</p>
-                    </div>
-                    <div class="skill">
-                        <p>JAVA</p>
+                        <p>ENGINEERING DESIGN</p>
                     </div>
 
                     <div class="skill">
-                        <p>MOBILE UI DESIGN</p>
-                    </div>
-
-
-                    <div class="skill">
-                        <p>MOBILE APP REDESIGN</p>
+                        <p>CHIEF ARCHITECTS</p>
                     </div>
                     <div class="skill">
-                        <p>APPLE XCODE</p>
+                        <p>ENVIRONMENTAL DESIGN</p>
                     </div>
 
                     <div class="skill">
@@ -577,32 +926,32 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>mobile-apps/arvind.jpg" class="expert-image" alt="hire full stack developer" loading="lazy">
+                    <img src="<?= get_img() ?>engineer-architecture/camilo.jpg" class="expert-image" alt="Oursource Sr. Electrical Engineer" loading="lazy">
                 </div>
                 <div class="expert-profile">
-                    <h2 class="text-center">ARVIND K.</h2>
-                    <P class="light-grey">FULL STACK DEVELOPER</P>
+                    <h2 class="text-center">CAMILO D.</h2>
+                    <P class="light-grey">Sr. Electrical Engineer</P>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">Expert Full Stack Developer with experience in designing and implementing scalable and efficient web solutions.</p>
+                <p class="light-grey text-center expert-desc">Experienced Sr. Electrical Engineer with 5+ years of experience in designing, developing, and implementing electrical systems and solutions. </p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>APP DEVELOPMENT</p>
+                        <p>ELECTRICAL ENGINEERING</p>
                     </div>
                     <div class="skill">
-                        <p>ANDROID DEVELOPMENT</p>
+                        <p>SOLAR ENERGY</p>
                     </div>
                     <div class="skill">
-                        <p>HYBRID APP DEVELOPMENT</p>
+                        <p>SUSTAINABLE ENERGY</p>
                     </div>
                     <div class="skill">
-                        <p>FLUTTER</p>
+                        <p>MEP DESIGN</p>
                     </div>
                     <div class="skill">
-                        <p>iOS</p>
+                        <p>LOAD CALCULATION</p>
                     </div>
                     <div class="skill">
                         <p>4+</p>
@@ -616,53 +965,69 @@ include_once '../../init.php';
     </section>
     <!-- expert section end -->
 
-    <!-- roadmap start -->
-    <section class="roadmap-2">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">TIMELINE</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">ENGINEERING & ARCHITECTURAL PROCESS</h3>
-        <div class="timeline">
-            <div class="container-roadmap left">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>ANALYSIS</h2>
-                    <p class="text">In order to create a bespoke solution for you, our dedicated developer conducts a thorough analysis of your requirements.
-                    </p>
-                </div>
-            </div>
-            <div class="container-roadmap right">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>PLANNING</h2>
-                    <p class="text">Our mobile app developer follows a strategic approach based on your requirements and vision.</p>
-                </div>
-            </div>
-            <div class="container-roadmap left">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>PROTOTYPE</h2>
-                    <p class="text">A prototype is created and made available to you for your approval. We proceed only if you are pleased.</p>
-                </div>
-            </div>
-            <div class="container-roadmap right">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>DEVELOPMENT</h2>
-                    <p class="text">Our developers use their knowledge to create the final, bespoke mobile app that meets your requirements.</p>
-                </div>
-            </div>
-            <div class="container-roadmap left">
-                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                    <h2>TESTING</h2>
-                    <p class="text">Before the app goes live, the developers put it through stringent tests to make sure there are no bugs or errors.</p>
-                </div>
-            </div>
+    <!-- hiring-step start -->
+    <!-- <section class="hiring_step">
 
+        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step_order-1">
+                <div>
+                    <h3 class="section-heading">HIRE ENGINEERS & Architects ONLINE WITH EASY STEP</h3>
+                    <p class="text">Customers from all over the world depend on our skilled developers to get high-quality, sector-specific web and mobile solutions. Employ our devoted developers to grow your company.</p>
+                    <button class="btn hire-btn">Hire Engineer & Architects</button>
+                </div>
+            </div>
+            <div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="Oursource Electrical Engineer" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Brief Us</h4>
+                        <p>Why are you excited about outsourcing architectural and engineering services?
+                        </p>
+                    </div>
+                </div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="Oursource Architects" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Handpick The Best Resource</h4>
+                        <p>Examine the CVs of candidates who have been triple-vetted. Find architects and engineers who stand out from the crowd to hire.</p>
+                    </div>
+                </div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="Oursource CIVIL ENGINEER" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Select Tour Team</h4>
+                        <p>Phone or video conference interviews with the selected candidates Additionally, you can assign tests to the resources before selecting our services.</p>
+                    </div>
+                </div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="Oursource AUTOCADD" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Get Going</h4>
+                        <p>Satisfied with the results? Great. Hire an engineer or architect online right away and s/he will get down to working on your project.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-    </section>
-    <!-- roadmap end -->
+
+
+
+
+    </section> -->
+    <!-- hiring-step end -->
+
 
     <!-- why remote start -->
-    <section class="why-remote">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY HIRE VIRTUAL
-            STAFF</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Remote work
-            BENEFITS for employers</h3>
+    <!-- <section class="why-remote">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY HIRE VIRTUAL STAFF</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Remote work benifits for employers</h3>
         <div class="benifit_grid">
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
                 <div class="benifit ben-1">
@@ -689,7 +1054,7 @@ include_once '../../init.php';
                 </div>
 
                 <!-- <p class="text-center">Increased Productivity</p> -->
-            </div>
+            <!-- </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
                 <div class="benifit ben-3">
                     <div class="ben_icon">
@@ -699,10 +1064,10 @@ include_once '../../init.php';
                         03
                     </div>
                     <p class="text-center">Reduced <br> Cost</p>
-                </div>
+                </div> -->
 
                 <!-- <p class="text-center">Lower Cost</p> -->
-            </div>
+            <!-- </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
                 <div class="benifit ben-4">
                     <div class="ben_icon">
@@ -717,90 +1082,42 @@ include_once '../../init.php';
                 <!-- <p class="text-center">24x7 Support</p> -->
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- benfit section end -->
 
     <!-- pricing start-->
 
     <?php
-    $post_name = 'App Developer Expert';
-    include_once pricing; ?>
+   # $post_name = "Engineers & Architects";
+    #include_once pricing; ?>
 
     <!-- pricing end -->
-    <!-- hiring-step start -->
-    <section class="hiring_step">
-
-        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-            <div class="hiring_step_order-1">
-                <div>
-                    <h3 class="section-heading">HIRE MOBILE APP DEVELOPERS ONLINE WITH EASY STEP</h3>
-                    <p class="text">You won't have to deal with the hassles of traditional outsourcing thanks to our novel business model, which gives you complete control over who you work with.</p>
-                    <button class="btn hire-btn">Hire Mobile App Developers</button>
-                </div>
-            </div>
-            <div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire mobile app developer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Talk To Us</h4>
-                        <p>Please elaborate on the tasks you wish to outsource.
-                        </p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="hire mobile app developer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Handpick Best Expert</h4>
-                        <p>Triple-checked mobile app developers' resumes are shared for your consideration.</p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt=" hire mobile app developer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Build Your Team</h4>
-                        <p>Test and interview them before hiring.
-                        </p>
-                    </div>
-                </div>
-                <div class="steps flex">
-                    <div class="step_icon">
-                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt=" hire mobile app developer" loading="lazy">
-                    </div>
-                    <div class="step-dtl">
-                        <h4>Get Going</h4>
-                        <p>Once on-boarded, start working on the same day itself.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- hiring-step end -->
 
     <!-- testimonial slider section start here -->
     <?php
-    $testimonial1 = "I am extremely satisfied with the mobile app that HireCoworker has developed for me. It exceeded all of my expectations and I highly recommend their services. 4.5 stars!";
-    $test_name1 = "Zoe Anne";
-    $test_role1 = "Regional Director";
+
+    $testimonial1 = "The HireCoworker team always tries to find me the right engineers that align with my needs. They make me feel like I am part of a team and they care about me, my works are done with the best pace.";
+    $test_name1 = "Hissle Chase";
+    $test_role1 = "Analytic Expert";
+    $user_img1 = "hire-developer/dev-test-01.jpeg";
 
 
-    $testimonial2 = "Hirecoworker has delivered an outstanding React Native mobile app for me. It is highly responsive, easy to navigate, and exceeded all of my expectations. I highly recommend their services. 5 stars!";
-    $test_name2 = "Carolyn Ene";
-    $test_role2 = "Founder & CEO";
+    $testimonial2 = "I’m thoroughly impressed and want to express my gratitude. Not only for your willingness to work with us to make a positive impact in the world but also with your initiative, understanding of the problem, analysis capabilities and ability to be creative and come up with a variety of concepts.";
+    $test_name2 = "Hilley billie";
+    $test_role2 = "CEO";
+    $user_img2 = "hire-developer/dev-test-02.jpeg";
 
 
-    $testimonial3 = "The iOS mobile app developed by this HireCoworker is top-notch. It has a clean and modern design, and it runs smoothly on my device. I highly recommend HireCoworker for their professional and high-quality app development services. 5 stars!";
-    $test_name3 = "Kristhi Doom";
-    $test_role3 = "Managing Partner";
+    $testimonial3 = "Words cannot express the gratitude I have for the amazing team at Hirecoworker. They have done an incredible job and I am truly grateful for all of their hard work and dedication for completing my work in less than 10 days and with quality assurance.";
+    $test_name3 = "Gowtham G";
+    $test_role3 = "Managing Director";
+    $user_img3 = "hire-developer/dev-test-03.jpeg";
 
-    $testimonial4 = "HireCoworker has exceeded my expectations with their Flutter app development. The app is visually stunning, responsive, and has a great user experience. I would highly recommend HireCoworker for their professional and efficient development services. ";
-    $test_name4 = "Yolly Harry";
-    $test_role4 = "IT Manager";
+    $testimonial4 = "I have nothing but gratitude for the fantastic Hirecoworker team. They did a fantastic job, and I sincerely appreciate all of their effort and commitments. They were professional, responsive, and always prepared to go above and beyond to ensure our happiness from the initial consultation through the project's completion.";
+    $test_name4 = "Mike Rossvelt";
+    $test_role4 = "Businessman";
+    $user_img4 = "hire-developer/dev-test-04.jpeg";
+
     include_once testimonial_slider; ?>
     <!-- testimonia; slider section end here -->
 
@@ -810,63 +1127,62 @@ include_once '../../init.php';
     <!-- faq section -->
     <section class="faq-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">FAQs</p>
-        <h5 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Do You Have
-            Questions?</h5>
+        <h5 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Do You Have Questions?</h5>
         <div class="faqs">
             <div class="faqs-child">
                 <details>
-                    <summary>How are mobile apps better than the mobile websites?</summary>
+                    <summary>Who opts for your architectural rendering services?</summary>
                     <div class="faq__content">
-                        <p class="text">Mobile applications are user-friendly, load content more quickly, and provide a better user experience. Additionally, these apps are known to lower churn rates and are simple to use.</p>
+                        <p class="text">Our architectural services are highly sought after among architects, designers, real estate agents, building service contractors, consultant engineers, land developers, etc.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Can I monitor the evaluation test of the candidates?</summary>
+                    <summary>What all tools do you use and are good with?</summary>
                     <div class="faq__content">
-                        <p class="text">We are aware that hiring remote mobile app developers may cause you some anxiety. As a result, we support real-time monitoring. We would be delighted to facilitate it for you.
-                            .</p>
+                        <p class="text">We have access to all the most recent tools, including Autodesk Vectorworks, Building Design Suite (BDS), and AutoCAD. Hire architects and engineers who are always learning about and trying out new technologies.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Am I the owner of the work done by my app developer?</summary>
+                    <summary>What’s the scope of your architectural design services?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes. You own not only the app but also all of the concepts and prototypes. No rights exist for HireCoworker or your offshore development specialists. Take full ownership of all of your works.</p>
+                        <p class="text">In addition to floor framing plans, inverted ceiling drawings, door and window schedules, roof layouts, elevations, sanitation and piping plans, and so on, we provide comprehensive architectural and engineering services.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Can I have a free trial for mobile app development services?</summary>
+                    <summary>If my architect or engineer takes leaves, can I get a replacement?</summary>
                     <div class="faq__content">
-                        <p class="text">Definitely. Get started with your mobile app developer for free for a week. You can request a longer trial for a small fee if you are still unsure or need more time to evaluate our service's quality.</p>
+                        <p class="text">No, unfortunately. The team model, on the other hand, is preferable because it allows other architects and engineers to take over for the absent resource and carry on with their work.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>If my offshore mobile app developer takes a leave, does it hamper my work?</summary>
+                    <summary>Is it possible to have a trial before I hire engineers or architects? </summary>
                     <div class="faq__content">
-                        <p class="text">Yes, regrettably, at least temporarily. We suggest that you go with our team model so that another app developer can step in and keep the development going.</p>
+                        <p class="text">Yes. Before you hire architects and engineers online, get a free trial of four hours. Evaluate their capabilities and make an informed decision. It is possible to arrange for a paid longer trial period.
+                        </p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>I have very sensitive data, can I trust its safety?</summary>
+                    <summary>What is your pricing structure? </summary>
                     <div class="faq__content">
-                        <p class="text">Yes, regrettably, at least temporarily. We suggest that you go with our team model so that another app developer can step in and keep the development going.A stringent data security system is in place at HireCoworker. We adhere to the EU's GDPR, Canada's PIPEDA, and the United States' ECPA. In addition, we have an NDA with all of our resources.</p>
+                        <p class="text">Prepaid online hiring of architects Before we can begin providing online architectural services, you must first pay the invoice for the first month, the fee for the 15-day notice period, and a copy of the signed contract.</p>
                     </div>
                 </details>
             </div>
+
         </div>
 
     </section>
     <!--faq end -->
-
     <!-- Blog section page -->
     <!-- -------------------------- -->
 

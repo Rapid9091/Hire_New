@@ -43,6 +43,12 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-outsource-us.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-coworker.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-may-help.css">
+    <link rel="stylesheet"href="<?= get_css() ?>/logo2.css">
+    <link rel="stylesheet" href="<?= get_css() ?>digital-marketing/digital-marketing.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap_1.css">
+    <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
+
+
 
     <style>
         .landing-section-services {
@@ -84,7 +90,67 @@ include_once '../../init.php';
             <?php include_once landing_form; ?>
         </div>
     </div>
+ <!-- Why to IT Outsourcing -->
+    <!-- -------------------------- -->
+    <section class="hiring_step1" style="padding-top:5%;">
 
+<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+    <div class="hiring_step1_order-1">
+        <div>
+            <p class="section-heading1">Why Choose HireCoworker For IT Outsource</p>
+            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+                outsourcing thanks to our
+                novel business model, which gives you complete control over who you work with.</p> -->
+            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+        </div>
+    </div>
+    <div class="main">
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>hire-developer/experience1.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">WELL EXPERIENCE</p>
+                <p>We have experienced and professional agents for your work.</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/low-cost.png"
+                    alt="hire legal process outsourcing" loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">AFFORDABLE PRICE</p>
+                <p>We provide an affordable price (less than $5 per hour) for outsourcing IT service. </p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/communication.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">EASY COMMUNICATION</p>
+                <p>we provide Easy communication for better client approach .</p>
+            </div>
+        </div>
+        <div class="steps2 flexs">
+            <div class="step_iconns">
+                <img src="<?= get_img() ?>engineer-architecture/24-hours-support.png" alt="hire graphic designer"
+                    loading="lazy">
+            </div>
+            <div class="step-dtll">
+                <p class="step-dtll-heading2">24/7-support</p>
+                <p>our services are available 24 hrs for our customers</p>
+            </div>
+        </div>
+        
+    </div>`
+    <!-- <button class="btn hire-btn">Get Qoute</button>
+</div> -->
+
+</section>
     <!-- services start -->
     <section class="full-section" id="full-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">SERVICES</p>
@@ -466,140 +532,338 @@ include_once '../../init.php';
     </section>
     <!-- services end -->
 
-    <!-- why choose us start -->
-    <section class="why_content_writing">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY CHOOSE US</p>
-        <h4 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY OUTSOURCE CONTENT WRITING WITH COWORKER</h4>
-        <div class="flex content-reason">
-            <div class="reason-side">
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>US, UK certifications in persuasive copywriting</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/copywriting.png" alt="hire copywriting writer" loading="lazy">
-                    </div>
+   <!-- -------------------------- -->
+    <!-- Roadmap Start From here  -->
+    <!-- -------------------------- -->
+    <section class="section-roadmap dm-services-roadmap">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">APPROACH</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">OUR WAY TO WORK FOR YOU</h3>
+
+        <ul class="roadmap">
+            <li>
+                <div class="roadmap-item">
+                    <h2>RESEARCH</h2>
+                    <p>
+                        We research about the project and study the competitor website. In order to fully capitalize on their competitive advantages, businesses might outsource research in order to concentrate on their core competencies while contracting out non-core tasks that specialty businesses can perform better.
+                    </p>
                 </div>
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>Online Research Experts</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/expert.png" alt="hire online research experts">
-                    </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>PROTOTYPE</h2>
+                    <p>
+                        We Ready project layout & client approved it. Hire CoWorker teams can concentrate on designing and testing new products while the prototype development team handles the production side of things by outsourcing the prototyping process. This enables more effective resource management and quicker development cycles for new goods.
+                    </p>
                 </div>
-                <div class="reason-side-item left-item">
-                    <div class="reason-dtl">
-                        <p>University-educated, Ex-journalists</p>
-                    </div>
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/educated.png" alt="hire university-educated, ex journalists">
-                    </div>
+            </li>
+            <li>
+
+                <div class="roadmap-item">
+                    <h2>DEVELOPEMENT</h2>
+                    <p>
+                        After the client's approval of the prototype, we design the project in phases and get approved. Outsourcing software development entails transferring all or a portion of the project's control to a third-party vendor while yet maintaining the desired level of control. This procedure greatly lowers development expenses for businesses and helps them get around a lack of internal IT personnel.
+                    </p>
                 </div>
+            </li>
+            <li>
+                <div class="roadmap-item">
+                    <h2>TEST/ LAUNCH</h2>
+                    <p>
+                        After getting final approval from the client we launch the project. When it comes to quality testing software & apps, outsourced software testing is a tremendous help.
+                    </p>
+                </div>
+            </li>
+            <div class="v-line"></div>
+        </ul>
+
+    </section>
+
+    <!-- -------------------------- -->
+
+
+
+
+
+
+<!-- -------------------------- -->
+   <!-- Industris we Cover start -->
+    <!-- -------------------------- -->
+    <section class="industries-section section-padding">
+        <div class="container">
+            <div class="section_title">
+                <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
+                <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Industries We Cover</h3>
+                <h2 class="section-heading"></h2>
+                <!-- <p class="text">
+
+                    We have Web & Mobile App Development Services for Every Industry
+                </p> -->
             </div>
-            <div class="reason_center_img" data-aos="zoom-in" data-aos-duration="400">
-                <img src="<?= get_img(); ?>content-writing/blog-bro.png" width="100%" alt="hire content writer">
+            <div class="row">
+                <div class="col-3 ">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="business-sharp"></ion-icon>
+                            </div>
+                            <h4>Real Estate <br />Property</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
 
-            </div>
-            <div class="reason-side">
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/free_content.png" alt="plagiarism free content">
+                                Providing services in the field of Real Estate.
+                            </p>
+                        </div>
                     </div>
-                    <div class="reason-dtl">
-                        <p>100% Plagiarism-free content</p>
-                    </div>
-
                 </div>
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/domain.png" alt="hire experts on all domain adn industries">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>Have Expertise in all domain and industries</p>
-                    </div>
 
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="cart-sharp"></ion-icon>
+                            </div>
+                            <h4>
+                                Ecommerce<br />
+                                Retail & B2B
+                            </h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We are providing services in the field of Ecommerce Retail & B2B.
+                            </p>
+                        </div>
+                    </div>
                 </div>
-                <div class="reason-side-item right-item">
-                    <div class="reason-side-icon">
-                        <img src="<?= get_img(); ?>content-writing/experience.png" alt="hire experienced content writer">
-                    </div>
-                    <div class="reason-dtl">
-                        <p>Average 7+ years' exp. per writer</p>
-                    </div>
 
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="fast-food-sharp"></ion-icon>
+                            </div>
+                            <h4>Food & <br />Restaurant</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Hotel & Restaurant industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="trail-sign-sharp"></ion-icon>
+                            </div>
+                            <h4>Tour & <br />Travel</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We have a nice client base in Tour & Travel industries
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="heart-sharp"></ion-icon>
+                            </div>
+                            <h4>Healthcare and <br />diagnosis</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Great experience in the Healthcare industries</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="wallet-sharp"></ion-icon>
+                            </div>
+                            <h4>Banking, Finance <br />& Insurance</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Providing mobile and web app services in Banking, Finance &
+                                Insurance
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>Blockchain</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered the blockchain field with our web designing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="car-sharp"></ion-icon>
+                            </div>
+                            <h4>Automotive</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered Automotive field with our mobile app services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="tv-sharp"></ion-icon>
+                            </div>
+                            <h4>Entertainment</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                We Covered Entertainment industries with our web designing
+                                services
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="stop-circle-sharp"></ion-icon>
+                            </div>
+                            <h4>News</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+
+                                Covered all news industries with our digital marketing services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="pencil-sharp"></ion-icon>
+                            </div>
+                            <h4>Legal</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Covered Legal field with our services.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-3">
+                    <div class="box">
+                        <div class="icon-head">
+                            <div class="iconn">
+                                <ion-icon name="home-sharp"></ion-icon>
+                            </div>
+                            <h4>Home Services</h4>
+                        </div>
+                        <div class="content">
+                            <p class="text">
+                                Providing web designing & mobile app for Home Services field.
+                            </p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- why choose us end -->
 
 
-    <!-- serviec type start -->
-    <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
-        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
-        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW WE HELP YOU DOMINATE DIGITALLY</h3>
-        <div class="why_about">
-            <p class="text text-center">HireCoworker provides the best experienced content writers, to grow your business digitally at affordable price. We have writers having experience more than 10 year in writing industry content. </p>
+<!-- -------------------------- -->
+    <!-- Working section  -->
+    <!-- -------------------------- -->
+    <section class="working" id="how_we_work">
+        <!-- <h2 class="section-heading">How it works</h2> -->
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">PROCESS</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">How we Work ?</h3>
+
+        <!-- Contact US -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>contact-us-3.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Contact Us</h2>
+                <p>
+                    Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
+                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
         </div>
 
-        <div class="design-services-2 content-4">
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
-                <div class="icon">
-                    <i class='bx bx-copy-alt'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Persuasive Copywriting</h4>
-                    <p>The content writers at HireCoworker are adept at converting your audience's initial "Umm, ok" response into "Gosh, yes, I want this!" by employing phrases and words that trigger the "buy" response in the human brain.</p>
-                </div>
+        <!-- Get Started -->
+        <div class="working-container grid grid-2">
+            <div class="working-content">
+                <h2 class="sub-heading">Get Started</h2>
+                <p>
+                    Your work is almost done at the first step itself now you just need to relax. Now your buisness is ours we'll take care of everything it need. </p>
+                <button class="basic-button">Know More</button>
             </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
-                <div class="icon">
-                    <i class='bx bx-purchase-tag-alt'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Marketing Science</h4>
-                    <p>To ensure that your content receives the desired conversions, HireCoworker's offshore content writers only employ data-driven, scientific marketing strategies and the psychology of human motivation.
-                    </p>
-                </div>
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>get-started.png" alt="Support us" />
             </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bx-conversation'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Storytelling</h4>
-                    <p>The skilled content writers at HireCoworker can help you combat a high bounce rate and increase engagement by employing the art of story-telling in their writing.</p>
-                </div>
-            </div>
-            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
-                <div class="icon">
-                    <i class='bx bx-purchase-tag-alt'></i>
-                </div>
-                <div class="service-dtl">
-                    <h4>Value Proposition</h4>
-                    <p>HireCoworker's writers identify and craft a very strong, very compelling value Proposition for your offerings, making it irresistible to your customers, in order to get that elusive "Yes."
-                    </p>
-                </div>
-            </div>
-
         </div>
 
-
-
+        <!-- Provide Feedback -->
+        <div class="working-container grid grid-2">
+            <div class="working-image grid-center">
+                <img loading="lazy" src="<?= get_img() ?>feedback.png" alt="Support us" />
+            </div>
+            <div class="working-content">
+                <h2 class="sub-heading">Provide Feedback</h2>
+                <p>
+                    Once your work is done from our side now you just need to provide your valuable feedback to us. So that next time we can provide you more good service and can grow your buissness 10 times more.
+                </p>
+                <button class="basic-button">Know More</button>
+            </div>
+        </div>
     </section>
-    <!-- serviec type end -->
+
+    <!-- -------------------------- -->
 
     <!-- why choose section start here -->
 
     <section class="why-choose-section">
         <div class="grid grid-2 width-100 why-choose-section-container">
             <div class="why-choose-section-content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="400" data-aos-delay="100">
-                <p>Collaborate With Us</p>
+                <p>Collaboration With Us</p>
                 <h4 class="section-heading">Why Hire <span>Co-Woker</span> ?</h4>
-                <p class="text">Customers from all over the world depend on our skilled developers to get high-quality,
-                    sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They
-                    have expertise in a variety of technologies and fields.
+                <p class="text">Customers from all over the world depend on our skilled developers to get high-quality, sector-specific web and mobile solutions. Employ our devoted developers to grow your company. They have expertise in a variety of technologies and fields.
                 </p>
                 <ul class="why-choose-ul">
                     <li class="text flex-center"><i class='bx bxs-check-shield'></i> Expertise in innovations</li>
@@ -612,11 +876,132 @@ include_once '../../init.php';
                 </ul>
             </div>
             <div class="why-choose-section-img grid-center" data-aos="fade-right" data-aos-easing="ease-in-out" data-aos-duration="400" data-aos-delay="100">
-                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Hire coworker">
+                <img src="<?= get_img() ?>Business decisions-broo.png" alt="Why Hirecoworker">
             </div>
         </div>
     </section>
     <!-- why choose section end here -->
+
+
+
+    <!-- serviec type start -->
+    <!-- <section class="services-types" style="background-color:#F1F8FB; padding: 5% 8%;">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">HOW MAY HELP YOU</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">REASONS OF HIRE ENGINEERS & Architects FROM COWORKER</h3>
+        <div class="why_about">
+            <p class="text text-center">A leading provider of engineering and architectural services, and with good reason.</p>
+        </div>
+
+        <div class="services-col-3">
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="0">
+                <div class="icon">
+                    <i class='bx bx-refresh'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Free Trial</h4>
+                    <p>Do you want to see how good an architect is before hiring them online? With HireCoworker, you can make an informed decision.</p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                <div class="icon">
+                    <i class='bx bxs-user'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Dedicated Employees</h4>
+                    <p>Hire architects who work for HireCoworker full-time. Let them know what you think by observing their work.</p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <i class='bx bx-dollar'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Value for Money</h4>
+                    <p>Even though you can hire an architect online, it can be expensive to hire a team. Not so with HireCoworker. For the cost of one architect, make use of the expertise of over 350 specialists.
+                    </p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <i class='bx bx-data'></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Data Security</h4>
+                    <p>You could hire a freelance architect or an architect you found online, but your data could be in danger. HireCoworker adheres to strict NDAs, ensuring the security of your data.
+                    </p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <ion-icon name="ban-outline"></ion-icon>
+                </div>
+                <div class="service-dtl">
+                    <h4>Zero Overheads</h4>
+                    <p>Cost of software and hardware, office rent, etc. may cause distraction. You can concentrate on your business with HireCoworker's offshore architectural services.
+                    </p>
+                </div>
+            </div>
+            <div class="services-item-2" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
+                <div class="icon">
+                    <i class="bx bxl-graphql"></i>
+                </div>
+                <div class="service-dtl">
+                    <h4>Diverse Experience</h4>
+                    <p>We let you hire Junior, Mid and Manager level expert architects from India, depending upon your requirement.</p>
+                </div>
+            </div>
+
+        </div>
+
+
+
+    </section>
+    serviec type end -->
+
+
+
+    <!-- roadmap start -->
+    <!-- <section class="roadmap-2">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">TIMELINE</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">ENGINEERING & ARCHITECTURAL PROCESS</h3>
+        <div class="timeline">
+            <div class="container-roadmap left">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>ANALYSIS</h2>
+                    <p class="text">We start off by analyzing your data and input files to assess which of our online architecture services are best suited for your requirements.</p>
+                </div>
+            </div>
+            <div class="container-roadmap right">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>SCOPE AND PLANNING</h2>
+                    <p class="text">After you hire architects online, this is the phase where we earmark their roles & responsibilities, come up with schedules, and draw up a concrete plan.
+                    </p>
+                </div>
+            </div>
+            <div class="container-roadmap left">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>DESIGN AND DRAFTING</h2>
+                    <p class="text">What makes us a one-stop destination for engineering architectural services in India is that we get a senior architect to supervise the process.</p>
+                </div>
+            </div>
+            <div class="container-roadmap right">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>ASSESSMENT</h2>
+                    <p class="text">The work done by an offshore architect shouldn’t have to be reviewed by an in-house resource. We take full responsibility and revisit the designs, if need be.
+                    </p>
+                </div>
+            </div>
+            <div class="container-roadmap left">
+                <div class="content" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="50">
+                    <h2>DELIVERY</h2>
+                    <p class="text">As a leading provider of offshore architectural services, we have a stringent quality control system. The designs are only handed over after thorough checking.</p>
+                </div>
+            </div>
+
+        </div>
+    </section> -->
+    <!-- roadmap end -->
+
     <!-- expert section start -->
     <section class="experts-section">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">EXPERTS</p>
@@ -624,29 +1009,29 @@ include_once '../../init.php';
         <div class="expert-grid">
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>content-writing/content-expert.jpg" class="expert-image" alt="hire content writer" loading="lazy">
+                    <img src="<?= get_img() ?>engineer-architecture/todd.jpg" class="expert-image" alt="Oursource MECHANICAL DESIGN ENGINEER" loading="lazy">
                 </div>
                 <div class="expert-profile text-center">
-                    <h2>MARRY L.</h2>
-                    <P class="light-grey">Content Writer</P>
+                    <h2>TODD S.</h2>
+                    <P class="light-grey">Sr. MECHANICAL DESIGN ENGINEER</P>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.3/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">As a blog writer since 8 years, I specialize in creating informative, engaging, and well-written content for a variety of audiences.</p>
+                <p class="light-grey text-center expert-desc">Experienced Sr. Mechanical Design Engineer with 7+ years of experience in designing and developing mechanical systems and components. </p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>BLOGS</p>
+                        <p>MECHANICAL DESIGN</p>
                     </div>
                     <div class="skill">
-                        <p>WEB PAGES</p>
+                        <p>PRODUCT DESIGN</p>
                     </div>
                     <div class="skill">
-                        <p>SOCIAL MEDIA POST</p>
+                        <p>3D MODELING</p>
                     </div>
                     <div class="skill">
-                        <p>PRESS RELEASE</p>
+                        <p>CAD DRAFTING</p>
                     </div>
                     <div class="skill">
                         <p>3+</p>
@@ -656,30 +1041,30 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>content-writing/content-expert2.jpg" class="expert-image" alt="hire content writer" loading="lazy">
+                    <img src="<?= get_img() ?>engineer-architecture/asahi.jpg" class="expert-image" alt="Oursource CIVIL ENGINEER" loading="lazy">
                 </div>
                 <div class="expert-profile">
-                    <h2 class="text-center">JAMES M.</h2>
-                    <P class="light-grey">Sr. Content Writer</P>
+                    <h2 class="text-center">ASAHI J.</h2>
+                    <P class="light-grey">CIVIL ENGINEER</P>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.7/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">My expertise spans multiple industries and topics, and I am skilled at crafting compelling narratives and engaging readers.</p>
+                <p class="light-grey text-center expert-desc">Experienced Civil Engineer with 5+ years of experience in designing, planning and executing civil engineering projects.</p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>ARTICLES</p>
+                        <p>AUTOCADD CIVIL 3D</p>
                     </div>
                     <div class="skill">
-                        <p>SEO CONTENT</p>
+                        <p>ENGINEERING DESIGN</p>
                     </div>
 
                     <div class="skill">
-                        <p>BROUCHURES</p>
+                        <p>CHIEF ARCHITECTS</p>
                     </div>
                     <div class="skill">
-                        <p>NEWSLETTERS</p>
+                        <p>ENVIRONMENTAL DESIGN</p>
                     </div>
 
                     <div class="skill">
@@ -690,29 +1075,35 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>content-writing/content-expert3.jpg" class="expert-image" alt="hire content writer" loading="lazy">
+                    <img src="<?= get_img() ?>engineer-architecture/camilo.jpg" class="expert-image" alt="Oursource Sr. Electrical Engineer" loading="lazy">
                 </div>
                 <div class="expert-profile">
-                    <h2 class="text-center">ASAD A.</h2>
-                    <P class="light-grey">Sr. Content Writer</P>
+                    <h2 class="text-center">CAMILO D.</h2>
+                    <P class="light-grey">Sr. Electrical Engineer</P>
                     <div class="expert-rating text-center">
                         <i class='bx bxs-star'></i>
                         <span class="rating_number light-grey">4.5/5</span>
                     </div>
                 </div>
-                <p class="light-grey text-center expert-desc">As a senior blog writer, I have extensive experience creating high-quality, thought-provoking content and have a industry exposure of more than 10 years .</p>
+                <p class="light-grey text-center expert-desc">Experienced Sr. Electrical Engineer with 5+ years of experience in designing, developing, and implementing electrical systems and solutions. </p>
                 <div class="expert-skill">
                     <div class="skill">
-                        <p>EBOOKS</p>
+                        <p>ELECTRICAL ENGINEERING</p>
                     </div>
                     <div class="skill">
-                        <p>PRODUCT DESCRIPTIONS</p>
+                        <p>SOLAR ENERGY</p>
                     </div>
                     <div class="skill">
-                        <p>LANDING PAGES</p>
+                        <p>SUSTAINABLE ENERGY</p>
                     </div>
                     <div class="skill">
-                        <p>EDITING</p>
+                        <p>MEP DESIGN</p>
+                    </div>
+                    <div class="skill">
+                        <p>LOAD CALCULATION</p>
+                    </div>
+                    <div class="skill">
+                        <p>4+</p>
                     </div>
 
 
@@ -722,10 +1113,70 @@ include_once '../../init.php';
         </div>
     </section>
     <!-- expert section end -->
+
+    <!-- hiring-step start -->
+    <!-- <section class="hiring_step">
+
+        <div class="grid  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step_order-1">
+                <div>
+                    <h3 class="section-heading">HIRE ENGINEERS & Architects ONLINE WITH EASY STEP</h3>
+                    <p class="text">Customers from all over the world depend on our skilled developers to get high-quality, sector-specific web and mobile solutions. Employ our devoted developers to grow your company.</p>
+                    <button class="btn hire-btn">Hire Engineer & Architects</button>
+                </div>
+            </div>
+            <div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="Oursource Electrical Engineer" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Brief Us</h4>
+                        <p>Why are you excited about outsourcing architectural and engineering services?
+                        </p>
+                    </div>
+                </div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png" alt="Oursource Architects" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Handpick The Best Resource</h4>
+                        <p>Examine the CVs of candidates who have been triple-vetted. Find architects and engineers who stand out from the crowd to hire.</p>
+                    </div>
+                </div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="Oursource CIVIL ENGINEER" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Select Tour Team</h4>
+                        <p>Phone or video conference interviews with the selected candidates Additionally, you can assign tests to the resources before selecting our services.</p>
+                    </div>
+                </div>
+                <div class="steps flex">
+                    <div class="step_icon">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="Oursource AUTOCADD" loading="lazy">
+                    </div>
+                    <div class="step-dtl">
+                        <h4>Get Going</h4>
+                        <p>Satisfied with the results? Great. Hire an engineer or architect online right away and s/he will get down to working on your project.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </section> -->
+    <!-- hiring-step end -->
+
+
     <!-- why remote start -->
-    <section class="why-remote">
-        <p class="p-pink">WHY HIRE VIRTUAL STAFF</p>
-        <h3 class="section-heading ">Remote work benefits for employers</h3>
+    <!-- <section class="why-remote">
+        <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">WHY HIRE VIRTUAL STAFF</p>
+        <h3 class="section-heading" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">Remote work benifits for employers</h3>
         <div class="benifit_grid">
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
                 <div class="benifit ben-1">
@@ -737,6 +1188,8 @@ include_once '../../init.php';
                     </div>
                     <p class="text-center">Easier Recruitment</p>
                 </div>
+
+
             </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="100">
                 <div class="benifit ben-2">
@@ -748,7 +1201,9 @@ include_once '../../init.php';
                     </div>
                     <p class="text-center">Increased Productivity</p>
                 </div>
-            </div>
+
+                <!-- <p class="text-center">Increased Productivity</p> -->
+            <!-- </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="150">
                 <div class="benifit ben-3">
                     <div class="ben_icon">
@@ -758,8 +1213,10 @@ include_once '../../init.php';
                         03
                     </div>
                     <p class="text-center">Reduced <br> Cost</p>
-                </div>
-            </div>
+                </div> -->
+
+                <!-- <p class="text-center">Lower Cost</p> -->
+            <!-- </div>
             <div class="ben" data-aos="fade-down" data-aos-easing="ease-in-out" data-aos-duration="500" data-aos-delay="200">
                 <div class="benifit ben-4">
                     <div class="ben_icon">
@@ -770,44 +1227,50 @@ include_once '../../init.php';
                     </div>
                     <p class="text-center">24x7 <br> Support</p>
                 </div>
+
+                <!-- <p class="text-center">24x7 Support</p> -->
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- benfit section end -->
 
+    <!-- pricing start-->
 
     <?php
-    $post_name = "Sr. Content Writer";
-    include_once pricing; ?>
+   # $post_name = "Engineers & Architects";
+    #include_once pricing; ?>
 
+    <!-- pricing end -->
 
     <!-- testimonial slider section start here -->
     <?php
 
-    $testimonial1 = "I was extremely impressed with the content that was written for my blog. The writer did an excellent job of understanding my target audience and crafting engaging, informative content that resonated with them. The writing was of a high quality and the piece was well-researched and well-organized. I would highly recommend this writer to anyone in need of top-notch content.";
-    $test_name1 = "Gritch Hales";
-    $test_role1 = "Blogger";
+    $testimonial1 = "The HireCoworker team always tries to find me the right engineers that align with my needs. They make me feel like I am part of a team and they care about me, my works are done with the best pace.";
+    $test_name1 = "Hissle Chase";
+    $test_role1 = "Analytic Expert";
     $user_img1 = "hire-developer/dev-test-01.jpeg";
 
 
-    $testimonial2 = "The writer did an excellent job of capturing the essence of my topic and presenting it in a clear, concise, and engaging manner. The writing was of a high quality and the piece was well-researched and well-organized. I would highly recommend this writer to anyone in need of top-notch content. I just loved their work for me they helped me alot. ";
-    $test_name2 = "Cant thre";
-    $test_role2 = "Article Writer";
+    $testimonial2 = "I’m thoroughly impressed and want to express my gratitude. Not only for your willingness to work with us to make a positive impact in the world but also with your initiative, understanding of the problem, analysis capabilities and ability to be creative and come up with a variety of concepts.";
+    $test_name2 = "Hilley billie";
+    $test_role2 = "CEO";
     $user_img2 = "hire-developer/dev-test-02.jpeg";
 
 
-    $testimonial3 = "I was blown away by the content that was written for my biography book. The writer did an excellent job of capturing the essence of my life story and presenting it in a way that was both engaging and informative. The writing was of a high quality and the piece was well-researched and well-organized. I would highly recommend this writer to anyone in need of top-notch content.";
-    $test_name3 = "Greta Nike";
-    $test_role3 = "Enterpeneur";
+    $testimonial3 = "Words cannot express the gratitude I have for the amazing team at Hirecoworker. They have done an incredible job and I am truly grateful for all of their hard work and dedication for completing my work in less than 10 days and with quality assurance.";
+    $test_name3 = "Gowtham G";
+    $test_role3 = "Managing Director";
     $user_img3 = "hire-developer/dev-test-03.jpeg";
 
-    $testimonial4 = "I am extremely satisfied with the content that was written for my landing page. The writer did an excellent job of understanding my business and crafting compelling, persuasive copy that effectively conveys my value proposition. The writing was of a high quality and the piece was well-organized and easy to read. I would highly recommend this writer to anyone in need of top-notch content for their landing page.";
-    $test_name4 = "Robert Michael";
-    $test_role4 = "MD & CEO";
+    $testimonial4 = "I have nothing but gratitude for the fantastic Hirecoworker team. They did a fantastic job, and I sincerely appreciate all of their effort and commitments. They were professional, responsive, and always prepared to go above and beyond to ensure our happiness from the initial consultation through the project's completion.";
+    $test_name4 = "Mike Rossvelt";
+    $test_role4 = "Businessman";
     $user_img4 = "hire-developer/dev-test-04.jpeg";
 
     include_once testimonial_slider; ?>
-    <!-- testimonial; slider section end here -->
+    <!-- testimonia; slider section end here -->
+
+
 
 
     <!-- faq section -->
@@ -817,54 +1280,56 @@ include_once '../../init.php';
         <div class="faqs">
             <div class="faqs-child">
                 <details>
-                    <summary>What does a Content Writer do for me?</summary>
+                    <summary>Who opts for your architectural rendering services?</summary>
                     <div class="faq__content">
-                        <p class="text">It can take a lot of time to write content and tailor words to get your audience to take the necessary action. When it comes to establishing a connection with your audience through blog posts, articles, or website content, our writers possess the necessary experience and background. With fresh ideas and new content, our content writers are ready to take your business to the next level.</p>
+                        <p class="text">Our architectural services are highly sought after among architects, designers, real estate agents, building service contractors, consultant engineers, land developers, etc.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How do I collaborate with my Content Writer?</summary>
+                    <summary>What all tools do you use and are good with?</summary>
                     <div class="faq__content">
-                        <p class="text">During their work hours, your content writer is available to support your preferred communication with your team and clients. We enjoy using Google Drive's shared documents, and using Zoom and Skype to share screens is also helpful. Our recommendation is to continue using the same tools for communicating with coworkers and local employees.</p>
+                        <p class="text">We have access to all the most recent tools, including Autodesk Vectorworks, Building Design Suite (BDS), and AutoCAD. Hire architects and engineers who are always learning about and trying out new technologies.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will they be on-call for as-needed tasks?</summary>
+                    <summary>What’s the scope of your architectural design services?</summary>
                     <div class="faq__content">
-                        <p class="text">No, your content writer will be a hardworking member of your team. Our positions can be long-term, full-time, or part-time, with part-time positions requiring at least 20 hours per week.</p>
+                        <p class="text">In addition to floor framing plans, inverted ceiling drawings, door and window schedules, roof layouts, elevations, sanitation and piping plans, and so on, we provide comprehensive architectural and engineering services.</p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>Will my Content Writer be able to complete work by deadlines?</summary>
+                    <summary>If my architect or engineer takes leaves, can I get a replacement?</summary>
                     <div class="faq__content">
-                        <p class="text">Yes, your content writer will adhere to your instructions and finish their work within your preferred timeframes. We recommend over-communicating your expectations and timelines to avoid surprises and ensure everyone is on the same page.
+                        <p class="text">No, unfortunately. The team model, on the other hand, is preferable because it allows other architects and engineers to take over for the absent resource and carry on with their work.</p>
+                    </div>
+                </details>
+            </div>
+            <div class="faqs-child">
+                <details>
+                    <summary>Is it possible to have a trial before I hire engineers or architects? </summary>
+                    <div class="faq__content">
+                        <p class="text">Yes. Before you hire architects and engineers online, get a free trial of four hours. Evaluate their capabilities and make an informed decision. It is possible to arrange for a paid longer trial period.
                         </p>
                     </div>
                 </details>
             </div>
             <div class="faqs-child">
                 <details>
-                    <summary>How is their verbal and written English communication skills?</summary>
+                    <summary>What is your pricing structure? </summary>
                     <div class="faq__content">
-                        <p class="text">Our employees speak English fluently. During your interview, they will let you know how well they communicate, and you can conduct any mini-tests you want to test their skills further.</p>
+                        <p class="text">Prepaid online hiring of architects Before we can begin providing online architectural services, you must first pay the invoice for the first month, the fee for the 15-day notice period, and a copy of the signed contract.</p>
                     </div>
                 </details>
             </div>
-            <div class="faqs-child">
-                <details>
-                    <summary>How do I evaluate my content strategy?</summary>
-                    <div class="faq__content">
-                        <p class="text">We have a team at HireCoworker to test all of the content strategies. Our team's primary goal is to implement a data-driven strategy that is most beneficial to your brand and business.</p>
-                    </div>
-                </details>
-            </div>
+
         </div>
+
     </section>
     <!--faq end -->
 
