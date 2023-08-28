@@ -171,7 +171,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>finance_account/payroll.png" alt="hire payroll expert">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>payroll">
                                 <h5>PAYROLL</h5>
                             </a>
                         </div>
@@ -189,7 +189,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>finance_account/tax.png" alt="hire tax preparation expert">
                         </div>
                         <div class="box-title-heading">
-                            <a href="">
+                            <a href="<?=home_path() ?>tax-preparation-services">
                                 <h5>Tax Preparation</h5>
                             </a>
                         </div>

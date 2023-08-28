@@ -70,7 +70,19 @@ ReWriteRule ^full-stack-development-services([/]?)$ pages/it-outsourcing/full-st
 
 ReWriteRule ^hire-developers/([0-9A-za-z\-]+)([/]?)$ pages/hire-developers/$1.php [NC,L]
 ReWriteRule ^hire-developers([/]?)$ pages/hire-developers/_index.php [NC,L]
+
+
+
+
+
+
+
 ReWriteRule ^hire-finance-accounts-experts([/]?)$ pages/finance-accounts-experts/_index.php [NC,L]
+ReWriteRule ^payroll([/]?)$ pages/finance-accounts-experts/payroll.php [NC,L]
+ReWriteRule ^tax-preparation-services([/]?)$ pages/finance-accounts-experts/tax-preparation-services.php [NC,L]
+
+
+
 ReWriteRule ^hire-professional-mobile-app-developers([/]?)$ pages/mobile-apps-developers/_index.php [NC,L]
 ReWriteRule ^android-app-development([/]?)$ pages/mobile-apps-developers/android-app-development.php [NC,L]
 ReWriteRule ^app-maintanance-sevices([/]?)$ pages/mobile-apps-developers/app-maintanance-sevices.php [NC,L]
