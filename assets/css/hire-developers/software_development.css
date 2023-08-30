@@ -364,6 +364,8 @@ p.p-pink::after {
   .logo > a > img {
     width:auto;
     height: 62px;
+   margin-left: -1%;
+    margin-top: 30%;
   }
   
   .links-list > li {
@@ -473,6 +475,8 @@ p.p-pink::after {
     .logo > a > img {
       height: 65px;
       width: 100%;
+      margin-left: -1%;
+      margin-top: 30%;
     }
   }
   
@@ -1585,6 +1589,11 @@ margin-top: 10px;
 }
 .testimonial-section .text {
   font-size: 16px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5; /* start showing ellipsis when 3rd line is reached */
+  white-space: pre-wrap; /* let the text wrap preserving spaces */
 }
 .test-item {
   padding: 5%;
