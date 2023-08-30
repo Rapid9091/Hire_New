@@ -12,7 +12,12 @@ include_once "../init.php";
   <title>Coworker</title>
   <link rel="icon" href="./assets/images/favicon_io/favicon-big.png" type="image/ico">
   <meta name="keywords" content="Assisstant, coworker, virtual assisstant, hire coworker, hire VA">
+<style>
+.pricing_link{
+  color: black;
+}
 
+</style>
 
   <?php include_once head; ?>
 
@@ -95,7 +100,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-         Web Development Services
+          <a href="<?=home_path() ?>va-web-development" class="pricing_link" >Web Development Services</a>
         </div>
         <div class="list_data">
         $5
@@ -112,7 +117,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         CMS Development Services
+          <a href="<?=home_path() ?>cms-development" class="pricing_link" > CMS Development Services</a>
         </div>
         <div class="list_data">
         $5
@@ -129,7 +134,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Software Development Services
+          <a href="<?=home_path() ?>software-development-va" class="pricing_link" >Software Development Services</a>
         </div>
         <div class="list_data">
         $6
@@ -146,7 +151,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         DataBase Development Services
+          <a href="<?=home_path() ?>database-development-services" class="pricing_link" > DataBase Development Services</a>
         </div>
         <div class="list_data">
         $15
@@ -163,7 +168,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         IT security Services
+          <a href="<?=home_path() ?>it-security-services" class="pricing_link" >  IT security Services</a>
         </div>
         <div class="list_data">
         $10
@@ -180,7 +185,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Machine Learning Services
+          <a href="<?=home_path() ?>machinelearning-service" class="pricing_link" > Machine Learning Services</a>
         </div>
         <div class="list_data">
         $5
@@ -197,7 +202,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Network Installation Services
+          <a href="<?=home_path() ?>network-installation" class="pricing_link" > Network Installation Services</a>
         </div>
         <div class="list_data">
         $15
@@ -214,7 +219,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Frontened Development Services
+          <a href="<?=home_path() ?>frontend-development-services" class="pricing_link" > Frontened Development Services</a>
         </div>
         <div class="list_data">
         $5
@@ -231,7 +236,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Backened Development Services
+          <a href="<?=home_path() ?>backend-development-services" class="pricing_link" >  Backened Development Services</a>
         </div>
         <div class="list_data">
         $5
@@ -248,7 +253,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         FullStack Development Services
+          <a href="<?=home_path() ?>full-stack-development-services" class="pricing_link" >FullStack Development Services</a>
         </div>
         <div class="list_data">
         $6
@@ -288,7 +293,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-         Ecommerce Web Development
+          <a href="<?=home_path() ?>ecommerce-web-development" class="pricing_link" > Ecommerce Web Development</a>
         </div>
         <div class="list_data">
         $4
@@ -305,7 +310,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Customer Mail Handling
+          <a href="<?=home_path() ?>customer-mail-handling" class="pricing_link" > Customer Mail Handling</a>
         </div>
         <div class="list_data">
         $5
@@ -322,7 +327,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Chargebacks Handling
+          <a href="<?=home_path() ?>chargebacks-handling" class="pricing_link" > Chargebacks Handling</a>
         </div>
         <div class="list_data">
         $10
@@ -339,7 +344,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Amazon Account Handling
+          <a href="<?=home_path() ?>hire-amazon-virtual-assistant" class="pricing_link" > Amazon Account Handling</a>
         </div>
         <div class="list_data">
         $5
@@ -356,7 +361,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Ebay Account Handling
+          <a href="<?=home_path() ?>e-bay-services" class="pricing_link" >  Ebay Account Handling</a>
         </div>
         <div class="list_data">
         $5
@@ -373,7 +378,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Walmart Account Handling
+          <a href="<?=home_path() ?>walmart-virtual-assistant" class="pricing_link" >   Walmart Account Handling</a>
         </div>
         <div class="list_data">
         $5
@@ -390,7 +395,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-       Dropshipping Store Handling
+          <a href="<?=home_path() ?>dropshipping-virtual-assistant" class="pricing_link" > Dropshipping Store Handling</a>
         </div>
         <div class="list_data">
         $3
@@ -407,7 +412,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Sales Funnel Development + Support
+          <a href="<?=home_path() ?>sales-funnel-development" class="pricing_link" >  Sales Funnel Development + Support</a>
         </div>
         <div class="list_data">
         $10
@@ -424,7 +429,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Google Reviews Services
+          <a href="<?=home_path() ?>goggle-reviews" class="pricing_link" > Google Reviews Services</a>
         </div>
         <div class="list_data">
         $1.5 per review
@@ -464,7 +469,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-         Search Engine Optimization (SEO)
+          <a href="<?=home_path() ?>hire-seo-virtual-assistant-specialist" class="pricing_link" >  Search Engine Optimization (SEO)</a>
         </div>
         <div class="list_data">
         $5
@@ -481,7 +486,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Social Media Handler
+          <a href="<?=home_path() ?>va-for-social-media-marketing" class="pricing_link" > Social Media Handler</a>
         </div>
         <div class="list_data">
         $3
@@ -498,7 +503,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Email Marketing Services
+          <a href="<?=home_path() ?>email-marketing-virtual-assistant" class="pricing_link" >  Email Marketing Services</a>
         </div>
         <div class="list_data">
         $5
@@ -515,7 +520,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Local SEO
+          <a href="<?=home_path() ?>google-business-profile-virtual-assistant" class="pricing_link" >   Google Business</a>
         </div>
         <div class="list_data">
         $4
@@ -532,7 +537,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Franchise SEO
+          <a href="<?=home_path() ?>franchise-seo-services" class="pricing_link" >  Franchise SEO</a>
         </div>
         <div class="list_data">
         $4
@@ -549,7 +554,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Content Marketing Services
+          <a href="<?=home_path() ?>content-marketing-services" class="pricing_link" >   Content Marketing Services</a>
         </div>
         <div class="list_data">
         $4
@@ -566,7 +571,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Link Building
+          <a href="<?=home_path() ?>backlink-building-virtual-assistant" class="pricing_link" > Link Building</a>
         </div>
         <div class="list_data">
         $5
@@ -583,7 +588,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Online Reputation Management (ORM)
+          <a href="<?=home_path() ?>reputation-management-services" class="pricing_link" >  Online Reputation Management (ORM)</a>
         </div>
         <div class="list_data">
         $5
@@ -600,7 +605,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Conversion Rate Optimization (CRO) 
+          <a href="<?=home_path() ?>conversion-rate-optimization" class="pricing_link" >  Conversion Rate Optimization (CRO) </a>
         </div>
         <div class="list_data">
         $5
@@ -617,7 +622,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Amazon Marketing Services (AMS)
+          <a href="<?=home_path() ?>amazon-marketing-services" class="pricing_link" > Amazon Marketing Services (AMS)</a>
         </div>
         <div class="list_data">
         $5
@@ -634,7 +639,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         PPC Advertisement Services
+          <a href="<?=home_path() ?>best-ppc-virtual-assistant" class="pricing_link" >  PPC Advertisement Services</a>
         </div>
         <div class="list_data">
         $5
@@ -649,22 +654,7 @@ include_once "../init.php";
         $920
         </div>
       </div>
-      <div class="list_row">
-        <div class="list_data">
-         Social Media Advertisement Services
-        </div>
-        <div class="list_data">
-        $4
-        </div>
-        <div class="list_data">
-        $30
-        </div>
-        <div class="list_data">
-        $200
-        </div>
-        <div class="list_data">
-        $800
-        </div>
+     
       </div>
     </div>
 
@@ -691,7 +681,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-        Video Production Services
+        <a href="<?=home_path() ?>video-production-services" class="pricing_link" > Video Production Services</a>
         </div>
         <div class="list_data">
         $5
@@ -708,7 +698,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Content Writing Services
+        <a href="<?=home_path() ?>best-ppc-virtual-assistant" class="pricing_link" >  Content Writing Services</a>
         </div>
         <div class="list_data">
         $5
@@ -725,7 +715,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Video Topic Strategist
+        <a href="<?=home_path() ?>video-topic-strategist" class="pricing_link" >  Video Topic Strategist</a>
         </div>
         <div class="list_data">
         $5
@@ -742,7 +732,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Camera Man Services
+        <a href="<?=home_path() ?>cameramans-services" class="pricing_link" > Camera Man Services</a>
         </div>
         <div class="list_data">
         $20
@@ -759,7 +749,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Wedding Video Shooting Services
+        <a href="<?=home_path() ?>wedding-video-shooting-services" class="pricing_link" > Wedding Video Shooting Services</a>
         </div>
         <div class="list_data">
         $20
@@ -799,7 +789,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-        Movie Director Services
+        <a href="<?=home_path() ?>movie-director-services" class="pricing_link" >  Movie Director Services</a>
         </div>
         <div class="list_data">
         $20
@@ -816,7 +806,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Movie Script Writer Services
+        <a href="<?=home_path() ?>movie-script-services" class="pricing_link" > Movie Script Writer Services</a>
         </div>
         <div class="list_data">
         $5
@@ -833,7 +823,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Movie Camera Man Services
+        <a href="<?=home_path() ?>movie-cameraman-services" class="pricing_link" >  Movie Camera Man Services</a>
         </div>
         <div class="list_data">
         $30
@@ -850,7 +840,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Hire Actor/Actress
+        <a href="<?=home_path() ?>hire-actor-actrees" class="pricing_link" >  Hire Actor/Actress</a>
         </div>
         <div class="list_data">
         $55
@@ -867,7 +857,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Short Movie - Complete - 43 minutes
+        <a href="<?=home_path() ?>short-movies" class="pricing_link" > Short Movie </a>
         </div>
         <div class="list_data">
         $1000 (Indian)
@@ -1100,7 +1090,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-        Articles & Blogs
+        <a href="<?=home_path() ?>article-writer" class="pricing_link" >Articles & Blogs</a>
         </div>
         <div class="list_data">
         $5
@@ -1117,7 +1107,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Landing & Sales Pages
+        <a href="<?=home_path() ?>landing&sales" class="pricing_link" > Landing & Sales Pages</a>
         </div>
         <div class="list_data">
         $5
@@ -1134,7 +1124,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Technical & Medical
+        <a href="<?=home_path() ?>technical-medical" class="pricing_link" >Technical & Medical</a>
         </div>
         <div class="list_data">
         $5
@@ -1151,7 +1141,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Social Media Content
+        <a href="<?=home_path() ?>website-&-seo-content" class="pricing_link" >WEBSITE & SEO CONTENT</a>
         </div>
         <div class="list_data">
         $5
@@ -1168,7 +1158,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Ebook & Brochure
+        <a href="<?=home_path() ?>social-media-content" class="pricing_link" >Social Media Content</a>
         </div>
         <div class="list_data">
         $5
@@ -1185,7 +1175,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Speeches & Reviews
+        <a href="<?=home_path() ?>ebook&brochur" class="pricing_link" >Ebook & Brochure</a>
         </div>
         <div class="list_data">
         $5
@@ -1202,7 +1192,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Travel & Lifestyle
+        <a href="<?=home_path() ?>speeches-&-reviews" class="pricing_link" >Speeches & Reviews</a>
         </div>
         <div class="list_data">
         $5
@@ -1219,7 +1209,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        White Papers
+        <a href="<?=home_path() ?>travel-&-lifestyle" class="pricing_link" >Travel & Lifestyle</a>
         </div>
         <div class="list_data">
         $5
@@ -1236,7 +1226,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Gaming/ Movie Script 
+        <a href="<?=home_path() ?>whitepaper-in-marketing" class="pricing_link" > White Papers</a>
         </div>
         <div class="list_data">
         $5
@@ -1253,7 +1243,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Product & Services Descriptions
+        <a href="<?=home_path() ?>press-release-&-newsletters" class="pricing_link" >PRESS RELEASE & NEWSLETTERS </a>
         </div>
         <div class="list_data">
         $5
@@ -1270,7 +1260,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Editing & Proofreading
+        <a href="<?=home_path() ?>academic-&-curriculum" class="pricing_link" >ACADEMIC & CURRICULUM</a>
         </div>
         <div class="list_data">
         $5
@@ -1287,7 +1277,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Books & Magazines
+        <a href="<?=home_path() ?>movie-script-services" class="pricing_link" >Movie Script </a>
         </div>
         <div class="list_data">
         $5
@@ -1304,7 +1294,92 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Legal Content
+        <a href="<?=home_path() ?>product-&-services-descriptions" class="pricing_link" > Product & Services Descriptions</a>
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        <a href="<?=home_path() ?>editing-&-proofreading" class="pricing_link" >Editing & Proofreading</a>
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        <a href="<?=home_path() ?>book-writing-services" class="pricing_link" > Books WRITING</a>
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        <a href="<?=home_path() ?>game-script-writing-services" class="pricing_link" > GAME SCRIPT WRITING</a>
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        <a href="<?=home_path() ?>magazines-writing-service" class="pricing_link" >MAGAZINES WRITING</a>
+        </div>
+        <div class="list_data">
+        $5
+        </div>
+        <div class="list_data">
+        $35
+        </div>
+        <div class="list_data">
+        $230
+        </div>
+        <div class="list_data">
+        $920
+        </div>
+      </div>
+      <div class="list_row">
+        <div class="list_data">
+        <a href="<?=home_path() ?>legal-content" class="pricing_link" >  Legal Content</a>
         </div>
         <div class="list_data">
         $10
@@ -1321,7 +1396,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        CVs & Cover Letter
+        <a href="<?=home_path() ?>cv-&-cover-letter" class="pricing_link" > CVs & Cover Letter</a>
         </div>
         <div class="list_data">
         $10
@@ -1338,7 +1413,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Mad Fiction Writer (Magic,Horror etc.)
+        <a href="<?=home_path() ?>fiction" class="pricing_link" >  Mad Fiction Writer (Magic,Horror etc.)</a>
         </div>
         <div class="list_data">
         $5
@@ -1378,7 +1453,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-         Autocadd
+          <a href="<?=home_path() ?>autocad" class="pricing_link" >  Autocadd</a>
         </div>
         <div class="list_data">
         $10
@@ -1395,7 +1470,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Mechanical Engineering
+          <a href="<?=home_path() ?>mechanical-engineering" class="pricing_link" >  Mechanical Engineering</a>
         </div>
         <div class="list_data">
         $10
@@ -1412,7 +1487,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        MEP Engineering
+          <a href="<?=home_path() ?>mep-engineering" class="pricing_link" >   MEP Engineering</a>
         </div>
         <div class="list_data">
         $10
@@ -1429,7 +1504,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Civil Engineering
+          <a href="<?=home_path() ?>civil-engineering" class="pricing_link" >  Civil Engineering</a>
         </div>
         <div class="list_data">
         $10
@@ -1446,7 +1521,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Electronic Engineering
+          <a href="<?=home_path() ?>electronics-engineering" class="pricing_link" >  Electronic Engineering</a>
         </div>
         <div class="list_data">
         $10
@@ -1463,7 +1538,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Electrical Engineering
+          <a href="<?=home_path() ?>/electrical-engineering" class="pricing_link" >  Electrical Engineering</a>
         </div>
         <div class="list_data">
         $10
@@ -1480,7 +1555,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Architectural Drafting
+          <a href="<?=home_path() ?>architectural-drafting" class="pricing_link" >  Architectural Drafting</a>
         </div>
         <div class="list_data">
         $10
@@ -1497,7 +1572,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Construction Drawing
+          <a href="<?=home_path() ?>construction-drawing" class="pricing_link" >  Construction Drawing</a>
         </div>
         <div class="list_data">
         $10
@@ -1514,7 +1589,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Architectural Visualisation 
+          <a href="<?=home_path() ?>" class="pricing_link" >  Architectural Visualisation </a>
         </div>
         <div class="list_data">
         $10
@@ -1554,7 +1629,7 @@ include_once "../init.php";
     <div class="panel">
       <div class="list_row">
         <div class="list_data">
-        IOS Development
+          <a href="<?=home_path() ?>ios-development" class="pricing_link" >  IOS Development</a>
         </div>
         <div class="list_data">
         $8
@@ -1571,7 +1646,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Android App Development
+          <a href="<?=home_path() ?>android-app-development" class="pricing_link" > Android App Development</a>
         </div>
         <div class="list_data">
         $5
@@ -1588,7 +1663,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Windows App Development
+          <a href="<?=home_path() ?>windows-application-development" class="pricing_link" > Windows App Development</a>
         </div>
         <div class="list_data">
         $8
@@ -1605,7 +1680,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-         Hybrid App Development
+          <a href="<?=home_path() ?>hybrid-app-development" class="pricing_link" >  Hybrid App Development</a>
         </div>
         <div class="list_data">
         $8
@@ -1622,7 +1697,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        Native App Development
+          <a href="<?=home_path() ?>native-app-developers" class="pricing_link" >  Native App Development</a>
         </div>
         <div class="list_data">
         $5
@@ -1639,7 +1714,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        WEARABLE APP DEVELOPMENT
+          <a href="<?=home_path() ?>wearable-mobile-developers" class="pricing_link" > WEARABLE APP DEVELOPMENT</a>
         </div>
         <div class="list_data">
         $5
@@ -1656,7 +1731,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        CUSTOM APP DEVELOPMENT
+          <a href="<?=home_path() ?>custom-app-development" class="pricing_link" >  CUSTOM APP DEVELOPMENT</a>
         </div>
         <div class="list_data">
         $5
@@ -1673,7 +1748,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        APP MAINTENANCE & SUPPORT
+          <a href="<?=home_path() ?>app-maintanance-sevices" class="pricing_link" >  APP MAINTENANCE & SUPPORT</a>
         </div>
         <div class="list_data">
         $5
@@ -1690,7 +1765,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        MIGRATION & APP PORTING 
+          <a href="<?=home_path() ?>migration-app-porting" class="pricing_link" > MIGRATION & APP PORTING </a>
         </div>
         <div class="list_data">
         $5
@@ -1707,7 +1782,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        XAMARIN APP DEVELOPMENT 
+          <a href="<?=home_path() ?>xamarin-app-development" class="pricing_link" >  XAMARIN APP DEVELOPMENT </a>
         </div>
         <div class="list_data">
         $5
@@ -1724,7 +1799,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        MOBILE GAME DEVELOPMENT 
+          <a href="<?=home_path() ?>mobile-game-development" class="pricing_link" >  MOBILE GAME DEVELOPMENT </a>
         </div>
         <div class="list_data">
         $5
@@ -1741,7 +1816,7 @@ include_once "../init.php";
       </div>
       <div class="list_row">
         <div class="list_data">
-        AUGMENTED REALITY DEVELOPMENT
+          <a href="<?=home_path() ?>augmented-reality-development" class="pricing_link" >  AUGMENTED REALITY DEVELOPMENT</a>
         </div>
         <div class="list_data">
         $5

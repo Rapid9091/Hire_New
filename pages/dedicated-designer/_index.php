@@ -47,6 +47,12 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_why-choose-us.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_how-it-works.css">
     <style>
+     .why-choose-section-content > p:first-child::after{
+        right:0!important;
+    
+        top:25%!important;
+    }
+
         .landing-section-services {
             background-image: url("<?= get_img() ?>dedicated-designer-2.webp");
         }

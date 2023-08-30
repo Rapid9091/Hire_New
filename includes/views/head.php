@@ -11,7 +11,9 @@
 <link  href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="preload" as="stylesheet" crossorigin="anonymous">
 
 <!-- <link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/css/intlTelInput.css"> -->
-
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script async src="https://cdn.lordicon.com/fudrjiwc.js"></script>
 
   <!-- Images End -->
 </body>
