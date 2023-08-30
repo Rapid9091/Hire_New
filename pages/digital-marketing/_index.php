@@ -54,6 +54,12 @@ include_once '../../init.php';
         .less {
     display: none;
 }
+.why-choose-section-content > p:first-child::after{
+        right:0!important;
+    
+        top:25%!important;
+    }
+
     </style>
 </head>
 

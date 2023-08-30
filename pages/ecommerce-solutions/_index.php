@@ -51,6 +51,12 @@ include_once '../../init.php';
         .landing-section-services {
             background-image: url("<?= get_img() ?>ecommerce_solution/ebackground.webp");
         }
+        .why-choose-section-content > p:first-child::after{
+        right:0!important;
+    
+        top:25%!important;
+    }
+
     </style>
 </head>
 
