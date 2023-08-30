@@ -38,7 +38,7 @@ include_once '../../init.php';
         include_once header;
         ?>
 
-
+<!--  -->
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
