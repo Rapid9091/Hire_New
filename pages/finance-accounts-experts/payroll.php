@@ -262,7 +262,7 @@ include_once '../../init.php';
     related to payroll.</p><br>
 </div>
 <div class="content_div">
-    <h2 class="content-heading">Payroll Services from Hire Coworker
+    <h2 class="content-heading">Payroll Services from Hire Coworker</h2>
     <p class="text_content">In the landscape of numerous payroll service providers, Hire Coworker is a reliable choice
         for several reasons. The company's commitment to accuracy, compliance, and client satisfaction sets it apart.
     </p><br>

@@ -13,7 +13,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" Hire Dedicated Developers | Wordpress, Laravel & PHP | Hire Co-Worker" />
     <meta property="og:description" content="Are you looking for hiring dedicated developers? Hire Co-Worker helps you to hire a developer for your website, app or project on full time, part time and hourly." />
-    <meta property="og:url" content="https://hirecoworker.com/services/hire-dedicated-developers" />
+    <meta property="og:url" content="https://hirecoworker.com/hire-developers" />
     <meta property="og:site_name" content="Hire Dedicated Developers | Wordpress, Laravel & PHP | Hire Co-Worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="hire dedicated developers, hire dedicated laravel developers, hire dedicated wordpress developers, hire dedicated php developers, hire dedicated android developers, hire dedicated web developers, hire dedicated wordpress developer">

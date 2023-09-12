@@ -14,7 +14,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" HireCoworker | Ecommerce Solutions & Consulting Company in the USA" />
     <meta property="og:description" content="By using our knowledge and resources to provide the ideal eCommerce solutions and ecommerce services for your company, we at Hire Coworker can assist in enhancing your marketing initiatives." />
-    <meta property="og:url" content="https://hirecoworker.com/services/ecommerce-solutions-service" />
+    <meta property="og:url" content="https://hirecoworker.com/ecommerce-solutions-service" />
     <meta property="og:site_name" content="HireCoworker | Ecommerce Solutions & Consulting Company in the USA" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="ecommerce solutions service, ecommerce website development, ecommerce website development services, ecommerce development services, ecommerce development services, best ecommerce website design,  ecommerce website development company,  ecommerce development solutions ">

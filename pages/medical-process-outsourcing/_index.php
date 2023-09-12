@@ -14,7 +14,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" Hire Professional Medical Process Experts | Hire Co-worker" />
     <meta property="og:description" content="Find qualified medical process specialists via Virtual Assistants. Our skilled group of medical specialists can help you improve efficiency by streamlining your procedures." />
-    <meta property="og:url" content="https://hirecoworker.com/services/medical-process-outsourcing" />
+    <meta property="og:url" content="https://hirecoworker.com/medical-process-outsourcing" />
     <meta property="og:site_name" content="Hire Professional Medical Process Experts | Hire Co-worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Medical Process Outsourcing, Hire Healthcare Professionals, Medical business process outsourcing, Medical billing process outsourcing companies, Medical process outsourcing in india, Medical Process Experts, Health Insurance Specialist , Medical billing process outsourcing, Medical process outsourcing">

@@ -15,7 +15,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" Hire Freelance Accounting & Finance Experts | Hire Co-worker" />
     <meta property="og:description" content="Hire a virtual assistant if you require an accountant and financial advisor. Our staff assist you with accounting, auditing, financial analysis, payroll services, and more." />
-    <meta property="og:url" content="https://hirecoworker.com/services/hire-finance-accounts-experts" />
+    <meta property="og:url" content="https://hirecoworker.com/hire-finance-accounts-experts" />
     <meta property="og:site_name" content="Hire Freelance Accounting & Finance Experts | Hire Co-worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="Hire the best Financial Consultants, Freelance Business Finance Experts for Hire, Hire Freelance Accounting & Finance Experts, Hire Finance Professionals, hire finance experts, Freelance Accounting experts for Hire, Freelance Accounting Experts , hire finance professional experts, Finance Experts for Hire">

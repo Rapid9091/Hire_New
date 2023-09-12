@@ -14,7 +14,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Hire the Most Reliable Virtual Assistants Today | Hire Co-Worker" />
     <meta property="og:description" content="Find the top virtual assistants to finish the job quickly and efficiently. Because of our skilled staff, you can count on us to continuously deliver results of the highest calibre." />
-    <meta property="og:url" content="https://hirecoworker.com/services/virtual-assistant" />
+    <meta property="og:url" content="https://hirecoworker.com/virtual-assistant" />
     <meta property="og:site_name" content="Hire the Most Reliable Virtual Assistants Today | Hire Co-Worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="virtual assistant, virtual assistant services, what is a virtual assistant, android virtual assistant, virtual personal assistant, how to be a virtual assistant, virtual assistant websites, virtual assistant companies , hire a virtual assistant , hire virtual assistant ">

@@ -13,7 +13,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Hire Professional Mobile App Developers for Hire | Hire Co-Worker" />
     <meta property="og:description" content="Are you looking for experienced mobile app developers? Our team of professional mobile app developers can help you build the perfect mobile application for your business." />
-    <meta property="og:url" content="https://hirecoworker.com/services/hire-professional-mobile-app-developers" />
+    <meta property="og:url" content="https://hirecoworker.com/hire-professional-mobile-app-developers" />
     <meta property="og:site_name" content="Hire Professional Mobile App Developers for Hire | Hire Co-Worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="hiring mobile app developers, hire mobile app developers, mobile app developers, mobile app developers for hire, android mobile app developers, best mobile app developers, mobile app developer , freelance mobile app developers , website and mobile app developers">

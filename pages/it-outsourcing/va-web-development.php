@@ -10,7 +10,7 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Virtual Assistant for Web Development</title>
+    <title> Web Development</title>
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
@@ -43,7 +43,7 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                    Virtual Assistant for Web Development Service
+                     Web Development Service
                 </h1>
 
                 <!-- <ul class="landing-ul">

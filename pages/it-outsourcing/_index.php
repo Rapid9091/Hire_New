@@ -14,7 +14,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" IT Outsourcing Services & Consulting Company in the USA" />
     <meta property="og:description" content="HireCoworker provide IT Outsourcing Services for companies of all sizes. If you looking for best IT outsourcing Services & consulting Company. Then you are right place." />
-    <meta property="og:url" content="https://hirecoworker.com/services/it-outsourcing" />
+    <meta property="og:url" content="https://hirecoworker.com/it-outsourcing-services" />
     <meta property="og:site_name" content="IT Outsourcing Services & Consulting Company in the USA" />
     <meta name='robots' content='index' />
     <meta name="keywords" content=" IT outsourcing services in usa, IT outsource services, IT service outsourcing, IT outsourcing services company, IT services outsource in usa, IT outsourcing company in usa, outsourcing IT services company, IT services outsourcing company in usa, outsourcing IT company, outsourcing IT company in usa, IT service management outsourcing, IT service management outsourcing company in usa">

@@ -13,7 +13,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content="HireCoworker | Hire The #1 Digital Marketing Virtual Assistant in the USA" />
     <meta property="og:description" content="HireCoworker helps you easily find and hire a digital marketing virtual assistant. HireCoworker makes it easy to find the perfect VA for your project or business." />
-    <meta property="og:url" content="https://hirecoworker.com/services/digital-marketing" />
+    <meta property="og:url" content="https://hirecoworker.com/hire-digital-marketer" />
     <meta property="og:site_name" content="HireCoworker | Hire The #1 Digital Marketing Virtual Assistant in the USA" />
     <meta name='robots' content='index' />
     <meta name="keywords" content=" Hire Marketing Assistants, hire digital marketing virtual assistant, digital marketing virtual assistant, virtual assistant digital marketing, virtual assistant vs digital marketing, virtual digital marketing assistant, digital marketing virtual assistant for hire, hiring a virtual assistant for digital marketing agency, Virtual Marketing Assistants, Digital Marketing Assistant Services, Hire a Digital Marketing VA, Hire a Virtual Assistant for Internet Marketing, Hire a Virtual Assistant for Your Business">

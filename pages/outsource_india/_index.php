@@ -14,7 +14,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" Outsource to India | Best Offshore Outsourcing Company | Hire Coworker" />
     <meta property="og:description" content="Hire Coworker is an offshore outsourcing company that specializes in providing quality services to businesses who are looking to outsource their work to India." />
-    <meta property="og:url" content="https://hirecoworker.com/services/outsource-to-india" />
+    <meta property="og:url" content="https://hirecoworker.com/outsource-to-india" />
     <meta property="og:site_name" content="Outsource to India | Best Offshore Outsourcing Company | Hire Coworker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="outsource india, outsource to india, india outsourcing, outsource work to india, outsourcing company in india, indian outsourcing company, india outsourcing companies, outsource company in india, companies outsourcing to india, indian outsourcing, india outsource, outsourcing in india, outsource and offshore">

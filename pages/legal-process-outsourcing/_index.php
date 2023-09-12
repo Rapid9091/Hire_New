@@ -13,7 +13,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Hire Expert Legal Process Outsourcing Services | Hire Co-Worker"/>
     <meta property="og:description" content="Need help with legal process outsourcing? Look no further.Hire Co-worker. Our experts have the experience to provide you with the best Legal Process Outsourcing services." />
-    <meta property="og:url" content="https://hirecoworker.com/services/legal-outsourcing-services" />
+    <meta property="og:url" content="https://hirecoworker.com/legal-outsourcing-services" />
     <meta property="og:site_name" content="Hire Expert Legal Process Outsourcing Services | Hire Co-Worker" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="legal services outsourcing, outsourcing legal services, legal outsourcing services, legal process outsourcing services, legal services outsourcing india, legal outsourcing services company, outsourcing legal transcription services, benefits of outsourcing legal services , legal support services outsourcing ,What is legal outsourcing services">

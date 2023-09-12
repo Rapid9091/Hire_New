@@ -222,6 +222,20 @@ include_once '../init.php';
                 </a>
             </div>
         </div>
+        <div class="main-services-types-child main-services-types-child-content-odd-grid grid" id="it-outsourcing">
+            <div class="main-services-types-child-content ">
+                <h3 class="sub-heading">
+                Ecommerce Solutions
+                </h3>
+                <p class="text">An Ecommerce solution is a product or group of tools that will assist an online store in achieving its objectives, scaling, and advancing its brand. The less of these tools you employ, the more scalable and leaner your business will be.</p>
+
+                <a href="<?= home_path() ?>ecommerce-solutions-service">Learn More <ion-icon
+                        name="arrow-forward-outline"></ion-icon></a>
+            </div>
+            <div class="main-services-types-child-img wh-100">
+                <img class="wh-100" src="<?= get_img() ?>ecommerce_solution/Ecommerce-Solution.jpg" alt=" Ecommerce Solutions">
+            </div>
+        </div>
         <div class="main-services-types-child main-services-types-child-content-odd-grid grid" id="content-writer">
             <div class="main-services-types-child-content ">
                 <h3 class="sub-heading">
@@ -354,45 +368,12 @@ include_once '../init.php';
             </div>
         </div>
 
-        <div class="main-services-types-child main-services-types-child-content-odd-grid grid" id="it-outsourcing">
-            <div class="main-services-types-child-content ">
-                <h3 class="sub-heading">
-                Ecommerce Solutions
-                </h3>
-                <p class="text">An Ecommerce solution is a product or group of tools that will assist an online store in achieving its objectives, scaling, and advancing its brand. The less of these tools you employ, the more scalable and leaner your business will be.</p>
-
-                <a href="<?= home_path() ?>ecommerce-solutions-service">Learn More <ion-icon
-                        name="arrow-forward-outline"></ion-icon></a>
-            </div>
-            <div class="main-services-types-child-img wh-100">
-                <img class="wh-100" src="<?= get_img() ?>ecommerce_solution/Ecommerce-Solution.jpg" alt=" Ecommerce Solutions">
-            </div>
-        </div>
-        <div class="main-services-types-child main-services-types-child-content-even-grid grid"
-            id="digital-production-services">
-
-            <div class="main-services-types-child-img wh-100">
-                <img class="wh-100" src="<?= get_img() ?>service_img/outsource_india.jpg"
-                    alt="Outsourcing to india">
-            </div>
+        <!-- <div class="main-services-types-child main-services-types-child-content-odd-grid grid" id="app-developer">
             <div class="main-services-types-child-content ">
                 <h3 class="sub-heading">
                 Digital Production Services
                 </h3>
                 <p class="text">"Digital production services" is a wide category that can include a variety of tasks connected to the production and administration of digital material. These services are frequently offered by businesses, organizations, or people with knowledge of many facets of digital media and content development. The following are some typical categories that encompass digital production services</p>
-
-                <a href="<?= home_path() ?>digital-production-services">Learn More <ion-icon
-                        name="arrow-forward-outline"></ion-icon>
-                </a>
-            </div>
-            
-        </div>
-        <div class="main-services-types-child main-services-types-child-content-odd-grid grid" id="app-developer">
-            <div class="main-services-types-child-content ">
-                <h3 class="sub-heading">
-                Movies Production Services
-                </h3>
-                <p class="text">Hire Coworker’s Mobile App Developers is the best option to design, develop, test, and maintain mobile applications for clients, creating feature-rich, user-friendly, less expensive, and high-performance software that meets the client's specific needs and requirements. Remote hiring is the best of all the hiring options. You hire app developers who are employed only on a contractual basis.</p>
 
                 <a href="<?= home_path() ?>movies-production-services">Learn More <ion-icon
                         name="arrow-forward-outline"></ion-icon></a>
@@ -402,6 +383,24 @@ include_once '../init.php';
                     alt="Hire Mobile App Developers">
             </div>
         </div>
+        <div class="main-services-types-child main-services-types-child-content-even-grid grid"
+            id="outsource-to-india"> 
+
+            <div class="main-services-types-child-img wh-100">
+                <img class="wh-100" src="<?= get_img() ?>movies-production/movies-production.jpg"
+                    alt="Outsourcing to india">
+            </div>
+            <div class="main-services-types-child-content ">
+                <h3 class="sub-heading">
+                Movies Production Services
+                </h3>
+                <p class="text">Hire Coworker’s Mobile App Developers is the best option to design, develop, test, and maintain mobile applications for clients, creating feature-rich, user-friendly, less expensive, and high-performance software that meets the client's specific needs and requirements. Remote hiring is the best of all the hiring options. You hire app developers who are employed only on a contractual basis.</p>
+
+                <a href="<?= home_path() ?>outsource-to-india">Learn More <ion-icon
+                        name="arrow-forward-outline"></ion-icon>
+                </a>
+            </div>
+        </div> -->
 
         
 

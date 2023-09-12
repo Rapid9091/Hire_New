@@ -13,7 +13,7 @@ include_once '../../init.php';
     <meta property="og:type" content="website" />
     <meta property="og:title" content=" HireCoworker | Hire Content Writer For Website, Articles, Blogs Content" />
     <meta property="og:description" content="Hire a dedicated content writer for your website, articles, blogs and more! Get personal, creative content written by professional writers from around the world." />
-    <meta property="og:url" content="https://hirecoworker.com/services/content-writer" />
+    <meta property="og:url" content="https://hirecoworker.com/hire-content-writer" />
     <meta property="og:site_name" content="HireCoworker | Hire Content Writer For Website, Articles, Blogs Content" />
     <meta name='robots' content='index' />
     <meta name="keywords" content="hire content writer, content writer for hire, hire a content writer, hire content writer for website, hire website content writer, Hire A Website Content Writer, hire content Writer for blog, hire A Writer For Your Business, hire content Writer for articles, Hire Freelance Blog Content Writers , Hire Social Media Content Writer">
