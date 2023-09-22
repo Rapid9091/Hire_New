@@ -7,7 +7,7 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>HireCoworker | Hire Content Writer For Website, Articles, Blogs Content</title>
+<title>HireCoworker | Hire Content Writer For Website, Articles, Blogs Content</title>
     <meta name="title" content=" HireCoworker | Hire Content Writer For Website, Articles, Blogs Content">
     <meta name="description" content="Hire a dedicated content writer for your website, articles, blogs and more! Get personal, creative content written by professional writers from around the world." />
     <meta property="og:type" content="website" />
@@ -16,19 +16,12 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/hire-content-writer" />
     <meta property="og:site_name" content="HireCoworker | Hire Content Writer For Website, Articles, Blogs Content" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="hire content writer, content writer for hire, hire a content writer, hire content writer for website, hire website content writer, Hire A Website Content Writer, hire content Writer for blog, hire A Writer For Your Business, hire content Writer for articles, Hire Freelance Blog Content Writers , Hire Social Media Content Writer">
+    <meta name="keywords" content="hire content writer, content writer for hire, hire a content writer, hire web content writer, hire website content writer">
     <meta property="article:tag" content="hire content writer" />
     <meta property="article:tag" content="content writer for hire" />
     <meta property="article:tag" content="hire a content writer" />
     <meta property="article:tag" content="hire web content writer" />
-    <meta property="article:tag" content="hire content writer for website" />
     <meta property="article:tag" content="hire website content writer" />
-    <meta property="article:tag" content="Hire a Website Content writer" />
-    <meta property="article:tag" content="hire content Writer for blog" />
-    <meta property="article:tag" content="hire a writer for your business" />
-    <meta property="article:tag" content="hire content Writer for articles" />
-    <meta property="article:tag" content="hire freelance blog content writers" />
-    <meta property="article:tag" content="hire social media content writer" />
 
     <?php include_once head; ?>
 

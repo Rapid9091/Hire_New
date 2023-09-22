@@ -7,7 +7,8 @@ include_once '../../init.php';
 
 <head>
 
-    <title>HireCoworker | Hire The #1 Digital Marketing Virtual Assistant in the USA</title>
+    
+<title>HireCoworker | Hire The #1 Digital Marketing Virtual Assistant in the USA</title>
     <meta name="title" content=" HireCoworker | Hire The #1 Digital Marketing Virtual Assistant in the USA">
     <meta name="description" content="HireCoworker helps you easily find and hire a digital marketing virtual assistant. HireCoworker makes it easy to find the perfect VA for your project or business." />
     <meta property="og:type" content="website" />
@@ -16,19 +17,13 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/hire-digital-marketer" />
     <meta property="og:site_name" content="HireCoworker | Hire The #1 Digital Marketing Virtual Assistant in the USA" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content=" Hire Marketing Assistants, hire digital marketing virtual assistant, digital marketing virtual assistant, virtual assistant digital marketing, virtual assistant vs digital marketing, virtual digital marketing assistant, digital marketing virtual assistant for hire, hiring a virtual assistant for digital marketing agency, Virtual Marketing Assistants, Digital Marketing Assistant Services, Hire a Digital Marketing VA, Hire a Virtual Assistant for Internet Marketing, Hire a Virtual Assistant for Your Business">
-    <meta property="article:tag" content="hire digital marketing virtual assistant" />
-    <meta property="article:tag" content="digital marketing virtual assistant for hire" />
-    <meta property="article:tag" content="virtual assistant digital marketing" />
+    <meta name="keywords" content=" virtual assistant digital marketing, Virtual Marketing Assistants, virtual digital marketing assistant, hire digital marketing, digital marketing virtual assistant">
+    <meta property="article:tag" content="Virtual assistant digital marketing" />
     <meta property="article:tag" content="Virtual Marketing Assistants" />
-    <meta property="article:tag" content="Digital Marketing Assistant Services" />
-    <meta property="article:tag" content="Hire a Virtual Assistant for Your Business" />
-    <meta property="article:tag" content="Hire A Virtual Assistant For Internet Marketing" />
-    <meta property="article:tag" content="virtual digital marketing assistant" />
-    <meta property="article:tag" content="Hire a Virtual Assistant for Internet Marketing" />
-    <meta property="article:tag" content="Hire a Digital Marketing VA" />
-    <meta property="article:tag" content="Hire Marketing Assistants" />
-    <meta property="article:tag" content="hiring a virtual assistant for digital marketing agency" />
+    <meta property="article:tag" content="Virtual digital marketing assistant" />
+    <meta property="article:tag" content="Hire digital marketing" />
+    <meta property="article:tag" content="Digital marketing virtual assistant" />
+
 
     <?php include_once head; ?>
 

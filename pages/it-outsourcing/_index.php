@@ -8,7 +8,7 @@ include_once '../../init.php';
 
 <head>
 
-    <title>HireCoworker | IT Outsourcing Services & Consulting Company in the USA</title>
+<title>HireCoworker | IT Outsourcing Services & Consulting Company in the USA</title>
     <meta name="title" content=" IT Outsourcing Services & Consulting Company in the USA">
     <meta name="description" content="HireCoworker provide IT Outsourcing Services for companies of all sizes. If you looking for best IT outsourcing Services & consulting Company. Then you are right place." />
     <meta property="og:type" content="website" />
@@ -17,19 +17,19 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/it-outsourcing-services" />
     <meta property="og:site_name" content="IT Outsourcing Services & Consulting Company in the USA" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content=" IT outsourcing services in usa, IT outsource services, IT service outsourcing, IT outsourcing services company, IT services outsource in usa, IT outsourcing company in usa, outsourcing IT services company, IT services outsourcing company in usa, outsourcing IT company, outsourcing IT company in usa, IT service management outsourcing, IT service management outsourcing company in usa">
-    <meta property="article:tag" content="IT outsourcing services in USA" />
+    <meta name="keywords" content=" IT outsource services, IT service outsourcing, IT outsourcing company in USA, outsourcing IT company, it outsourcing company, outsourced it support services, outsourced it services near me, outsourcing it development, it development outsourcing, it outsourcing development, it outsourcing companies in usa">
     <meta property="article:tag" content="IT outsource services" />
     <meta property="article:tag" content="IT service outsourcing" />
-    <meta property="article:tag" content="IT outsourcing services company" />
-    <meta property="article:tag" content="IT services outsource in USA" />
     <meta property="article:tag" content="IT outsourcing company in USA" />
-    <meta property="article:tag" content="outsourcing IT services company" />
-    <meta property="article:tag" content="IT services outsourcing company in usa" />
-    <meta property="article:tag" content="outsourcing IT company" />
-    <meta property="article:tag" content="outsourcing IT company in USA" />
-    <meta property="article:tag" content="IT service management outsourcing" />
-    <meta property="article:tag" content="IT service management outsourcing company in USA" />
+    <meta property="article:tag" content="Outsourcing IT company" />
+    <meta property="article:tag" content="It outsourcing company" />
+    <meta property="article:tag" content="Outsourced it support services" />
+    <meta property="article:tag" content="Outsourced it services near me" />
+    <meta property="article:tag" content="Outsourcing it development" />
+    <meta property="article:tag" content="It development outsourcing" />
+    <meta property="article:tag" content="It outsourcing development" />
+    <meta property="article:tag" content="It outsourcing companies in usa" />
+   
 
     <?php include_once head; ?>
 

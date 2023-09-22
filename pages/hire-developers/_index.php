@@ -7,7 +7,8 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>Hire Dedicated Developers | Wordpress, Laravel & PHP | Hire Co-Worker</title>
+
+<title>Hire Dedicated Developers | Wordpress, Laravel & PHP | Hire Co-Worker</title>
     <meta name="title" content=" Hire Dedicated Developers | Wordpress, Laravel & PHP | Hire Co-Worker">
     <meta name="description" content="Are you looking for hiring dedicated developers? Hire Co-Worker helps you to hire a developer for your website, app or project on full time, part time and hourly." />
     <meta property="og:type" content="website" />
@@ -16,15 +17,14 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/hire-developers" />
     <meta property="og:site_name" content="Hire Dedicated Developers | Wordpress, Laravel & PHP | Hire Co-Worker" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="hire dedicated developers, hire dedicated laravel developers, hire dedicated wordpress developers, hire dedicated php developers, hire dedicated android developers, hire dedicated web developers, hire dedicated wordpress developer">
+    <meta name="keywords" content="hire dedicated developers, hire dedicated laravel developer, hire dedicated wordpress developers, hire dedicated php developer, hire dedicated android developer, hire dedicated web developers, hire wordpress web developers">
     <meta property="article:tag" content="hire dedicated developers" />
-    <meta property="article:tag" content="hire dedicated laravel developers" />
+    <meta property="article:tag" content="hire dedicated laravel developer" />
     <meta property="article:tag" content="hire dedicated wordpress developers" />
-    <meta property="article:tag" content="hire dedicated php developers" />
-    <meta property="article:tag" content="hire dedicated android developers" />
+    <meta property="article:tag" content="hire dedicated php developer" />
+    <meta property="article:tag" content="hire dedicated android developer" />
     <meta property="article:tag" content="hire dedicated web developers" />
-    <meta property="article:tag" content="hire dedicated wordpress developer" />
-    
+    <meta property="article:tag" content="hire wordpress web developers" />
     
     <?php
     include_once head;

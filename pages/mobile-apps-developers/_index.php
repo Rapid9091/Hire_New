@@ -7,7 +7,7 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>Hire Professional Mobile App Developers | Hire Co-Worker</title>
+<title>Hire Professional Mobile App Developers | Hire Co-Worker</title>
     <meta name="title" content="Hire Professional Mobile App Developers for Hire | Hire Co-Worker">
     <meta name="description" content="Are you looking for experienced mobile app developers? Our team of professional mobile app developers can help you build the perfect mobile application for your business." />
     <meta property="og:type" content="website" />
@@ -16,16 +16,15 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/hire-professional-mobile-app-developers" />
     <meta property="og:site_name" content="Hire Professional Mobile App Developers for Hire | Hire Co-Worker" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="hiring mobile app developers, hire mobile app developers, mobile app developers, mobile app developers for hire, android mobile app developers, best mobile app developers, mobile app developer , freelance mobile app developers , website and mobile app developers">
+    <meta name="keywords" content="hiring mobile app developers, hire mobile app developers, mobile app developers, freelance mobile app developers, mobile app developer, best mobile app developers, mobile web development , mobile web app development">
     <meta property="article:tag" content="hiring mobile app developers" />
     <meta property="article:tag" content="hire mobile app developers" />
     <meta property="article:tag" content="mobile app developers" />
-    <meta property="article:tag" content="mobile app developers for hire" />
-    <meta property="article:tag" content="android mobile app developers" />
-    <meta property="article:tag" content="best mobile app developers" />
-    <meta property="article:tag" content="mobile app developer" />
     <meta property="article:tag" content="freelance mobile app developers" />
-    <meta property="article:tag" content="website and mobile app developers" />
+    <meta property="article:tag" content="mobile app developer" />
+    <meta property="article:tag" content="best mobile app developers" />
+    <meta property="article:tag" content="mobile web development" />
+    <meta property="article:tag" content="mobile web app development" />
     <?php include_once head; ?>
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_faq.css">

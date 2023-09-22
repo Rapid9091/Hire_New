@@ -9,7 +9,7 @@ include_once '../../init.php';
 <head>
     <style>
 .owl-theme .owl-dots{display: none}</style>
-    <title>Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker</title>
+     <title>Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker</title>
     <meta name="title" content=" Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker">
     <meta name="description" content="Looking To Hire Dedicated Designers? Hire dedicated UI/UX designing team from Hire Co-Worker. Get your website with stunning designs by hiring expertise designers." />
     <meta property="og:type" content="website" />
@@ -18,16 +18,13 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/hire-dedicated-designers" />
     <meta property="og:site_name" content="Hire Dedicated Designers | Hire Web Designer | Hire Co-Worker" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Hire Dedicated Designers, hire dedicated web designer, hire dedicated website designer, hire web designer, hire a web designer, hire a freelance web designer, web designer for hire, hire freelance web designer">
-    <meta property="article:tag" content="Hire Dedicated Designers" />
-    <meta property="article:tag" content="hire dedicated web designer" />
-    <meta property="article:tag" content="hire dedicated website designer" />
+    <meta name="keywords" content="hire website designer, website design hire, finding a website designer, hire web designer, hire a web designer, web designer for hire">
+    <meta property="article:tag" content="hire website designer" />
+    <meta property="article:tag" content="website design hire" />
+    <meta property="article:tag" content="finding a website designer" />
     <meta property="article:tag" content="hire web designer" />
     <meta property="article:tag" content="hire a web designer" />
-    <meta property="article:tag" content="hire a freelance web designer" />
     <meta property="article:tag" content="web designer for hire" />
-    <meta property="article:tag" content="hire freelance web designer" />
-
     <?php include_once head; ?>
 
 
