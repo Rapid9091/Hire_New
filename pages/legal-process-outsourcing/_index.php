@@ -7,7 +7,7 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>Hire Expert Legal Process Outsourcing Services | Hire Co-Worker</title>
+<title>Hire Expert Legal Process Outsourcing Services | Hire Co-Worker</title>
     <meta name="title" content="Hire Expert Legal Process Outsourcing Services | Hire Co-Worker">
     <meta name="description" content="Need help with legal process outsourcing? Look no further.Hire Co-worker. Our experts have the experience to provide you with the best Legal Process Outsourcing services." />
     <meta property="og:type" content="website" />
@@ -16,17 +16,14 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/legal-outsourcing-services" />
     <meta property="og:site_name" content="Hire Expert Legal Process Outsourcing Services | Hire Co-Worker" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="legal services outsourcing, outsourcing legal services, legal outsourcing services, legal process outsourcing services, legal services outsourcing india, legal outsourcing services company, outsourcing legal transcription services, benefits of outsourcing legal services , legal support services outsourcing ,What is legal outsourcing services">
+    <meta name="keywords" content="legal services outsourcing, outsourcing legal services, legal outsourcing services, legal process outsourcing, legal process outsourcing companies, legal outsourcing services, legal outsourcing companies">
     <meta property="article:tag" content="legal services outsourcing" />
     <meta property="article:tag" content="outsourcing legal services" />
     <meta property="article:tag" content="legal outsourcing services" />
-    <meta property="article:tag" content="legal process outsourcing services" />
-    <meta property="article:tag" content="legal services outsourcing india" />
-    <meta property="article:tag" content="legal outsourcing services company" />
-    <meta property="article:tag" content="outsourcing legal transcription services" />
-    <meta property="article:tag" content="benefits of outsourcing legal services" />
-    <meta property="article:tag" content="legal support services outsourcing" />
-    <meta property="article:tag" content="What is legal outsourcing services" />
+    <meta property="article:tag" content="legal process outsourcing" />
+    <meta property="article:tag" content="legal process outsourcing companies" />
+    <meta property="article:tag" content="legal outsourcing services" />
+    <meta property="article:tag" content="legal outsourcing companies" />
     <?php include_once head; ?>
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_faq.css">

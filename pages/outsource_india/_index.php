@@ -7,30 +7,28 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>Outsource to India | Best Offshore Outsourcing Company | Hire Coworker</title>
+<title>Outsource to India | Best Offshore Outsourcing Company | Hire Coworker</title>
 
-    <meta name="title" content="Outsource to India | Best Offshore Outsourcing Company | Hire Coworker">
-    <meta name="description" content="Hire Coworker is an offshore outsourcing company that specializes in providing quality services to businesses who are looking to outsource their work to India." />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content=" Outsource to India | Best Offshore Outsourcing Company | Hire Coworker" />
-    <meta property="og:description" content="Hire Coworker is an offshore outsourcing company that specializes in providing quality services to businesses who are looking to outsource their work to India." />
-    <meta property="og:url" content="https://hirecoworker.com/outsource-to-india" />
-    <meta property="og:site_name" content="Outsource to India | Best Offshore Outsourcing Company | Hire Coworker" />
-    <meta name='robots' content='index' />
-    <meta name="keywords" content="outsource india, outsource to india, india outsourcing, outsource work to india, outsourcing company in india, indian outsourcing company, india outsourcing companies, outsource company in india, companies outsourcing to india, indian outsourcing, india outsource, outsourcing in india, outsource and offshore">
-    <meta property="article:tag" content="outsource india" />
-    <meta property="article:tag" content="outsource to india" />
-    <meta property="article:tag" content="india outsourcing" />
-    <meta property="article:tag" content="outsource work to india" />
-    <meta property="article:tag" content="outsourcing company in india" />
-    <meta property="article:tag" content="indian outsourcing company" />
-    <meta property="article:tag" content="india outsourcing companies" />
-    <meta property="article:tag" content="outsource company in india" />
-    <meta property="article:tag" content="companies outsourcing to india" />
-    <meta property="article:tag" content="indian outsourcing" />
-    <meta property="article:tag" content="Outsourcing Services Company" />
-    <meta property="article:tag" content="outsourcing in india"/>
-    <meta property="article:tag" content="outsource and offshore"/>
+<meta name="title" content="Outsource to India | Best Offshore Outsourcing Company | Hire Coworker">
+<meta name="description" content="Hire Coworker is an offshore outsourcing company that specializes in providing quality services to businesses who are looking to outsource their work to India." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content=" Outsource to India | Best Offshore Outsourcing Company | Hire Coworker" />
+<meta property="og:description" content="Hire Coworker is an offshore outsourcing company that specializes in providing quality services to businesses who are looking to outsource their work to India." />
+<meta property="og:url" content="https://hirecoworker.com/outsource-to-india" />
+<meta property="og:site_name" content="Outsource to India | Best Offshore Outsourcing Company | Hire Coworker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="outsource india, outsource to india, india outsourcing, outsource work to india, outsourcing company in india, indian outsourcing company, india outsourcing companies, outsource company in india, companies outsourcing to india, outsourcing in india">
+<meta property="article:tag" content="outsource india" />
+<meta property="article:tag" content="outsource to india" />
+<meta property="article:tag" content="india outsourcing" />
+<meta property="article:tag" content="outsource work to india" />
+<meta property="article:tag" content="outsourcing company in india" />
+<meta property="article:tag" content="indian outsourcing company" />
+<meta property="article:tag" content="india outsourcing companies" />
+<meta property="article:tag" content="outsource company in india" />
+<meta property="article:tag" content="companies outsourcing to india" />
+<meta property="article:tag" content="outsourcing in india"/>
+
 
     <?php include_once head; ?>
 

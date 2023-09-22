@@ -83,11 +83,11 @@
         <div class="footer-links">
             <p class="footer_links_heading">Our Services</p>
             <ul>
-            <li><a href="<?= home_path() ?>services/hire-content-writer">Hire Content Writer</a></li>
-            <li><a href="<?= home_path() ?>services/virtual-assistant">Hire Virtual Assistant</a></li>
-            <li><a href="<?= home_path() ?>services/hire-dedicated-designers">Hire Dedicated Designer</a></li>
-            <li><a href="<?= home_path() ?>services/hire-dedicated-developers">Hire Dedicated Designer</a></li>
-            <li><a href="<?= home_path() ?>services/hire-digital-marketer">Hire Digital Marketing Expert</a></li>
+            <li><a href="<?= home_path() ?>hire-content-writer">Hire Content Writer</a></li>
+            <li><a href="<?= home_path() ?>virtual-assistant">Hire Virtual Assistant</a></li>
+            <li><a href="<?= home_path() ?>hire-dedicated-designers">IT Outsourcing</a></li>
+            <li><a href="<?= home_path() ?>hire-dedicated-developers">Hire Dedicated Designer</a></li>
+            <li><a href="<?= home_path() ?>hire-digital-marketer">Hire Digital Marketing Expert</a></li>
             </ul>
         </div>
     </div>

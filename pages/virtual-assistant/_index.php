@@ -8,7 +8,7 @@ include_once '../../init.php';
 
 <head>
 
-    <title>Hire the Most Reliable Virtual Assistants Today | Hire Co-Worker</title>
+<title>Hire the Most Reliable Virtual Assistants Today | Hire Co-Worker</title>
     <meta name="title" content="Hire the Most Reliable Virtual Assistants Today | Hire Co-Worker">
     <meta name="description" content="Find the top virtual assistants to finish the job quickly and efficiently. Because of our skilled staff, you can count on us to continuously deliver results of the highest calibre." />
     <meta property="og:type" content="website" />
@@ -17,18 +17,17 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/virtual-assistant" />
     <meta property="og:site_name" content="Hire the Most Reliable Virtual Assistants Today | Hire Co-Worker" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="virtual assistant, virtual assistant services, what is a virtual assistant, android virtual assistant, virtual personal assistant, how to be a virtual assistant, virtual assistant websites, virtual assistant companies , hire a virtual assistant , hire virtual assistant ">
+    <meta name="keywords" content="virtual assistant, virtual assistant services, what is a virtual assistant, virtual assistant hiring, virtual personal assistant, how to be a virtual assistant, virtual assistant websites, virtual assistant companies , hire a virtual assistant , hire virtual assistant ">
     <meta property="article:tag" content="virtual assistant" />
     <meta property="article:tag" content="virtual assistant services" />
     <meta property="article:tag" content="what is a virtual assistant" />
-    <meta property="article:tag" content="android virtual assistant" />
+    <meta property="article:tag" content="virtual assistant hiring" />
     <meta property="article:tag" content="virtual personal assistant" />
     <meta property="article:tag" content="how to be a virtual assistant" />
     <meta property="article:tag" content="virtual assistant websites" />
     <meta property="article:tag" content="virtual assistant companies" />
     <meta property="article:tag" content="hire a virtual assistant" />
     <meta property="article:tag" content="hire virtual assistant" />
-
     <?php
     include_once head;
     ?>

@@ -8,7 +8,7 @@ include_once '../../init.php';
 
 <head>
 
-    <title>Hire Professional Medical Process Experts | Hire Co-worker</title>
+<title>Hire Professional Medical Process Experts | Hire Co-worker</title>
     <meta name="title" content=" Hire Professional Medical Process Experts | Hire Co-worker">
     <meta name="description" content="Find qualified medical process specialists via Virtual Assistants. Our skilled group of medical specialists can help you improve efficiency by streamlining your procedures." />
     <meta property="og:type" content="website" />
@@ -17,16 +17,17 @@ include_once '../../init.php';
     <meta property="og:url" content="https://hirecoworker.com/medical-process-outsourcing" />
     <meta property="og:site_name" content="Hire Professional Medical Process Experts | Hire Co-worker" />
     <meta name='robots' content='index' />
-    <meta name="keywords" content="Medical Process Outsourcing, Hire Healthcare Professionals, Medical business process outsourcing, Medical billing process outsourcing companies, Medical process outsourcing in india, Medical Process Experts, Health Insurance Specialist , Medical billing process outsourcing, Medical process outsourcing">
-    <meta property="article:tag" content="Medical Process Outsourcing" />
-    <meta property="article:tag" content="Hire Healthcare Professionals" />
-    <meta property="article:tag" content="Medical business process outsourcing" />
-    <meta property="article:tag" content="Medical billing process outsourcing companies" />
-    <meta property="article:tag" content="Medical process outsourcing in india" />
-    <meta property="article:tag" content="Medical Process Experts" />
-    <meta property="article:tag" content="Health Insurance Specialist" />
-    <meta property="article:tag" content="Medical billing process outsourcing" />
-    <meta property="article:tag" content="Medical process outsourcing" />
+    <meta name="keywords" content="Outsource medical billing, Outsource medical coding, Medical billing outsourcing, Medical coding outsourcing, Outsource medical billing companies, Health insurance specialist, Medicare specialist , Medical insurance specialist, Specialist health insurance">
+    <meta property="article:tag" content="Outsource medical billing" />
+    <meta property="article:tag" content="Outsource medical coding" />
+    <meta property="article:tag" content="Medical billing outsourcing" />
+    <meta property="article:tag" content="Medical coding outsourcing" />
+    <meta property="article:tag" content="Outsource medical billing companies" />
+    <meta property="article:tag" content="Health insurance specialist" />
+    <meta property="article:tag" content="Medicare specialist" />
+    <meta property="article:tag" content="Medical insurance specialist" />
+    <meta property="article:tag" content="Specialist health insurance" />
+
 
     <?php
     include_once head;
