@@ -85,8 +85,8 @@
             <ul>
             <li><a href="<?= home_path() ?>hire-content-writer">Hire Content Writer</a></li>
             <li><a href="<?= home_path() ?>virtual-assistant">Hire Virtual Assistant</a></li>
-            <li><a href="<?= home_path() ?>hire-dedicated-designers">IT Outsourcing</a></li>
-            <li><a href="<?= home_path() ?>hire-dedicated-developers">Hire Dedicated Designer</a></li>
+            <li><a href="<?= home_path() ?>it-outsourcing-services">IT Outsourcing</a></li>
+            <li><a href="<?= home_path() ?>hire-dedicated-developers">Hire Dedicated Developers</a></li>
             <li><a href="<?= home_path() ?>hire-digital-marketer">Hire Digital Marketing Expert</a></li>
             </ul>
         </div>
