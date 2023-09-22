@@ -6,7 +6,8 @@
     </div>
     <nav>
         <ul class="links-list flex-center nav-list">
-            <li class="links-list-items"><a href="<?= home_path() ?>services">Services</a></li>
+        <li class="links-list-items"><a href="<?= home_path() ?>">Home</a></li>    
+        <li class="links-list-items"><a href="<?= home_path() ?>services">Services</a></li>
             <li class="links-list-items"><a href="<?= home_path() ?>pricing">Pricing</a></li>
             <li class="links-list-items">
                 <a href="<?= home_path() ?>about">About</a>
