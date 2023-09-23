@@ -6,12 +6,24 @@ include_once "../init.php";
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Coworker</title>
-  <link rel="icon" href="./assets/images/favicon_io/favicon-big.png" type="image/ico">
-  <meta name="keywords" content="Assisstant, coworker, virtual assisstant, hire coworker, hire VA">
+<title>Virtual Assistant Services | Pricing | Hire Co-worker</title>
+    <meta name="title" content="Virtual Assistant Services | Pricing | Hire Co-worker">
+    <meta name="description" content="Choose the virtual assistant packages that meet the needs of your business.The virtual assistant provides affordable options for your unique needs and price range. Call us  +1 (833) 233-4447" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Virtual Assistant Services | Pricing | Hire Co-worker"/>
+    <meta property="og:description" content="Choose the virtual assistant packages that meet the needs of your business.The virtual assistant provides affordable options for your unique needs and price range. Call us  +1 (833) 233-4447" />
+    <meta property="og:url" content="https://hirecoworker.com/pricing" />
+    <meta property="og:site_name" content="Virtual Assistant Services | Pricing | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="virtual assistant pricing, virtual assistant pricing packages, virtual assistant pricing structure, virtual assistant package prices, pricing for virtual assistant services, virtual assistant services prices, virtual assistant package rates">
+    <meta property="article:tag" content="virtual assistant pricing" />
+    <meta property="article:tag" content="virtual assistant pricing packages" />
+    <meta property="article:tag" content="virtual assistant pricing structure" />
+    <meta property="article:tag" content="virtual assistant package prices" />
+    <meta property="article:tag" content="pricing for virtual assistant services" />
+    <meta property="article:tag" content="virtual assistant services prices" />
+    <meta property="article:tag" content="virtual assistant package rates" />
+
 <style>
 .pricing_link{
   color: black;

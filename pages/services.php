@@ -6,11 +6,27 @@ include_once '../init.php';
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Services</title>
+ <title>Virtual Assistant Company | Services | Hire Co-worker</title>
+    <meta name="title" content="Virtual Assistant Company | Services | Hire Co-worker">
+    <meta name="description" content="Hire Coworker Virtual Assistant Company providing successful organizations with competent management, marketing, project management, and more. Call us  +1 (833) 233-4447" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Virtual Assistant Company | Services | Hire Co-worker"/>
+    <meta property="og:description" content="Hire Coworker Virtual Assistant Company providing successful organizations with competent management, marketing, project management, and more. Call us  +1 (833) 233-4447" />
+    <meta property="og:url" content="https://hirecoworker.com/services" />
+    <meta property="og:site_name" content="Virtual Assistant Company | Services | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="IT outsourcing company in USA, Virtual assistant digital marketing, hire dedicated wordpress developers, hire website designer, ecommerce website development services, hire web content writer, hire architects online, hire mobile app developers, Hire Finance Professionals, hire mobile app developers">
+    <meta property="article:tag" content="IT outsourcing company in USA" />
+    <meta property="article:tag" content="Virtual assistant digital marketing" />
+    <meta property="article:tag" content="hire dedicated wordpress developers" />
+    <meta property="article:tag" content="hire website designer" />
+    <meta property="article:tag" content="ecommerce website development services" />
+    <meta property="article:tag" content="hire web content writer" />
+    <meta property="article:tag" content="hire architects online" />
+    <meta property="article:tag" content="hire mobile app developers" />
+    <meta property="article:tag" content="Hire Finance Professionals" />
+    <meta property="article:tag" content="hire mobile app developers" />
+
     <?php include_once head; ?>
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_landing-form.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_blog.css">

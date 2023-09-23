@@ -7,13 +7,23 @@ include_once "../init.php";
 
 <head>
 
-    <title>About Us - HireCoworker</title>
-    <meta name="description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us at +848-200-0555 for Virtual Assistant." />
+<title>Virtual Assistants Services | About | Hire Co-worker</title>
+    <meta name="title" content="Virtual Assistants Services | About | Hire Co-worker">
+    <meta name="description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us  +1 (833) 233-4447 for Virtual Assistant." />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="About Us - HireCoworker" />
-    <meta property="og:description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us at +848-200-0555 for Virtual Assistant." />
-    <link rel="icon" href="<?= get_img() ?>/favicon_io/favicon-big.png" type="image/ico">
-    <meta name="keywords" content="Hire Coworker, Best Virtual Assistant, Digital marketing Virtual Assistant, SEO Virtual Assistant, web design Virtual Assistant, tech support Virtual Assistant, social media Virtual Assistant, Virtual Assistant, Assistant, coworker, hire VA">
+    <meta property="og:title" content="Virtual Assistants Services | About | Hire Co-worker"/>
+    <meta property="og:description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us  +1 (833) 233-4447 for Virtual Assistant." />
+    <meta property="og:url" content="https://hirecoworker.com/about" />
+    <meta property="og:site_name" content="Virtual Assistants Services | About | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="Hire Coworker, Best Virtual Assistant, Digital marketing Virtual Assistant, SEO Virtual Assistant, web design Virtual Assistant, tech support Virtual Assistant, social media Virtual Assistant">
+    <meta property="article:tag" content="Hire Coworker" />
+    <meta property="article:tag" content="Best Virtual Assistant" />
+    <meta property="article:tag" content="Digital marketing Virtual Assistant" />
+    <meta property="article:tag" content="SEO Virtual Assistant" />
+    <meta property="article:tag" content="web design Virtual Assistant" />
+    <meta property="article:tag" content="tech support Virtual Assistant" />
+    <meta property="article:tag" content="social media Virtual Assistant" />
 
     <?php include_once head; ?>
 

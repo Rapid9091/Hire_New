@@ -6,7 +6,21 @@ include_once "../init.php";
 <html lang="en">
 
 <head>
-    <title>Contact US HireCoworker</title>
+   
+<title>Best Virtual Assistant Company | Contact US | Hire Co-worker</title>
+    <meta name="title" content="Best Virtual Assistant Company | Contact US | Hire Co-worker">
+    <meta name="description" content="Get a free phone consultation before hiring a virtual assistant who suits your company's needs. Call us  +1 (833) 233-4447" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best Virtual Assistant Company | Contact US | Hire Co-worker"/>
+    <meta property="og:description" content="Get a free phone consultation before hiring a virtual assistant who suits your company's needs. Call us  +1 (833) 233-4447" />
+    <meta property="og:url" content="https://hirecoworker.com/contact" />
+    <meta property="og:site_name" content="Best Virtual Assistant Company | Contact US | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="Contact Us Best Virtual Assistant Company, Hire Co-Woker, Contact Us Hire Co-Woker" />
+    <meta property="article:tag" content="Hire Co-Woker" />
+    <meta property="article:tag" content="Contact Us Best Virtual Assistant Company" />
+    <meta property="article:tag" content="Contact Us Hire Co-Woker" />
+
     <?php include_once head; ?>
 
     <!-- -------------------------- -->

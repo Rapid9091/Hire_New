@@ -6,13 +6,23 @@ include_once "../init.php";
 <html lang="en">
 
 <head>
-  <title>Hire Best Virtual Assistant in USA - HireCoworker</title>
-  <meta name="description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us at +1 (848) 200-0555 for Virtual Assistant." />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="Hire Best Virtual Assistant in USA - HireCoworker" />
-  <meta property="og:description" content="HireCoworker provides the Best Virtual Assistant in USA at very affordable price. Call us at +1 (848) 200-0555 for Virtual Assistant." />
-  <meta name="keywords" content="Hire Coworker, Best Virtual Assistant, Digital marketing Virtual Assistant, SEO Virtual Assistant, web design Virtual Assistant, tech support Virtual Assistant, social media Virtual Assistant, Virtual Assistant, Assistant, coworker, hire VA">
-  <meta name="google-site-verification" content="gsGyv-x1W-xePqhZ5c3qChCmf29rLKOSIGIY2qtRmYE" />
+<title>Best Virtual Assistants Services 2023 | Hire Co-worker</title>
+    <meta name="title" content="Best Virtual Assistants Services 2023 | Hire Co-worker">
+    <meta name="description" content="Hire Coworker is the best virtual assistant company in the USA. Hire- Coworker makes it easy to find the perfect virtual assistant for your project or business. Call us  +1 (833) 233-4447" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best Virtual Assistants Services 2023 | Hire Co-worker"/>
+    <meta property="og:description" content=""Hire Coworker is the best virtual assistant company in the USA. Hire- Coworker makes it easy to find the perfect virtual assistant for your project or business. Call us  +1 (833) 233-4447" />
+    <meta property="og:url" content="https://hirecoworker.com/" />
+    <meta property="og:site_name" content="Best Virtual Assistants Services 2023 | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="best virtual assistant company, best virtual assistant, best virtual assistant websites, best virtual assistant services, best virtual assistant agencies, best companies for virtual assistant, best company for virtual assistant">
+    <meta property="article:tag" content="best virtual assistant company" />
+    <meta property="article:tag" content="best virtual assistant" />
+    <meta property="article:tag" content="best virtual assistant websites" />
+    <meta property="article:tag" content="best virtual assistant services" />
+    <meta property="article:tag" content="best virtual assistant agencies" />
+    <meta property="article:tag" content="best companies for virtual assistant" />
+    <meta property="article:tag" content="best company for virtual assistant" />
 
   <?php include_once head; ?>
 
