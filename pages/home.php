@@ -8,10 +8,10 @@ include_once "../init.php";
 <head>
 <title>Best Virtual Assistants Services 2023 | Hire Co-worker</title>
     <meta name="title" content="Best Virtual Assistants Services 2023 | Hire Co-worker">
-    <meta name="description" content="Hire Coworker is the best virtual assistant company in the USA. Hire- Coworker makes it easy to find the perfect virtual assistant for your project or business. Call us  +1 (833) 233-4447" />
+    <meta name="description" content="Hire Coworker is the best virtual assistant company in the USA. Hire- Coworker makes it easy to find the perfect virtual assistant for your project or business. Call us +1 (985) 243 4053" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Virtual Assistants Services 2023 | Hire Co-worker"/>
-    <meta property="og:description" content=""Hire Coworker is the best virtual assistant company in the USA. Hire- Coworker makes it easy to find the perfect virtual assistant for your project or business. Call us  +1 (833) 233-4447" />
+    <meta property="og:description" content="Hire Coworker is the best virtual assistant company in the USA. Hire- Coworker makes it easy to find the perfect virtual assistant for your project or business. Call us +1 (985) 243 4053" />
     <meta property="og:url" content="https://hirecoworker.com/" />
     <meta property="og:site_name" content="Best Virtual Assistants Services 2023 | Hire Co-worker" />
     <meta name='robots' content='index' />
@@ -82,7 +82,7 @@ include_once "../init.php";
             <a href="#connect-us"><i class='bx bx-user'></i> Request Service</a>
           </button>
           <button class="basic-button landing-btn">
-            <a href="tel:+1 (848) 200-0555"><i class='bx bx-phone-call'></i> Call Us</a>
+            <a href="tel:+1 (985) 243 4053"><i class='bx bx-phone-call'></i> Call Us</a>
           </button>
         </div>
       </div>
@@ -400,7 +400,7 @@ include_once "../init.php";
         <p>
           Your work can be started with a single easiest step just by contacting us through our form or directly by
           calling us at our contact No.
-          <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+          <a href="tel:+1 (985) 243 4053"><b>+1 (985) 243 4053</b></a>
         </p>
         <button class="basic-button"><a href="#connect-us">Know More</a></button>
       </div>

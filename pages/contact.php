@@ -9,10 +9,10 @@ include_once "../init.php";
    
 <title>Best Virtual Assistant Company | Contact US | Hire Co-worker</title>
     <meta name="title" content="Best Virtual Assistant Company | Contact US | Hire Co-worker">
-    <meta name="description" content="Get a free phone consultation before hiring a virtual assistant who suits your company's needs. Call us  +1 (833) 233-4447" />
+    <meta name="description" content="Get a free phone consultation before hiring a virtual assistant who suits your company's needs. Call us  +1 (985) 243 4053" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Virtual Assistant Company | Contact US | Hire Co-worker"/>
-    <meta property="og:description" content="Get a free phone consultation before hiring a virtual assistant who suits your company's needs. Call us  +1 (833) 233-4447" />
+    <meta property="og:description" content="Get a free phone consultation before hiring a virtual assistant who suits your company's needs. Call us  +1 (985) 243 4053" />
     <meta property="og:url" content="https://hirecoworker.com/contact" />
     <meta property="og:site_name" content="Best Virtual Assistant Company | Contact US | Hire Co-worker" />
     <meta name='robots' content='index' />
@@ -169,7 +169,7 @@ include_once "../init.php";
                     <address>
                         <h3>Call Us</h3>
                         <p>
-                            <a href="tel:+1 (848) 200-0555" title="Connect us">+1 (848) 200-0555</a>
+                            <a href="tel:+1 (985) 243 4053" title="Connect us">+1 (985) 243 4053</a>
                         </p>
                     </address>
                 </div>
@@ -192,21 +192,21 @@ include_once "../init.php";
                 <img loading="lazy" src="<?= get_img() ?>office_img.jpg" alt="Our Presence">
 
                 <p>Gurugram Haryana, India</p>
-                <div class="contact-third-grid-btn grid-center"><button><a href="tel:+1 (848) 200-0555">CONNECT
+                <div class="contact-third-grid-btn grid-center"><button><a href="tel:+1 (985) 243 4053">CONNECT
                             US</a></button></div>
             </div>
             <div class="contact-third-grid-one">
                 <img loading="lazy" src="<?= get_img() ?>about-us-2.png" alt="Our Presence">
 
                 <p>Shilverton Texas, USA</p>
-                <div class="contact-third-grid-btn grid-center"><button><a href="tel:+1 (848) 200-0555">CONNECT
+                <div class="contact-third-grid-btn grid-center"><button><a href="tel:+1 (985) 243 4053">CONNECT
                             US</a></button></div>
             </div>
             <div class="contact-third-grid-one">
                 <img loading="lazy" src="<?= get_img() ?>about-us-3.png" alt="Our Presence">
 
                 <p>Y, Block kidwai Nagar Kanpur UP, India</p>
-                <div class="contact-third-grid-btn grid-center"><button><a href="tel:+1 (848) 200-0555">CONNECT
+                <div class="contact-third-grid-btn grid-center"><button><a href="tel:+1 (985) 243 4053">CONNECT
                             US</a></button></div>
             </div>
         </div>

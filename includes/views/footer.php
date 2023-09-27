@@ -43,7 +43,7 @@
                       </p>
                     
                     <p>
-                        <a href="tel:+1 (848) 200-0555" title="Call us">+1 (848) 200-0555</a>
+                        <a href="tel:+1 (985) 243 4053" title="Call us">+1 (985) 243 4053</a>
                     </p>
                 </address>
             </div>
@@ -66,7 +66,7 @@
             <li><a href="<?= home_path() ?>about">About us</a></li>
             <li><a href="<?= home_path() ?>pricing">Pricing</a></li>
             <li><a href="<?= home_path() ?>services ">Services</a></li>
-            <li><a href="tel:+1 (848) 200-0555">Call Us</a></li>
+            <li><a href="tel:+1 (985) 243 4053">Call Us</a></li>
             <li><a href="<?= home_path() ?>contact">Contact Us</a></li>
             </ul>
         </div>
@@ -96,7 +96,7 @@
 
 <!-- back to top button -->
 <button id="btop" title="Go to top"><i class='bx bxs-chevrons-up'></i></button>
-<button id="bottom_call" title="Call"><a href="tel:+1 (848) 200-0555" aria-label="Call Button"><i class='bx bx-phone-call'></i><span class="btn_call_number">+1 (848) 200-0555</span></a></button>
+<button id="bottom_call" title="Call"><a href="tel:+1 (985) 243 4053" aria-label="Call Button"><i class='bx bx-phone-call'></i><span class="btn_call_number">+1 (985) 243 4053</span></a></button>
 
 <section class="bottom-footer">
     <div class="footer-footer-strip grid grid-2 ">

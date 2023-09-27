@@ -8,10 +8,10 @@ include_once "../init.php";
 <head>
 <title>Virtual Assistant Services | Pricing | Hire Co-worker</title>
     <meta name="title" content="Virtual Assistant Services | Pricing | Hire Co-worker">
-    <meta name="description" content="Choose the virtual assistant packages that meet the needs of your business.The virtual assistant provides affordable options for your unique needs and price range. Call us  +1 (833) 233-4447" />
+    <meta name="description" content="Choose the virtual assistant packages that meet the needs of your business.The virtual assistant provides affordable options for your unique needs and price range. Call us  +1 (985) 243 4053" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Virtual Assistant Services | Pricing | Hire Co-worker"/>
-    <meta property="og:description" content="Choose the virtual assistant packages that meet the needs of your business.The virtual assistant provides affordable options for your unique needs and price range. Call us  +1 (833) 233-4447" />
+    <meta property="og:description" content="Choose the virtual assistant packages that meet the needs of your business.The virtual assistant provides affordable options for your unique needs and price range. Call us +1 (985) 243 4053" />
     <meta property="og:url" content="https://hirecoworker.com/pricing" />
     <meta property="og:site_name" content="Virtual Assistant Services | Pricing | Hire Co-worker" />
     <meta name='robots' content='index' />

@@ -8,10 +8,10 @@ include_once '../init.php';
 
  <title>Virtual Assistant Company | Services | Hire Co-worker</title>
     <meta name="title" content="Virtual Assistant Company | Services | Hire Co-worker">
-    <meta name="description" content="Hire Coworker Virtual Assistant Company providing successful organizations with competent management, marketing, project management, and more. Call us  +1 (833) 233-4447" />
+    <meta name="description" content="Hire Coworker Virtual Assistant Company providing successful organizations with competent management, marketing, project management, and more. Call us  +1 (985) 243 4053" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Virtual Assistant Company | Services | Hire Co-worker"/>
-    <meta property="og:description" content="Hire Coworker Virtual Assistant Company providing successful organizations with competent management, marketing, project management, and more. Call us  +1 (833) 233-4447" />
+    <meta property="og:description" content="Hire Coworker Virtual Assistant Company providing successful organizations with competent management, marketing, project management, and more. Call us  +1 (985) 243 4053" />
     <meta property="og:url" content="https://hirecoworker.com/services" />
     <meta property="og:site_name" content="Virtual Assistant Company | Services | Hire Co-worker" />
     <meta name='robots' content='index' />
@@ -64,7 +64,7 @@ include_once '../init.php';
                         <p class="text">Bespoke Recruitment - Get your perfect Virtual Assistant</p>
                     </li>
                 </ul>
-                <a class="basic-button landing-btn" href="tel:+1 (833) 233-4447">Hire Expert virtual employees
+                <a class="basic-button landing-btn" href="tel:+1 (985) 243 4053">Hire Expert virtual employees
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>

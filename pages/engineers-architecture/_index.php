@@ -79,7 +79,7 @@ include_once '../../init.php';
                     </p>
                 </ul>
                 <br>
-                <a class="basic-button landing-btn" href="tel:+1 (833) 233-4447">Hire ENGINEERS & Architects
+                <a class="basic-button landing-btn" href="tel:+1 (985) 243 4053">Hire ENGINEERS & Architects
                     <ion-icon name="arrow-forward-outline"></ion-icon>
                 </a>
             </div>
@@ -605,7 +605,7 @@ include_once '../../init.php';
                 <h2 class="sub-heading">Contact Us</h2>
                 <p>
                     Your work can be started with a single easiest step just by contacting us through our form or directly by calling us at our contact No.
-                    <a href="tel:+1 (848) 200-0555"><b>+1 (848) 200-0555</b></a>
+                    <a href="tel:+1 (985) 243 4053"><b>+1 (985) 243 4053</b></a>
                 </p>
                 <button class="basic-button">Know More</button>
             </div>
