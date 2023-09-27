@@ -5,7 +5,24 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Software Development Services | Hire Co-worker</title>
 
+    <meta name="title" content="Software Development Services | Hire Co-worker">
+    <meta name="description" content="Hire coworker is a top software development virtual assistant business that can provide you with a seasoned virtual assistant for software developers who can provide high-quality software development services." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Software Development Services | Hire Co-worker"/>
+    <meta property="og:description" content="Hire coworker is a top software development virtual assistant business that can provide you with a seasoned virtual assistant for software developers who can provide high-quality software development services." />
+    <meta property="og:url" content="https://hirecoworker.com/software-development-va" />
+    <meta property="og:site_name" content="Software Development Services | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords" content="software development services, software development, software engineer, drupal development company, software development engineer, custom software development, app development software">
+    <meta property="article:tag" content="software development services" />
+    <meta property="article:tag" content="software development" />
+    <meta property="article:tag" content="software engineer" />
+    <meta property="article:tag" content="drupal development company" />
+    <meta property="article:tag" content="software development engineer" />
+    <meta property="article:tag" content="custom software development" />
+    <meta property="article:tag" content="app development software" />
 <head>
 
     <?php include_once head_new; ?>

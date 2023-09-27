@@ -5,7 +5,24 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Frontend Development Services | Hire Co-worker</title>
 
+<meta name="title" content="Frontend Development Services | Hire Co-worker">
+<meta name="description" content="Our skilled front-end developers can assist you in delivering successful customer happiness, enabling the appropriate conversion, and supporting the retention journey." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Frontend Development Services | Hire Co-worker"/>
+<meta property="og:description" content="Our skilled front-end developers can assist you in delivering successful customer happiness, enabling the appropriate conversion, and supporting the retention journey." />
+<meta property="og:url" content="https://hirecoworker.com/frontend-development-services" />
+<meta property="og:site_name" content="Frontend Development Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="frontend development services, front end development company, front end web development company, front end web development services, frontend web development services, app development front end, web design and front end development">
+<meta property="article:tag" content="frontend development services" />
+<meta property="article:tag" content="front end development company" />
+<meta property="article:tag" content="front end web development company" />
+<meta property="article:tag" content="front end web development services" />
+<meta property="article:tag" content="frontend web development services" />
+<meta property="article:tag" content="app development front end" />
+<meta property="article:tag" content="web design and front end development" />
 <head>
 
     <?php include_once head_new; ?>

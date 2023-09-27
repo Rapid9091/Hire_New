@@ -5,6 +5,25 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>IT Security Services | Hire Co-worker</title>
+
+<meta name="title" content="IT Security Services | Hire Co-worker">
+<meta name="description" content="IT security refers to the measures and strategies to protect critical information and resources within an organization." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="IT Security Services | Hire Co-worker"/>
+<meta property="og:description" content="IT security refers to the measures and strategies to protect critical information and resources within an organization." />
+<meta property="og:url" content="https://hirecoworker.com/it-security-services" />
+<meta property="og:site_name" content="IT Security Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="it security services, it security consulting, it security consulting services, it security services company, top it security companies, it security as a services, it security management services, security it company">
+<meta property="article:tag" content="it security services" />
+<meta property="article:tag" content="it security consulting" />
+<meta property="article:tag" content="it security consulting services" />
+<meta property="article:tag" content="it security services company" />
+<meta property="article:tag" content="top it security companies" />
+<meta property="article:tag" content="it security as a services" />
+<meta property="article:tag" content="it security management services" />
+<meta property="article:tag" content="security it company" />
 
 <head>
 

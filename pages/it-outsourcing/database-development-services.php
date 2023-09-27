@@ -5,7 +5,22 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Database Development Services | Hire Co-worker</title>
 
+<meta name="title" content="Database Development Services | Hire Co-worker">
+<meta name="description" content="When you hire Virtual Assistant for database development services, Hire Coworker reduces the hassle of locating and supervising the ideal virtual assistant in their roles." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Database Development Services | Hire Co-worker"/>
+<meta property="og:description" content="When you hire Virtual Assistant for database development services, Hire Coworker reduces the hassle of locating and supervising the ideal virtual assistant in their roles." />
+<meta property="og:url" content="https://hirecoworker.com/database-development-services" />
+<meta property="og:site_name" content="Database Development Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="database development services, database design and development, database development company, database design development, database for app development">
+<meta property="article:tag" content="database development services" />
+<meta property="article:tag" content="database design and development" />
+<meta property="article:tag" content="database development company" />
+<meta property="article:tag" content="database design development" />
+<meta property="article:tag" content="database for app development" />
 <head>
 
     <?php include_once head_new; ?>
