@@ -5,6 +5,27 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+    
+<title>Content Marketing Services | Hire Co-worker</title>
+
+<meta name="title" content="Content Marketing Services | Hire Co-worker">
+<meta name="description" content="Many believe increasing website traffic (mainly inorganic traffic) will increase sales. This, however, is only sometimes the case. However, content marketing services can help you with more traffic and revenue." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Content Marketing Services | Hire Co-worker"/>
+<meta property="og:description" content="Many believe increasing website traffic (mainly inorganic traffic) will increase sales. This, however, is only sometimes the case. However, content marketing services can help you with more traffic and revenue. " />
+<meta property="og:url" content="https://hirecoworker.com/content-marketing-services" />
+<meta property="og:site_name" content="Content Marketing Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="content marketing services, content marketing seo, content marketing agency, creative content marketing, content marketing and seo, content marketing solutions, best content marketing companies, digital content marketing agency">
+<meta property="article:tag" content="content marketing services" />
+<meta property="article:tag" content="content marketing seo" />
+<meta property="article:tag" content="content marketing agency" />
+<meta property="article:tag" content="creative content marketing" />
+<meta property="article:tag" content="content marketing and seo" />
+<meta property="article:tag" content="content marketing solutions" />
+<meta property="article:tag" content="best content marketing companies" />
+<meta property="article:tag" content="digital content marketing agency" />
+
 
 <head>
    <?php include_once head_new;?>

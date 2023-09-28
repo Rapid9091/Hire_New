@@ -5,6 +5,25 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Backend development services | Hire Co-worker</title>
+
+<meta name="title" content="Backend development services | Hire Co-worker">
+<meta name="description" content="Hire Coworker excels at incorporating technologies such as.NET, C++, PHP, and Python, which are indispensable for developing high-performance backend software." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Backend development services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker excels at incorporating technologies such as.NET, C++, PHP, and Python, which are indispensable for developing high-performance backend software." />
+<meta property="og:url" content="https://hirecoworker.com/backend-development-services" />
+<meta property="og:site_name" content="Backend development services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="backend web development, backend development services, mobile app backend development, backend app development, backend in web development, backend development company, backend mobile development, backend web programming">
+<meta property="article:tag" content="backend web development" />
+<meta property="article:tag" content="backend development services" />
+<meta property="article:tag" content="mobile app backend development" />
+<meta property="article:tag" content="backend app development" />
+<meta property="article:tag" content="backend in web development" />
+<meta property="article:tag" content="backend development company" />
+<meta property="article:tag" content="backend mobile development" />
+<meta property="article:tag" content="backend web programming" />
 
 <head>
 

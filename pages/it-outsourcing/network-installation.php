@@ -5,6 +5,24 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Network Installation Services | Hire Co-worker</title>
+
+<meta name="title" content="Network Installation Services | Hire Co-worker">
+<meta name="description" content="Network installation refers to choosing and positioning the necessary hardware and equipment to create a network, which is a group of connected devices that can communicate with each other." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Network Installation Services | Hire Co-worker"/>
+<meta property="og:description" content="Network installation refers to choosing and positioning the necessary hardware and equipment to create a network, which is a group of connected devices that can communicate with each other." />
+<meta property="og:url" content="https://hirecoworker.com/network-installation" />
+<meta property="og:site_name" content="Network Installation Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="network installation services, network installationg, network setup service, network cabling installation, home network installers near me, home network installation services near me, network installation companies">
+<meta property="article:tag" content="network installation services" />
+<meta property="article:tag" content="network installationg" />
+<meta property="article:tag" content="network setup service" />
+<meta property="article:tag" content="network cabling installation" />
+<meta property="article:tag" content="home network installers near me" />
+<meta property="article:tag" content="home network installation services near me" />
+<meta property="article:tag" content="network installation companies" />
 
 <head>
 

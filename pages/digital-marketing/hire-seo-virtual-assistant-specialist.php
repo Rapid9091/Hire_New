@@ -5,6 +5,21 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>SEO Virtual Assistant Services | Hire Co-worker</title>
+
+<meta name="title" content="SEO Virtual Assistant Services | Hire Co-worker">
+<meta name="description" content="Hire Co-Worker is a top virtual assistant firm that provides SEO and a variety of other marketing services to clients all over the world. We use the greatest and most up-to-date SEO tools and technology to provide our clients with top-tier services." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="SEO Virtual Assistant Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Co-Worker is a top virtual assistant firm that provides SEO and a variety of other marketing services to clients all over the world. We use the greatest and most up-to-date SEO tools and technology to provide our clients with top-tier services." />
+<meta property="og:url" content="https://hirecoworker.com/hire-seo-virtual-assistant-specialist" />
+<meta property="og:site_name" content="SEO Virtual Assistant Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="SEO virtual assistant, Hire seo virtual assistant, SEO virtual assistant services, SEO specialist virtual assistant">
+<meta property="article:tag" content="SEO virtual assistant" />
+<meta property="article:tag" content="Hire seo virtual assistant" />
+<meta property="article:tag" content="SEO virtual assistant services" />
+<meta property="article:tag" content="SEO specialist virtual assistant" />
 
 <head>
     

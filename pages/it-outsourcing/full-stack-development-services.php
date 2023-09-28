@@ -5,6 +5,26 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Full Stack Development Services | Hire Co-worker</title>
+
+<meta name="title" content="Full Stack Development Services | Hire Co-worker">
+<meta name="description" content="Hire Coworker is a top full-stack development company with a team of skilled workers. Our developers are experienced enough to build various web, mobile, or desktop apps from start to finish." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full Stack Development Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is a top full-stack development company with a team of skilled workers. Our developers are experienced enough to build various web, mobile, or desktop apps from start to finish." />
+<meta property="og:url" content="https://hirecoworker.com/full-stack-development-services" />
+<meta property="og:site_name" content="Full Stack Development Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="full stack development services, full stack development company, full stack web app, full stack development service, full stack development, full stack web developer, full stack software engineer, senior full stack developer">
+<meta property="article:tag" content="full stack development services" />
+<meta property="article:tag" content="full stack development company" />
+<meta property="article:tag" content="full stack web app" />
+<meta property="article:tag" content="full stack development service" />
+<meta property="article:tag" content="full stack development" />
+<meta property="article:tag" content="full stack web developer" />
+<meta property="article:tag" content="full stack software engineer" />
+<meta property="article:tag" content="senior full stack developer" />
+<meta property="article:tag" content="full stack technologies" />
 
 <head>
 

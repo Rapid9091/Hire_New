@@ -5,6 +5,25 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Social Media Advertisement Services | Hire Co-worker</title>
+
+<meta name="title" content="Social Media Advertisement Services | Hire Co-worker">
+<meta name="description" content="Social media platforms provide a valuable way to engage with the people you want to reach, boost brand awareness, and encourage more people to take action, such as purchasing or signing up for your services." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Social Media Advertisement Services | Hire Co-worker"/>
+<meta property="og:description" content="Social media platforms provide a valuable way to engage with the people you want to reach, boost brand awareness, and encourage more people to take action, such as purchasing or signing up for your services." />
+<meta property="og:url" content="https://hirecoworker.com/va-for-social-media-marketing" />
+<meta property="og:site_name" content="Social Media Advertisement Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="social media advertisement services, social networking advertising, social media advertising agency, social advertising media, advertising social media marketing, social media management ads, benefit of social media advertising, social media advertising marketing">
+<meta property="article:tag" content="social media advertisement services" />
+<meta property="article:tag" content="social networking advertising" />
+<meta property="article:tag" content="social media advertising agency" />
+<meta property="article:tag" content="social advertising media" />
+<meta property="article:tag" content="advertising social media marketing" />
+<meta property="article:tag" content="social media management ads" />
+<meta property="article:tag" content="benefit of social media advertising" />
+<meta property="article:tag" content="social media advertising marketing" />
 
 <head>
     <?php include_once head_new;?>

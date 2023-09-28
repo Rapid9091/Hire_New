@@ -4,7 +4,10 @@ include_once '../../init.php';
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">.
+    
+
+
 
 <head>
     <?php include_once head_new;?>
