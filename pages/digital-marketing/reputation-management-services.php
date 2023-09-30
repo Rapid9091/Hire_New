@@ -7,9 +7,29 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+<title>Reputation Management Services | Hire Co-worker</title>
+<meta name="title" content="Reputation Management Services | Hire Co-worker">
+<meta name="description" content="A successful reputation management plan must be adapted to each situation. Depending on the nature of their operations and the health of their reputation, each organization has unique obstacles." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Reputation Management Services | Hire Co-worker"/>
+<meta property="og:description" content="A successful reputation management plan must be adapted to each situation. Depending on the nature of their operations and the health of their reputation, each organization has unique obstacles." />
+<meta property="og:url" content="https://hirecoworker.com/reputation-management-services" />
+<meta property="og:site_name" content="Reputation Management Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Reputation management services, reputation management, online reputation management, reputation management companies, seo reputation management, reputation management strategy, reputation management agency, search engine reputation management">
+<meta property="article:tag" content="Reputation management services" />
+<meta property="article:tag" content="reputation management" />
+<meta property="article:tag" content="online reputation management" />
+<meta property="article:tag" content="reputation management companies" />
+<meta property="article:tag" content="seo reputation management" />
+<meta property="article:tag" content="reputation management strategy" />
+<meta property="article:tag" content="reputation management agency" />
+<meta property="article:tag" content="search engine reputation management" />
+
+
     <?php include_once head_new;?>
 
-    <title>Reputation Management Services</title>
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

@@ -4,7 +4,7 @@ include_once '../../init.php';
 
 
 <!DOCTYPE html>
-
+<head>
 <title>Machine Learning Service | Hire Co-worker</title>
 
 <meta name="title" content="Machine Learning Service | Hire Co-worker">
@@ -24,11 +24,10 @@ include_once '../../init.php';
 <meta property="article:tag" content="azure machine learning service" />
 <meta property="article:tag" content="azure machine learning pricing" />
 
-<head>
 
     <?php include_once head_new; ?>
 
-    <title>Machine Learning Service</title>
+   
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

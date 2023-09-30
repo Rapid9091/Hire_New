@@ -7,9 +7,29 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+
+<title>Franchise Seo Services | Hire Co-worker</title>
+
+<meta name="title" content="Franchise Seo Services | Hire Co-worker">
+<meta name="description" content="Local SEO for franchises is an essential strategy that helps franchise businesses become more visible and grow. To attract more customers, franchises need a firm plan for appearing in search engine results." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Franchise Seo Services | Hire Co-worker"/>
+<meta property="og:description" content="Local SEO for franchises is an essential strategy that helps franchise businesses become more visible and grow. To attract more customers, franchises need a firm plan for appearing in search engine results." />
+<meta property="og:url" content="https://hirecoworker.com/franchise-seo-services" />
+<meta property="og:site_name" content="Franchise Seo Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="franchise seo services, local seo for franchises, franchise seo company, franchise seo agency, franchise seo marketing, seo for franchise websites, local seo services for franchises, seo services for franchisees">
+<meta property="article:tag" content="franchise seo services" />
+<meta property="article:tag" content="local seo for franchises" />
+<meta property="article:tag" content="franchise seo company" />
+<meta property="article:tag" content="franchise seo agency" />
+<meta property="article:tag" content="franchise seo marketing" />
+<meta property="article:tag" content="seo for franchise websites" />
+<meta property="article:tag" content="local seo services for franchises" />
+<meta property="article:tag" content="seo services for franchisees" />
     <?php include_once head_new;?>
 
-    <title>Franchise SEO Services</title>
+   
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

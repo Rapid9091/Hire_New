@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>Social Media Advertisement Services | Hire Co-worker</title>
 
 <meta name="title" content="Social Media Advertisement Services | Hire Co-worker">
@@ -25,10 +26,10 @@ include_once '../../init.php';
 <meta property="article:tag" content="benefit of social media advertising" />
 <meta property="article:tag" content="social media advertising marketing" />
 
-<head>
+
     <?php include_once head_new;?>
 
-    <title>Social Media Advertisement Services</title>
+   
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

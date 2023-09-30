@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
     
 <title>Content Marketing Services | Hire Co-worker</title>
 
@@ -27,10 +28,7 @@ include_once '../../init.php';
 <meta property="article:tag" content="digital content marketing agency" />
 
 
-<head>
    <?php include_once head_new;?>
-
-    <title>Content Marketing Services</title>
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

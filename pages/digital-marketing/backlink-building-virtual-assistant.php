@@ -5,11 +5,32 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+<title>Backlink Building Service | Hire Co-worker</title>
+
+<meta name="title" content="Backlink Building Service | Hire Co-worker">
+<meta name="description" content="The process of creating backlinks is adding your website's URL to directories in order to establish some of these beneficial inbound connections." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Backlink Building Service | Hire Co-worker"/>
+<meta property="og:description" content="The process of creating backlinks is adding your website's URL to directories in order to establish some of these beneficial inbound connections." />
+<meta property="og:url" content="https://hirecoworker.com/backlink-building-virtual-assistant" />
+<meta property="og:site_name" content="Backlink Building Service | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="backlink building service, seo link building, link building services, link building agency, seo link building services, link building company, white label link building, high quality link building">
+<meta property="article:tag" content="backlink building service" />
+<meta property="article:tag" content="seo link building" />
+<meta property="article:tag" content="link building services" />
+<meta property="article:tag" content="link building agency" />
+<meta property="article:tag" content="seo link building services" />
+<meta property="article:tag" content="link building company" />
+<meta property="article:tag" content="white label link building" />
+<meta property="article:tag" content="best link building services" />
+<meta property="article:tag" content="high quality link building" />
+
+
     <?php include_once head_new;?>
 
-    <title>Backlink Building Virtual Assistant</title>
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

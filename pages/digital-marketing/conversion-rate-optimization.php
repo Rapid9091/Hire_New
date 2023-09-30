@@ -7,9 +7,29 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+    
+<title>Conversion Rate Optimization Services | Hire Co-worker</title>
+
+<meta name="title" content="Conversion Rate Optimization Services | Hire Co-worker">
+<meta name="description" content="In today's digital world, websites are critical for businesses to succeed. One strategy that companies use to improve their online performance is called conversion rate optimization." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Conversion Rate Optimization Services | Hire Co-worker"/>
+<meta property="og:description" content="In today's digital world, websites are critical for businesses to succeed. One strategy that companies use to improve their online performance is called conversion rate optimization." />
+<meta property="og:url" content="https://hirecoworker.com/conversion-rate-optimization" />
+<meta property="og:site_name" content="Conversion Rate Optimization Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="conversion rate optimization, conversion rate optimization services, conversion optimisation, conversion rate optimisation services, conversion rate optimization strategies, website conversion optimization, conversion optimization services, conversion optimization strategy">
+<meta property="article:tag" content="conversion rate optimization" />
+<meta property="article:tag" content="conversion rate optimization services" />
+<meta property="article:tag" content="conversion optimisation" />
+<meta property="article:tag" content="conversion rate optimisation services" />
+<meta property="article:tag" content="conversion rate optimization strategies" />
+<meta property="article:tag" content="website conversion optimization" />
+<meta property="article:tag" content="conversion optimization services" />
+<meta property="article:tag" content="conversion optimization strategy" />
     <?php include_once head_new;?>
 
-    <title> Conversion Rate Optimization </title>
+    
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

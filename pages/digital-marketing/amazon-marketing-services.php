@@ -6,10 +6,31 @@ include_once '../../init.php';
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <?php include_once head_new;?>
+<head>  
+    
+<title>Amazon Marketing Services | Hire Co-worker</title>
 
-    <title>Amazon Marketing Services</title>
+<meta name="title" content="Amazon Marketing Services | Hire Co-worker">
+<meta name="description" content="Hire Coworker provides comprehensive Amazon marketing services (AMS) to increase your direct or indirect online sales." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Amazon Marketing Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker provides comprehensive Amazon marketing services (AMS) to increase your direct or indirect online sales." />
+<meta property="og:url" content="https://hirecoworker.com/amazon-marketing-services" />
+<meta property="og:site_name" content="Amazon Marketing Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="amazon marketing services, amazon marketing agency, amazon advertising agency, amazon digital marketing, amazon advertising services, amazon online marketing, amazon advertising management, amazon marketing companies">
+<meta property="article:tag" content="amazon marketing services" />
+<meta property="article:tag" content="amazon marketing agency" />
+<meta property="article:tag" content="amazon advertising agency" />
+<meta property="article:tag" content="amazon digital marketing" />
+<meta property="article:tag" content="amazon advertising services" />
+<meta property="article:tag" content="amazon online marketing" />
+<meta property="article:tag" content="amazon advertising management" />
+<meta property="article:tag" content="amazon marketing companies" />
+
+<?php include_once head_new;?>
+
+ 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

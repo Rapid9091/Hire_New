@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>Software Development Services | Hire Co-worker</title>
 
     <meta name="title" content="Software Development Services | Hire Co-worker">
@@ -23,11 +24,10 @@ include_once '../../init.php';
     <meta property="article:tag" content="software development engineer" />
     <meta property="article:tag" content="custom software development" />
     <meta property="article:tag" content="app development software" />
-<head>
 
     <?php include_once head_new; ?>
 
-    <title>Virtual Assistant for Software Development</title>
+    
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

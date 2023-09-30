@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>SEO Virtual Assistant Services | Hire Co-worker</title>
 
 <meta name="title" content="SEO Virtual Assistant Services | Hire Co-worker">
@@ -21,11 +22,11 @@ include_once '../../init.php';
 <meta property="article:tag" content="SEO virtual assistant services" />
 <meta property="article:tag" content="SEO specialist virtual assistant" />
 
-<head>
+
     
   <?php include_once head_new;?>
     
-    <title>Hire Your SEO Virtual Assistant Specialist</title>
+    
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

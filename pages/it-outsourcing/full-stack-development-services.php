@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>Full Stack Development Services | Hire Co-worker</title>
 
 <meta name="title" content="Full Stack Development Services | Hire Co-worker">
@@ -26,11 +27,10 @@ include_once '../../init.php';
 <meta property="article:tag" content="senior full stack developer" />
 <meta property="article:tag" content="full stack technologies" />
 
-<head>
 
     <?php include_once head_new; ?>
 
-    <title>Full Stack Development Services</title>
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

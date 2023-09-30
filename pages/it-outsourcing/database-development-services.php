@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>Database Development Services | Hire Co-worker</title>
 
 <meta name="title" content="Database Development Services | Hire Co-worker">
@@ -21,11 +22,10 @@ include_once '../../init.php';
 <meta property="article:tag" content="database development company" />
 <meta property="article:tag" content="database design development" />
 <meta property="article:tag" content="database for app development" />
-<head>
+
 
     <?php include_once head_new; ?>
 
-    <title>Data Base Development Services</title>
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

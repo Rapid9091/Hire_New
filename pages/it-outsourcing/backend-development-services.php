@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>Backend development services | Hire Co-worker</title>
 
 <meta name="title" content="Backend development services | Hire Co-worker">
@@ -25,11 +26,11 @@ include_once '../../init.php';
 <meta property="article:tag" content="backend mobile development" />
 <meta property="article:tag" content="backend web programming" />
 
-<head>
+
 
     <?php include_once head_new; ?>
 
-    <title>Backend development services</title>
+    
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

@@ -5,7 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
-    
+<head>
 <title>Web Development Services | Hire Co-worker</title>
 <meta name="title" content="Web Development Services | About | Hire Co-worker">
     <meta name="description" content="A reputable web development business in the USA is Perception System. We have provided clients all around the world with custom web development services for more than 20 years." />
@@ -24,11 +24,11 @@ include_once '../../init.php';
     <meta property="article:tag" content="web development agency" />
 
 
-<head>
+
 
     <?php include_once head_new; ?>
 
-    <title> Web Development</title>
+   
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

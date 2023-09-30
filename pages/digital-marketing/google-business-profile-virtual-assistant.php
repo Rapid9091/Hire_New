@@ -5,11 +5,32 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+<title>Google Business Profile Manage | Hire Co-worker</title>
+
+<meta name="title" content="Google Business Profile Manage | Hire Co-worker">
+<meta name="description" content="A Google Business Profile (GBP) listing is more necessary and successful than a website for your business in most cases! Google Business profile is free and easy to use." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Google Business Profile Manage | Hire Co-worker"/>
+<meta property="og:description" content="A Google Business Profile (GBP) listing is more necessary and successful than a website for your business in most cases! Google Business profile is free and easy to use." />
+<meta property="og:url" content="https://hirecoworker.com/google-business-profile-virtual-assistant" />
+<meta property="og:site_name" content="Google Business Profile Manage | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="google business profile management, google business profile manager, manage google business profile, manage business profile google, manage my google business profile, google business profile manage, manage business listing google, manage google business listings">
+<meta property="article:tag" content="google business profile management" />
+<meta property="article:tag" content="google business profile manager" />
+<meta property="article:tag" content="manage google business profile" />
+<meta property="article:tag" content="manage business profile google" />
+<meta property="article:tag" content="manage my google business profile" />
+<meta property="article:tag" content="google business profile manage" />
+<meta property="article:tag" content="manage business listing google" />
+<meta property="article:tag" content="manage google business listings" />
+
+
+
     <?php include_once head_new;?>
 
-    <title>Google Business Profile Management Service</title>
+   
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

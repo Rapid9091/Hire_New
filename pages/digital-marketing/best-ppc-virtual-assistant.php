@@ -5,11 +5,32 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+<title>Pay Per Click Advertising Services | Hire Co-worker</title>
+
+<meta name="title" content="Pay Per Click Advertising Services | Hire Co-worker">
+<meta name="description" content="When you engage a virtual assistant from Hire Coworker for a PPC campaign Advertising, we reduce your need for a full-time Google AdWords professional to manage tedious tasks." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Pay Per Click Advertising Services | Hire Co-worker"/>
+<meta property="og:description" content="When you engage a virtual assistant from Hire Coworker for a PPC campaign Advertising, we reduce your need for a full-time Google AdWords professional to manage tedious tasks." />
+<meta property="og:url" content="https://hirecoworker.com/best-ppc-virtual-assistant" />
+<meta property="og:site_name" content="Pay Per Click Advertising Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="hire dedicated ppc experts, hire ppc management experts, pay per click advertising, pay per click in digital marketing, ppc marketing company, pay per click management agency, ppc advertising services, pay per click advertising services, pay per click advertising management">
+<meta property="article:tag" content="hire dedicated ppc experts" />
+<meta property="article:tag" content="hire ppc management experts" />
+<meta property="article:tag" content="pay per click advertising" />
+<meta property="article:tag" content="pay per click in digital marketing" />
+<meta property="article:tag" content="ppc marketing company" />
+<meta property="article:tag" content="pay per click management agency" />
+<meta property="article:tag" content="ppc advertising services" />
+<meta property="article:tag" content="pay per click advertising services" />
+<meta property="article:tag" content="pay per click advertising management" />
+
+
    <?php include_once head_new;?>
 
-    <title>Best PPC Virtual Assistant Services</title>
+    
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

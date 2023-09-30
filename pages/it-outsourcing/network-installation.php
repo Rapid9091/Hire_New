@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>Network Installation Services | Hire Co-worker</title>
 
 <meta name="title" content="Network Installation Services | Hire Co-worker">
@@ -24,11 +25,11 @@ include_once '../../init.php';
 <meta property="article:tag" content="home network installation services near me" />
 <meta property="article:tag" content="network installation companies" />
 
-<head>
+
 
     <?php include_once head_new; ?>
 
-    <title>Network Installation Services</title>
+ 
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

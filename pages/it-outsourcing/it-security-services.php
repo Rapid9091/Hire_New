@@ -5,6 +5,7 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<head>
 <title>IT Security Services | Hire Co-worker</title>
 
 <meta name="title" content="IT Security Services | Hire Co-worker">
@@ -25,11 +26,11 @@ include_once '../../init.php';
 <meta property="article:tag" content="it security management services" />
 <meta property="article:tag" content="security it company" />
 
-<head>
+
 
     <?php include_once head_new; ?>
 
-    <title>IT security Services</title>
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
