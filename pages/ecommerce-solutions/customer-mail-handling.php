@@ -8,9 +8,25 @@ include_once '../../init.php';
 
 <head>
 
+<title>Customer Mail Handling | Hire Co-worker</title>
+
+<meta name="title" content="Customer Mail Handling | Hire Co-worker">
+<meta name="description" content="In today's rapidly changing business world, it is crucial to have effective communication with customers to stay ahead of the competition and establish long-term connections." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Customer Mail Handling | Hire Co-worker"/>
+<meta property="og:description" content="In today's rapidly changing business world, it is       crucial to have effective communication with customers to stay ahead of the competition and establish long-term connections." />
+<meta property="og:url" content="https://hirecoworker.com/customer-mail-handling" />
+<meta property="og:site_name" content="Customer Mail Handling | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Mail handling services, Mail handling tracking, Mail handling assistant">
+<meta property="article:tag" content="Mail handling services" />
+<meta property="article:tag" content="Mail handling tracking" />
+<meta property="article:tag" content="Mail handling assistant" />
+
+
     <?php include_once head_new; ?>
 
-    <title>Customer Mail Handling</title>
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

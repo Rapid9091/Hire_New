@@ -7,10 +7,29 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+<title>Amazon Virtual Assistant | Hire Co-worker</title>
+
+<meta name="title" content="Amazon Virtual Assistant | Hire Co-worker">
+<meta name="description" content="Our Amazon virtual assistant services are set up to deliver immediate business benefits and do away with duplication. With Hire Coworker, you may take advantage of the most useful Amazon VA services" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Amazon Virtual Assistant | Hire Co-worker"/>
+<meta property="og:description" content="Our Amazon virtual assistant services are set up to deliver immediate business benefits and do away with duplication. With Hire Coworker, you may take advantage of the most useful Amazon VA services" />
+<meta property="og:url" content="https://hirecoworker.com/hire-amazon-virtual-assistant" />
+<meta property="og:site_name" content="Amazon Virtual Assistant | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Amazon virtual assistant, Amazon fba virtual assistan, Amazon's virtual assistant, virtual assistant amazon fba, virtual assistant in amazon, best amazon virtual assistant, virtual assistant on amazon">
+<meta property="article:tag" content="Amazon virtual assistant" />
+<meta property="article:tag" content="Amazon fba virtual assistan" />
+<meta property="article:tag" content="Amazon's virtual assistant" />
+<meta property="article:tag" content="virtual assistant amazon fba" />
+<meta property="article:tag" content="virtual assistant in amazon" />
+<meta property="article:tag" content="best amazon virtual assistant" />
+<meta property="article:tag" content="virtual assistant on amazon" />
+
 
     <?php include_once head_new; ?>
 
-    <title>Hire Best Amazon Virtual Assistant</title>
+    
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

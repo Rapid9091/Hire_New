@@ -8,9 +8,29 @@ include_once '../../init.php';
 
 <head>
 
+
+<title>Chargebacks Handling | Hire Co-worker</title>
+
+<meta name="title" content="Chargebacks Handling | Hire Co-worker">
+<meta name="description" content="In today's digital world, technology is critical when managing chargebacks. Chargeback management platforms and tools are software systems that help businesses handle and resolve chargebacks more easily." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Chargebacks Handling | Hire Co-worker"/>
+<meta property="og:description" content="In today's digital world, technology is critical when managing chargebacks. Chargeback management platforms and tools are software systems that help businesses handle and resolve chargebacks more easily." />
+<meta property="og:url" content="https://hirecoworker.com/chargebacks-handling" />
+<meta property="og:site_name" content="Chargebacks Handling | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="chargeback meaning, chargeback process, chargeback dispute, chargeback example, chargeback insurance, chargeback accounting">
+<meta property="article:tag" content="chargeback meaning" />
+<meta property="article:tag" content="chargeback process" />
+<meta property="article:tag" content="chargeback dispute" />
+<meta property="article:tag" content="chargeback example" />
+<meta property="article:tag" content="chargeback insurance" />
+<meta property="article:tag" content="chargeback accounting" />
+
+
     <?php include_once head_new; ?>
 
-    <title>Chargebacks Handling</title>
+    
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

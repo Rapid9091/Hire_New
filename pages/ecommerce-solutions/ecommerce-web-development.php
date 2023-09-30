@@ -7,10 +7,31 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+<title>E-commerce Web Development Service | Hire Co-worker</title>
+
+<meta name="title" content="E-commerce Web Development Service | Hire Co-worker">
+<meta name="description" content="Hire Coworker is the ideal location to find an e-commerce virtual assistant. We have a highly trained and experienced development staff that can assist you in creating a profitable online business." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="E-commerce Web Development Service | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is the ideal location to find an e-commerce virtual assistant. We have a highly trained and experienced development staff that can assist you in creating a profitable online business." />
+<meta property="og:url" content="https://hirecoworker.com/ecommerce-web-development" />
+<meta property="og:site_name" content="E-commerce Web Development Service | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="ecommerce web development, ecommerce website development, ecommerce web design, ecommerce development, ecommerce developer, ecommerce website development services, ecommerce website cost, ecommerce web development services">
+<meta property="article:tag" content="ecommerce web development" />
+<meta property="article:tag" content="ecommerce website development" />
+<meta property="article:tag" content="ecommerce web design" />
+<meta property="article:tag" content="ecommerce development" />
+<meta property="article:tag" content="ecommerce developer" />
+<meta property="article:tag" content="ecommerce website development services" />
+<meta property="article:tag" content="ecommerce website cost" />
+<meta property="article:tag" content="ecommerce web development services" />
+
+
 
     <?php include_once head_new; ?>
 
-    <title>E-commerce Web Development</title>
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
