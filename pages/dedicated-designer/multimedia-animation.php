@@ -7,7 +7,22 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>HireCoworker | Hire MultiMedia Animation Experts</title>
+<title>Hire Multimedia Animation Expert | Hire Co-worker</title>
+
+<meta name="title" content="Hire Multimedia Animation Expert | Hire Co-worker">
+<meta name="description" content="Multimedia animation experts combine their artistic skills with technical knowledge to create visually appealing animations. The title refers to various abilities, such as creating animated content, and other related skills." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hire Multimedia Animation Expert | Hire Co-worker"/>
+<meta property="og:description" content="Multimedia animation experts combine their artistic skills with technical knowledge to create visually appealing animations. The title refers to various abilities, such as creating animated content, and other related skills." />
+<meta property="og:url" content="https://hirecoworker.com/hire-multimedia-animation-experts" />
+<meta property="og:site_name" content="Hire Multimedia Animation Expert | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Hire Multimedia Animation Expert, Multimedia Animation Expert, Multimedia Expert, Multi media Expert">
+<meta property="article:tag" content="Hire Multimedia Animation Expert" />
+<meta property="article:tag" content="Multimedia Animation Expert" />
+<meta property="article:tag" content="Multimedia Expert" />
+<meta property="article:tag" content="Multi media Expert" />
+
 
     <?php include_once head; ?>
 

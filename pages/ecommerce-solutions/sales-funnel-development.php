@@ -8,9 +8,27 @@ include_once '../../init.php';
 
 <head>
 
+<title>Sales Funnel Development | Hire Co-worker</title>
+
+<meta name="title" content="Sales Funnel Development | Hire Co-worker">
+<meta name="description" content="The marketing funnel is a way to understand a potential customer's journey before making a purchase. It helps businesses identify the stages and steps in turning a potential customer into a paying customer." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Sales Funnel Development | Hire Co-worker"/>
+<meta property="og:description" content="The marketing funnel is a way to understand a potential customer's journey before making a purchase. It helps businesses identify the stages and steps in turning a potential customer into a paying customer." />
+<meta property="og:url" content="https://hirecoworker.com/sales-funnel-development" />
+<meta property="og:site_name" content="Sales Funnel Development | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Sales funnel development, Marketing funnel development, Business development sales funnel, Marketing funnel stages, Digital marketing funnel, Funnel marketing strategy">
+<meta property="article:tag" content="Sales funnel development" />
+<meta property="article:tag" content="Marketing funnel development" />
+<meta property="article:tag" content="Business development sales funnel" />
+<meta property="article:tag" content="Marketing funnel stages" />
+<meta property="article:tag" content="Digital marketing funnel" />
+<meta property="article:tag" content="Funnel marketing strategy" />
+
+
     <?php include_once head_new; ?>
 
-    <title>Sales Funnel Development and Support</title>
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

@@ -7,7 +7,27 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>HireCoworker | Hire Logo Designer</title>
+
+<title>Hire Logo Designer | Hire Co-worker</title>
+
+<meta name="title" content="Hire Logo Designer | Hire Co-worker">
+<meta name="description" content="Logo design is a careful combination of artistic creativity and strategic thinking. The process requires being creative, thinking strategically, and thoroughly understanding a brand's core identity. " />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hire Logo Designer | Hire Co-worker"/>
+<meta property="og:description" content="Logo design is a careful combination of artistic creativity and strategic thinking. The process requires being creative, thinking strategically, and thoroughly understanding a brand's core identity." />
+<meta property="og:url" content="https://hirecoworker.com/hire-logo-designers" />
+<meta property="og:site_name" content="Hire Logo Designer | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="hire professional logo designer, hire logo designer,hire graphic designer for logo, logo designers freelancers, hire a designer for logo, hire graphic designer for logo, hire a graphic designer for a logo">
+<meta property="article:tag" content="hire professional logo designer" />
+<meta property="article:tag" content="hire logo designer" />
+<meta property="article:tag" content="hire graphic designer for logo" />
+<meta property="article:tag" content="logo designers freelancers" />
+<meta property="article:tag" content="hire a designer for logo" />
+<meta property="article:tag" content="hire graphic designer for logo" />
+<meta property="article:tag" content="hire a graphic designer for a logo" />
+
+
 
     <?php include_once head; ?>
 

@@ -7,7 +7,27 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>HireCoworker | Hire Photoshop Artists</title>
+    
+<title>Professional Photoshop Artist | Hire Co-worker</title>
+
+<meta name="title" content="Professional Photoshop Artist | Hire Co-worker">
+<meta name="description" content="Hire Coworker is an expert in providing Professional Photoshop Artist Service in the USA. We are one of the Professional Photoshop Artist Service company in the US," />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Professional Photoshop Artist | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is an expert in providing Professional Photoshop Artist Service in the USA. We are one of the Professional Photoshop Artist Service company in the US," />
+<meta property="og:url" content="https://hirecoworker.com/hire-photoshop-experts" />
+<meta property="og:site_name" content="Professional Photoshop Artist | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="photoshop artists, professional photoshop artist, photoshop artist near me, best photoshop artists, famous photoshop artists, freelance photoshop artist, photoshop artist for hire, best photoshop for artists">
+<meta property="article:tag" content="photoshop artists" />
+<meta property="article:tag" content="professional photoshop artist" />
+<meta property="article:tag" content="photoshop artist near me" />
+<meta property="article:tag" content="best photoshop artists" />
+<meta property="article:tag" content="famous photoshop artists" />
+<meta property="article:tag" content="freelance photoshop artist" />
+<meta property="article:tag" content="photoshop artist for hire" />
+<meta property="article:tag" content="best photoshop for artists" />
+
 
     <?php include_once head; ?>
 

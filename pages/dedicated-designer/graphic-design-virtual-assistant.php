@@ -8,9 +8,28 @@ include_once '../../init.php';
 
 <head>
     
+<title>Graphic Design Virtual Assistant | Hire Co-worker</title>
+
+<meta name="title" content="Graphic Design Virtual Assistant | Hire Co-worker">
+<meta name="description" content="A Graphic Design VA often has a strong experience in graphic design or marketing, which they use to assist their customers with everything from developing marketing materials to designing website visuals." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Graphic Design Virtual Assistant | Hire Co-worker"/>
+<meta property="og:description" content="A Graphic Design VA often has a strong experience in graphic design or marketing, which they use to assist their customers with everything from developing marketing materials to designing website visuals." />
+<meta property="og:url" content="https://hirecoworker.com/graphic-design-virtual-assistant" />
+<meta property="og:site_name" content="Graphic Design Virtual Assistant | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Graphic design virtual assistant, Graphic designer virtual assistant, Virtual assistant graphic designer, Virtual assistant graphics, Virtual assistant logo design, Virtual assistant graphic design jobs, Graphic design virtual assistant jobs">
+<meta property="article:tag" content="Graphic design virtual assistant" />
+<meta property="article:tag" content="Graphic designer virtual assistant" />
+<meta property="article:tag" content="Virtual assistant graphic designer" />
+<meta property="article:tag" content="Virtual assistant graphics" />
+<meta property="article:tag" content="Virtual assistant logo design" />
+<meta property="article:tag" content="Virtual assistant graphic design jobs" />
+<meta property="article:tag" content="Graphic design virtual assistant jobs" />
+
+
   <?php include_once head_new;?>
-    
-    <title>Graphic Design Virtual Assistant Services</title>
+ 
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

@@ -7,9 +7,29 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+
+
+<title>Dropshipping Virtual Assistant | Hire Co-worker</title>
+
+<meta name="title" content="Dropshipping Virtual Assistant | Hire Co-worker">
+<meta name="description" content="A dropshipping virtual assistant has a deep understanding and specific skills in the dropshipping field. They are knowledgeable and experienced in helping businesses with their dropshipping needs. " />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Dropshipping Virtual Assistant | Hire Co-worker"/>
+<meta property="og:description" content="A dropshipping virtual assistant has a deep understanding and specific skills in the dropshipping field. They are knowledgeable and experienced in helping businesses with their dropshipping needs. " />
+<meta property="og:url" content="https://hirecoworker.com/dropshipping-virtual-assistant" />
+<meta property="og:site_name" content="Dropshipping Virtual Assistant | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Dropshipping Virtual Assistant, virtual assistant dropshipping, dropshipping assistant, virtual assistant for dropshipping, virtual dropshipping, ebay dropshipping virtual assistant">
+<meta property="article:tag" content="Dropshipping Virtual Assistant" />
+<meta property="article:tag" content="virtual assistant dropshipping" />
+<meta property="article:tag" content="dropshipping assistant" />
+<meta property="article:tag" content="virtual assistant for dropshipping" />
+<meta property="article:tag" content="virtual dropshipping" />
+<meta property="article:tag" content="ebay dropshipping virtual assistant" />
+
     <?php include_once head_new;?>
 
-    <title>Dropshipping Virtual Assistant</title>
+    
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

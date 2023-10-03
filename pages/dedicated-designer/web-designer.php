@@ -7,7 +7,27 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
-    <title>HireCoworker | Hire Web Designer</title>
+
+<title>Hire Web Designer | Hire Co-worker</title>
+
+<meta name="title" content="Hire Web Designer | Hire Co-worker">
+<meta name="description" content="Web designers are professionals who use their skills and knowledge to create a website that reflects the look and feel of your brand and meets your specific objectives and goals." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hire Web Designer | Hire Co-worker"/>
+<meta property="og:description" content="Web designers are professionals who use their skills and knowledge to create a website that reflects the look and feel of your brand and meets your specific objectives and goals." />
+<meta property="og:url" content="https://hirecoworker.com/hire-web-designers" />
+<meta property="og:site_name" content="Hire Web Designer | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="hire web designer, hire website designer, hire responsive web designers, best freelance websites for ux designers, hire freelance web designer, hire e commerce website designers, hire wordpress website designer, hire dedicated web designer">
+<meta property="article:tag" content="hire web designer" />
+<meta property="article:tag" content="hire website designer" />
+<meta property="article:tag" content="hire responsive web designers" />
+<meta property="article:tag" content="best freelance websites for ux designers" />
+<meta property="article:tag" content="hire freelance web designer" />
+<meta property="article:tag" content="hire e commerce website designers" />
+<meta property="article:tag" content="hire wordpress website designer" />
+<meta property="article:tag" content="hire dedicated web designer" />
+
 
     <?php include_once head; ?>
 

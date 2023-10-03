@@ -7,10 +7,28 @@ include_once '../../init.php';
 <html lang="en">
 
 <head>
+<title>Google Reviews Services | Hire Co-worker</title>
+
+<meta name="title" content="Google Reviews Services | Hire Co-worker">
+<meta name="description" content="Google Customer Reviews is a valuable service that allows businesses to collect reviews directly on their website In order to take part in Google Customer Reviews, it is necessary for you to have a Google Merchant account." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Google Reviews Services | Hire Co-worker"/>
+<meta property="og:description" content="Google Customer Reviews is a valuable service that allows businesses to collect reviews directly on their website In order to take part in Google Customer Reviews, it is necessary for you to have a Google Merchant account." />
+<meta property="og:url" content="https://hirecoworker.com/goggle-reviews" />
+<meta property="og:site_name" content="Google Reviews Services | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Google reviews services, Google reviews customer service, Google review support, direct link to google reviews, Google verified reviews, Google support reviews, Google review service provider">
+<meta property="article:tag" content="Google reviews services" />
+<meta property="article:tag" content="Google reviews customer service" />
+<meta property="article:tag" content="Google review support" />
+<meta property="article:tag" content="Google verified reviews" />
+<meta property="article:tag" content="Google support reviews" />
+<meta property="article:tag" content="Google review service provider" />
+
 
     <?php include_once head_new; ?>
 
-    <title>Google Reviews Services</title>
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
