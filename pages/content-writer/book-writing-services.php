@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Book Writing Services</title>
+   
+   <title>Book Writing Services | Hire Co-worker</title>
+
+<meta name="title" content="Book Writing Services | Hire Co-worker">
+<meta name="description" content="Hire Coworker is the leading book writing service in the United States. It provides professional and high-quality book writing services to people seeking resources to write and publish their books. " />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Book Writing Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is the leading book writing service in the United States. It provides professional and high-quality book writing services to people seeking resources to write and publish their books. " />
+<meta property="og:url" content="https://hirecoworker.com/book-writing-services" />
+<meta property="og:site_name" content="Book Writing Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="book writing services, content writing books, book writing company, book writing coach, book writers for hire, best books on content writing, book writing experts">
+<meta property="article:tag" content="book writing services" />
+<meta property="article:tag" content="content writing books" />
+<meta property="article:tag" content="book writing company" />
+<meta property="article:tag" content="book writing coach" />
+<meta property="article:tag" content="book writers for hire" />
+<meta property="article:tag" content="best books on content writing" />
+<meta property="article:tag" content="book writing experts" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
