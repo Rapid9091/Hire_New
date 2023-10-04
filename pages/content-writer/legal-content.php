@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Legal Content</title>
+
+    <title>Best Legal Content Writers Service | Hire Co-worker</title>
+
+    <meta name="title" content="Best Legal Content Writers Service | Hire Co-worker">
+    <meta name="description" content="Good legal writing is super important in today's digital world, where you can find info easily. Legal writing helps lawyers talk to everyone else by explaining hard law stuff in a way we all get." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best Legal Content Writers Service | Hire Co-worker"/>
+    <meta property="og:description" content="Good legal writing is super important in today's digital world, where you can find info easily. Legal writing helps lawyers talk to everyone else by explaining hard law stuff in a way we all get." />
+    <meta property="og:url" content="https://hirecoworker.com/legal-content" />
+    <meta property="og:site_name" content="Best Legal Content Writers Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Legal content writer, Legal web content, Best legal content writers, Legal website content, Legal blog writing service, Legal website content writer, Legal content writing services">
+    <meta property="article:tag" content="Legal content writer" />
+    <meta property="article:tag" content="Legal web content" />
+    <meta property="article:tag" content="Best legal content writers" />
+    <meta property="article:tag" content="Legal website content" />
+    <meta property="article:tag" content="Legal blog writing service" />
+    <meta property="article:tag" content="Legal website content writer" />
+    <meta property="article:tag" content="Legal content writing services" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
