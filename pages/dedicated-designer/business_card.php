@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
 
 
-    <title>Hire Business-Card Designers, Podcast, Brochures</title>
+
+<title>Hire Business Card Designer | Hire Co-worker</title>
+
+<meta name="title" content="Hire Business Card Designer | Hire Co-worker">
+<meta name="description" content="The traditional business card remains essential and influential in today's digital age, where technology and online communication are widely used. A business card is not just a simple piece of paper." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hire Business Card Designer | Hire Co-worker"/>
+<meta property="og:description" content="The traditional business card remains essential and influential in today's digital age, where technology and online communication are widely used. A business card is not just a simple piece of paper. " />
+<meta property="og:url" content="https://hirecoworker.com/hire-business-card-designers" />
+<meta property="og:site_name" content="Hire Business Card Designer | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Hire business cards, Hire business card designer, Business card designer, Business card examples, Business card design free, Business card design online , Business card designer for hire, Private hire business cards">
+<meta property="article:tag" content="Hire business cards" />
+<meta property="article:tag" content="Hire business card designer" />
+<meta property="article:tag" content="Business card designer" />
+<meta property="article:tag" content="Business card examples" />
+<meta property="article:tag" content="Business card design free" />
+<meta property="article:tag" content="Business card design online" />
+<meta property="article:tag" content="Business card designer for hire" />
+<meta property="article:tag" content="Private hire business cards" />
+
 
     <?php include_once head; ?>
 

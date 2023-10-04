@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Whitepaper in marketing</title>
+   <title>White Paper Marketing Service | Hire Co-worker</title>
+
+<meta name="title" content="White Paper Marketing Service| Hire Co-worker">
+<meta name="description" content="A whitepaper is a serious paper that talks about complicated stuff in a well-organized and strong way. Usually, it talks about a particular problem, difficulty, or trend in an industry." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="White Paper Marketing Service | Hire Co-worker"/>
+<meta property="og:description" content="A whitepaper is a serious paper that talks about complicated stuff in a well-organized and strong way. Usually, it talks about a particular problem, difficulty, or trend in an industry." />
+<meta property="og:url" content="https://hirecoworker.com/whitepaper-in-marketing" />
+<meta property="og:site_name" content="White Paper Marketing Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="White Paper Marketing, whitepaper in marketing, hubspot white paper, white paper content marketing, white paper marketing strategy, whitepaper online marketing, whitepapers marketing, marketing research white paper">
+<meta property="article:tag" content="White Paper Marketing" />
+<meta property="article:tag" content="whitepaper in marketing" />
+<meta property="article:tag" content="hubspot white paper" />
+<meta property="article:tag" content="white paper content marketing" />
+<meta property="article:tag" content="white paper marketing strategy" />
+<meta property="article:tag" content="whitepaper online marketing" />
+<meta property="article:tag" content="whitepapers marketing" />
+<meta property="article:tag" content="marketing research white paper" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

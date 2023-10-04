@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Ebook & Brochure</title>
+    <title>Ebooks and Brochures Writing Service | Hire Co-worker</title>
+
+<meta name="title" content="Ebooks and Brochures Writing Service | Hire Co-worker">
+<meta name="description" content="In the world today, where we can get info easily on our devices, ebooks and brochures are strong tools for showing ideas, talking about businesses, and giving knowledge." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ebooks and Brochures Writing Service | Hire Co-worker"/>
+<meta property="og:description" content="In the world today, where we can get info easily on our devices, ebooks and brochures are strong tools for showing ideas, talking about businesses, and giving knowledge." />
+<meta property="og:url" content="https://hirecoworker.com/ebook&brochur" />
+<meta property="og:site_name" content="Ebooks and Brochures Writing Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Ebook writing service, kindle direct publishing, amazon ebooks, hire ebook writer, kdp publishing, amazon kindle direct publishing, social media content marketing, brochure design, brochure printing near me">
+<meta property="article:tag" content="Ebook writing service" />
+<meta property="article:tag" content="kindle direct publishing" />
+<meta property="article:tag" content="amazon ebooks" />
+<meta property="article:tag" content="hire ebook writer" />
+<meta property="article:tag" content="kdp publishing" />
+<meta property="article:tag" content="amazon kindle direct publishing" />
+<meta property="article:tag" content="social media content marketing" />
+<meta property="article:tag" content="brochure design" />
+<meta property="article:tag" content="brochure printing near me" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

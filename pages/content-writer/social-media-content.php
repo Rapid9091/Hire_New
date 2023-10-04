@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Social Media Content</title>
+   <title>Social Media Content Service | Hire Co-worker</title>
+
+<meta name="title" content="Social Media Content Service | Hire Co-worker">
+<meta name="description" content="To use social media, you need to be good at making exciting content. This article looks deeply into making engaging social media content. It discusses the importance of an innovative social media plan and uses posts, ads, and schedules." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Social Media Content Service | Hire Co-worker"/>
+<meta property="og:description" content="To use social media, you need to be good at making exciting content. This article looks deeply into making engaging social media content. It discusses the importance of an innovative social media plan and uses posts, ads, and schedules." />
+<meta property="og:url" content="https://hirecoworker.com/social-media-content" />
+<meta property="og:site_name" content="Social Media Content Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="social media content, social media post, social media post design , social media content strategy , social media content planner, social media content marketing, article websites for seo, social media content manager">
+<meta property="article:tag" content="social media content" />
+<meta property="article:tag" content="social media post" />
+<meta property="article:tag" content="social media post design" />
+<meta property="article:tag" content="social media content strategy" />
+<meta property="article:tag" content="social media content planner" />
+<meta property="article:tag" content="social media content marketing" />
+<meta property="article:tag" content="social media content manager" />
+<meta property="article:tag" content="creating content for social media" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

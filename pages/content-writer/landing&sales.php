@@ -9,7 +9,23 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Landing & Sales Pages</title>
+    <title>Best Sales Landing Pages | Hire Co-worker</title>
+
+<meta name="title" content="Best Sales Landing Pages | Hire Co-worker">
+<meta name="description" content="Landing & Sales Pages are essential tools in the digital world that help businesses succeed online. They play a crucial role in shaping a brand's success by attracting customers and driving sales." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Best Sales Landing Pages | Hire Co-worker"/>
+<meta property="og:description" content="Landing & Sales Pages are essential tools in the digital world that help businesses succeed online. They play a crucial role in shaping a brand's success by attracting customers and driving sales." />
+<meta property="og:url" content="https://hirecoworker.com/landing&sales" />
+<meta property="og:site_name" content="Best Sales Landing Pages | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Sales page examples, Sales landing page, Sales landing page examples, Best sales landing pages, Sales page landing page">
+<meta property="article:tag" content="Sales page examples" />
+<meta property="article:tag" content="Sales landing page" />
+<meta property="article:tag" content="Sales landing page examples" />
+<meta property="article:tag" content="Best sales landing pages" />
+<meta property="article:tag" content="Sales page landing page" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

@@ -9,7 +9,25 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Travel & Lifestyle</title>
+   <title>Travel & Lifestyle Service | Hire Co-worker</title>
+
+<meta name="title" content="Travel & Lifestyle Service | Hire Co-worker">
+<meta name="description" content="Travel & lifestyle" means much more than just a catchy phrase; it's like a doorway to experiences beyond the usual. It's like an invitation to explore, learn, and grow while enjoying the many different things life gives us." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Travel & Lifestyle Service | Hire Co-worker"/>
+<meta property="og:description" content="Travel & lifestyle" means much more than just a catchy phrase; it's like a doorway to experiences beyond the usual. It's like an invitation to explore, learn, and grow while enjoying the many different things life gives us." />
+<meta property="og:url" content="https://hirecoworker.com/travel-&-lifestyle" />
+<meta property="og:site_name" content="Travel & Lifestyle Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="travel & lifestyle, lifestyle and travel, luxury travel lifestyle, travelers lifestyle, future travel lifestyle, lifestyle & travel, backpackers lifestyle">
+<meta property="article:tag" content="travel & lifestyle" />
+<meta property="article:tag" content="lifestyle and travel" />
+<meta property="article:tag" content="luxury travel lifestyle" />
+<meta property="article:tag" content="travelers lifestyle" />
+<meta property="article:tag" content="future travel lifestyle" />
+<meta property="article:tag" content="lifestyle & travel" />
+<meta property="article:tag" content="backpackers lifestyle" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

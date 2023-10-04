@@ -9,8 +9,24 @@ include_once '../../init.php';
 <head>
 
     <?php include_once head_new; ?>
+    <title>Hire Top UI UX Designers | Hire Co-worker</title>
 
-    <title>UI/UX Design Virtual Assistant</title>
+    <meta name="title" content="Hire Top UI UX Designers | Hire Co-worker">
+    <meta name="description" content="You'll only need to hire one virtual assistant in this scenario, making it perfect for businesses with tight budgets. Working with Hire Coworker is the finest choice if you don't know how to recruit virtual assistants." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Hire Top UI UX Designers | Hire Co-worker"/>
+    <meta property="og:description" content="You'll only need to hire one virtual assistant in this scenario, making it perfect for businesses with tight budgets. Working with Hire Coworker is the finest choice if you don't know how to recruit virtual assistants." />
+    <meta property="og:url" content="https://hirecoworker.com/ui-ux-design-virtual-assistant" />
+    <meta property="og:site_name" content="Hire Top UI UX Designers | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Hire UI UX Designer, Hire Top UI UX Designers, Hire UI & UX designers, Hire a Freelance UI/UX Designer, Dedicated UI/UX Designer for Hire">
+    <meta property="article:tag" content="Hire UI UX Designer" />
+    <meta property="article:tag" content="Hire Top UI UX Designers" />
+    <meta property="article:tag" content="Hire UI & UX designers" />
+    <meta property="article:tag" content="Hire a Freelance UI/UX Designer" />
+    <meta property="article:tag" content="Dedicated UI/UX Designer for Hire" />
+
+   
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

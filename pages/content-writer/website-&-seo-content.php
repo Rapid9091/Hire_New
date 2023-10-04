@@ -8,8 +8,27 @@ include_once '../../init.php';
 
 <head>
    <?php include_once head_new;?>
+   <title>Websites & SEO Content Service| Hire Co-worker</title>
 
-    <title>Website & Seo Content</title>
+<meta name="title" content="Websites & SEO Content Service | Hire Co-worker">
+<meta name="description" content="This article offers detailed insights about "Websites & SEO Content." It will walk you through steps like making your website search engine-friendly, boosting your site's SEO, crafting content." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Websites & SEO Content Service | Hire Co-worker"/>
+<meta property="og:description" content="This article offers detailed insights about "Websites & SEO Content." It will walk you through steps like making your website search engine-friendly, boosting your site's SEO, crafting content." />
+<meta property="og:url" content="https://hirecoworker.com/website-&-seo-content" />
+<meta property="og:site_name" content="Websites & SEO Content Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="how to do seo for website, find duplicate content on website, seo website content , seo web content , site content audit, web content optimization, article websites for seo, seo content website">
+<meta property="article:tag" content="how to do seo for website" />
+<meta property="article:tag" content="find duplicate content on website" />
+<meta property="article:tag" content="seo website content" />
+<meta property="article:tag" content="seo web content" />
+<meta property="article:tag" content="site content audit" />
+<meta property="article:tag" content="web content optimization" />
+<meta property="article:tag" content="article websites for seo" />
+<meta property="article:tag" content="seo content website" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

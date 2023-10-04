@@ -8,8 +8,23 @@ include_once '../../init.php';
 
 <head>
    <?php include_once head_new;?>
+   <title>Technical Medical | Hire Co-worker</title>
 
-    <title>Technical & Medical</title>
+<meta name="title" content="Technical Medical | Hire Co-worker">
+<meta name="description" content="Medical technology" refers to the intricate methods and advanced tools used in modern medical treatments. Progress in technology has significantly changed surgical approaches, which previously relied solely on the manual abilities of surgeons." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Technical Medical | Hire Co-worker"/>
+<meta property="og:description" content="Medical technology" refers to the intricate methods and advanced tools used in modern medical treatments. Progress in technology has significantly changed surgical approaches, which previously relied solely on the manual abilities of surgeons." />
+<meta property="og:url" content="https://hirecoworker.com/technical-medical" />
+<meta property="og:site_name" content="Technical Medical | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Technical Medical, Medical technology, Medical Expertise ,Biomedical technical , ultrasound technical">
+<meta property="article:tag" content="Technical Medical" />
+<meta property="article:tag" content="Medical technology" />
+<meta property="article:tag" content="Medical Expertise" />
+<meta property="article:tag" content="Biomedical technical " />
+<meta property="article:tag" content="ultrasound technical " />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

@@ -9,7 +9,24 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Speeches & Reviews</title>
+  
+   <title>Speeches & Reviews | Hire Co-worker</title>
+
+<meta name="title" content="Speeches & Reviews | Hire Co-worker">
+<meta name="description" content="In the world of good talking, speeches are potent tools.They've changed history, started essential things, and made people from different times and places feel connected. Along with making good speeches,looking at reviews is necessary too." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Speeches & Reviews | Hire Co-worker"/>
+<meta property="og:description" content="In the world of good talking, speeches are potent tools. They've changed history, started essential things, and made people from different times and places feel connected. Along with making good speeches, looking at reviews is necessary too." />
+<meta property="og:url" content="https://hirecoworker.com/speeches-&-reviews" />
+<meta property="og:site_name" content="Speeches & Reviews | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Speech pathways review, Speech bulb reviews, Speecheasy reviews, Speech reviews">
+<meta property="article:tag" content="Speech pathways review" />
+<meta property="article:tag" content="Speech bulb reviews" />
+<meta property="article:tag" content="Speecheasy reviews" />
+<meta property="article:tag" content="Speech reviews" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
