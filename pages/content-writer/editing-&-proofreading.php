@@ -8,8 +8,25 @@ include_once '../../init.php';
 
 <head>
     <?php include_once head_new;?>
+    <title>Editing and Proofreading Services | Hire Co-worker</title>
 
-    <title>Editing & Proofreading</title>
+    <meta name="title" content="Editing and Proofreading Services | Hire Co-worker">
+    <meta name="description" content="It looks very different. Editing and proofreading are two strong pillars that keep your writing honest. Editing means fixing and changing your paper to make it clear and reasonable." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Editing and Proofreading Services | Hire Co-worker"/>
+    <meta property="og:description" content="It looks very different. Editing and proofreading are two strong pillars that keep your writing honest. Editing means fixing and changing your paper to make it clear and reasonable." />
+    <meta property="og:url" content="https://hirecoworker.com/editing-&-proofreading" />
+    <meta property="og:site_name" content="Editing and Proofreading Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Editing & proofreading, professional proofreading services, professional proofreader, editing and proofreading services, best proofreading services, best dissertation editing services, online proofreading services">
+    <meta property="article:tag" content="Editing & proofreading" />
+    <meta property="article:tag" content="professional proofreading services" />
+    <meta property="article:tag" content="professional proofreader" />
+    <meta property="article:tag" content="editing and proofreading services" />
+    <meta property="article:tag" content="best proofreading services" />
+    <meta property="article:tag" content="best dissertation editing services" />
+    <meta property="article:tag" content="online proofreading services" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

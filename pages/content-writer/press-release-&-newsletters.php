@@ -8,8 +8,25 @@ include_once '../../init.php';
 
 <head>
    <?php include_once head_new;?>
+   <title>Press Releases and Newsletters Service | Hire Co-worker</title>
 
-    <title>Press Release & Newsletters</title>
+    <meta name="title" content="Press Releases and Newsletters Service | Hire Co-worker">
+    <meta name="description" content="A press release, sometimes called a news release, is a short paper about news, events, new products, or significant changes for a company or group." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Press Releases and Newsletters Service | Hire Co-worker"/>
+    <meta property="og:description" content="A press release, sometimes called a news release, is a short paper about news, events, new products, or significant changes for a company or group." />
+    <meta property="og:url" content="https://hirecoworker.com/press-release-&-newsletters" />
+    <meta property="og:site_name" content="Press Releases and Newsletters Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="hire press release writer, hiring a press release writer, new hire press release, press release template for new hire, new hire press release quote, content writer newsletters, newsletter marketing">
+    <meta property="article:tag" content="hire press release writer" />
+    <meta property="article:tag" content="hiring a press release writer" />
+    <meta property="article:tag" content="new hire press release" />
+    <meta property="article:tag" content="press release template for new hire" />
+    <meta property="article:tag" content="new hire press release quote" />
+    <meta property="article:tag" content="content writer newsletters" />
+    <meta property="article:tag" content="newsletter marketing" />
+    <meta property="article:tag" content="hubspot newsletter" />
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

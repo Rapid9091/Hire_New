@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Academic & Curriculum Courses</title>
+    <title>Academic and Curriculum Courses Service | Hire Co-worker</title>
+
+<meta name="title" content="Academic and Curriculum Courses Service | Hire Co-worker">
+<meta name="description" content="School subjects are essential. They help students learn about many different things like math, stories, history, and art. These subjects show students different ways of thinking and help their minds grow." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Academic and Curriculum Courses Service | Hire Co-worker"/>
+<meta property="og:description" content="School subjects are essential. They help students learn about many different things like math, stories, history, and art. These subjects show students different ways of thinking and help their minds grow." />
+<meta property="og:url" content="https://hirecoworker.com/academic-&-curriculum" />
+<meta property="og:site_name" content="Academic and Curriculum Courses Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Academic courses, Curriculum studies courses, Curriculum courses, Physical Sciences Course, Computer science curriculum, Curriculum Physical Therapy, Curriculum development courses,Curriculum design course">
+<meta property="article:tag" content="Academic courses" />
+<meta property="article:tag" content="Curriculum studies courses" />
+<meta property="article:tag" content="Curriculum courses" />
+<meta property="article:tag" content="Physical Sciences Course" />
+<meta property="article:tag" content="Computer science curriculum" />
+<meta property="article:tag" content="Curriculum Physical Therapy" />
+<meta property="article:tag" content="Curriculum development courses" />
+<meta property="article:tag" content="Curriculum design courses" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

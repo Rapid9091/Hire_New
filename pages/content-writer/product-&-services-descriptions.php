@@ -8,8 +8,25 @@ include_once '../../init.php';
 
 <head>
     <?php include_once head_new;?>
+    <title>Product & Services Descriptions | Hire Co-worker</title>
 
-    <title>Product & Services Descriptions</title>
+    <meta name="title" content="Product & Services Descriptions | Hire Co-worker">
+    <meta name="description" content="In a big world full of things, people usually quickly look at their choices before deciding what to buy. This is when nicely written explanation about products and services become essential." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Product & Services Descriptions | Hire Co-worker"/>
+    <meta property="og:description" content="In a big world full of things, people usually quickly look at their choices before deciding what to buy. This is when nicely written explanation about products and services become essential." />
+    <meta property="og:url" content="https://hirecoworker.com/product-&-services-descriptions" />
+    <meta property="og:site_name" content="Product & Services Descriptions | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="product service description, product and service description, product service description example, product and service description sample, description of product service, product service description sample">
+    <meta property="article:tag" content="product service description" />
+    <meta property="article:tag" content="product and service description" />
+    <meta property="article:tag" content="product service description example" />
+    <meta property="article:tag" content="product and service description sample" />
+    <meta property="article:tag" content="description of product service" />
+    <meta property="article:tag" content="product service description sample" />
+
+    
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

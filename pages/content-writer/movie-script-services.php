@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Movie Script Service</title>
+   <title>Movie Script Service | Hire Co-worker</title>
+
+<meta name="title" content="Movie Script Service | Hire Co-worker">
+<meta name="description" content="Writing a story in a movie story writing format is a movie script. It differs from prose writing because it has a structure that pervades all its parts." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Movie Script Service | Hire Co-worker"/>
+<meta property="og:description" content="Writing a story in a movie story writing format is a movie script. It differs from prose writing because it has a structure that pervades all its parts." />
+<meta property="og:url" content="https://hirecoworker.com/movie-script-services" />
+<meta property="og:site_name" content="Movie Script Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Write a movie script, movie script format, movie script sample, movie story writing, movie script writing format, movie script structure, movie scripts online, movie script database">
+<meta property="article:tag" content="Write a movie script" />
+<meta property="article:tag" content="movie script format" />
+<meta property="article:tag" content="movie script sample" />
+<meta property="article:tag" content="movie story writing" />
+<meta property="article:tag" content="movie script writing format" />
+<meta property="article:tag" content="movie script structure" />
+<meta property="article:tag" content="movie scripts online" />
+<meta property="article:tag" content="movie script database" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
