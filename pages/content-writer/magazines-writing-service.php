@@ -9,7 +9,24 @@ include_once '../../init.php';
 <head>
    <?php include_once head_new;?>
 
-    <title>Magazines writing services</title>
+   <title>Magazine Article Writing Service | Hire Co-worker</title>
+
+<meta name="title" content="Magazine Article Writing Service | Hire Co-worker">
+<meta name="description" content="Do you need a quick, practical, reasonably priced magazines writing service in the US? Hire Coworker is the solution! As a reputable content writing company, we provide many benefits to meet your needs." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Magazine Article Writing Service | Hire Co-worker"/>
+<meta property="og:description" content="Do you need a quick, practical, reasonably priced magazines writing service in the US? Hire Coworker is the solution! As a reputable content writing company, we provide many benefits to meet your needs." />
+<meta property="og:url" content="https://hirecoworker.com/magazines-writing-service" />
+<meta property="og:site_name" content="Magazine Article Writing Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Magazine article writing, Magazines writing, The writer magazine, Magazine article writing, Writing for magazines, Writers digest magazine">
+<meta property="article:tag" content="Magazine article writing" />
+<meta property="article:tag" content="Magazines writing" />
+<meta property="article:tag" content="The writer magazine" />
+<meta property="article:tag" content="Magazine article writing" />
+<meta property="article:tag" content="Writing for magazines" />
+<meta property="article:tag" content="Writers digest magazine" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

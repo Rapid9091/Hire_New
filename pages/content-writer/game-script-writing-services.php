@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title> Game Script Writing Service</title>
+    <title>Game Script Writing Service | Hire Co-worker</title>
+
+<meta name="title" content="Game Script Writing Service | Hire Co-worker">
+<meta name="description" content="The fantastic thing about Hire Coworker is that it offers a sizable pool of independent contractors with experience in game writing. This means businesses can access an immense collection of authors when recruiting through Hire Coworker." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Game Script Writing Service | Hire Co-worker"/>
+<meta property="og:description" content="The fantastic thing about Hire Coworker is that it offers a sizable pool of independent contractors with experience in game writing. This means businesses can access an immense collection of authors when recruiting through Hire Coworker." />
+<meta property="og:url" content="https://hirecoworker.com/game-script-writing-services" />
+<meta property="og:site_name" content="Game Script Writing Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Game script writing, Gaming content writing, Script writing service, Freelance script writer, Script writer near me, Video game story writer, Video game writers, Best video game writers, Script writers for hire">
+<meta property="article:tag" content="Game script writing" />
+<meta property="article:tag" content="Gaming content writing" />
+<meta property="article:tag" content="Script writing service" />
+<meta property="article:tag" content="Freelance script writer" />
+<meta property="article:tag" content="Script writer near me" />
+<meta property="article:tag" content="Video game story writer" />
+<meta property="article:tag" content="Video game writers" />
+<meta property="article:tag" content="Best video game writers" />
+<meta property="article:tag" content="Script writers for hire" /> 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">

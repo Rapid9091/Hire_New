@@ -9,7 +9,24 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>CVs & Cover Letter</title>
+    <title>CVs & Cover Letters Service | Hire Co-worker</title>
+
+    <meta name="title" content="CVs & Cover Letters Service | Hire Co-worker">
+    <meta name="description" content="CVs and cover letters tell your work story. They peek into your skills, experience, and what you hope to achieve, helping bosses see how you match their company's aims." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="CVs & Cover Letters Service | Hire Co-worker"/>
+    <meta property="og:description" content="CVs and cover letters tell your work story. They peek into your skills, experience, and what you hope to achieve, helping bosses see how you match their company's aims." />
+    <meta property="og:url" content="https://hirecoworker.com/cv-&-cover-letter" />
+    <meta property="og:site_name" content="CVs & Cover Letters Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="CV covering letter, Covering letter for cv sample, Covering letter for cv examples, CV and covering letter, Covering letter for cv template, CV and covering letter examples">
+    <meta property="article:tag" content="CV covering letter" />
+    <meta property="article:tag" content="Covering letter for cv sample" />
+    <meta property="article:tag" content="Covering letter for cv examples" />
+    <meta property="article:tag" content="CV and covering letter" />
+    <meta property="article:tag" content="Covering letter for cv template" />
+    <meta property="article:tag" content="CV and covering letter examples" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

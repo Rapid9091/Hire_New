@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>AUTOCAD</title>
+    <title>Autocad Design Service | Hire Co-worker</title>
+
+<meta name="title" content="Autocad Design Service | Hire Co-worker">
+<meta name="description" content="AutoCAD has changed how architects work, giving them what they need to make their ideas real. This part examines how architects use AutoCAD, from making initial designs to getting all the details right." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Autocad Design Service | Hire Co-worker"/>
+<meta property="og:description" content="AutoCAD has changed how architects work, giving them what they need to make their ideas real. This part examines how architects use AutoCAD, from making initial designs to getting all the details right." />
+<meta property="og:url" content="https://hirecoworker.com/autocad" />
+<meta property="og:site_name" content="Autocad Design Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Autocad service, Autocad design, Autocad in construction, Autocad for construction design, Autocad drafting, Cad drawing services, Autocad services near me, Autocad drafting services ">
+<meta property="article:tag" content="Autocad service" />
+<meta property="article:tag" content="Autocad design" />
+<meta property="article:tag" content="Autocad in construction" />
+<meta property="article:tag" content="Autocad for construction design" />
+<meta property="article:tag" content="Autocad drafting" />
+<meta property="article:tag" content="Cad drawing services" />
+<meta property="article:tag" content="Autocad services near me" />
+<meta property="article:tag" content="Autocad drafting services" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Mechanical Engineering</title>
+    <title>Mechanical Engineering Services | Hire Co-worker</title>
+
+<meta name="title" content="Mechanical Engineering Services | Hire Co-worker">
+<meta name="description" content="Do you need excellent mechanical engineering help that works for your project and your money? You don't have to look more because Hire Coworker is the answer." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mechanical Engineering Services | Hire Co-worker"/>
+<meta property="og:description" content="Do you need excellent mechanical engineering help that works for your project and your money? You don't have to look more because Hire Coworker is the answer." />
+<meta property="og:url" content="https://hirecoworker.com/mechanical-engineering" />
+<meta property="og:site_name" content="Mechanical Engineering Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Mechanical engineering, Machine engineering, Basic mechanical engineering, Senior mechanical engineer, Automotive mechanical engineering, Mechanical engineering services, Auto mechanical engineering, Mechanical engineering near me ">
+<meta property="article:tag" content="Mechanical engineering" />
+<meta property="article:tag" content="Machine engineering" />
+<meta property="article:tag" content="Basic mechanical engineering" />
+<meta property="article:tag" content="Senior mechanical engineer" />
+<meta property="article:tag" content="Automotive mechanical engineering" />
+<meta property="article:tag" content="Mechanical engineering services" />
+<meta property="article:tag" content="Auto mechanical engineering" />
+<meta property="article:tag" content="Mechanical engineering near me" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

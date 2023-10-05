@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Fiction</title>
+    <title>Fantastic Fiction Service | Hire Co-worker</title>
+
+<meta name="title" content="Fantastic Fiction Service | Hire Co-worker">
+<meta name="description" content="In human creativity, stories show how strong our minds are to make, link, and encourage. Whether it's fans making stories or science fiction guessing about the future, stories are more than just fun." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Fantastic Fiction Service | Hire Co-worker"/>
+<meta property="og:description" content="In human creativity, stories show how strong our minds are to make, link, and encourage. Whether it's fans making stories or science fiction guessing about the future, stories are more than just fun." />
+<meta property="og:url" content="https://hirecoworker.com/fiction" />
+<meta property="og:site_name" content="Fantastic Fiction Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Fan fiction, Fantastic fiction, Fantastic fiction books, Fantastic fiction authors, Fantastic fiction website, Crafting fiction, Science fiction, Best science fiction books, Top science fiction books">
+<meta property="article:tag" content="Fan fiction" />
+<meta property="article:tag" content="Fantastic fiction" />
+<meta property="article:tag" content="Fantastic fiction books" />
+<meta property="article:tag" content="Fantastic fiction authors" />
+<meta property="article:tag" content="Fantastic fiction website" />
+<meta property="article:tag" content="Crafting fiction" />
+<meta property="article:tag" content="Science fiction" />
+<meta property="article:tag" content="Best science fiction books" />
+<meta property="article:tag" content="Top science fiction books" /> 
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
