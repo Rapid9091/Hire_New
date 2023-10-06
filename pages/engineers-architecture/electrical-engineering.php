@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Electrical Engineering</title>
+    <title>Electrical Engineering Services | Hire Co-worker</title>
+
+    <meta name="title" content="Electrical Engineering Services | Hire Co-worker">
+    <meta name="description" content="This comprehensive exploration delves into the facets of Electrical Engineering, from its diverse services and collaborative efforts to the challenges it surmounts and the promising careers it offers." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Electrical Engineering Services | Hire Co-worker"/>
+    <meta property="og:description" content="This comprehensive exploration delves into the facets of Electrical Engineering, from its diverse services and collaborative efforts to the challenges it surmounts and the promising careers it offers." />
+    <meta property="og:url" content="https://hirecoworker.com/electrical-engineering" />
+    <meta property="og:site_name" content="Electrical Engineering Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Electrical engineering, Basic electrical engineering, Electrical engineering technician, Electrical power engineering, Electrical engineering companies, Electrical maintenance engineer, Electrical engineer near me, Electrical engineering services">
+    <meta property="article:tag" content="Electrical engineering" />
+    <meta property="article:tag" content="Basic electrical engineering" />
+    <meta property="article:tag" content="Electrical engineering technician" />
+    <meta property="article:tag" content="Electrical power engineering" />
+    <meta property="article:tag" content="Electrical engineering companies" />
+    <meta property="article:tag" content="Electrical maintenance engineer" />
+    <meta property="article:tag" content="Electrical engineer near me" />
+    <meta property="article:tag" content="Electrical engineering services" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

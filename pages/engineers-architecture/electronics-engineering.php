@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Electronics Engineering</title>
+    <title>Electronics Engineering Services | Hire Co-worker</title>
+
+<meta name="title" content="Electronics Engineering Services | Hire Co-worker">
+<meta name="description" content="In the always-changing world of technology, Electronics Engineering is a foundation of new ideas. As the world gets more digital and connected, electronics engineers become even more critical." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Electronics Engineering Services | Hire Co-worker"/>
+<meta property="og:description" content="In the always-changing world of technology, Electronics Engineering is a foundation of new ideas. As the world gets more digital and connected, electronics engineers become even more critical." />
+<meta property="og:url" content="https://hirecoworker.com/electronics-engineering" />
+<meta property="og:site_name" content="Electronics Engineering Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Electronics engineering services, Electronics design, Electronic design engineer, Electrical engineering services, Electronic service engineer, Electronics engineering, Electronics engineering technician, Electronic information engineering">
+<meta property="article:tag" content="Electronics engineering services" />
+<meta property="article:tag" content="Electronics design" />
+<meta property="article:tag" content="Electronic design engineer" />
+<meta property="article:tag" content="Electrical engineering services" />
+<meta property="article:tag" content="Electronic service engineer" />
+<meta property="article:tag" content="Electronics engineering" />
+<meta property="article:tag" content="Electronics engineering technician" />
+<meta property="article:tag" content="Electronic information engineering" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

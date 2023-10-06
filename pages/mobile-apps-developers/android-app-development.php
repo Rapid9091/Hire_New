@@ -10,7 +10,27 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Android App Development</title>
+    <title>Android App Development Service | Hire Co-worker</title>
+
+    <meta name="title" content="Android App Development Service | Hire Co-worker">
+    <meta name="description" content="Android App development is software engineering that build applications for Android operating system devices An Android app is software created to work on devices using the Android operating system." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Android App Development Service | Hire Co-worker"/>
+    <meta property="og:description" content="Android App development is software engineering that build applications for Android operating system devices An Android app is software created to work on devices using the Android operating system." />
+    <meta property="og:url" content="https://hirecoworker.com/android-app-development" />
+    <meta property="og:site_name" content="Android App Development Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Android app development service, Android application development, Android app development software, Android mobile app development, Android application development services, Android development services, Android app development app, Custom android app development, Android app development cost.">
+    <meta property="article:tag" content="Android app development service" />
+    <meta property="article:tag" content="Android application development" />
+    <meta property="article:tag" content="Android app development software" />
+    <meta property="article:tag" content="Android mobile app development" />
+    <meta property="article:tag" content="Android application development services" />
+    <meta property="article:tag" content="Android development services" />
+    <meta property="article:tag" content="Android app development app" />
+    <meta property="article:tag" content="Custom android app development" />
+    <meta property="article:tag" content="Android app development cost" />
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

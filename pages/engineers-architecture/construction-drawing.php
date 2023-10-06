@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Construction Drawing</title>
+    <title>Construction Drawing Services | Hire Co-worker</title>
+
+    <meta name="title" content="Construction Drawing Services | Hire Co-worker">
+    <meta name="description" content="A construction drawing isn't just lines on paper. It's like a picture of what an architect wants to build, the math an engineer does, and the skills of a builder." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Construction Drawing Services | Hire Co-worker"/>
+    <meta property="og:description" content="A construction drawing isn't just lines on paper. It's like a picture of what an architect wants to build, the math an engineer does, and the skills of a builder." />
+    <meta property="og:url" content="https://hirecoworker.com/construction-drawing" />
+    <meta property="og:site_name" content="Construction Drawing Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Construction Drawing Services, building drawing, Building construction drawing, Construction site drawing, Construction detail drawings, Construction drawing easy, Architectural construction drawings, Construction drawings cost">
+    <meta property="article:tag" content="Construction Drawing Services" />
+    <meta property="article:tag" content="Building drawing" />
+    <meta property="article:tag" content="Construction site drawing" />
+    <meta property="article:tag" content="Building construction drawing" />
+    <meta property="article:tag" content="Construction detail drawings" />
+    <meta property="article:tag" content="Construction drawing easy" />
+    <meta property="article:tag" content="Architectural construction drawings" />
+    <meta property="article:tag" content="Construction drawings cost" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

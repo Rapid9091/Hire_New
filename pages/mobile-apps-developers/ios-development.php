@@ -8,9 +8,32 @@ include_once '../../init.php';
 
 <head>
 
+
+    <title>IOS Mobile App Development Services | Hire Co-worker</title>
+
+    <meta name="title" content="IOS Mobile App Development Services | Hire Co-worker">
+    <meta name="description" content="If you create mobile apps, you might have had concerns about developing apps for iOS devices. For instance, every developer requires a Mac computer, which tends to have a higher price compared to Windows-based computers." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="IOS Mobile App Development Services | Hire Co-worker"/>
+    <meta property="og:description" content="If you create mobile apps, you might have had concerns about developing apps for iOS devices. For instance, every developer requires a Mac computer, which tends to have a higher price compared to Windows-based computers." />
+    <meta property="og:url" content="https://hirecoworker.com/ios-development" />
+    <meta property="og:site_name" content="IOS Mobile App Development Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="ios development services, ios app development, ios app development services, ios mobile app development, ios development company, ios app development software, iphone app development agency, ios mobile app development services, iphone mobile app development ">
+    <meta property="article:tag" content="ios development services" />
+    <meta property="article:tag" content="ios app development" />
+    <meta property="article:tag" content="ios app development services" />
+    <meta property="article:tag" content="ios mobile app development" />
+    <meta property="article:tag" content="ios development company" />
+    <meta property="article:tag" content="ios app development software" />
+    <meta property="article:tag" content="iphone app development agency" />
+    <meta property="article:tag" content="ios mobile app development services" />
+    <meta property="article:tag" content="iphone mobile app development" />
+
+
     <?php include_once head_new; ?>
 
-    <title>IOS Development</title>
+    
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

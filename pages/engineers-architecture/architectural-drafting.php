@@ -8,8 +8,27 @@ include_once '../../init.php';
 
 <head>
     <?php include_once head_new;?>
+    
+    <title>Architectural Drafting Services | Hire Co-worker</title>
 
-    <title>Architectural Drafting</title>
+    <meta name="title" content="Architectural Drafting Services | Hire Co-worker">
+    <meta name="description" content="Architectural drafting is an essential aspect of the construction and design industry, serving as the foundation for transforming creative concepts into tangible structures." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Architectural Drafting Services | Hire Co-worker"/>
+    <meta property="og:description" content="Architectural drafting is an essential aspect of the construction and design industry, serving as the foundation for transforming creative concepts into tangible structures." />
+    <meta property="og:url" content="https://hirecoworker.com/architectural-drafting" />
+    <meta property="og:site_name" content="Architectural Drafting Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Architectural drafting, Architectural drafting services, Architectural drafting and design, Architectural cad drafting services, Interior design drafting, Architectural drafter near me, Architectural design drafting, Architectural draughting services">
+    <meta property="article:tag" content="Architectural drafting" />
+    <meta property="article:tag" content="Architectural drafting services" />
+    <meta property="article:tag" content="Architectural drafting and design" />
+    <meta property="article:tag" content="Architectural cad drafting services" />
+    <meta property="article:tag" content="Interior design drafting" />
+    <meta property="article:tag" content="Architectural drafter near me" />
+    <meta property="article:tag" content="Architectural design drafting" />
+    <meta property="article:tag" content="Architectural draughting services" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

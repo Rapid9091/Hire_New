@@ -9,7 +9,25 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Civil Engineering</title>
+    <title>Professional Civil Engineer Services | Hire Co-worker</title>
+
+<meta name="title" content="Professional Civil Engineer Services | Hire Co-worker">
+<meta name="description" content="The right expertise can make all the difference in construction and infrastructure development. "Hire Coworker" emerges as your ultimate solution for all civil engineering services, offering many advantages." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Professional Civil Engineer Services | Hire Co-worker"/>
+<meta property="og:description" content="The right expertise can make all the difference in construction and infrastructure development. "Hire Coworker" emerges as your ultimate solution for all civil engineering services, offering many advantages." />
+<meta property="og:url" content="https://hirecoworker.com/civil-engineering" />
+<meta property="og:site_name" content="Professional Civil Engineer Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="civil engineering, civil engineering companies, civil structural engineer, civil and structural engineering, civil engineering services, civil engineering firms, civil engineering contractors, civil engineering consulting firms">
+<meta property="article:tag" content="civil engineering" />
+<meta property="article:tag" content="civil engineering companies" />
+<meta property="article:tag" content="civil structural engineer" />
+<meta property="article:tag" content="civil and structural engineering" />
+<meta property="article:tag" content="civil engineering services" />
+<meta property="article:tag" content="civil engineering firms" />
+<meta property="article:tag" content="civil engineering contractors" />
+<meta property="article:tag" content="civil engineering consulting firms" />
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

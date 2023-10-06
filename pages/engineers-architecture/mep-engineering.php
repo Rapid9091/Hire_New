@@ -8,8 +8,27 @@ include_once '../../init.php';
 
 <head>
     <?php include_once head_new;?>
+    <title>Mep Design Engineer Services | Hire Co-worker</title>
 
-    <title>MEP Engineering</title>
+<meta name="title" content="Mep Design Engineer Services | Hire Co-worker">
+<meta name="description" content="MEP engineering looks at building and design in a big way. It brings together three main parts – Mechanical, Electrical, and Plumbing – and makes them work well together." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mep Design Engineer Services | Hire Co-worker"/>
+<meta property="og:description" content="MEP engineering looks at building and design in a big way. It brings together three main parts – Mechanical, Electrical, and Plumbing – and makes them work well together." />
+<meta property="og:url" content="https://hirecoworker.com/mep-engineering" />
+<meta property="og:site_name" content="Mep Design Engineer Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Mep engineering, Mep design engineer, Mep architecture, Mep mechanical electrical plumbing, Mep consultants near me, Mep engineering firms, Mep engineering firms near me, Mep mechanical electrical and plumbing">
+<meta property="article:tag" content="Mep engineering" />
+<meta property="article:tag" content="Mep design engineer" />
+<meta property="article:tag" content="Mep architecture" />
+<meta property="article:tag" content="Mep mechanical electrical plumbing" />
+<meta property="article:tag" content="Mep consultants near me" />
+<meta property="article:tag" content="Mep engineering firms" />
+<meta property="article:tag" content="Mep engineering firms near me" />
+<meta property="article:tag" content="Mep mechanical electrical and plumbing" />
+
+  
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
