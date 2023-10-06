@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Wearable App Development </title>
+    
+    <title>Wearable App Development Services | Hire Co-worker</title>
+
+    <meta name="title" content="Wearable App Development Services | Hire Co-worker">
+    <meta name="description" content="Wearable app development services are essential for improving customer experience and increasing conversions by creating apps specifically designed for wearable devices." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Wearable App Development Services | Hire Co-worker"/>
+    <meta property="og:description" content="Wearable app development services are essential for improving customer experience and increasing conversions by creating apps specifically designed for wearable devices." />
+    <meta property="og:url" content="https://hirecoworker.com/wearable-mobile-developers" />
+    <meta property="og:site_name" content="Wearable App Development Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Wearable app development, Wearable app development company, Wearable app development services, Wearable application development, Wearable devices app development, Wearable mobile app development, Mobile app wearables services">
+    <meta property="article:tag" content="Wearable app development" />
+    <meta property="article:tag" content="Wearable app development company" />
+    <meta property="article:tag" content="Wearable app development services" />
+    <meta property="article:tag" content="Wearable application development" />
+    <meta property="article:tag" content="Wearable devices app development" />
+    <meta property="article:tag" content="Mobile app wearables services" />
+    <meta property="article:tag" content="Wearable mobile app development" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

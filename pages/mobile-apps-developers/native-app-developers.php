@@ -9,7 +9,28 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Native App Development</title>
+    
+    <title>Native App Development Services | Hire Co-worker</title>
+
+    <meta name="title" content="Native App Development Services | Hire Co-worker">
+    <meta name="description" content="When creating a native app, one of the first things to consider is which platform to choose. There are two popular platforms for mobile devices called iOS and Android." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Native App Development Services | Hire Co-worker"/>
+    <meta property="og:description" content="When creating a native app, one of the first things to consider is which platform to choose. There are two popular platforms for mobile devices called iOS and Android." />
+    <meta property="og:url" content="https://hirecoworker.com/native-app-developers" />
+    <meta property="og:site_name" content="Native App Development Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Native app development, Native mobile app, Native android app, Native mobile app development, React native development services, Android native app development, Native mobile application">
+    <meta property="article:tag" content="Native app development" />
+    <meta property="article:tag" content="Native mobile app" />
+    <meta property="article:tag" content="Native android app" />
+    <meta property="article:tag" content="Native mobile app development" />
+    <meta property="article:tag" content="React native development services" />
+    <meta property="article:tag" content="Android native app development" />
+    <meta property="article:tag" content="Native application development" />
+    <meta property="article:tag" content="Native mobile application" />
+
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

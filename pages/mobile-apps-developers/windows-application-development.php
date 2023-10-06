@@ -8,9 +8,27 @@ include_once '../../init.php';
 
 <head>
 
+<title>Windows Application Development Services | Hire Co-worker</title>
+
+<meta name="title" content="Windows Application Development Services | Hire Co-worker">
+<meta name="description" content="Desktop applications are computer programs that use the computer's resources to perform tasks. These programs work with operating systems like Linux, Windows, and macOS." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Windows Application Development Services | Hire Co-worker"/>
+<meta property="og:description" content="Desktop applications are computer programs that use the computer's resources to perform tasks. These programs work with operating systems like Linux, Windows, and macOS." />
+<meta property="og:url" content="https://hirecoworker.com/windows-application-development" />
+<meta property="og:site_name" content="Windows Application Development Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Windows application development, Windows app development, Windows app development company, Windows application development services, Windows app development services">
+<meta property="article:tag" content="Windows application development" />
+<meta property="article:tag" content="Windows app development" />
+<meta property="article:tag" content="Windows app development company" />
+<meta property="article:tag" content="Windows application development services" />
+<meta property="article:tag" content="Windows app development services" />
+
+
+
     <?php include_once head_new; ?>
 
-    <title>Windows Application Development</title>
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

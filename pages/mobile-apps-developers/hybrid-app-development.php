@@ -9,7 +9,25 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Hybrid App Development</title>
+    <title>Hybrid App Development Services | Hire Co-worker</title>
+
+<meta name="title" content="Hybrid App Development Services | Hire Co-worker">
+<meta name="description" content="Hybrid app development is a popular choice for businesses and developers because it balances affordability and user satisfaction. Hybrid apps combine the best features of both native and web applications." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hybrid App Development Services | Hire Co-worker"/>
+<meta property="og:description" content="Hybrid app development is a popular choice for businesses and developers because it balances affordability and user satisfaction. Hybrid apps combine the best features of both native and web applications." />
+<meta property="og:url" content="https://hirecoworker.com/hybrid-app-development" />
+<meta property="og:site_name" content="Hybrid App Development Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Hybrid app development, Hybrid mobile app development, Hybrid app development services, Hybrid application development, Hybrid mobile app development company, Hybrid mobile application development, Hybrid mobile app development services">
+<meta property="article:tag" content="Hybrid app development" />
+<meta property="article:tag" content="Hybrid mobile app development" />
+<meta property="article:tag" content="Hybrid app development services" />
+<meta property="article:tag" content="Hybrid application development" />
+<meta property="article:tag" content="Hybrid mobile app development company" />
+<meta property="article:tag" content="Hybrid mobile application development" />
+<meta property="article:tag" content="Hybrid mobile app development services" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
