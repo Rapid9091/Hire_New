@@ -10,7 +10,28 @@ include_once '../../init.php';
     
   <?php include_once head_new;?>
     
-    <title>Medical Billing Virtual Assistant Services</title>
+  <title>Medical Billing Services | Hire Co-worker</title>
+
+<meta name="title" content="Medical Billing Services | Hire Co-worker">
+<meta name="description" content="Hire Coworker is a forerunner in pairing consumers with the best virtual assistants to satisfy their various needs. The same holds true for our virtual medical billing assistant services." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Medical Billing Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is a forerunner in pairing consumers with the best virtual assistants to satisfy their various needs. The same holds true for our virtual medical billing assistant services." />
+<meta property="og:url" content="https://hirecoworker.com/medical-billing-virtual-assistant" />
+<meta property="og:site_name" content="Medical Billing Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Medical billing services, Medical billing companies, Medical billing and coding online, Medical financial assistance, Medical coding specialist, Medical coding online, Medical billing solutions, Medical billing and coding services, Medical coding services">
+<meta property="article:tag" content="Medical billing services" />
+<meta property="article:tag" content="Medical billing companies" />
+<meta property="article:tag" content="Medical billing and coding online" />
+<meta property="article:tag" content="Medical financial assistance" />
+<meta property="article:tag" content="Medical coding specialist" />
+<meta property="article:tag" content="Medical coding online" />
+<meta property="article:tag" content="Medical billing solutions" />
+<meta property="article:tag" content="Medical billing and coding services" />
+<meta property="article:tag" content="Medical coding services" />
+
+
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

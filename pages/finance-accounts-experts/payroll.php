@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Payroll Services</title>
+    <title>Small Business Payroll Service | Hire Co-worker</title>
+
+<meta name="title" content="Small Business Payroll Service | Hire Co-worker">
+<meta name="description" content="Proper management of payroll is not only essential for compliance with regulations but also pivotal in ensuring employee satisfaction and smooth financial operations." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Small Business Payroll Service | Hire Co-worker"/>
+<meta property="og:description" content="Proper management of payroll is not only essential for compliance with regulations but also pivotal in ensuring employee satisfaction and smooth financial operations." />
+<meta property="og:url" content="https://hirecoworker.com/payroll" />
+<meta property="og:site_name" content="Small Business Payroll Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Payroll services, Payroll specialist, Payroll management, Payroll services for small business , Small business payroll, Online payroll services, Business online payroll, Payroll outsourcing, Payroll services near me">
+<meta property="article:tag" content="Payroll services" />
+<meta property="article:tag" content="Payroll specialist" />
+<meta property="article:tag" content="Payroll management" />
+<meta property="article:tag" content="Payroll services for small business" />
+<meta property="article:tag" content="Small business payroll" />
+<meta property="article:tag" content="Online payroll services" />
+<meta property="article:tag" content="Business online payroll" />
+<meta property="article:tag" content="Payroll outsourcing" />
+<meta property="article:tag" content="Payroll services near me" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

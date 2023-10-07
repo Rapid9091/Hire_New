@@ -9,7 +9,27 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Tax Preparation Services</title>
+    <title>Tax Preparation Services | Hire Co-worker</title>
+
+<meta name="title" content="Tax Preparation Services | Hire Co-worker">
+<meta name="description" content="When it's time to handle your money during tax season, working together is really important. One smart way that's getting popular is asking a colleague to help with Tax Preparation Services." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Tax Preparation Services | Hire Co-worker"/>
+<meta property="og:description" content="When it's time to handle your money during tax season, working together is really important. One smart way that's getting popular is asking a colleague to help with Tax Preparation Services. " />
+<meta property="og:url" content="https://hirecoworker.com/tax-preparation-services" />
+<meta property="og:site_name" content="Tax Preparation Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Tax preparation services, Tax preparer near me, Tax services near me, Tax consultant near me, Income tax services, Best tax filing service, Income tax preparer near me, Tax preparation services near me, Professional tax services">
+<meta property="article:tag" content="Tax preparation services" />
+<meta property="article:tag" content="Tax preparer near me" />
+<meta property="article:tag" content="Tax services near me" />
+<meta property="article:tag" content="Tax consultant near me" />
+<meta property="article:tag" content="Income tax services" />
+<meta property="article:tag" content="Best tax filing service" />
+<meta property="article:tag" content="Income tax preparer near me" />
+<meta property="article:tag" content="Tax preparation services near me" />
+<meta property="article:tag" content="Professional tax services" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

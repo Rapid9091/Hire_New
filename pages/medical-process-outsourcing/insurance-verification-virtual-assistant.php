@@ -11,7 +11,27 @@ include_once '../../init.php';
     
   <?php include_once head_new;?>
     
-    <title>Insurance Verification Virtual Assistant</title>
+  <title>Insurance Verification Services | Hire Co-worker</title>
+
+<meta name="title" content="Insurance Verification Services | Hire Co-worker">
+<meta name="description" content="The need for healthcare is constant, and many patients depend on insurance to pay for the expense of getting care and upkeep. However, this dependency also makes fraud and other dubious actions easy to get away with. " />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Insurance Verification Services | Hire Co-worker"/>
+<meta property="og:description" content="The need for healthcare is constant, and many patients depend on insurance to pay for the expense of getting care and upkeep. However, this dependency also makes fraud and other dubious actions easy to get away with. " />
+<meta property="og:url" content="https://hirecoworker.com/insurance-verification-virtual-assistant" />
+<meta property="og:site_name" content="Insurance Verification Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="insurance verification, verify insurance, insurance eligibility verification, medicare verification, check medicare eligibility, verify medicare eligibility, insurance verification software, medicare eligibility verification, medical insurance verification">
+<meta property="article:tag" content="insurance verification" />
+<meta property="article:tag" content="verify insurance" />
+<meta property="article:tag" content="insurance eligibility verification" />
+<meta property="article:tag" content="medicare verification" />
+<meta property="article:tag" content="check medicare eligibility" />
+<meta property="article:tag" content="verify medicare eligibility" />
+<meta property="article:tag" content="insurance verification software" />
+<meta property="article:tag" content="medicare eligibility verification" />
+<meta property="article:tag" content="medical insurance verification" />
+
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
