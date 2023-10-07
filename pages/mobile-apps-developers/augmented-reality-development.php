@@ -10,7 +10,28 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>AUGMENTED REALITY DEVELOPMENT</title>
+    <title>Augmented Reality Development Service | Hire Co-worker</title>
+
+<meta name="title" content="Augmented Reality Development Service | Hire Co-worker">
+<meta name="description" content="Augmented Reality (AR) is an exciting technology that combines the physical and digital worlds. It allows you to experience digital content in real-world settings, creating a unique and immersive experience." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Augmented Reality Development Service | Hire Co-worker"/>
+<meta property="og:description" content="Augmented Reality (AR) is an exciting technology that combines the physical and digital worlds. It allows you to experience digital content in real-world settings, creating a unique and immersive experience." />
+<meta property="og:url" content="https://hirecoworker.com/augmented-reality-development" />
+<meta property="og:site_name" content="Augmented Reality Development Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Augmented reality development, Augmented reality app development, Virtual reality development companies, Augmented reality app development company , Virtual reality development services, Virtual reality app development services, Augmented reality mobile app development, Augmented reality application development, Build augmented reality app.">
+<meta property="article:tag" content="Augmented reality development" />
+<meta property="article:tag" content="Augmented reality app development" />
+<meta property="article:tag" content="Virtual reality development companies" />
+<meta property="article:tag" content="Augmented reality app development company" />
+<meta property="article:tag" content="Virtual reality development services" />
+<meta property="article:tag" content="Virtual reality app development services" />
+<meta property="article:tag" content="Augmented reality mobile app development" />
+<meta property="article:tag" content="Augmented reality application development" />
+<meta property="article:tag" content="Build augmented reality app" />
+
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

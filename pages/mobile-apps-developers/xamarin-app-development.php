@@ -10,7 +10,27 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Xamarin App Development </title>
+    <title>Xamarin App Development Service | Hire Co-worker</title>
+
+    <meta name="title" content="Xamarin App Development Service | Hire Co-worker">
+    <meta name="description" content="Xamarin is a software development platform that allows developers to create mobile applications for different operating systems; such forms are a user interface toolkit that is part of Xamarin." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Xamarin App Development Service | Hire Co-worker"/>
+    <meta property="og:description" content="Xamarin is a software development platform that allows developers to create mobile applications for different operating systems; such forms are a user interface toolkit that is part of Xamarin." />
+    <meta property="og:url" content="https://hirecoworker.com/xamarin-app-development" />
+    <meta property="og:site_name" content="Xamarin App Development Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Xamarin app development, Xamarin mobile app development, Xamarin app development services, Xamarin development services ,Xamarin development services, Mobile app development using xamarin, Xamarin mobile development, Xamarin application development, Xamarin android app development.">
+    <meta property="article:tag" content="Xamarin app development" />
+    <meta property="article:tag" content="Xamarin mobile app development" />
+    <meta property="article:tag" content="Xamarin app development services" />
+    <meta property="article:tag" content="Xamarin development services" />
+    <meta property="article:tag" content="Mobile app development using xamarin" />
+    <meta property="article:tag" content="Xamarin mobile development" />
+    <meta property="article:tag" content="Xamarin application development" />
+    <meta property="article:tag" content="Xamarin android app development" />
+
+  
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

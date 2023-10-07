@@ -9,7 +9,24 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>APP MAINTENANCE & SUPPORT</title>
+    <title>Application Support and Maintenance Service | Hire Co-worker</title>
+
+<meta name="title" content="Application Support and Maintenance Service | Hire Co-worker">
+<meta name="description" content="Application maintenance and support" refers to the ongoing processes and activities intended to keep an app's functionality, stability, and security throughout its lifecycle in the context of mobile applications." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Application Support and Maintenance Service | Hire Co-worker"/>
+<meta property="og:description" content="Application maintenance and support" refers to the ongoing processes and activities intended to keep an app's functionality, stability, and security throughout its lifecycle in the context of mobile applications." />
+<meta property="og:url" content="https://hirecoworker.com/app-maintanance-sevices" />
+<meta property="og:site_name" content="Application Support and Maintenance Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Application support and maintenance service, Application support and maintenance, Mobile application maintenance and support, App maintenance and support, Web application support and maintenance, Application software maintenance">
+<meta property="article:tag" content="Application support and maintenance service" />
+<meta property="article:tag" content="Application support and maintenance" />
+<meta property="article:tag" content="Mobile application maintenance and support" />
+<meta property="article:tag" content="App maintenance and support" />
+<meta property="article:tag" content="Web application support and maintenance" />
+<meta property="article:tag" content="Application software maintenance" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

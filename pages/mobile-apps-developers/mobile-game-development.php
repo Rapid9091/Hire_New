@@ -9,7 +9,26 @@ include_once '../../init.php';
 <head>
     <?php include_once head_new;?>
 
-    <title>Mobile Game Development</title>
+    <title>Mobile Game Development Service | Hire Co-worker</title>
+
+    <meta name="title" content="Mobile Game Development Service | Hire Co-worker">
+    <meta name="description" content="Mobile gaming has become extremely popular in recent years due to the rapid development of technology and the widespread use of smartphones. It is now a common and widely accepted form of entertainment in our modern society." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mobile Game Development Service | Hire Co-worker"/>
+    <meta property="og:description" content="Mobile gaming has become extremely popular in recent years due to the rapid development of technology and the widespread use of smartphones. It is now a common and widely accepted form of entertainment in our modern society." />
+    <meta property="og:url" content="https://hirecoworker.com/mobile-game-development" />
+    <meta property="og:site_name" content="Mobile Game Development Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Mobile game development service, Mobile game development company, Mobile game developers, Mobile game app development , Mobile game development cost, Android game development services, Game application development, Game and app development.">
+    <meta property="article:tag" content="Mobile game development service" />
+    <meta property="article:tag" content="Mobile game development company" />
+    <meta property="article:tag" content="Mobile game developers" />
+    <meta property="article:tag" content="Mobile game app development" />
+    <meta property="article:tag" content="Mobile game development cost" />
+    <meta property="article:tag" content="Android game development services" />
+    <meta property="article:tag" content="Game application development" />
+    <meta property="article:tag" content="Game and app development" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">

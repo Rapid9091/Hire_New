@@ -10,7 +10,26 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Migration & App Porting</title>
+    <title>Migration App Porting Service | Hire Co-worker</title>
+
+<meta name="title" content="Migration App Porting Service | Hire Co-worker">
+<meta name="description" content="App porting refers to making an application work in a different environment. This involves adapting and transferring the application so that it works smoothly and still has all its essential features." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Migration App Porting Service | Hire Co-worker"/>
+<meta property="og:description" content="App porting refers to making an application work in a different environment. This involves adapting and transferring the application so that it works smoothly and still has all its essential features." />
+<meta property="og:url" content="https://hirecoworker.com/migration-app-porting" />
+<meta property="og:site_name" content="Migration App Porting Service | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Google voice number porting, Transfer landline to google voice, Landline to google voice, Google voice transfer phone number, Porting landline number to google voice, Transfer phone number google voice, Google voice porting landline, Transfer cell phone number to google voice">
+<meta property="article:tag" content="Google voice number porting" />
+<meta property="article:tag" content="Transfer landline to google voice" />
+<meta property="article:tag" content="Landline to google voice" />
+<meta property="article:tag" content="Google voice transfer phone number" />
+<meta property="article:tag" content="Porting landline number to google voice" />
+<meta property="article:tag" content="Transfer phone number google voice" />
+<meta property="article:tag" content="Google voice porting landline" />
+<meta property="article:tag" content="Transfer cell phone number to google voice" />
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

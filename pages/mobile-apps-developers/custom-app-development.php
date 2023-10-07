@@ -8,8 +8,26 @@ include_once '../../init.php';
 
 <head>
     <?php include_once head_new;?>
+    <title>Custom App Development Services | Hire Co-worker</title>
 
-    <title>Custom App Development Services</title>
+    <meta name="title" content="Custom App Development Services | Hire Co-worker">
+    <meta name="description" content="Custom apps are different from pre-made apps that you can buy. They are created specifically for you, with your specific needs and the needs of the people who will use the app in mind." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Custom App Development Services | Hire Co-worker"/>
+    <meta property="og:description" content="Custom apps are different from pre-made apps that you can buy. They are created specifically for you, with your specific needs and the needs of the people who will use the app in mind." />
+    <meta property="og:url" content="https://hirecoworker.com/custom-app-development" />
+    <meta property="og:site_name" content="Custom App Development Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="custom app development services, custom application development, custom application development services, custom mobile app development, custom mobile application development, custom web app development, custom application software development">
+    <meta property="article:tag" content="custom app development services" />
+    <meta property="article:tag" content="custom application development" />
+    <meta property="article:tag" content="custom application development services" />
+    <meta property="article:tag" content="custom mobile app development" />
+    <meta property="article:tag" content="custom mobile application development" />
+    <meta property="article:tag" content="custom web app development" />
+    <meta property="article:tag" content="custom mobile development" />
+    <meta property="article:tag" content="custom application software development" />
+
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
