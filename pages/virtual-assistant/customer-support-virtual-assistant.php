@@ -10,7 +10,24 @@ include_once '../../init.php';
     
   <?php include_once head_new;?>
     
-    <title>Customer Support Virtual Assistant Service</title>
+  <title>Customer Support Virtual Assistant Services | Hire Co-worker</title>
+
+<meta name="title" content="Customer Support Virtual Assistant Services | Hire Co-worker">
+<meta name="description" content="A virtual assistant (VA) who can perform a range of customer care tasks for businesses is referred to as a customer support virtual assistant." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Customer Support Virtual Assistant Services | Hire Co-worker"/>
+<meta property="og:description" content="A virtual assistant (VA) who can perform a range of customer care tasks for businesses is referred to as a customer support virtual assistant" />
+<meta property="og:url" content="https://hirecoworker.com/customer-support-virtual-assistant" />
+<meta property="og:site_name" content="Customer Support Virtual Assistant Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="customer support service, customer support virtual assistant, customer service virtual assistant, virtual customer support, chat support virtual assistant, virtual assistant for customer service, virtual assistant customer support">
+<meta property="article:tag" content="customer support service" />
+<meta property="article:tag" content="customer support virtual assistant" />
+<meta property="article:tag" content="customer service virtual assistant" />
+<meta property="article:tag" content="virtual customer support" />
+<meta property="article:tag" content="chat support virtual assistant" />
+<meta property="article:tag" content="virtual assistant for customer service" />
+<meta property="article:tag" content="virtual assistant customer support" />
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

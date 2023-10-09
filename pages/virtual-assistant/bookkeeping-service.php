@@ -9,8 +9,28 @@ include_once '../../init.php';
 <head>
     
   <?php include_once head_new;?>
-    
-    <title>Virtual Assistant Bookkeeping Service</title>
+  
+  <title>Bookkeeping Virtual Assistant Services | Hire Co-worker</title>
+
+<meta name="title" content="Bookkeeping Virtual Assistant Services | Hire Co-worker">
+<meta name="description" content="Hire Coworker is a provider of virtual assistant bookkeeping services. Before offering services at competitive prices, we ascertain your needs." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bookkeeping Virtual Assistant Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is a provider of virtual assistant bookkeeping services. Before offering services at competitive prices, we ascertain your needs. " />
+<meta property="og:url" content="https://hirecoworker.com/bookkeeping-service" />
+<meta property="og:site_name" content="Bookkeeping Virtual Assistant Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Bookkeeping virtual assistant, Virtual assistant accounting bookkeeping, Bookkeeping service, Small business bookkeeping, Bookkeeping services near me, Bookkeeping services for small business, Online bookkeeping services, Outsourced bookkeeping services, Business bookkeeping services.">
+<meta property="article:tag" content="Bookkeeping virtual assistant" />
+<meta property="article:tag" content="Virtual assistant accounting bookkeeping" />
+<meta property="article:tag" content="Bookkeeping service" />
+<meta property="article:tag" content="Small business bookkeeping" />
+<meta property="article:tag" content="Bookkeeping services near me" />
+<meta property="article:tag" content="Bookkeeping services for small business" />
+<meta property="article:tag" content="Online bookkeeping services" />
+<meta property="article:tag" content="Outsourced bookkeeping services" />
+<meta property="article:tag" content="Business bookkeeping services" />
+
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

@@ -10,7 +10,27 @@ include_once '../../init.php';
     
   <?php include_once head_new;?>
     
-    <title>Virtual Administrative Assistant Service</title>
+  <title>Virtual Administrative Assistant Services | Hire Co-worker</title>
+
+<meta name="title" content="Virtual Administrative Assistant Services | Hire Co-worker">
+<meta name="description" content="Hire Coworker is a provider of virtual administrative assistant services that works around the clock to maintain your office's peak performance. The solution to your administrative woes is our service." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Virtual Administrative Assistant Services | Hire Co-worker"/>
+<meta property="og:description" content="Hire Coworker is a provider of virtual administrative assistant services that works around the clock to maintain your office's peak performance. The solution to your administrative woes is our service." />
+<meta property="og:url" content="https://hirecoworker.com/virtual-administrative-assistant-service" />
+<meta property="og:site_name" content="Virtual Administrative Assistant Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Virtual administrative assistant, Virtual admin assistant, Virtual office assistant, Virtual administration, Virtual administrative assistant services, Virtual executive assistant services, Virtual assistant admin, Virtual admin assistant services.">
+<meta property="article:tag" content="Virtual administrative assistant" />
+<meta property="article:tag" content="Virtual admin assistant" />
+<meta property="article:tag" content="Virtual office assistant" />
+<meta property="article:tag" content="Virtual administration" />
+<meta property="article:tag" content="Virtual administrative assistant services" />
+<meta property="article:tag" content="Virtual executive assistant services" />
+<meta property="article:tag" content="Virtual assistant admin" />
+<meta property="article:tag" content="Virtual admin assistant services" />
+
+
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

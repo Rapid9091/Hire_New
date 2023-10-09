@@ -10,7 +10,24 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Video Topic Strategist</title>
+    
+    <title>Video Topic Strategist Service | Hire Co-worker</title>
+
+    <meta name="title" content="Video Topic Strategist Service | Hire Co-worker">
+    <meta name="description" content="Video Topic Strategist is critical in today's fast-paced digital world. It has much influence and can make a significant impact." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Video Topic Strategist Service | Hire Co-worker"/>
+    <meta property="og:description" content="Video Topic Strategist is critical in today's fast-paced digital world. It has much influence and can make a significant impact." />
+    <meta property="og:url" content="https://hirecoworker.com/video-topic-strategist" />
+    <meta property="og:site_name" content="Video Topic Strategist Service | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Video topic strategist service, Video topic strategist, Video topic strategist services, Video strategist service, Video strategist topic service">
+    <meta property="article:tag" content="Video topic strategist service" />
+    <meta property="article:tag" content="Video topic strategist" />
+    <meta property="article:tag" content="Video topic strategist services" />
+    <meta property="article:tag" content="Video strategist service" />
+    <meta property="article:tag" content="Video strategist topic service" />
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

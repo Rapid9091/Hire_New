@@ -10,7 +10,28 @@ include_once '../../init.php';
     
   <?php include_once head_new;?>
     
-    <title>Best Virtual Personal Assistant Services</title>
+  <title>Virtual Personal Assistant Services | Hire Co-worker</title>
+
+<meta name="title" content="Virtual Personal Assistant Services | Hire Co-worker">
+<meta name="description" content="Virtual personal assistants from Hire Coworker are trustworthy experts that can design a personalized timetable for your crucial activities." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Virtual Personal Assistant Services | Hire Co-worker"/>
+<meta property="og:description" content="Virtual personal assistants from Hire Coworker are trustworthy experts that can design a personalized timetable for your crucial activities." />
+<meta property="og:url" content="https://hirecoworker.com/virtual-personal-assistant-services" />
+<meta property="og:site_name" content="Virtual Personal Assistant Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Virtual personal assistant services, Virtual assistant services, Virtual personal assistant, Online personal assistant, Digital personal assistant, Hire a personal assistant, Best virtual assistant services, Cost of personal assistant.">
+<meta property="article:tag" content="Virtual personal assistant services" />
+<meta property="article:tag" content="Virtual assistant services" />
+<meta property="article:tag" content="Virtual personal assistant" />
+<meta property="article:tag" content="Online personal assistant" />
+<meta property="article:tag" content="Digital personal assistant" />
+<meta property="article:tag" content="Hire a personal assistant" />
+<meta property="article:tag" content="Best virtual assistant services" />
+<meta property="article:tag" content="Cost of personal assistant" />
+
+
+
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

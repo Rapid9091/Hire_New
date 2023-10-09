@@ -10,7 +10,26 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Video Production Services</title>
+   
+    <title>Professional Video Production Services | Hire Co-worker</title>
+
+    <meta name="title" content="Professional Video Production Services | Hire Co-worker">
+    <meta name="description" content="Video production services have become increasingly crucial for individuals and businesses, allowing them to convey their messages and captivate audiences uniquely effectively." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Professional Video Production Services | Hire Co-worker"/>
+    <meta property="og:description" content="Video production services have become increasingly crucial for individuals and businesses, allowing them to convey their messages and captivate audiences uniquely effectively." />
+    <meta property="og:url" content="https://hirecoworker.com/video-production-services" />
+    <meta property="og:site_name" content="Professional Video Production Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Video production service, Video production company, Video production agency, Professional video production, Video production near me, Professional video production services, Video production specialist, Professional video services">
+    <meta property="article:tag" content="Video production service" />
+    <meta property="article:tag" content="Video production company" />
+    <meta property="article:tag" content="Video production agency" />
+    <meta property="article:tag" content="Professional video production" />
+    <meta property="article:tag" content="Video production near me" />
+    <meta property="article:tag" content="Professional video production services" />
+    <meta property="article:tag" content="Video production specialist" />
+    <meta property="article:tag" content="Professional video services" />
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

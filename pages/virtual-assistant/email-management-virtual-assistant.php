@@ -10,7 +10,27 @@ include_once '../../init.php';
     
   <?php include_once head_new;?>
     
-    <title>Email Management Virtual Assistant</title>
+  <title>Email Management Virtual Assistant Services | Hire Co-worker</title>
+
+<meta name="title" content="Email Management Virtual Assistant Services | Hire Co-worker">
+<meta name="description" content="Hiring an email management virtual assistant simply to manage your email may seem excessive to you. Keep in mind, however, that many business owners live their life through email." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Email Management Virtual Assistant Services | Hire Co-worker"/>
+<meta property="og:description" content="Hiring an email management virtual assistant simply to manage your email may seem excessive to you. Keep in mind, however, that many business owners live their life through email." />
+<meta property="og:url" content="https://hirecoworker.com/email-management-virtual-assistant" />
+<meta property="og:site_name" content="Email Management Virtual Assistant Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Email management service, Email management virtual assistant, Email management tips, Email management app, Email marketing management, Email marketing campaign management, Email list management services, Email marketing management services">
+<meta property="article:tag" content="Email management service" />
+<meta property="article:tag" content="Email management virtual assistant" />
+<meta property="article:tag" content="Email management tips" />
+<meta property="article:tag" content="Email management app" />
+<meta property="article:tag" content="Email marketing management" />
+<meta property="article:tag" content="Email marketing campaign management" />
+<meta property="article:tag" content="Email list management services" />
+<meta property="article:tag" content="Email marketing management services" />
+
+
 
     
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
