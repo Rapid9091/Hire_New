@@ -10,7 +10,25 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Wedding Video Shooting Services</title>
+    <title>Wedding Photography and Video Services | Hire Co-worker</title>
+
+    <meta name="title" content="Wedding Photography and Video Services | Hire Co-worker">
+    <meta name="description" content="Wedding video shooting services capture and preserve the important moments of your special day, ensuring that your memories are not lost in our fast-paced world." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Wedding Photography and Video Services | Hire Co-worker"/>
+    <meta property="og:description" content="Wedding video shooting services capture and preserve the important moments of your special day, ensuring that your memories are not lost in our fast-paced world." />
+    <meta property="og:url" content="https://hirecoworker.com/wedding-video-shooting-services" />
+    <meta property="og:site_name" content="Wedding Photography and Video Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Wedding photography and video, Wedding photography video, Pre wedding video cost, Wedding photography and video near me, Wedding video shooting services, Video shooting wedding">
+    <meta property="article:tag" content="Wedding photography and video" />
+    <meta property="article:tag" content="Wedding photography video" />
+    <meta property="article:tag" content="Pre wedding video cost" />
+    <meta property="article:tag" content="Wedding photography and video near me" />
+    <meta property="article:tag" content="Wedding video shooting services" />
+    <meta property="article:tag" content="Video shooting wedding" />
+      
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

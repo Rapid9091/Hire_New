@@ -10,7 +10,25 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Movie Director Services</title>
+  
+    <title>Hire Movie Director Services | Hire Co-worker</title>
+
+    <meta name="title" content="Hire Movie Director Services | Hire Co-worker">
+    <meta name="description" content="In entertainment, where stories are the main focus, Movie Director Services writers play a crucial role. A well-written screenplay is essential for creating a memorable movie." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Hire Movie Director Services | Hire Co-worker"/>
+    <meta property="og:description" content="In entertainment, where stories are the main focus, Movie Director Services writers play a crucial role. A well-written screenplay is essential for creating a memorable movie." />
+    <meta property="og:url" content="https://hirecoworker.com/movie-director-services" />
+    <meta property="og:site_name" content="Hire Movie Director Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Movie director specialists, Movie director service, Film director for hire, Hire movie director, Hire movie director service, Video shooting wedding, Hire Movie Director Services">
+    <meta property="article:tag" content="Movie director specialists" />
+    <meta property="article:tag" content="Movie director service" />
+    <meta property="article:tag" content="Film director for hire" />
+    <meta property="article:tag" content="Hire movie director" />
+    <meta property="article:tag" content="Hire movie director service" />
+    <meta property="article:tag" content="Video shooting wedding" />
+    <meta property="article:tag" content="Hire Movie Director Services" />
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

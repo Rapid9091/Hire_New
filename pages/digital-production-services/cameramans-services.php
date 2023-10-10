@@ -10,7 +10,26 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Cameraman Services</title>
+    
+    <title>Cameraman Services | Hire Co-worker</title>
+
+<meta name="title" content="Cameraman Services | Hire Co-worker">
+<meta name="description" content="As we explore the world of camera services, we come across terms like "DSLR cameraman," "cameraman," and "broadcast cameraman," which are commonly used to refer to professionals in this field." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Cameraman Services | Hire Co-worker"/>
+<meta property="og:description" content="As we explore the world of camera services, we come across terms like "DSLR cameraman," "cameraman," and "broadcast cameraman," which are commonly used to refer to professionals in this field." />
+<meta property="og:url" content="https://hirecoworker.com/cameramans-services" />
+<meta property="og:site_name" content="Cameraman Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Camera man services, Cameraman for hire, Cameraman for hire near me, Camera man for hire, Hire a camera man, Professional cameraman for hire, Freelance cameraman hire">
+<meta property="article:tag" content="Camera man services" />
+<meta property="article:tag" content="Cameraman for hire" />
+<meta property="article:tag" content="Cameraman for hire near me" />
+<meta property="article:tag" content="Camera man for hire" />
+<meta property="article:tag" content="Hire a camera man" />
+<meta property="article:tag" content="Professional cameraman for hire" />
+<meta property="article:tag" content="Freelance cameraman hire" />
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
