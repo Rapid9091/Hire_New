@@ -9,8 +9,22 @@ include_once '../../init.php';
 <head>
 
     <?php include_once head_new; ?>
+    <title>Movie Camera Operator Services | Hire Co-worker</title>
 
-    <title>Movie Cameraman Services</title>
+    <meta name="title" content="Movie Camera Operator Services | Hire Co-worker">
+    <meta name="description" content="Movie camera operator services play a crucial role in the film industry. They are responsible for capturing visually stunning and innovative shots that enhance film storytelling." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Movie Camera Operator Services | Hire Co-worker"/>
+    <meta property="og:description" content="Movie camera operator services play a crucial role in the film industry. They are responsible for capturing visually stunning and innovative shots that enhance film storytelling." />
+    <meta property="og:url" content="https://hirecoworker.com/movie-cameraman-services" />
+    <meta property="og:site_name" content="Movie Camera Operator Services | Hire Co-worker" />
+    <meta name='robots' content='index' /> 
+    <meta name="keywords" content="Hire Movie Cameraman Service, Movie Cameraman Service, Movie Cameraman, Cameraman Movie, The cameraman full movie">
+    <meta property="article:tag" content="Hire Movie Cameraman Service" />
+    <meta property="article:tag" content="Movie Cameraman Service" />
+    <meta property="article:tag" content="Movie Cameraman" />
+    <meta property="article:tag" content="Cameraman Movie" />
+    <meta property="article:tag" content="The cameraman full movie" />
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

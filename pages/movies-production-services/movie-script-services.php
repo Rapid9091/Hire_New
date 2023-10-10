@@ -10,7 +10,26 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Movie script</title>
+    <title>Movie Script Writer Services | Hire Co-worker</title>
+
+<meta name="title" content="Movie Script Writer Services | Hire Co-worker">
+<meta name="description" content="At Hire Coworker, our movie writers' main job is to write a story for TV, movies, radio, etc. So, writing a movie means making up the story that will happen and putting it into a text." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Movie Script Writer Services | Hire Co-worker"/>
+<meta property="og:description" content="At Hire Coworker, our movie writers' main job is to write a story for TV, movies, radio, etc. So, writing a movie means making up the story that will happen and putting it into a text." />
+<meta property="og:url" content="https://hirecoworker.com/movie-script-services" />
+<meta property="og:site_name" content="Movie Script Writer Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Movie script writer, Movie script writers for hire, Screenplay writing services, Hire a movie script writer, Film script writing, Best movie script writers, Movie script writers for hire, Screenplay script writing.">
+<meta property="article:tag" content="Movie script writer" />
+<meta property="article:tag" content="Movie script writers for hire" />
+<meta property="article:tag" content="Screenplay writing services" />
+<meta property="article:tag" content="Hire a movie script writer" />
+<meta property="article:tag" content="Film script writing" />
+<meta property="article:tag" content="Best movie script writers" />
+<meta property="article:tag" content="Movie script writers for hire" />
+<meta property="article:tag" content="Screenplay script writing" />
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
