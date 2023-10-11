@@ -10,7 +10,24 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Hire Actor/Actress</title>
+    <title>Hire Actor - Actress Voice Services | Hire Co-worker</title>
+
+<meta name="title" content="Hire Actor - Actress Voice Services | Hire Co-worker">
+<meta name="description" content="In the entertainment industry, there is a need for both on-screen talent and voice actors. Voice acting plays a significant role in bringing characters to life through their voices." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hire Actor - Actress Voice Services | Hire Co-worker"/>
+<meta property="og:description" content="In the entertainment industry, there is a need for both on-screen talent and voice actors. Voice acting plays a significant role in bringing characters to life through their voices." />
+<meta property="og:url" content="https://hirecoworker.com/hire-actor-actress" />
+<meta property="og:site_name" content="Hire Actor - Actress Voice Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Hire actor, Hire voice actor, Freelance voice acting, Actors for hire near me, Hire voice artist, Cheap actors for hire, Hire a voice actor online.">
+<meta property="article:tag" content="Hire actor" />
+<meta property="article:tag" content="Hire voice actor" />
+<meta property="article:tag" content="Freelance voice acting" />
+<meta property="article:tag" content="Actors for hire near me" />
+<meta property="article:tag" content="Hire voice artist" />
+<meta property="article:tag" content="Cheap actors for hire" />
+<meta property="article:tag" content="Hire a voice actor online" />
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">

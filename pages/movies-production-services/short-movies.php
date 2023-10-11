@@ -10,7 +10,25 @@ include_once '../../init.php';
 
     <?php include_once head_new; ?>
 
-    <title>Short Movie </title>
+    <title>Hire Short Movie Services | Hire Co-worker</title>
+
+<meta name="title" content="Hire Short Movie Services | Hire Co-worker">
+<meta name="description" content="Short films are not just shorter version of regular films. They are a unique type of film that allows filmmakers to be more creative and experimental with their storytelling." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hire Short Movie Services | Hire Co-worker"/>
+<meta property="og:description" content="Short films are not just shorter version of regular films. They are a unique type of film that allows filmmakers to be more creative and experimental with their storytelling." />
+<meta property="og:url" content="https://hirecoworker.com/short-movies" />
+<meta property="og:site_name" content="Hire Short Movie Services | Hire Co-worker" />
+<meta name='robots' content='index' /> 
+<meta name="keywords" content="Short film services, Short films, Short movies, Big short movie, The big short full movie, Best short films, Best short movies.">
+<meta property="article:tag" content="Short film services" />
+<meta property="article:tag" content="Short films" />
+<meta property="article:tag" content="Short movies" />
+<meta property="article:tag" content="Big short movie" />
+<meta property="article:tag" content="The big short full movie" />
+<meta property="article:tag" content="Best short films" />
+<meta property="article:tag" content="Best short movies" />
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
