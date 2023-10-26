@@ -325,7 +325,7 @@ include_once '../../init.php';
             <p class="text_content">The primary participants in the chargeback process are the cardholder, the merchant,
                 the
                 issuing bank, the acquiring bank, and sometimes the credit card network.</p><br>
-            <h3><strong>The cardholder/customer</strong></h3>
+            <h3><strong>The cardholder/customer</strong></h3><br>
             <p class="text_content">These may be the same individual, but only sometimes. The cardholder is the actual
                 owner
                 of the payment card used to purchase the dispute. The customer is the individual who placed the
@@ -338,12 +338,12 @@ include_once '../../init.php';
                 not the same person as the cardholder who disputes it later.</p><br>
 
 
-            <h3><strong> 1) The merchant</strong></h3>
+            <h3><strong> 1) The merchant</strong></h3><br>
             <p class="text_content">is the individual or company who sold a product or service to the customer. When the
                 chargeback is filed, the merchant must decide whether to accept or dispute it.</p><br>
 
 
-            <h3><strong> 2)The issuing bank (Issuer):</strong></h3>
+            <h3><strong> 2)The issuing bank (Issuer):</strong></h3><br>
             <p class="text_content">A bank or other financial institution that issues a branded payment card to the
                 cardholder. Examples: Bank of America, Wells Fargo, Capital One.</p><br>
             <h3><strong> 3)The acquiring bank (Acquirer)</strong></h3>
@@ -352,7 +352,7 @@ include_once '../../init.php';
                 payments.</p><br>
 
 
-            <h3><strong> 4)The credit card network:</strong></h3>
+            <h3><strong> 4)The credit card network:</strong></h3><br>
             <p class="text_content">The association that owns the credit card brand used in the transaction. The four
                 major
                 credit card networks in the United States are Visa, Mastercard, American Express, and Discover. These
@@ -585,13 +585,13 @@ include_once '../../init.php';
             <p class="text_content">Respond as quickly as possible when disputing a chargeback since delayed action may
                 result in a chargeback loss.</p><br>
             <br>
-            <h3><strong>1) Gather information</strong></h3>
+            <h3><strong>1) Gather information</strong></h3><br>
             <p class="text_content">Identify the customer and transaction in question when you’re notified of a
                 chargeback. Source as much information about the transaction as possible, including warehouse data and
                 delivery status. </p><br>
             <p class="text_content">You can also contact the customer directly to see if their issue can be resolved.
             </p><br>
-            <h3><strong>2) Submit your chargeback response</strong></h3>
+            <h3><strong>2) Submit your chargeback response</strong></h3><br>
             <p class="text_content">If you feel that a chargeback has been made unfairly, you can submit your evidence
                 in a dispute response.</p><br>
             <p class="text_content">This document is returned to the bank or card issuer that sent you the chargeback
@@ -601,11 +601,11 @@ include_once '../../init.php';
             <p class="text_content">For disputed fraud or “no authorisation” chargebacks, provide evidence that the
                 cardholder was aware of and authorised the transaction. AVS (address verification system) matches, CVV
                 confirmations, signed receipts, or contracts may help to prove this.</p><br>
-            <h3><strong>3) Await the decision</strong></h3>
+            <h3><strong>3) Await the decision</strong></h3><br>
             <p class="text_content">After you submit a rebuttal, the situation is out of your hands while the
                 processor’s acquiring bank reviews the information. The cardholder’s bank makes the final decision about
                 whether it will process the chargeback, and it will inform the customer of its decision.</p><br>
-            <h3><strong>4) Disputing chargebacks</strong></h3>
+            <h3><strong>4) Disputing chargebacks</strong></h3><br>
             <p class="text_content">Consumers benefit from the protection chargebacks provide against fraud and poor
                 customer service.</p><br>
             <p class="text_content">Chargeback rules promote fair return policies and discourage retailers from selling
