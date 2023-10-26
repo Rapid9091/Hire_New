@@ -264,7 +264,7 @@ include_once '../../init.php';
                 service includes part-time and full-time employees managing an Amazon store.</p><br>
             <p class="text_content">Amazon’s Virtual Assistants perform a range of tasks. Some perform everyday tasks,
                 while others
-                have specialities to handle more critical tasks. As you know, running a business on Amazon
+                have specialities to handle more critical tasks. As you know, running a business on Amazon</p><br>
             <p class="text_content">involves many tasks and often takes time to write product descriptions, reply to
                 customer
                 reviews, handle purchase orders, track shipments, run Amazon ads, etc. The solution is to hire someone,
