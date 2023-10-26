@@ -1,53 +1,232 @@
+<div class="content_div">
+    <h2 class="content-heading">How do we understand chargebacks?</h2>
+
+    <p class="text_content">Chargebacks are done for charges that have been fully processed and settled. They must be
+        reversed through an electronic process involving multiple entities. As a result, they can take several days to
+        settle and return to the original account fully.</p>
+
+    <p class="text_content">The chargeback process is similar across most credit card networks and issuing banks, with
+        specific differences for each bank or network. A chargeback works from the issuing bank through the card network
+        and
+        to the merchant's acquiring bank. The merchant can decide to dispute the chargeback or accept it.</p>
+
+    <p class="text_content">Chargebacks are a consumer protection tool that allows consumers to get their money back for
+        fraudulent charges or purchases that don’t live up to standards by submitting a dispute with their card issuer.
+    </p>
+    <p class="text_content">If you notice a transaction on your credit card account that doesn’t look familiar or run
+        into
+        issues with a recent order, you may want to (and should) dispute the transaction. Generally, you’ll have two
+        options
+        when disputing a transaction: refund or chargeback.</p>
+    <p class="text_content">A refund comes directly from a merchant, while a chargeback comes from your card issuer.</p>
+</div>
 
 <div class="content_div">
-<h2 class="content-heading">Tax Preparation Services: From Hire Coworker Boost Profits</h2>
-<p class="text_content">When it's time to handle your money during tax season, working together is really important. One smart way that's getting popular is asking a colleague to help with Tax Preparation Services. This way, the work gets divided, and you benefit from different skills, making sure your taxes are done really well.</p><br>
+    <h2 class="content-heading">When to ask for a chargeback</h2>
+    <div class="ul_div">
 
-<p class="text_content">Getting a colleague who knows much about taxes can bring you some good things. These people usually know the latest tax rules, so they can find deductions and credits you might overlook. This can help you get more money back or owe less in taxes, which affects your profits.</p><br>
 
-<p class="text_content">But make sure the colleague you pick knows about Tax Preparation Services. Check their certifications, experience, and a history of doing well. Also, talking and working well together is essential for making taxes easy. Using everyone's skills in your group, you can do better with your money and still focus on your main business tasks.</p><br>
+        <li>A chargeback is the payment amount returned to a debit or credit card after a customer disputes the
+            transaction.
+        </li>
+        <li>The merchant or the cardholder’s issuing bank can initiate the chargeback process.</li>
+        <li>Merchants typically incur a fee from the card issuer when a chargeback occurs.</li>
+        <li>Federal law requires card issuers to offer chargebacks within 60 days of the billing date.</li>
+        <li>In cases other than fraud, you may be able to resolve your issue directly with the merchant rather than by
+            requesting a chargeback from your bank.</li>
+        </ul>
 
-</div>
-<div class="content_div">
-<h2 class="content-heading">Exploring Tax Preparation Services</h2>
-<p class="text_content">Tax Preparation Services involve many tasks to get your taxes ready and sent incorrectly and when they're due. People, small businesses, big companies, and groups can use these services. Here's what Tax Preparation Services usually do:</p><br>
-</div>
-<div class="content_div"> 
-<h2 class="content-heading">Challenges in Tax Preparation Services</h2>
-<p class="text_content">While Tax Preparation Services offer numerous benefits, they also have their fair share of challenges. It's essential to be aware of these potential issues and address them effectively:</p><br>
 
-<p class="text_content"><strong> 1)Complexity of Tax Codes:</strong> Tax codes are notorious for their complexity and frequent changes. Navigating through intricate regulations requires expertise and continuous learning from tax professionals.
-<p class="text_content"><strong> 2)Data Accuracy: </strong>Accurate tax preparation heavily relies on precise financial data. Inaccurate or incomplete information can lead to errors on your tax returns, potentially resulting in penalties or audit triggers.</p><br>
-<p class="text_content"><strong> 3)Scalability:</strong> Businesses that experience growth might find it challenging to scale their tax preparation processes. Ensuring consistency and accuracy becomes more complex as operations expand.</p><br>
-<p class="text_content"><strong> 4)Security Concerns:</strong> Tax preparation involves handling sensitive financial information. Security breaches can lead to identity theft, fraud, and other serious consequences. Robust cybersecurity measures are essential.</p><br>
-<p class="text_content"><strong> 5)Cost Considerations:</strong> While Tax Preparation Services offer financial benefits, they also come at a cost. Balancing the cost of hiring tax professionals with potential tax savings is a crucial consideration.</p><br>
-</div>
-<div class="content_div">
-<h2 class="content-heading">The Costing of Tax Preparation Services</h2>
-<p class="text_content">How much you pay for Tax Preparation Services can change a lot. The price changes based on how complicated your money stuff is, the type of person who helps you, and how much help you ask for. Usually, they use a few ways to figure out how much you pay:</p><br>
+        <h3><strong>Charges can be disputed for many reasons, such as</h3>
+        <div class="ul_div">
 
-<p class="text_content"><strong> 1)Flat Fees: </strong>Some tax professionals charge a flat fee for their services. This fee structure is often suitable for individuals with straightforward tax situations.</p><br>
-<p class="text_content"><strong> 2)Hourly Rates:</strong> Tax experts might charge an hourly rate, especially if your tax preparation involves intricate details or requires extensive consultations.</p><br>
-<p class="text_content"><strong> 3)Per-Form Charges:</strong> For businesses that need specific forms prepared, tax professionals might charge per form. This is common for companies with complex financial structures.</p><br>
-<p class="text_content"><strong> 4)Percentage of Refund: </strong>Sometimes, tax professionals charge a portion of your refund amount. While this can incentivize them to maximize your refund, it's essential to ensure transparency in this arrangement.</p><br>
-<p class="text_content"><strong> 5)Subscription-Based Services:</strong> With the rise of technology, some Tax Preparation Services offer subscription-based models. You pay a recurring fee for ongoing tax support and consultation throughout the year.</p><br>
-<p class="text_content">Before committing to Tax Preparation Services, it's recommended to obtain detailed cost estimates, understand the scope of services, and clarify how the pricing structure aligns with your financial needs and goals.</p><br>
-</div>
-<div class="content_div">
-<h2 class="content-heading">Why Choose "Hire Coworker" for Tax Preparation Services?</h2>
-<p class="text_content">Do you want to avoid the worry and confusion that usually comes with tax time? You're in the right place with "Hire Coworker." We've got everything you need to prepare your taxes. Our platform has many good things that make us the best option for people and businesses who want affordable, reliable, and quick tax help.</p><br>
+            <li>A cardholder being charged by a merchant for items they never received</li>
+            <li>A merchant duplicating an order by mistake</li>
+            <li>Mistaken costs caused by a technical issue</li>
+            <li>Fraudulent charges from credit or debit card information that has been compromised</li>
+            </ul>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">What Is the Chargeback Process?</h2>
+            <p class="text_content">The primary participants in the chargeback process are the cardholder, the merchant,
+                the
+                issuing bank, the acquiring bank, and sometimes the credit card network.</p>
+            <h3><strong>The cardholder/customer</strong></h3>
+            <p class="text_content">These may be the same individual, but only sometimes. The cardholder is the actual
+                owner
+                of the payment card used to purchase the dispute. The customer is the individual who placed the
+                transaction.
+            </p>
+            <p class="text_content">In a typical transaction or a friendly fraud chargeback, the cardholder and the
+                customer
+                are the same person. In an actual fraud scenario, the customer who made a transaction with a stolen card
+                is
+                not the same person as the cardholder who disputes it later.</p>
 
-<p class="text_content"><strong> 1)Cost-Efficiency:</strong> At "Hire Coworker," we understand the importance of saving money, especially in tax preparation. Our platform connects you with experienced and skilled tax professionals at competitive rates. Unlike traditional tax firms that may charge exorbitant fees, we offer affordable options, allowing you to maximize your return without breaking the bank. With us, you can access high-quality tax services without the hefty price tag.</p><br>
-<p class="text_content"><strong> 2)Trusted Professionals: </strong>Trust is paramount when it comes to tax preparation. If you use "Hire Coworker," you won't have to worry about the security of your personal details. We thoroughly vet our tax professionals, ensuring they possess the qualifications and experience to handle your tax needs. Also, our platform shows what other people think and how they rate the tax helpers. This helps you pick a tax expert who fits what you need. Don't worry; we greatly care about keeping your money in good shape.</p><br>
-<p class="text_content"><strong> 3)Convenience: </strong>Say goodbye to the hassle of scheduling appointments and commuting to a tax office. "Hire Coworker" offers the comfort of online tax preparation services. You can talk to a tax expert without leaving your home or work. This saves time and makes things less stressful. Our platform is easy to use, and you can get to it quickly, so doing your taxes is as simple as clicking a few times.</p><br>
-<p class="text_content"><strong> 4)Personalized Service: </strong>We understand that no two tax situations are alike. Our tax experts ensure your tax papers are suitable and best for your situation. It doesn't matter if you're just one person with easy taxes or a business owner with tricky finances – our pros will give you the help that fits what you need.</p><br>
-<p class="text_content"><strong> 5)Timely Filing:</strong> Please complete tax deadlines to avoid penalties and unnecessary stress. "Hire Coworker" tax professionals are dedicated to ensuring your taxes are filed promptly and accurately. We stay up-to-date with tax regulations and changes, so you can trust that your tax returns will comply with the latest requirements.</p><br>
-</div>
-<div class="content_div">
-<h2 class="content-heading">Conclusion</h2>
-<p class="text_content">Tax Preparation Services play a vital role in streamlining the often complex and overwhelming process of tax compliance. From enlisting the expertise of a coworker to enhance profits to navigating through the intricacies of tax codes, these services offer a range of benefits for individuals and businesses alike. 
-</p><br>
-<p class="text_content">As you embark on your tax preparation journey, keep in mind the importance of accurate data, collaboration, and staying informed about the evolving landscape of tax regulations. Whether you're a small business owner or an individual taxpayer, leveraging Tax Preparation Services can lead to a more efficient and financially optimized tax season.</p><br>
 
-<p class="text_content">"Hire Coworker" offers a cost-effective, trustworthy, and convenient solution for your tax preparation needs. Our platform lets you access skilled professionals who prioritize your financial well-being. Say goodbye to tax season stress and hello to a seamless tax preparation experience. Join "Hire Coworker" today and take the first step towards stress-free and efficient tax preparation. Your financial future deserves nothing less.</p><br>
+            <h3><strong> 1) The merchant</strong></h3>
+            <p class="text_content">is the individual or company who sold a product or service to the customer. When the
+                chargeback is filed, the merchant must decide whether to accept or dispute it.</p>
 
+
+            <h3><strong> 2)The issuing bank (Issuer):</strong></h3>
+            <p class="text_content">A bank or other financial institution that issues a branded payment card to the
+                cardholder. Examples: Bank of America, Wells Fargo, Capital One.</p>
+            <h3><strong> 3)The acquiring bank (Acquirer)</strong></h3>
+            <p class="text_content">The merchant’s bank holds their merchant account and enables them to accept credit
+                card
+                payments.</p>
+
+
+            <h3><strong> 4)The credit card network:</strong></h3>
+            <p class="text_content">The association that owns the credit card brand used in the transaction. The four
+                major
+                credit card networks in the United States are Visa, Mastercard, American Express, and Discover. These
+                networks set the terms for credit card transactions, followed by the issuing banks.</p>
+            <p class="text_content">Other companies that service merchant accounts, such as payment processors and
+                gateways,
+                may also become involved in the chargeback process.</p>
+
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading"> What is Chargeback Processing?
+
+                <p class="text_content">The merchant or the cardholder’s issuing bank can initiate the </p>
+                <p class="text_content">chargeback process. If started with a merchant, the process is similar to a </p>
+                <p class="text_content">standard transaction; however, the funds are taken from a merchant’s </p>
+                <p class="text_content">account and deposited with the cardholder’s issuing bank.</p>
+
+
+
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">How Do You Fight a Chargeback?</h2>
+            <p class="text_content">When a customer initiates a chargeback, the merchant has a set period to respond.
+                This varies by the payment processor but is usually around 30 days. At this time, the merchant can
+                provide the signed receipts, contracts, and any other documentation that shows that the chargeback is in
+                error.</p>
+
+
+
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Why do chargebacks happen?</h2>
+            <p class="text_content">When a credit card company issues a chargeback, they use a code to indicate the
+                reason for the reversal. There are four general chargeback code categories:</p>
+            <li>1. Fraud</li>
+            <li> 2. Quality</li>
+            <li> 3. Clerical</li>
+            <li> 4. Technical</li>
+            <h3><strong>1) Fraud</strong></h3>
+            <p class="text_content">Chargebacks exist to make it safer for customers to shop. They protect against other
+                fraudulent purchases made without the buyer’s knowledge or consent. Fraud is the most common reason for
+                a chargeback.</p>
+            <p class="text_content">Chargebacks with the following reason codes have been requested due to fraudulent
+                activity:</p>
+            2.<h3><strong>2) Quality</strong></h3>
+            <p class="text_content">Chargebacks also keep retailers accountable. If a buyer receives a defective product
+                or never receives the item they paid for, they can initiate a chargeback.</p>
+            <p class="text_content">In many cases, no proof of delivery or an illegal returns policy will mean a
+                customer is entitled to a chargeback.</p>
+            <p class="text_content">An increasing number of merchants are offering product or service subscriptions.
+                While free trials are great for encouraging customer sign-ups, you can be hit with chargebacks if
+                subscriptions aren’t cancelled promptly when requested.</p>
+            <h3><strong>3) Clerical</strong></h3>
+            <p class="text_content">A clerical chargeback can be raised if a buyer is billed twice for an item or a
+                return is made without a refund.</p>
+            <h3><strong>4) Technical:</strong></h3>
+            <p class="text_content">If there’s an issue with the buyer’s bank or credit card, or they don’t have funds
+                in their account, a technical chargeback may be issued.</p>
+            <p class="text_content">Website errors and confusing checkout processes can also cause technical
+                chargebacks. To combat this problem, use a reliable e-commerce solution with a hassle-free checkout.</p>
+            <p class="text_content">Limits distractions at the checkout so customers know exactly what they’re buying.
+            </p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">What is friendly fraud?</h2>
+            <h3><strong>Illegitimate chargebacks (friendly fraud)</strong></h3>
+            <p class="text_content">Sometimes, customers will initiate chargebacks despite receiving their purchases.
+            </p>
+            <p class="text_content">Termed “friendly fraud,” illegitimate chargebacks can occur because consumers are
+                unhappy with their products, are confused about payments, or are simply trying to gain a free product.
+                It’s estimated that 61% of all chargebacks happen due to friendly fraud. </p>
+            <p class="text_content">Nicolas Tranchant, founder of jewellery store Vivalatina, says, “The biggest reason
+                for our chargebacks has been the client’s dishonesty. Sixty per cent of them are claimed without even an
+                email to explain a problem with the jewellery we had shipped to them, with no explanation and no intent
+                to allow us to solve the issue.”</p>
+            <p class="text_content">In these cases, merchants can dispute customer chargebacks to regain funds.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">How do you dispute a chargeback?:</h2>
+            <p class="text_content">Respond as quickly as possible when disputing a chargeback since delayed action may
+                result in a chargeback loss.</p>
+            <h3><strong>1) Gather information</strong></h3>
+            <p class="text_content">Identify the customer and transaction in question when you’re notified of a
+                chargeback. Source as much information about the transaction as possible, including warehouse data and
+                delivery status. </p>
+            <p class="text_content">You can also contact the customer directly to see if their issue can be resolved.
+            </p>
+            <h3><strong>2) Submit your chargeback response</strong></h3>
+            <p class="text_content">If you feel that a chargeback has been made unfairly, you can submit your evidence
+                in a dispute response.</p>
+            <p class="text_content">This document is returned to the bank or card issuer that sent you the chargeback
+                letter (alternatively, you may need to initiate your own chargeback dispute). Follow any formatting</p>
+            <p class="text_content">instructions and deadlines, and ensure you directly respond to the chargeback’s
+                reason code.
+            <p class="text_content">For disputed fraud or “no authorisation” chargebacks, provide evidence that the
+                cardholder was aware of and authorised the transaction. AVS (address verification system) matches, CVV
+                confirmations, signed receipts, or contracts may help to prove this.</p>
+            <h3><strong>3) Await the decision</strong></h3>
+            <p class="text_content">After you submit a rebuttal, the situation is out of your hands while the
+                processor’s acquiring bank reviews the information. The cardholder’s bank makes the final decision about
+                whether it will process the chargeback, and it will inform the customer of its decision.</p>
+            <h3><strong>4) Disputing chargebacks</strong></h3>
+            <p class="text_content">Consumers benefit from the protection chargebacks provide against fraud and poor
+                customer service.</p>
+            <p class="text_content">Chargeback rules promote fair return policies and discourage retailers from selling
+                subpar products. But, when consumers abuse the chargeback system, merchants can face unexpected losses
+                and fees.</p>
+            <p class="text_content">Merchants can recover disputed funds by submitting evidence to a consumer’s credit
+                card company, showing that the customer authorised the transaction and received their purchase.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading"> What is Chargeback handling?</h2>
+
+            <h3><strong>1) What is Process flow?</strong></h3>
+            <p class="text_content">As depicted in the below process flow, a chargeback will complete a full circle. It
+                is initiated by the cardholder and issuing bank, and ultimately, your response will be presented to the
+                cardholder and issuing bank.</p>
+            <p class="text_content">It is, therefore, essential to respond in the following format:</p>
+            <div class="ul_div">
+
+
+                <li>English</li>
+
+
+                <li>Legible</li>
+
+
+                <li>The professional look and feel</li>
+
+
+                <li>Structured and organised format</li>
+            </div>
+            <div class="content_div">
+                <h2 class="content-heading">How do ACCOUNTING CHARGEBACKS work?</h2>
+                <p class="text_content"> The initial chargeback—the reversal of the transaction the cardholder is
+                    disputing—should be posted to Accounts Receivable. This positions each chargeback as funds owed to
+                    you and which you expect to recover. You can also create a special designation for this, such as
+                    “Accounts Receivable Chargebacks.”</p>
+
+
+
+            </div>
+            <div class="content_div">
+                <h2 class="content-heading">What is CHARGEBACKS INSURANCE?</h2>
+
+                <p class="text_content"> A chargeback occurs when an agent has to pay back a portion of their commission
+                    because their client passes away or cancels an insurance policy early. Each company's chargeback
+                    schedule and contract is slightly different, and chargeback rules vary by product line.</p>

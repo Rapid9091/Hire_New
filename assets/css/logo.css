@@ -71,4 +71,43 @@ margin: auto;
 .flexs{
     width: 100%!important;
 }
+
+}
+
+.main-table{
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+    overflow-x: auto;
+  }
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  font-size: larger
+  ;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ed1575;
+  color: white;
+}
+.expert-image2{
+    width: 90%;
+    height: 60%;
+
+}
+.image-experts{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+
 }

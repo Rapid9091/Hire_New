@@ -9,32 +9,35 @@ include_once '../../init.php';
 <head>
 
 
-<title>Chargebacks Handling | Hire Co-worker</title>
+    <title>Chargebacks Handling | Hire Co-worker</title>
 
-<meta name="title" content="Chargebacks Handling | Hire Co-worker">
-<meta name="description" content="In today's digital world, technology is critical when managing chargebacks. Chargeback management platforms and tools are software systems that help businesses handle and resolve chargebacks more easily." />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Chargebacks Handling | Hire Co-worker"/>
-<meta property="og:description" content="In today's digital world, technology is critical when managing chargebacks. Chargeback management platforms and tools are software systems that help businesses handle and resolve chargebacks more easily." />
-<meta property="og:url" content="https://hirecoworker.com/chargebacks-handling" />
-<meta property="og:site_name" content="Chargebacks Handling | Hire Co-worker" />
-<meta name='robots' content='index' />
-<meta name="keywords" content="chargeback meaning, chargeback process, chargeback dispute, chargeback example, chargeback insurance, chargeback accounting">
-<meta property="article:tag" content="chargeback meaning" />
-<meta property="article:tag" content="chargeback process" />
-<meta property="article:tag" content="chargeback dispute" />
-<meta property="article:tag" content="chargeback example" />
-<meta property="article:tag" content="chargeback insurance" />
-<meta property="article:tag" content="chargeback accounting" />
+    <meta name="title" content="Chargebacks Handling | Hire Co-worker">
+    <meta name="description"
+        content="In today's digital world, technology is critical when managing chargebacks. Chargeback management platforms and tools are software systems that help businesses handle and resolve chargebacks more easily." />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Chargebacks Handling | Hire Co-worker" />
+    <meta property="og:description"
+        content="In today's digital world, technology is critical when managing chargebacks. Chargeback management platforms and tools are software systems that help businesses handle and resolve chargebacks more easily." />
+    <meta property="og:url" content="https://hirecoworker.com/chargebacks-handling" />
+    <meta property="og:site_name" content="Chargebacks Handling | Hire Co-worker" />
+    <meta name='robots' content='index' />
+    <meta name="keywords"
+        content="chargeback meaning, chargeback process, chargeback dispute, chargeback example, chargeback insurance, chargeback accounting">
+    <meta property="article:tag" content="chargeback meaning" />
+    <meta property="article:tag" content="chargeback process" />
+    <meta property="article:tag" content="chargeback dispute" />
+    <meta property="article:tag" content="chargeback example" />
+    <meta property="article:tag" content="chargeback insurance" />
+    <meta property="article:tag" content="chargeback accounting" />
 
 
     <?php include_once head_new; ?>
 
-    
+
 
 
     <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
-    <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
+    <link rel="stylesheet" href="<?= get_css() ?>/logo.css">
     <style>
         .landing-section-services {
             background-image: url("<?= get_img() ?>dm/seo_specialist.webp");
@@ -62,11 +65,16 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                    Chargebacks Handling
+                    Hire co-worker chargeback handling
+
                 </h1>
 
                 <ul class="landing-ul">
-                    <li class="text">Chargebacks are now common in business transactions and can impact merchants in various industries. 
+                    <li class="text">A chargeback is a charge returned to a payment card after a customer successfully
+                        disputes an item on their account statement or transactions report. A chargeback may occur on
+                        debit cards (and the underlying bank account) or on credit cards. Chargebacks can be granted to
+                        a cardholder for a variety of reasons.
+
 
                     </li>
                 </ul>
@@ -184,260 +192,465 @@ include_once '../../init.php';
     <!-- hiring-step start -->
     <section class="hiring_step1">
 
-<div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
-    <div class="hiring_step1_order-1">
-        <div>
-            <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
-            <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
+        <div class="grid12  why-row" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="500">
+            <div class="hiring_step1_order-1">
+                <div>
+                    <p class="section-heading1">HIRE SEO SPECIALISTS ONLINE WITH EASY STEP</p>
+                    <!-- <p class="text hiring_step1_content">You won't have to deal with the hassles of traditional
                 outsourcing thanks to our
                 novel business model, which gives you complete control over who you work with.</p> -->
-            <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
-        </div>
-    </div>
-    <div class="main">
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
-                    loading="lazy">
+                    <!-- <button class="btn hire-btn-new">Get Qoute</button> -->
+                </div>
             </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Talk To Us</p>
-                <p>What sort of graphic design position are you seeking?</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/handpick.png"
-                    alt="hire legal process outsourcing" loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Handpick Best Expert</p>
-                <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
-                    loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Build Your Team</p>
-                <p>Phone or video conference interviews of selected candidates are available. You may assign
-                    tests to them.</p>
-            </div>
-        </div>
-        <div class="steps2 flexs">
-            <div class="step_iconns">
-                <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
-                    loading="lazy">
-            </div>
-            <div class="step-dtll">
-                <p class="step-dtll-heading2">Get Going</p>
-                <p>If you are pleased with the results, immediately hire them and get to work.</p>
-            </div>
-        </div>
-        
-    </div>
-    <button class="btn hire-btn">Get Qoute</button>
-</div>
+            <div class="main">
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/brief.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Talk To Us</p>
+                        <p>What sort of graphic design position are you seeking?</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/handpick.png"
+                            alt="hire legal process outsourcing" loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Handpick Best Expert</p>
+                        <p>We provide screened CVs of the Graphic Designing experts we've chosen.</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/team.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Build Your Team</p>
+                        <p>Phone or video conference interviews of selected candidates are available. You may assign
+                            tests to them.</p>
+                    </div>
+                </div>
+                <div class="steps2 flexs">
+                    <div class="step_iconns">
+                        <img src="<?= get_img() ?>engineer-architecture/going.png" alt="hire graphic designer"
+                            loading="lazy">
+                    </div>
+                    <div class="step-dtll">
+                        <p class="step-dtll-heading2">Get Going</p>
+                        <p>If you are pleased with the results, immediately hire them and get to work.</p>
+                    </div>
+                </div>
 
-</section>
+            </div>
+            <button class="btn hire-btn">Get Qoute</button>
+        </div>
+
+    </section>
 
     <!-- content section start -->
     <section class="content_section">
 
-       
-        
+
+
         <div class="content_div">
-            <p class="text_content">Handling chargebacks correctly is essential for a healthy financial system and for
-                keeping customers happy.</p><br>
+            <h2 class="content-heading">How do we understand chargebacks?</h2>
 
-            <p class="text_content">This guide will help you understand and navigate chargeback handling. It provides
-                insights and strategies for dealing with these complex situations.
+            <p class="text_content">Chargebacks are done for charges that have been fully processed and settled. They
+                must be
+                reversed through an electronic process involving multiple entities. As a result, they can take several
+                days to
+                settle and return to the original account fully.</p>
 
-            <p class="text_content">Understanding chargeback handling is essential for both experienced business owners
-                and beginners, as it can impact your profits.</p><br>
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">Understanding Chargebacks</h2>
-            <p class="text_content">A chargeback is a way for customers to dispute a transaction and ask their bank to
-                reverse the payment. </p><br>
+            <p class="text_content">The chargeback process is similar across most credit card networks and issuing
+                banks, with
+                specific differences for each bank or network. A chargeback works from the issuing bank through the card
+                network and
+                to the merchant's acquiring bank. The merchant can decide to dispute the chargeback or accept it.</p>
 
-            <p class="text_content">Chargebacks can happen when customers disagree with a transaction for different
-                reasons. . </p><br>
-
-            <p class="text_content">It includes cases where they didn't authorize the payment, didn't receive the goods
-                they purchased, or were unhappy with the product or service they received.. </p><br>
-
-            <p class="text_content"> The chargeback process involves several parties who are all involved in resolving a
-                dispute. . </p><br>
-
-            <p class="text_content">the person who owns the credit card (cardholder), the bank that issued the card
-                (issuing bank), the bank that processes the payment for the merchant (acquiring bank), and the business
-                that made the sale (merchant). </p><br>
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">Reasons and Prevention of Chargeback</h2>
-            <p class="text_content">Chargebacks occur when a customer disputes a transaction and requests a refund from
-                their bank or credit card company. . </p><br>
-
-            <p class="text_content"><strong>There are a few common reasons why chargebacks happen. </strong>. </p><br>
-
-            <p class="text_content">One reason is when a<strong> customer believes the transaction was fraudulent or
-                    unauthorized. Another reason is when there are transaction processing errors,</strong> such as being
-                charged the wrong amount.. </p><br>
-
-            <p class="text_content"> Lastly, chargebacks can also occur when customers are dissatisfied with the product
-                or service they received. </p><br>
-
-            <p class="text_content">To reduce the occurrence of chargebacks, merchants should put in place preventive
-                solid measures. </p><br>
-
-            <p class="text_content">To ensure the safety of our customers, we have implemented various measures to
-                prevent fraudulent activities.</p><br>
-
-            <p class="text_content">We do this by verifying customer identities, which helps us confirm that the person
-                making a transaction is who they claim to be.</p><br>
-
-            <p class="text_content">Additionally, we use address verification systems to ensure that the provided
-                address matches the customer's information on file.</p><br>
-
-            <p class="text_content"> Lastly, we require CVV codes for online transactions, which adds an extra layer of
-                security by verifying that the customer has physical possession of the payment card.</p><br>
-
-            <p class="text_content"> These measures work together to protect our customers from potential fraud.</p><br>
-
-            <p class="text_content">To minimize the chances of customers disputing charges because they are unhappy with
-                their purchase, it is essential to communicate effectively with them, provide thorough descriptions of
-                your products, and have clear refund policies that are easy to understand.</p><br>
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">The Role of Technology in Chargeback Handling</h2>
-            <p class="text_content">In today's digital world, technology is critical when managing chargebacks.
-                Chargeback management platforms and tools are software systems that help businesses handle and resolve
-                chargebacks more easily. </p><br>
-
-            <p class="text_content">They make the process smoother and more efficient, saving businesses time and money.
-            </p><br>
-
-            <p class="text_content">These tools are designed to assist merchants in tracking and managing cases where
-                customers dispute charges.</p><br>
-
-            <p class="text_content">They also help merchants gather and organize evidence relevant to these cases and
-                enable them to respond promptly to these disputes.</p><br>
-
-            <p class="text_content">A modern way to handle chargebacks is using AI-powered solutions, like a Chargeback
-                Handling assistant. This assistant can automate repetitive tasks and give you insights based on data.
+            <p class="text_content">Chargebacks are a consumer protection tool that allows consumers to get their
+                moneyback for
+                fraudulent charges or purchases that don’t live up to standards by submitting a dispute with their card
+                issuer.
             </p>
-        </div><br>
-        <div class="content_div">
-            <h2 class="content-heading">The Chargeback Handling Process</h2>
-            <p class="text_content">Efficient chargeback handling means having a structured and organized method for
-                managing chargebacks.</p><br>
-
-            <p class="text_content">When a chargeback is initiated, the merchant is informed about it and given a
-                specific response period.</p><br>
-
-            <p class="text_content">To resolve the issue, the merchant must collect necessary information like
-                transaction records, customer communication, and delivery confirmations.</p><br>
-            </p>
-            <p class="text_content">This evidence will help them build a strong case. The proof you provide will be sent
-                to the acquiring bank. </p><br>
-
-            <p class="text_content">They will carefully review the information and decide whether to present the topic
-                to the issuing bank. </p><br>
-
-            <p class="text_content">Providing prompt and well-detailed responses is crucial in improving the likelihood
-                of achieving a positive result.</p><br>
+            <p class="text_content">If you notice a transaction on your credit card account that doesn’t look familiar
+                or run
+                into
+                issues with a recent order, you may want to (and should) dispute the transaction. Generally, you’ll have
+                two
+                options
+                when disputing a transaction: refund or chargeback.</p>
+            <p class="text_content">A refund comes directly from a merchant, while a chargeback comes from your card
+                issuer.</p>
         </div>
+
+
         <div class="content_div">
-            <h2 class="content-heading">Chargeback Handling assistant</h2>
-            <p class="text_content">Managing chargebacks can be challenging for businesses, especially those that
-                process many transactions. </p><br>
-
-            <p class="text_content">A Chargeback Handling assistant helps you with chargebacks when you dispute a
-                transaction with your bank or credit card company.</p><br>
-
-            <p class="text_content">They assist you in resolving these disputes and finding a solution. A Chargeback
-                Handling assistant is a helpful tool that uses artificial intelligence to help merchants effectively and
-                efficiently manage cases where customers dispute a charge on their credit card.</p><br>
-
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">How does the Chargeback Handling assistant work?</h2>
-            <p class="text_content">The Chargeback Handling Assistant is a tool that uses complex calculations to
-                examine and sort chargeback cases based on their characteristics and the evidence provided.</p><br>
-
-            <p class="text_content">Our system can analyze the reasons for chargebacks and detect patterns and trends.
-                This helps merchants identify areas where they can improve their products or services. The assistant can
-                automatically respond to everyday chargeback situations, which allows merchants to save time and
-                maintain consistent communication with customers.</p><br>
-            <p class="text_content"><strong>Benefits of a Chargeback Handling assistant</strong></p>
-            <div class”ul_div”>
-                <ul>
-                    <li><strong>Time Saving: </strong>The Chargeback Handling Assistant is a tool that helps merchants
-                        with chargeback tasks.It automates tasks like gathering evidence and drafting responses, which
-                        saves time and allows merchants to concentrate on their primary business activities.</li>
-                    <li><strong>Data-Driven Insights:</strong>The assistant uses chargeback data to give merchants
-                        helpful information so they can make intelligent choices and take steps to prevent future issues
-                    </li>
-                    <li><strong>Consistency:</strong>The assistant helps to provide reliable and correct answers, which
-                        helps to minimize mistakes in the chargeback handling process.</li>
-                    <li><strong>Efficiency:</strong>By using streamlined workflows, merchants can efficiently manage a
-                        more significant number of chargeback cases without sacrificing the quality of their service.
-                    </li>
-                    <li><strong>Cost Efficiency:</strong>Investing in a Chargeback Handling assistant can help you save
-                        money by reducing the time and effort needed to manage chargebacks manually.</li>
-                </ul>
-            </div>
-        </div>
-        <div class="content_div">
-            <h2 class="content-heading">Best Practices for Chargeback Handling</h2>
-            <p class="text_content">To improve the chargeback management process, it is recommended that merchants
-                follow certain best practices. One of these practices is to utilize a Chargeback Handling assistant,
-                which can significantly enhance the process.</p><br>
+            <h2 class="content-heading">When to ask for a chargeback</h2>
 
             <div class="ul_div">
                 <ul>
 
-                    <li><strong>Proactive Communication:</strong> We will keep you informed every step of the way during
-                    your transaction. This includes sending you order confirmations, tracking information, and timely
-                    updates.</li>
 
-                    <li><strong>Detailed Descriptions:</strong> Provide accurate and thorough descriptions of our products
-                    or services, including any terms and conditions, so that customers clearly understand what to
-                    expect.</li>
+                <li>A chargeback is the payment amount returned to a debit or credit card after a customer disputes the
+                    transaction.
+                </li>
+                <li>The merchant or the cardholder’s issuing bank can initiate the chargeback process.</li>
+                <li>Merchants typically incur a fee from the card issuer when a chargeback occurs.</li>
+                <li>Federal law requires card issuers to offer chargebacks within 60 days of the billing date.</li>
+                <li>In cases other than fraud, you may be able to resolve your issue directly with the merchant rather
+                    than by requesting a chargeback from your bank.</li>
+                </ul>
+            </div>
 
-                    <li><strong>Efficient Record Keeping: </strong>Efficient record keeping means keeping all your
-                    transaction records, customer communication, and delivery confirmations well-organized. This helps
-                    you quickly find and access any evidence you may need in the future.</li>
-
-                    <li><strong>Documented Policies:</strong>Documented Policies Communicate your refund, return, and
-                    cancellation policies on your website and in customer messages.</li>
-
-                    <li><strong>Continuous Improvement: </strong>We will regularly review the data on chargebacks and the
-                    insights provided by our Chargeback Handling assistant to find ways to improve our processes.</li>
+            <h3><strong>Charges can be disputed for many reasons, such as</strong></h3>
+            <div class="ul_div">
+                <ul>
+                <li>A cardholder being charged by a merchant for items they never received</li>
+                <li>A merchant duplicating an order by mistake</li>
+                <li>Mistaken costs caused by a technical issue</li>
+                <li>Fraudulent charges from credit or debit card information that has been compromised</li>
                 </ul>
             </div>
 
         </div>
+
         <div class="content_div">
-            <h2 class="content-heading"> Conclusion </h2>
-            <p class="text_content">Handling chargebacks is an essential part of running a business in today's world. It
-                involves carefully managing and addressing customer disputes and refund requests in a well-planned and
-                organized manner. </p><br>
+            <h2 class="content-heading">What Is the Chargeback Process?</h2>
+            <p class="text_content">The primary participants in the chargeback process are the cardholder, the merchant,
+                the
+                issuing bank, the acquiring bank, and sometimes the credit card network.</p>
+            <h3><strong>The cardholder/customer</strong></h3>
+            <p class="text_content">These may be the same individual, but only sometimes. The cardholder is the actual
+                owner
+                of the payment card used to purchase the dispute. The customer is the individual who placed the
+                transaction.
+            </p>
+            <p class="text_content">In a typical transaction or a friendly fraud chargeback, the cardholder and the
+                customer
+                are the same person. In an actual fraud scenario, the customer who made a transaction with a stolen card
+                is
+                not the same person as the cardholder who disputes it later.</p><br>
 
-            <p class="text_content">To effectively manage chargebacks, keeping up with the growing number of
-                transactions and changing customer expectations is essential. </p><br>
 
-            <p class="text_content">This is where a Chargeback Handling assistant comes in handy. It is a technology
-                tool that helps streamline and improve the process of handling chargebacks, making it more efficient and
-                effective for businesses. </p><br>
+            <h3><strong> 1) The merchant</strong></h3>
+            <p class="text_content">is the individual or company who sold a product or service to the customer. When the
+                chargeback is filed, the merchant must decide whether to accept or dispute it.</p><br>
 
-            <p class="text_content">Merchants can effectively manage chargebacks and maintain customer trust and a
-                healthy financial ecosystem by following industry best practices, being proactive, and utilizing
-                AI-powered tools.</p><br>
-    </div>
+
+            <h3><strong> 2)The issuing bank (Issuer):</strong></h3>
+            <p class="text_content">A bank or other financial institution that issues a branded payment card to the
+                cardholder. Examples: Bank of America, Wells Fargo, Capital One.</p><br>
+            <h3><strong> 3)The acquiring bank (Acquirer)</strong></h3>
+            <p class="text_content">The merchant’s bank holds their merchant account and enables them to accept credit
+                card
+                payments.</p><br>
+
+
+            <h3><strong> 4)The credit card network:</strong></h3>
+            <p class="text_content">The association that owns the credit card brand used in the transaction. The four
+                major
+                credit card networks in the United States are Visa, Mastercard, American Express, and Discover. These
+                networks set the terms for credit card transactions, followed by the issuing banks.</p><br>
+            <p class="text_content">Other companies that service merchant accounts, such as payment processors and
+                gateways,
+                may also become involved in the chargeback process.</p><br>
+
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading"> What is Chargeback Processing?</h2>
+
+            <p class="text_content">The merchant or the cardholder’s issuing bank can initiate the chargeback process. If started with a merchant, the process is similar to a  standard transaction; however, the funds are taken from a merchant’s  account and deposited with the cardholder’s issuing bank.</p>
+
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">How Do You Fight a Chargeback?</h2>
+            <p class="text_content">When a customer initiates a chargeback, the merchant has a set period to respond.
+                This varies by the payment processor but is usually around 30 days. At this time, the merchant can
+                provide the signed receipts, contracts, and any other documentation that shows that the chargeback is in
+                error.</p>
+                <div class="image-experts">
+                <img src="<?= get_img() ?>The-Chargeback-Life-Cycle.webp"
+                alt="Hire Digital Marketing Expert" loading="lazy">
+                </div>
+
+
+
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">Why do chargebacks happen?</h2>
+            <p class="text_content">When a credit card company issues a chargeback, they use a code to indicate the
+                reason for the reversal. There are four general chargeback code categories:</p>
+            <li><strong>1 Fraud</strong></li>
+            <li><strong>2.Quality</strong></li>
+            <li><strong>3.Clerical</strong></li>
+            <li><strong>4.Technical</strong></li><br>
+            <h3><strong>1) Fraud</strong></h3>
+            <p class="text_content">Chargebacks exist to make it safer for customers to shop. They protect against other
+                fraudulent purchases made without the buyer’s knowledge or consent. Fraud is the most common reason for
+                a chargeback.</p>
+            <p class="text_content">Chargebacks with the following reason codes have been requested due to fraudulent
+                activity:</p><br>
+
+                <div class="main-table">
+                    <table id="customers" style="width: 100%;">
+                        <tr>
+                            <th>Chargeback reason</th>
+                            <th>American Express reason code</th>
+                            <th>Discover reason code</th>
+                               <th>Visa reason code</th>
+                                <th>Mastercard reason code</th>
+                        </tr>
+                        <tr>
+                            <td>The card wasn't present at the time of the transaction</td>
+                            <td>F29</td>
+                            <td>UA01</td>
+                             <td>10.4</td>
+                             <td>4834</td>
+                        </tr>
+                        <tr>
+                            <td>Counterfeit Europay, Mastercard, or Visa (EMV) card</td>
+                            <td>F30</td>
+                            <td>UA05 or UA06</td>
+                              <td>10.5</td>
+                                <td>4870</td>
+                        </tr>
+                        <tr>
+                            <td>The card was not present at the time of the transaction</td>
+                            <td>F29</td>
+                            <td>UA06</td>
+                            <td>10.4</td>
+                            <td>	4863</td>
+                        </tr>
+                        <tr>
+                            <td>EMV card was lost, stolen, or not received at the time of the transaction</td>
+                            <td>F31</td>
+                            <td>None</td>
+                            <td>None</td>
+                  
+                            <td>4871</td>
+                        </tr>
+                       
+                        </table>
+    
+                </div><br>
+    
+          <h3><strong>2) Quality</strong></h3>
+            <p class="text_content">Chargebacks also keep retailers accountable. If a buyer receives a defective product
+                or never receives the item they paid for, they can initiate a chargeback.</p>
+            <p class="text_content">In many cases, no proof of delivery or an illegal returns policy will mean a
+                customer is entitled to a chargeback.</p>
+            <p class="text_content">An increasing number of merchants are offering product or service subscriptions.
+                While free trials are great for encouraging customer sign-ups, you can be hit with chargebacks if
+                subscriptions aren’t cancelled promptly when requested.</p><br>
+                <div class="main-table">
+                    <table id="customers" style="width: 100%;">
+                        <tr>
+                            <th>Chargeback reason</th>
+                            <th>American Express reason code</th>
+                            <th>Discover reason code</th>
+                            <th>Mastercard reason code</th>
+                               <th>Visa reason code</th>
+                              
+                        </tr>
+                      
+                        <tr>
+                            <td>Defective goods and services</td>
+                            <td>C32</td>
+                            <td>RM</td>
+                              <td>None</td>
+                                <td>13.3</td>
+                        </tr>
+                        <tr>
+                            <td>Goods or services were not as described</td>
+                            <td>C31</td>
+                            <td>RM</td>
+                            <td>None</td>
+                            <td>13.3</td>
+                        </tr>
+                        <tr>
+                            <td>Goods or services were not as described</td>
+                            <td>C08</td>
+                            <td>RG</td>
+                            <td>4855</td>
+                            <td>13.1</td>
+                        </tr>
+                      
+                        </table>
+    
+                </div>
+    <br>
+                <h3><strong>3) Clerical:</strong></h3>
+            <p class="text_content">A clerical chargeback can be raised if a buyer is billed twice for an item or a
+                return is made without a refund.</p><br>
+                <div class="main-table">
+                    <table id="customers" style="width: 100%;">
+                        <tr>
+                            <th>Chargeback reason</th>
+                            <th>American Express reason code</th>
+                            <th>Discover reason code</th>
+                            <th>Mastercard reason code</th>
+                               <th>Visa reason code</th>
+                              
+                        </tr>
+                      
+                        <tr>
+                            <td>Invalid card number</td>
+                            <td>P01</td>
+                            <td>IN</td>
+                              <td>4834</td>
+                                <td>12.1</td>
+                        </tr>
+                        <tr>
+                            <td>Incorrect transaction amount</td>
+                            <td>P05</td>
+                            <td>AW</td>
+                            <td>4846</td>
+                            <td>12.4</td>
+                        </tr>
+                        <tr>
+                            <td>Duplicate charges</td>
+                            <td>P08</td>
+                            <td>DP</td>
+                            <td>4999</td>
+                            <td>12.6</td>
+                        </tr>
+                      
+                        </table>
+    
+                </div>
+            <h3><strong>4) Technical:</strong></h3>
+            <p class="text_content">If there’s an issue with the buyer’s bank or credit card, or they don’t have funds
+                in their account, a technical chargeback may be issued.</p>
+            <p class="text_content">Website errors and confusing checkout processes can also cause technical
+                chargebacks. To combat this problem, use a reliable e-commerce solution with a hassle-free checkout.</p>
+            <p class="text_content">Limits distractions at the checkout so customers know exactly what they’re buying.
+            </p>
+            <div class="main-table">
+                <table id="customers" style="width: 100%;">
+                    <tr>
+                        <th>Chargeback reason</th>
+                        <th>American Express reason code</th>
+                        <th>Discover reason code</th>
+                        <th>Mastercard reason code</th>
+                           <th>Visa reason code</th>
+                          
+                    </tr>
+                  
+                    <tr>
+                        <td>Invalid card number</td>
+                        <td>F10</td>
+                        <td>UA01</td>
+                          <td>4837</td>
+                            <td>10.1</td>
+                    </tr>
+                    <tr>
+                        <td>Missing signature</td>
+                        <td>F14</td>
+                        <td>UA02</td>
+                        <td>4840</td>
+                        <td>10.2</td>
+                    </tr>
+                    </table>
+
+            </div>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">What is friendly fraud?</h2>
+            <h3><strong>Illegitimate chargebacks (friendly fraud)</strong></h3><br>
+            <p class="text_content">Sometimes, customers will initiate chargebacks despite receiving their purchases.</p>
+            <p class="text_content">Termed “friendly fraud,” illegitimate chargebacks can occur because consumers are
+                unhappy with their products, are confused about payments, or are simply trying to gain a free product.
+                It’s estimated that 61% of all chargebacks happen due to friendly fraud. </p>
+            <p class="text_content">Nicolas Tranchant, founder of jewellery store Vivalatina, says, “The biggest reason
+                for our chargebacks has been the client’s dishonesty. Sixty per cent of them are claimed without even an
+                email to explain a problem with the jewellery we had shipped to them, with no explanation and no intent
+                to allow us to solve the issue.”</p>
+            <p class="text_content">In these cases, merchants can dispute customer chargebacks to regain funds.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading">How do you dispute a chargeback?:</h2>
+            <p class="text_content">Respond as quickly as possible when disputing a chargeback since delayed action may
+                result in a chargeback loss.</p>
+                <br>
+            <h3><strong>1) Gather information</strong></h3>
+            <p class="text_content">Identify the customer and transaction in question when you’re notified of a
+                chargeback. Source as much information about the transaction as possible, including warehouse data and
+                delivery status. </p>
+            <p class="text_content">You can also contact the customer directly to see if their issue can be resolved.
+            </p><br>
+            <h3><strong>2) Submit your chargeback response</strong></h3>
+            <p class="text_content">If you feel that a chargeback has been made unfairly, you can submit your evidence
+                in a dispute response.</p>
+            <p class="text_content">This document is returned to the bank or card issuer that sent you the chargeback
+                letter (alternatively, you may need to initiate your own chargeback dispute). Follow any formatting</p>
+            <p class="text_content">instructions and deadlines, and ensure you directly respond to the chargeback’s
+                reason code.
+            <p class="text_content">For disputed fraud or “no authorisation” chargebacks, provide evidence that the
+                cardholder was aware of and authorised the transaction. AVS (address verification system) matches, CVV
+                confirmations, signed receipts, or contracts may help to prove this.</p><br>
+            <h3><strong>3) Await the decision</strong></h3>
+            <p class="text_content">After you submit a rebuttal, the situation is out of your hands while the
+                processor’s acquiring bank reviews the information. The cardholder’s bank makes the final decision about
+                whether it will process the chargeback, and it will inform the customer of its decision.</p><br>
+            <h3><strong>4) Disputing chargebacks</strong></h3>
+            <p class="text_content">Consumers benefit from the protection chargebacks provide against fraud and poor
+                customer service.</p>
+            <p class="text_content">Chargeback rules promote fair return policies and discourage retailers from selling
+                subpar products. But, when consumers abuse the chargeback system, merchants can face unexpected losses
+                and fees.</p>
+            <p class="text_content">Merchants can recover disputed funds by submitting evidence to a consumer’s credit
+                card company, showing that the customer authorised the transaction and received their purchase.</p>
+        </div>
+        <div class="content_div">
+            <h2 class="content-heading"> What is Chargeback handling?</h2>
+
+            <h3><strong>1) What is Process flow?</strong></h3><br>
+            <p class="text_content">As depicted in the below process flow, a chargeback will complete a full circle. It
+                is initiated by the cardholder and issuing bank, and ultimately, your response will be presented to the
+                cardholder and issuing bank.</p>
+            <div class="ul_div">
+                    <ul>
+
+                <li>English</li>
+
+
+                <li>Legible</li>
+
+
+                <li>The professional look and feel</li>
+
+
+                <li>Structured and organised format</li>
+                </ul>
+            </div>
+
+            <div class="content_div">
+                <h2 class="content-heading">How do ACCOUNTING CHARGEBACKS work?</h2>
+                <p class="text_content"> The initial chargeback—the reversal of the transaction the cardholder is
+                    disputing—should be posted to Accounts Receivable. This positions each chargeback as funds owed to
+                    you and which you expect to recover. You can also create a special designation for this, such as
+                    “Accounts Receivable Chargebacks.”</p>
+
+
+
+            </div>
+            <div class="content_div">
+                <h2 class="content-heading">What is CHARGEBACKS INSURANCE?</h2>
+
+                <p class="text_content"> A chargeback occurs when an agent has to pay back a portion of their commission
+                    because their client passes away or cancels an insurance policy early. Each company's chargeback
+                    schedule and contract is slightly different, and chargeback rules vary by product line.</p>
+                    <div class="image-experts">
+                    <img src="<?= get_img() ?>insurance-fraund.webp"
+                    alt="Hire Digital Marketing Expert" loading="lazy">
+                    </div>
+
 
     </section>
     <!-- content section end -->
