@@ -263,28 +263,28 @@ include_once '../../init.php';
                 must be
                 reversed through an electronic process involving multiple entities. As a result, they can take several
                 days to
-                settle and return to the original account fully.</p>
+                settle and return to the original account fully.</p><br>
 
             <p class="text_content">The chargeback process is similar across most credit card networks and issuing
                 banks, with
                 specific differences for each bank or network. A chargeback works from the issuing bank through the card
                 network and
-                to the merchant's acquiring bank. The merchant can decide to dispute the chargeback or accept it.</p>
+                to the merchant's acquiring bank. The merchant can decide to dispute the chargeback or accept it.</p><br>
 
             <p class="text_content">Chargebacks are a consumer protection tool that allows consumers to get their
                 moneyback for
                 fraudulent charges or purchases that don’t live up to standards by submitting a dispute with their card
                 issuer.
-            </p>
+            </p><br>
             <p class="text_content">If you notice a transaction on your credit card account that doesn’t look familiar
                 or run
                 into
                 issues with a recent order, you may want to (and should) dispute the transaction. Generally, you’ll have
                 two
                 options
-                when disputing a transaction: refund or chargeback.</p>
+                when disputing a transaction: refund or chargeback.</p><br>
             <p class="text_content">A refund comes directly from a merchant, while a chargeback comes from your card
-                issuer.</p>
+                issuer.</p><br>
         </div>
 
 
@@ -295,24 +295,26 @@ include_once '../../init.php';
                 <ul>
 
 
-                <li>A chargeback is the payment amount returned to a debit or credit card after a customer disputes the
-                    transaction.
-                </li>
-                <li>The merchant or the cardholder’s issuing bank can initiate the chargeback process.</li>
-                <li>Merchants typically incur a fee from the card issuer when a chargeback occurs.</li>
-                <li>Federal law requires card issuers to offer chargebacks within 60 days of the billing date.</li>
-                <li>In cases other than fraud, you may be able to resolve your issue directly with the merchant rather
-                    than by requesting a chargeback from your bank.</li>
+                    <li>A chargeback is the payment amount returned to a debit or credit card after a customer disputes
+                        the
+                        transaction.
+                    </li>
+                    <li>The merchant or the cardholder’s issuing bank can initiate the chargeback process.</li>
+                    <li>Merchants typically incur a fee from the card issuer when a chargeback occurs.</li>
+                    <li>Federal law requires card issuers to offer chargebacks within 60 days of the billing date.</li>
+                    <li>In cases other than fraud, you may be able to resolve your issue directly with the merchant
+                        rather
+                        than by requesting a chargeback from your bank.</li>
                 </ul>
             </div>
 
             <h3><strong>Charges can be disputed for many reasons, such as</strong></h3>
             <div class="ul_div">
                 <ul>
-                <li>A cardholder being charged by a merchant for items they never received</li>
-                <li>A merchant duplicating an order by mistake</li>
-                <li>Mistaken costs caused by a technical issue</li>
-                <li>Fraudulent charges from credit or debit card information that has been compromised</li>
+                    <li>A cardholder being charged by a merchant for items they never received</li>
+                    <li>A merchant duplicating an order by mistake</li>
+                    <li>Mistaken costs caused by a technical issue</li>
+                    <li>Fraudulent charges from credit or debit card information that has been compromised</li>
                 </ul>
             </div>
 
@@ -322,13 +324,13 @@ include_once '../../init.php';
             <h2 class="content-heading">What Is the Chargeback Process?</h2>
             <p class="text_content">The primary participants in the chargeback process are the cardholder, the merchant,
                 the
-                issuing bank, the acquiring bank, and sometimes the credit card network.</p>
+                issuing bank, the acquiring bank, and sometimes the credit card network.</p><br>
             <h3><strong>The cardholder/customer</strong></h3>
             <p class="text_content">These may be the same individual, but only sometimes. The cardholder is the actual
                 owner
                 of the payment card used to purchase the dispute. The customer is the individual who placed the
                 transaction.
-            </p>
+            </p><br>
             <p class="text_content">In a typical transaction or a friendly fraud chargeback, the cardholder and the
                 customer
                 are the same person. In an actual fraud scenario, the customer who made a transaction with a stolen card
@@ -364,7 +366,9 @@ include_once '../../init.php';
         <div class="content_div">
             <h2 class="content-heading"> What is Chargeback Processing?</h2>
 
-            <p class="text_content">The merchant or the cardholder’s issuing bank can initiate the chargeback process. If started with a merchant, the process is similar to a  standard transaction; however, the funds are taken from a merchant’s  account and deposited with the cardholder’s issuing bank.</p>
+            <p class="text_content">The merchant or the cardholder’s issuing bank can initiate the chargeback process.
+                If started with a merchant, the process is similar to a standard transaction; however, the funds are
+                taken from a merchant’s account and deposited with the cardholder’s issuing bank.</p>
 
 
         </div>
@@ -373,11 +377,11 @@ include_once '../../init.php';
             <p class="text_content">When a customer initiates a chargeback, the merchant has a set period to respond.
                 This varies by the payment processor but is usually around 30 days. At this time, the merchant can
                 provide the signed receipts, contracts, and any other documentation that shows that the chargeback is in
-                error.</p>
-                <div class="image-experts">
-                <img src="<?= get_img() ?>The-Chargeback-Life-Cycle.webp"
-                alt="Hire Digital Marketing Expert" loading="lazy">
-                </div>
+                error.</p><br>
+            <div class="image-experts">
+                <img src="<?= get_img() ?>The-Chargeback-Life-Cycle.webp" alt="Hire Digital Marketing Expert"
+                    loading="lazy">
+            </div><br>
 
 
 
@@ -386,151 +390,70 @@ include_once '../../init.php';
             <h2 class="content-heading">Why do chargebacks happen?</h2>
             <p class="text_content">When a credit card company issues a chargeback, they use a code to indicate the
                 reason for the reversal. There are four general chargeback code categories:</p>
-            <li><strong>1 Fraud</strong></li>
-            <li><strong>2.Quality</strong></li>
-            <li><strong>3.Clerical</strong></li>
-            <li><strong>4.Technical</strong></li><br>
-            <h3><strong>1) Fraud</strong></h3>
+                <ul style="font-size: larger;">
+            <li><strong>Fraud</strong></li>
+            <li><strong>Quality</strong></li>
+            <li><strong>Clerical</strong></li>
+            <li><strong>Technical</strong></li>
+            </ul>
+            <h3><strong>1) Fraud</strong></h3><br>
             <p class="text_content">Chargebacks exist to make it safer for customers to shop. They protect against other
                 fraudulent purchases made without the buyer’s knowledge or consent. Fraud is the most common reason for
                 a chargeback.</p>
             <p class="text_content">Chargebacks with the following reason codes have been requested due to fraudulent
                 activity:</p><br>
 
-                <div class="main-table">
-                    <table id="customers" style="width: 100%;">
-                        <tr>
-                            <th>Chargeback reason</th>
-                            <th>American Express reason code</th>
-                            <th>Discover reason code</th>
-                               <th>Visa reason code</th>
-                                <th>Mastercard reason code</th>
-                        </tr>
-                        <tr>
-                            <td>The card wasn't present at the time of the transaction</td>
-                            <td>F29</td>
-                            <td>UA01</td>
-                             <td>10.4</td>
-                             <td>4834</td>
-                        </tr>
-                        <tr>
-                            <td>Counterfeit Europay, Mastercard, or Visa (EMV) card</td>
-                            <td>F30</td>
-                            <td>UA05 or UA06</td>
-                              <td>10.5</td>
-                                <td>4870</td>
-                        </tr>
-                        <tr>
-                            <td>The card was not present at the time of the transaction</td>
-                            <td>F29</td>
-                            <td>UA06</td>
-                            <td>10.4</td>
-                            <td>	4863</td>
-                        </tr>
-                        <tr>
-                            <td>EMV card was lost, stolen, or not received at the time of the transaction</td>
-                            <td>F31</td>
-                            <td>None</td>
-                            <td>None</td>
-                  
-                            <td>4871</td>
-                        </tr>
-                       
-                        </table>
-    
-                </div><br>
-    
-          <h3><strong>2) Quality</strong></h3>
+            <div class="main-table">
+                <table id="customers" style="width: 100%;">
+                    <tr>
+                        <th>Chargeback reason</th>
+                        <th>American Express reason code</th>
+                        <th>Discover reason code</th>
+                        <th>Visa reason code</th>
+                        <th>Mastercard reason code</th>
+                    </tr>
+                    <tr>
+                        <td>The card wasn't present at the time of the transaction</td>
+                        <td>F29</td>
+                        <td>UA01</td>
+                        <td>10.4</td>
+                        <td>4834</td>
+                    </tr>
+                    <tr>
+                        <td>Counterfeit Europay, Mastercard, or Visa (EMV) card</td>
+                        <td>F30</td>
+                        <td>UA05 or UA06</td>
+                        <td>10.5</td>
+                        <td>4870</td>
+                    </tr>
+                    <tr>
+                        <td>The card was not present at the time of the transaction</td>
+                        <td>F29</td>
+                        <td>UA06</td>
+                        <td>10.4</td>
+                        <td> 4863</td>
+                    </tr>
+                    <tr>
+                        <td>EMV card was lost, stolen, or not received at the time of the transaction</td>
+                        <td>F31</td>
+                        <td>None</td>
+                        <td>None</td>
+
+                        <td>4871</td>
+                    </tr>
+
+                </table>
+
+            </div><br>
+
+            <h3><strong>2) Quality</strong></h3><br>
             <p class="text_content">Chargebacks also keep retailers accountable. If a buyer receives a defective product
-                or never receives the item they paid for, they can initiate a chargeback.</p>
+                or never receives the item they paid for, they can initiate a chargeback.</p><br>
             <p class="text_content">In many cases, no proof of delivery or an illegal returns policy will mean a
-                customer is entitled to a chargeback.</p>
+                customer is entitled to a chargeback.</p><br>
             <p class="text_content">An increasing number of merchants are offering product or service subscriptions.
                 While free trials are great for encouraging customer sign-ups, you can be hit with chargebacks if
                 subscriptions aren’t cancelled promptly when requested.</p><br>
-                <div class="main-table">
-                    <table id="customers" style="width: 100%;">
-                        <tr>
-                            <th>Chargeback reason</th>
-                            <th>American Express reason code</th>
-                            <th>Discover reason code</th>
-                            <th>Mastercard reason code</th>
-                               <th>Visa reason code</th>
-                              
-                        </tr>
-                      
-                        <tr>
-                            <td>Defective goods and services</td>
-                            <td>C32</td>
-                            <td>RM</td>
-                              <td>None</td>
-                                <td>13.3</td>
-                        </tr>
-                        <tr>
-                            <td>Goods or services were not as described</td>
-                            <td>C31</td>
-                            <td>RM</td>
-                            <td>None</td>
-                            <td>13.3</td>
-                        </tr>
-                        <tr>
-                            <td>Goods or services were not as described</td>
-                            <td>C08</td>
-                            <td>RG</td>
-                            <td>4855</td>
-                            <td>13.1</td>
-                        </tr>
-                      
-                        </table>
-    
-                </div>
-    <br>
-                <h3><strong>3) Clerical:</strong></h3>
-            <p class="text_content">A clerical chargeback can be raised if a buyer is billed twice for an item or a
-                return is made without a refund.</p><br>
-                <div class="main-table">
-                    <table id="customers" style="width: 100%;">
-                        <tr>
-                            <th>Chargeback reason</th>
-                            <th>American Express reason code</th>
-                            <th>Discover reason code</th>
-                            <th>Mastercard reason code</th>
-                               <th>Visa reason code</th>
-                              
-                        </tr>
-                      
-                        <tr>
-                            <td>Invalid card number</td>
-                            <td>P01</td>
-                            <td>IN</td>
-                              <td>4834</td>
-                                <td>12.1</td>
-                        </tr>
-                        <tr>
-                            <td>Incorrect transaction amount</td>
-                            <td>P05</td>
-                            <td>AW</td>
-                            <td>4846</td>
-                            <td>12.4</td>
-                        </tr>
-                        <tr>
-                            <td>Duplicate charges</td>
-                            <td>P08</td>
-                            <td>DP</td>
-                            <td>4999</td>
-                            <td>12.6</td>
-                        </tr>
-                      
-                        </table>
-    
-                </div>
-            <h3><strong>4) Technical:</strong></h3>
-            <p class="text_content">If there’s an issue with the buyer’s bank or credit card, or they don’t have funds
-                in their account, a technical chargeback may be issued.</p>
-            <p class="text_content">Website errors and confusing checkout processes can also cause technical
-                chargebacks. To combat this problem, use a reliable e-commerce solution with a hassle-free checkout.</p>
-            <p class="text_content">Limits distractions at the checkout so customers know exactly what they’re buying.
-            </p>
             <div class="main-table">
                 <table id="customers" style="width: 100%;">
                     <tr>
@@ -538,16 +461,99 @@ include_once '../../init.php';
                         <th>American Express reason code</th>
                         <th>Discover reason code</th>
                         <th>Mastercard reason code</th>
-                           <th>Visa reason code</th>
-                          
+                        <th>Visa reason code</th>
+
                     </tr>
-                  
+
+                    <tr>
+                        <td>Defective goods and services</td>
+                        <td>C32</td>
+                        <td>RM</td>
+                        <td>None</td>
+                        <td>13.3</td>
+                    </tr>
+                    <tr>
+                        <td>Goods or services were not as described</td>
+                        <td>C31</td>
+                        <td>RM</td>
+                        <td>None</td>
+                        <td>13.3</td>
+                    </tr>
+                    <tr>
+                        <td>Goods or services were not as described</td>
+                        <td>C08</td>
+                        <td>RG</td>
+                        <td>4855</td>
+                        <td>13.1</td>
+                    </tr>
+
+                </table>
+
+            </div>
+            <br>
+            <h3><strong>3) Clerical:</strong></h3><br>
+            <p class="text_content">A clerical chargeback can be raised if a buyer is billed twice for an item or a
+                return is made without a refund.</p><br>
+            <div class="main-table">
+                <table id="customers" style="width: 100%;">
+                    <tr>
+                        <th>Chargeback reason</th>
+                        <th>American Express reason code</th>
+                        <th>Discover reason code</th>
+                        <th>Mastercard reason code</th>
+                        <th>Visa reason code</th>
+
+                    </tr>
+
+                    <tr>
+                        <td>Invalid card number</td>
+                        <td>P01</td>
+                        <td>IN</td>
+                        <td>4834</td>
+                        <td>12.1</td>
+                    </tr>
+                    <tr>
+                        <td>Incorrect transaction amount</td>
+                        <td>P05</td>
+                        <td>AW</td>
+                        <td>4846</td>
+                        <td>12.4</td>
+                    </tr>
+                    <tr>
+                        <td>Duplicate charges</td>
+                        <td>P08</td>
+                        <td>DP</td>
+                        <td>4999</td>
+                        <td>12.6</td>
+                    </tr>
+
+                </table>
+
+            </div><br>
+            <h3><strong>4) Technical:</strong></h3><br>
+            <p class="text_content">If there’s an issue with the buyer’s bank or credit card, or they don’t have funds
+                in their account, a technical chargeback may be issued.</p><br>
+            <p class="text_content">Website errors and confusing checkout processes can also cause technical
+                chargebacks. To combat this problem, use a reliable e-commerce solution with a hassle-free checkout.</p><br>
+            <p class="text_content">Limits distractions at the checkout so customers know exactly what they’re buying.
+            </p><br>
+            <div class="main-table">
+                <table id="customers" style="width: 100%;">
+                    <tr>
+                        <th>Chargeback reason</th>
+                        <th>American Express reason code</th>
+                        <th>Discover reason code</th>
+                        <th>Mastercard reason code</th>
+                        <th>Visa reason code</th>
+
+                    </tr>
+
                     <tr>
                         <td>Invalid card number</td>
                         <td>F10</td>
                         <td>UA01</td>
-                          <td>4837</td>
-                            <td>10.1</td>
+                        <td>4837</td>
+                        <td>10.1</td>
                     </tr>
                     <tr>
                         <td>Missing signature</td>
@@ -556,41 +562,42 @@ include_once '../../init.php';
                         <td>4840</td>
                         <td>10.2</td>
                     </tr>
-                    </table>
+                </table>
 
-            </div>
+            </div><br>
         </div>
         <div class="content_div">
-            <h2 class="content-heading">What is friendly fraud?</h2>
+            <h2 class="content-heading">What is friendly fraud?</h2><br>
             <h3><strong>Illegitimate chargebacks (friendly fraud)</strong></h3><br>
-            <p class="text_content">Sometimes, customers will initiate chargebacks despite receiving their purchases.</p>
+            <p class="text_content">Sometimes, customers will initiate chargebacks despite receiving their purchases.
+            </p><br>
             <p class="text_content">Termed “friendly fraud,” illegitimate chargebacks can occur because consumers are
                 unhappy with their products, are confused about payments, or are simply trying to gain a free product.
-                It’s estimated that 61% of all chargebacks happen due to friendly fraud. </p>
+                It’s estimated that 61% of all chargebacks happen due to friendly fraud. </p><br>
             <p class="text_content">Nicolas Tranchant, founder of jewellery store Vivalatina, says, “The biggest reason
                 for our chargebacks has been the client’s dishonesty. Sixty per cent of them are claimed without even an
                 email to explain a problem with the jewellery we had shipped to them, with no explanation and no intent
-                to allow us to solve the issue.”</p>
-            <p class="text_content">In these cases, merchants can dispute customer chargebacks to regain funds.</p>
+                to allow us to solve the issue.”</p><br>
+            <p class="text_content">In these cases, merchants can dispute customer chargebacks to regain funds.</p><br>
         </div>
         <div class="content_div">
             <h2 class="content-heading">How do you dispute a chargeback?:</h2>
             <p class="text_content">Respond as quickly as possible when disputing a chargeback since delayed action may
-                result in a chargeback loss.</p>
-                <br>
+                result in a chargeback loss.</p><br>
+            <br>
             <h3><strong>1) Gather information</strong></h3>
             <p class="text_content">Identify the customer and transaction in question when you’re notified of a
                 chargeback. Source as much information about the transaction as possible, including warehouse data and
-                delivery status. </p>
+                delivery status. </p><br>
             <p class="text_content">You can also contact the customer directly to see if their issue can be resolved.
             </p><br>
             <h3><strong>2) Submit your chargeback response</strong></h3>
             <p class="text_content">If you feel that a chargeback has been made unfairly, you can submit your evidence
-                in a dispute response.</p>
+                in a dispute response.</p><br>
             <p class="text_content">This document is returned to the bank or card issuer that sent you the chargeback
-                letter (alternatively, you may need to initiate your own chargeback dispute). Follow any formatting</p>
+                letter (alternatively, you may need to initiate your own chargeback dispute). Follow any formatting</p><br>
             <p class="text_content">instructions and deadlines, and ensure you directly respond to the chargeback’s
-                reason code.
+                reason code.</p><br>
             <p class="text_content">For disputed fraud or “no authorisation” chargebacks, provide evidence that the
                 cardholder was aware of and authorised the transaction. AVS (address verification system) matches, CVV
                 confirmations, signed receipts, or contracts may help to prove this.</p><br>
@@ -600,33 +607,33 @@ include_once '../../init.php';
                 whether it will process the chargeback, and it will inform the customer of its decision.</p><br>
             <h3><strong>4) Disputing chargebacks</strong></h3>
             <p class="text_content">Consumers benefit from the protection chargebacks provide against fraud and poor
-                customer service.</p>
+                customer service.</p><br>
             <p class="text_content">Chargeback rules promote fair return policies and discourage retailers from selling
                 subpar products. But, when consumers abuse the chargeback system, merchants can face unexpected losses
-                and fees.</p>
+                and fees.</p><br>
             <p class="text_content">Merchants can recover disputed funds by submitting evidence to a consumer’s credit
-                card company, showing that the customer authorised the transaction and received their purchase.</p>
+                card company, showing that the customer authorised the transaction and received their purchase.</p><br>
         </div>
         <div class="content_div">
-            <h2 class="content-heading"> What is Chargeback handling?</h2>
+            <h2 class="content-heading"> What is Chargeback handling?</h2><br>
 
             <h3><strong>1) What is Process flow?</strong></h3><br>
             <p class="text_content">As depicted in the below process flow, a chargeback will complete a full circle. It
                 is initiated by the cardholder and issuing bank, and ultimately, your response will be presented to the
                 cardholder and issuing bank.</p>
             <div class="ul_div">
-                    <ul>
+                <ul style="font-size: larger;">
 
-                <li>English</li>
-
-
-                <li>Legible</li>
+                    <li>English</li>
 
 
-                <li>The professional look and feel</li>
+                    <li>Legible</li>
 
 
-                <li>Structured and organised format</li>
+                    <li>The professional look and feel</li>
+
+
+                    <li>Structured and organised format</li>
                 </ul>
             </div>
 
@@ -635,7 +642,7 @@ include_once '../../init.php';
                 <p class="text_content"> The initial chargeback—the reversal of the transaction the cardholder is
                     disputing—should be posted to Accounts Receivable. This positions each chargeback as funds owed to
                     you and which you expect to recover. You can also create a special designation for this, such as
-                    “Accounts Receivable Chargebacks.”</p>
+                    “Accounts Receivable Chargebacks.”</p><br>
 
 
 
@@ -645,11 +652,10 @@ include_once '../../init.php';
 
                 <p class="text_content"> A chargeback occurs when an agent has to pay back a portion of their commission
                     because their client passes away or cancels an insurance policy early. Each company's chargeback
-                    schedule and contract is slightly different, and chargeback rules vary by product line.</p>
-                    <div class="image-experts">
-                    <img src="<?= get_img() ?>insurance-fraund.webp"
-                    alt="Hire Digital Marketing Expert" loading="lazy">
-                    </div>
+                    schedule and contract is slightly different, and chargeback rules vary by product line.</p><br>
+                <div class="image-experts">
+                    <img src="<?= get_img() ?>insurance-fraund.webp" alt="Hire Digital Marketing Expert" loading="lazy">
+                </div>
 
 
     </section>
