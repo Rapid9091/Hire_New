@@ -253,7 +253,9 @@ include_once '../../init.php';
                 stores. Even
                 all the companies that run their online shops today use virtual assistants.</p><br>
 
-
+                <div class="image-experts">
+                    <img src="<?= get_img() ?>How-do-sellers-collaborate-with-online-stores.webp" alt="How-do-sellers-collaborate-with-" loading="lazy">
+                </div>
 
             <p class="text_content">One way to reinvent the business in 2023. It can handle most of the daily tasks that
                 can be

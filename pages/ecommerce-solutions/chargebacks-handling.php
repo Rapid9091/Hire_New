@@ -379,7 +379,7 @@ include_once '../../init.php';
                 provide the signed receipts, contracts, and any other documentation that shows that the chargeback is in
                 error.</p><br>
             <div class="image-experts">
-                <img src="<?= get_img() ?>The-Chargeback-Life-Cycle.webp" alt="Hire Digital Marketing Expert"
+                <img src="<?= get_img() ?>The-Chargeback-Life-Cycle.webp" alt="chargeback meaning"
                     loading="lazy">
             </div><br>
 
@@ -654,7 +654,7 @@ include_once '../../init.php';
                     because their client passes away or cancels an insurance policy early. Each company's chargeback
                     schedule and contract is slightly different, and chargeback rules vary by product line.</p><br>
                 <div class="image-experts">
-                    <img src="<?= get_img() ?>insurance-fraund.webp" alt="Hire Digital Marketing Expert" loading="lazy">
+                    <img src="<?= get_img() ?>insurance-fraund.webp" alt="chargeback process" loading="lazy">
                 </div>
 
 
@@ -707,7 +707,7 @@ include_once '../../init.php';
             </div>
             <div class="expert-item">
                 <div class="expert-image-box">
-                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="Hire SEO/SMO Expert"
+                    <img src="<?= get_img() ?>dm/dm-experts-2.jpg" class="expert-image" alt="chargeback meaning"
                         loading="lazy">
                 </div>
                 <div class="expert-profile">
