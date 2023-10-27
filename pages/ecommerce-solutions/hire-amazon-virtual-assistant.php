@@ -296,6 +296,11 @@ include_once '../../init.php';
                 vital terms to eliminate unnecessary spending, monitor analytics to check the performance of your
                 campaigns, and
                 make appropriate adjustments to ads.</p><br>
+                <div class=".expert-image2">
+                    <img src="<?= get_img() ?>Ad-campaign.webp" class="image-experts"
+                        alt="Amazon fba virtual assistan" loading="lazy">
+                </div><br>
+
              <h3><strong>3) Goods And developments:</strong></h3>
             <p class="text_content">Goods And development are one factor that operates sales growth. Amazon policies to
                 ensure the
