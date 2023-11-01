@@ -216,7 +216,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/seo.png" alt="hire website and seo content writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>website-&-seo-content">
+                            <a href="<?=home_path() ?>website-and-seo-content">
                                 <h5>Website & Seo Content</h5>
                             </a>
                         </div>
@@ -252,7 +252,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/white_papers.png" alt="hire ebook and brochure writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="ebook&brochur">
+                            <a href="ebook-and-brochur">
                                 <h5>Ebook & Brochure</h5>
                             </a>
                         </div>
@@ -274,7 +274,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/speeches.png" alt="hire speeches writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>speeches-&-reviews">
+                            <a href="<?=home_path() ?>speeches-and-reviews">
                                 <h5>Speeches & Reviews</h5>
                             </a>
                         </div>
@@ -292,7 +292,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/travel.png" alt="hire travel & lifestyle writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>travel-&-lifestyle">
+                            <a href="<?=home_path() ?>travel-and-lifestyle">
                                 <h5>Travel & Lifestyle</h5>
                             </a>
                         </div>
@@ -328,7 +328,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/newsletter.png" alt="hire press release newsletter writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>press-release-&-newsletters">
+                            <a href="<?=home_path() ?>press-release-and-newsletters">
                                 <h5>Press Release & Newsletters</h5>
                             </a>
                         </div>
@@ -346,7 +346,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/academic.png" alt="hire academic & curriculam course writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>academic-&-curriculum">
+                            <a href="<?=home_path() ?>academic-and-curriculum">
                                 <h5>Academic & Curriculum Courses</h5>
                             </a>
                         </div>
@@ -383,7 +383,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/product.png" alt="hire product and services description writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>product-&-services-descriptions">
+                            <a href="<?=home_path() ?>product-and-services-descriptions">
                                 <h5>Product & Services Descriptions</h5>
                             </a>
                         </div>
@@ -401,7 +401,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/proofreading.png" alt="hire editin and proofreading writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>editing-&-proofreading">
+                            <a href="<?=home_path() ?>editing-and-proofreading">
                                 <h5>Editing & Proofreading</h5>
                             </a>
                         </div>
@@ -454,7 +454,7 @@ include_once '../../init.php';
                             <img src="<?= get_img() ?>content-writing/cv_resume.png" alt="hire cv and cover letter writer">
                         </div>
                         <div class="box-title-heading">
-                            <a href="<?=home_path() ?>cv-&-cover-letter">
+                            <a href="<?=home_path() ?>cv-and-cover-letter">
                                 <h5>CVs & Cover Letter</h5>
                             </a>
                         </div>
