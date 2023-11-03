@@ -60,7 +60,7 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Google Reviews Services
+                Google Review Services
 
                 </h1>
 

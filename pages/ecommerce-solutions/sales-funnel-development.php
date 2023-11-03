@@ -60,11 +60,12 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h1 class="section-heading animate__fadeInUp animate__animated">
-                Sales Funnel Development and Support
+                Sales Funnel Development
                 </h1>
                 
                 <ul class="landing-ul">
-                    <!-- <li class="text">Machine learning is a popular term used to describe a type of technology companies like Google, Facebook, and Amazon use. -->
+              <li class="text">
+              A sales funnel development is a visual chart representing your customer’s journey. A sales funnel can help train and prepare your sales team or help you understand your product and sales experience from your customer's perspective.  
 </li>
                 </ul>
                 <br>
@@ -241,102 +242,235 @@ include_once '../../init.php';
 
     <!-- content section start -->
     <section class="content_section">
-
-    <h2 class="content-heading">What is a Sales Funnel?</h2>
-<p class="text_content">A sales funnel, or a purchase funnel, is a way to represent a customer's steps when making a purchase visually. It shows the process from when a customer is first aware of a product or service to when they take action and invest.</p><br>
-<p class="text_content">The funnel, also known as a marketing or revenue funnel, represents turning potential customers into actual buyers. It shows that a large group of people start as potential customers. However, only a minor group ends up making a purchase.</p><br>
+    <div class="content_div">
+    <h2 class="content-heading">How To Define Sales Funnel Development?</h2>
+    <p class="text_content">So, how do you create your sales funnel development Let’s talk about some steps to take
+        along the way:</p><br>
+    <h3><strong>1. Set Your Goals</strong></h3>
+    <p class="text_content">Sales funnel with Goal is the best way to bring structures. In your goal setting, attach
+        specific metrics and timelines. For example, if you di d like to transform 25% of guests to email followers by
+        sept 30th, that’s better than simply saying “email prospects increases .”</p><br>
+    <h3><strong>2. Bring In Stakeholders</strong></h3>
+    <p class="text_content">Creating a sales funnel is a complex dance between various departments. Design, copywriting,
+        technical operations, and customer service should sync. If any managers will direct the sales funnel strategy,
+        ensure they are on the call/meeting when discussing priorities and plans.</p><br>
+    <h3><strong>3. Ask Your Prospects</strong></h3>
+    <p class="text_content">Ultimately, the best tip for creating a sales funnel is to ask your market what they want.
+        You can brainstorm all day or week with your internal team. But sending out overviews or otherwise getting
+        feedback from real people who are potential buyers will be the best guidance for your funnel. You need to meet
+        them where they are in their life psychologically.</p><br>
+    <h3><strong>4. Implement</strong></h3>
+    <p class="text_content">Begin crafting your sales funnel. Write the landing page copy, integrate various payment
+        apps, autoresponders, or anything else that needs to be executed when someone moves through your funnel.</p><br>
+    <h3><strong>5. Review</strong></h3>
 </div>
+<p class="text_content">Marketing is 90% testing and then responding to the results. Unfortunately, you don’t have a
+    crystal ball. But luckily, you can see precise details on conversion rates, bounce rates, sales, refunds, and more.
+    This will help you to modify your sales funnel as time goes on.</p><br>
+
 <div class="content_div">
-<h2 class="content-heading">Why is it beneficial? </h2>
-<p class="text_content">A sales funnel is a tool that helps businesses understand the thoughts and actions of potential customers as they progress through the different stages of the buying process. </p><br>
-<p class="text_content">These insights help you decide where to invest your marketing efforts and resources. By understanding which activities and channels are most effective, you can focus on those yielding the best results. </p><br>
-<p class="text_content">Additionally, you can tailor your messaging to be more relevant to your target audience at each stage of their customer journey.</p><br>
-<p class="text_content">Ultimately, this can lead to a higher conversion rate, turning more potential customers into actual paying customers.</p>
-<div class="ul_div">
-    <ul>
-
-<li>The sales funnel is a strategic framework for enhancing conversion rates from leads to paying clients.</li>
-    <li>A sales funnel helps you attract and retain customers. It also encourages happy customers to recommend your business to others who may have yet to be your initial target audience.</li>
-        <li>A sales funnel helps a business target a specific group of potential customers. Sales Funnel helps to attract and convert potential customers at the end of the sales process. A sales funnel helps businesses eliminate prospects who aren't likely to buy by leading them through several steps that lead to a purchase.</li
-</ul>
+    <h2 class="content-heading">What is a business development sales funnel?</h2>
 </div>
+<p class="text_content">The sales funnel, which is also sometimes considered a revenue funnel or marketing funnel,
+    clarifies that every sale begins with many potential clients and ends with a limited number of people who purchase.
+</p><br>
+
+<div class="content_div">
+    <h2 class="content-heading">What are the Concepts Based On Sales Funnel Development?</h2>
+
+
+    <p class="text_content">Several sales ideas rotate around the idea of the sales funnel:</p>
+    <div class="ul_div">
+        <ul>
+
+            <li><strong>Generation leading :</strong> attracting potential buyers to the possibility to express interest
+                in an item or service. It usually happens at the top of the funnel.</li>
+            <li><strong>Qualification leading :</strong> determining which leads will most likely turn into clients. It
+                is usually located in the middle of the funnel.</li>
+            <li><strong>Sales closing : </strong>completing the deal and getting the customer to take the desired
+                action. Most commonly, it occurs at the bottom of the funnel.</li>
+            <li><strong>The management of Customer lifecycle: </strong>The primary contact for post-purchase follow-up
+                is managing the customer relationship. The purchaser lifecycle is the development of the sales funnel,
+                involving several continuous efforts to appoint and upsell customers.</li>
+        </ul>
+    </div>
 </div>
 
 <div class="content_div">
-<h2 class="content-heading"> How Sales Funnel Work?</h2>
-<h3><strong>1) Awareness</strong></h3>
+    <h2 class="content-heading">What are the advantages of a Sales Funnel development?</h2>
 
-<p class="text_content">This stage involves the highest number of potential customers. The customer has identified an issue and started looking for a solution. They came across our organization through various marketing efforts such as content marketing, email campaigns, or social media marketing.</p><br>
-<p class="text_content">The awareness stage is when potential customers learn about your product or service. Customers can learn about your business through various channels, such as your advertisements, social media presence, and recommendations from others.</p><br>
-<p class="text_content">Your sales and marketing skills influence the movement of people down the sales funnel.</p><br>
-<h3><strong>2) Interest </strong></h3>
-<p class="text_content">After potential customers have become aware of your brand, they will assess it based on how interested they are in it. Our team will carefully consider the problem you want to solve and research competing products to ensure that our offering is the most effective solution.</p><br>
-<h3><strong>3)Decision</strong></h3>
-<p class="text_content">Once customers have learned about your company, they will explore the different pricing and packaging options. During this stage, sales pages, webinars, and calls are practical tools to convince potential customers to purchase.</p><br>
-<h3><strong>4)Action</strong></h3>
-<p class="text_content">The final step of the sales funnel is called "action." This is where all the previous stages come together, and the customer takes a specific action, such as making a purchase or signing up for a service. At this stage, the customer has made a final decision on whether they will buy the product or not. If the customer decides not to buy, the company can use different marketing strategies to ensure their product remains memorable and well-known.</p><br>
-</div>
-<div class="content_div">
-<h2 class="content-heading">How to Setup a sales funnel for business?</h2>
-<p class="text_content"><strong>To build a sales funnel, follow these five simple steps:</strong></p><br>
-<h3><strong>1) Create a Landing Page to Analyze Audience Behavior</strong></h3>
-<p class="text_content">The landing page is usually the first impression of your company for potential customers. Clicking on an ad, signing up for a webinar, or downloading an ebook leads users to a landing page. The page should clearly explain your company's identity and the advantages it offers.</p><br>
+    <p class="text_content">The average conversion rate across all industries is 3.9%, with business-to-business tech as
+        low as just 1.7% and professional services averaging 9.3%. An effective sales funnel development helps you and
+        your sales team strategise and focus on only those leads most likely to be converted. This increases
+        productivity, makes predicting and insights more accessible and improves purchaser relations.</p><br>
+    <h3><strong>1. High Productivity</strong></h3>
+    <p class="text_content">A sales funnel development can help you and your team increase productivity by helping you
+        better understand your ideal customer and more efficiently meet their needs. It saves time that might be wasted
+        chasing after ineligible leads.</p><br>
+  <h3><strong>2. Easier Forecasting and Insights</strong></h3>
+    <p class="text_content">Using a sales funnel development will allow you and your sales team to gain valuable insight
+        into your prospective customer base as they move through each funnel stage. Recognising what your prospects are
+        looking for and what turns them into qualified leads will provide you with better insight into your product or
+        service development and enable you to predict sales success.</p><br>
+    <h3><strong>3. Stronger Customer Relations</strong></h3>
+    <p class="text_content">Sales funnel development will also help you visualise leads that are not moving to the
+        next funnel stage, thus allowing you to understand better the needs of potential customers you’re missing out
+        on.
 
-<p class="text_content">This means identifying the specific group of people who will be interested in the initial stage of the process. </p><br>
+    <div class="content_div">
+        <h2 class="content-heading">How do we Evaluate the success of our sales funnel development?</h2>
+    </div>
+    <p class="text_content">A sales funnel development is not a fixed tool. After you’ve estimated and evaluated its
+        success to recognize any holes and improve its effectiveness, create a sales funnel. Sales funnel development
+        should change with time as you will learn about your purchasers, develop new items and services and lend in the
+        latest technologies. Track your conversion rates to determine the effectiveness of your sales funnel. </p><br>
 
-<p class="text_content">For a web-based business, analyzing metrics involves studying how users interact with the site. This includes identifying popular content and measuring the bounce rate, which indicates how long users stay on the web pages.</p><br>
+    <div class="content_div">
+        <h2 class="content-heading">How to Optimise our sales funnel development?</h2>
+        <p class="text_content">Even if your sales funnel development does its job, there are still ways to improve it.
+            It’s essential to optimise your sales funnel to run more efficiently and effectively. Some parts of your
+            sales
+        <p class="text_content">funnel development could cause you to lose prospects more quickly than others.</p>
+        <p class="text_content"><strong>Follow these strategies for optimising your sales funnel development .</strong>
+        </p>
+        <div class="ul_div">
+            <ul>
+                <li>Where the people shifted to the next stage, Focus on the areas of your sales funnel.</li>
+                <li>Using different headings and offers to Run multiple versions of the same advertisements and content.
+                </li>
+                <li>Target potential purchasers on various social media sites to put the content in front of the right
+                    people and Direct content to different buyer personas.</li>
+                <li>Do Test your landing pages to see what works more valuably to transfer leads.</li>
+                <li>Do testing of changing the heading, language, email campaigns, layout, imagery and other factors to
+                    see what provides the most significant feedback costs.</li>
+                <li>Test your offers to see whether one constructs a better conversion rate. </li>
+                <li>Track your buyer retention rate to see how often purchasers return to make investments.</li>
+                <li>Track your staff referrals to see how many customers are sending new hopes.</li>
+            </ul>
+        </div>
+    </div>
 
-<h3><strong>2)Get the Attention of Your Readers, offer something Valuable</strong></h3>
-<p class="text_content">An initial attraction is needed to engage the audience in the funnel. This can include visual content like infographics, videos, or ads.</p><br>
+    <div class="content_div">
+        <h2 class="content-heading">Why is a Sales Funnel development Important?</h2>
+        <p class="text_content">The importance of sales funnel development must be recognised. It will assist you to,
+            among other things:</p>
+        <div class="ul_div">
+            <ul>
+                <li>Recast and attract new customers </li>
+                <li> Leads gathered know the total number of opportunities</li>
+                <li>Please Identify where you need to change your plan </li>
+                <li>Follow up on outsiders who do not change </li>
+                <li>Divine future sales results </li>
+                <li>Turn a buyer into a repeat purchaser</li>
+                <li>Marketing costs reduce </li>
+            </ul>
+        </div>
+    </div>
 
-<p class="text_content">This is the part where you offer something to your prospects in return for their email address. A lead magnet, such as an ebook or whitepaper, is a valuable offer on your landing page.</p><br>
+    <div class="content_div">
+        <h2 class="content-heading">What is the sale funnel development process? Briefly explained.</h2>
+        <p class="text_content">There are many different sales funnel development models, but the most basic process
+            consists of five key stages: Awareness, Interest, Evaluation, Decision, and Purchase.</p>
+        <div class="ul_div">
+            <ul>
+                <li><strong>Awareness:</strong> How are you getting your name out there for prospective customers? Most
+                    B2B companies will use paid advertising, content marketing, and cold outreach to build brand
+                    awareness.</li>
+                <li><strong>Interest: </strong>To initiate interest, sales delegates might enlist to build relationships
+                    over email, prospects on social media, or conduct a follow-up call. Lead scoring is also essential
+                    to this process because it allows salespeople to focus on the most qualified prospects.</li>
+                <li><strong>Evaluation: </strong>At this stage, the prospect considers your solution against competitors
+                    and weighs their options. Case studies and other social proofs can be compelling during this phase.
+                </li>
+                <li><strong>Decision: </strong>The prospect decides negotiation begins and to move forward.</li>
+                <li><strong>Purchase: </strong>the deal is closed, and The Vision accepts your proposal.</li>
+            </ul>
+        </div>
 
-<h3><strong>3) Nurturing Your Content </strong></h3>
-<p class="text_content">At this stage, your potential customers will transition from being aware of your product or service to becoming interested. </p><br>
 
-<p class="text_content">And, since you have collected all the email addresses from the landing page, you can now create a series of emails to provide educational content about your product or service.</p><br>
 
-<h3><strong>4)Generate leads And Manage Relationship</strong></h3>
-<p class="text_content">After you have finished the previous three steps, it is crucial to consistently find new potential customers to add to your sales process. </p><br>
 
-<p class="text_content">There are a few tools available that can help businesses automate the lead generation process. Some popular options include Salesforce, HubSpot, and Leadformly. These tools can assist in capturing and managing potential customer information more efficiently.</p><br>
 
-<p class="text_content">After potential customers are identified, and their information is collected, the next crucial step is cultivating and building a relationship with these prospects to convert them into paying customers. The purpose of the sales funnel is to attract and convert potential customers into actual customers.</p><br>
+    </div>
 
-<h3><strong>5) Proceed steadily in your efforts </strong></h3>
-<p class="text_content">During the Action phase, you will either gain new customers or learn why prospects are not interested in buying.</p>
+    <div class="content_div">
+        <h2 class="content-heading">What Are Digital Marketing Funnels?</h2>
+    </div>
+    <p class="text_content">“A digital marketing funnel is a chain of marketing plans utilised to initiate traffic to
+        your organisation and parent them properly to become loyal buyers who recommend for your organisation.”</p><br>
 
-<p class="text_content">Continue to communicate regardless of the situation. For new customers, prioritize teaching them about the product, getting them involved, and keeping them interested.</p><br>
-<p class="text_content">Create a new series of messages to regularly follow up with potential customers who still need to purchase.</p>
-</div>
-<div class="content_div">
- <h2 class="content-heading"> What is a Marketing Funnel?</h2>
- <p class="text_content">During the Action phase, you will either gain new customers or learn why prospects are not interested in buying. </p><br>
+    <div class="content_div">
+        <h2 class="content-heading">What are digital marketing funnel stages?</h2>
+        <h3><strong>1. Digital Marketing Funnel Stages </strong></h3><br>
 
-<p class="text_content">Continue to communicate regardless of the situation. For new customers, prioritize teaching them about the product, getting them involved, and keeping them interested. Create a new series of messages to regularly follow up with potential customers who still need to purchase.</p><br>
-</div>
-<div class="content_div">
-<h2 class="content-heading">It Made up of 5 Components</h2>
+        <p class="text_content"><strong> What is top-of-funnel marketing?</strong></p><br>
 
-<h3><strong>1) Maintaining Interest</strong></h3><br>
-<p class="text_content">In this step, we provide details about our company, our product, and our services. This stage is crucial for brands as it marks the beginning of building a relationship with potential customers.</p>
-<h3><strong>2) Building Awareness</strong></h3><br>
-<p class="text_content">Emphasises brand visibility. The process begins with researching the target audience. Then, various marketing strategies are used, such as cold emails, calls, social media ads, events, and webinars, to reach and engage with them effectively.</p>
-<h3><strong>3) Consideration</strong></h3><br>
-<p class="text_content">Consideration is the stage where potential customers begin to notice the positive impact that the product or service can have and start to develop an interest in it</p>
-<h3><strong>4) Intent</strong></h3><br>
-<p class="text_content">Intent stage is for the prospects who are interested and are actively looking to buy.</p>
-<h3><strong> 5) Action</strong></h3><br>
-<p class="text_content">Action is where the potential customer decides to take a specific action to show their interest or intention. In B2C funnels, this step typically involves making a purchase. In B2B marketing funnels, this step consists in filling out a form that introduces the sales team.</p>
-</div>
-<div class="content_div">
-<h2 class="content-heading"> Difference between Marketing Funnel And Sales Funnel</h2>
-<p class="text_content">The marketing funnel is a way to understand a potential customer's journey before making a purchase. It helps businesses identify the stages and steps in turning a potential customer into a paying customer. </p><br>
+        <p class="text_content">Top-of-funnel marketing produces interest and awareness, fulfilling users’ initial
+            aspirations without pushing your product on them. Examples of top-of-funnel marketing are resource-focused.
+            This stage of content is typically helpful and educational rather than sales-focused. </p><br>
+            <p class="text_content"><strong> What is mid-funnel marketing?</strong></p><br>
 
-<p class="text_content">While The sales funnel is a way to understand the journey, a potential customer goes through, starting from when they first learn about a product or service (often through marketing efforts) and continuing until they make a purchase or take a desired action.</p><br>
+        <p class="text_content">Middle-of-funnel marketing virtual to leads in the applications and “intent to buy”
+            stages. This stage of marketing content includes items/service pages. </p><br>
+            <p class="text_content"><strong>  What is lower-funnel marketing?</strong></p><br>
 
-<p class="text_content">The marketing funnel focuses on increasing the visibility and reputation of the company among potential customers rather than solely focusing on converting them into actual customers. While the two parts are separate, they complement each other to attract and keep customers.</p>
-</div>
+        <p class="text_content">Who is likely to purchase Lower-funnel target leads? It includes special offers,
+            recommendations, “Why Us?” sales presentations, content, pricing sheets, etc. You may also need to send
+            communications to those glued to mid-purchase.</p><br>
+            <p class="text_content"><strong>  What is full-funnel marketing?</strong></p><br>
+    </div>
+    <p class="text_content">Full-funnel marketing is when the funnel's levels are all given proper support and
+        attention. Funnel stages will change based on the type of organisation and size of your employee staff. However,
+        it can make it easier to develop buyer relationships and nurture potential purchasers to be aware of funnel
+        marketing</p><br>
+
+    <div class="content_div">
+        <h2 class="content-heading">How to Results – Evaluate Stage of the Funnel?
+    </div>
+    <p class="text_content">Every strategy can be perfect with frequent measuring, testing, and adjusting. It’s crucial
+        to keep an eye on performance data to be sure your full-funnel marketing plan is working, Whether it’s top,
+        middle or bottom-funnel content.</p><br>
+
+    <div class="content_div">
+        <h2 class="content-heading">What is the difference between a sales funnel development and a marketing funnel
+            development?</h2>
+    </div>
+    <div class="main-table">
+                <table id="customers" style="width: 100%;">
+                    <tr>
+                        <th>Importants</th>
+                        <th>Sales funnel development  </th>
+                        <th>Marketing funnel development </th>
+               
+                          
+                    </tr>
+                    <tr>
+                        <td><strong>Goal</strong></td>
+                        <td>Entire people to purchase items or services.</td>
+                        <td>The goal of the marketing funnel development varies. It may involve creating brand awareness, building your subscribers list, generating sales-qualified leads, etc.</td>
+                         
+                    </tr>
+                    <tr>
+                        <td><strong>Stages</strong></td>
+                        <td>Attraction, Awareness, interest,  delight, loyalty, purchase,  and advocacy.</td>
+                        <td>Awareness, good, consideration, conversion</td>
+                       
+                    </tr>
+                    <tr>
+                        <td><strong>Teams involved</strong></td>
+                        <td>Sales and marketing</td>
+                        <td>Generally marketing only</td>
+                       
+                    <tr>
+                       
+                        <td><strong>Essential software tools</strong></td>
+                        <td>Sales prospecting, CRM, cloud calling solutions, email marketing, meeting scheduling, collaboration, and intelligence tools for sale.</td>
+                        <td>>Email marketing, advertising, social media scheduling, campaign management, collaboration, and content management tools</td>
+                    </tr>
+                   
+                    </table>
+
+            </div>
 
 
 
