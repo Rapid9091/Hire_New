@@ -241,7 +241,7 @@ include_once '../../init.php';
 </section>
 
     <!-- content section start -->
-    <section class="content_section"><!--keep inside-->
+    <section class="content_section">
         
     <div class="content_div">
 <h2 class="content-heading">What is a graphic design virtual assistant?</h2>

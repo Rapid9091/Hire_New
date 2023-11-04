@@ -45,6 +45,8 @@ include_once '../../init.php';
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_hiring-step.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_call-to-action.css">
     <link rel="stylesheet" href="<?= get_css() ?>view-css/view_roadmap-2.css">
+
+    <link rel="stylesheet" href="<?= get_css() ?>hire-developers/software_development.css">
     <link rel="stylesheet"href="<?= get_css() ?>/logo.css">
 
     <style>
@@ -64,7 +66,7 @@ include_once '../../init.php';
         <div class="landing-section-parent grid grid-2">
             <div class="landing-section-content">
                 <h2 class="main-heading ">
-                    Hire DEDICATED PHOTOSHOP ARTISTS
+                PROFESSIONAL PHOTOSHOP ARTIST
                 </h2>
                 <div class="landing-offer-div">
                     <p>Starts from US $10/Hour - Save 70%</p>
@@ -72,8 +74,10 @@ include_once '../../init.php';
 
                 <ul class="landing-ul">
                     <p class="text">
-                        Hire highly talented content writers with HireCoworker. Expand your digital footprint with an
-                        experienced content writer within your budget.
+                    Professional Photoshop Artists can take time to learn because of the width of their process. However, many business
+professionals offer resources and step-by-step guides to achieve various projects. As proof of its popularity and
+usability, consider this 95 % of the world’s innovative use of Photoshop. Starting with $20.99, a Photoshop subscription
+includes the software for iPad and desktop, a version for mobile devices and painting, and 100 GB of cloud storage.
                     </p>
                 </ul>
                 <br>
@@ -386,7 +390,187 @@ include_once '../../init.php';
 
     </section>
     <!-- services end -->
+ <!-- content section start -->
+ <section class="content_section">
+ <div class="content_div">
+    <h2 class="content-heading">How many things are covered in the Professional Photoshop artist course?</h2>
 
+
+
+    <p class="text_content">This Professional Photoshop artist course is for those who already know the basics of
+        Photoshop and are willing to learn advanced applications and techniques. This course covers :</p>
+    <div class="ul_div">
+        <ul>
+            <li><strong>Layer Masks:</strong> layer masks, Layer basics, layer masks with selections, adjustment layers,
+                clipping masks, adjustment layers, masks and selections, layer masks and gradients, layer masks and
+                groups.</li>
+            <li><strong>Cutouts and Selection:</strong> refinement edge and Quick selection tool, removing the annoying
+                outline, improving cutouts with layer styles, faking cutouts, quick mask, advanced blending, colour
+                range, selection channels and the pen tool.</li>
+            <li><strong>Join Modes:</strong> darken & lighten blend modes, Normal, contrast, colour & comparative blend
+                modes; putting blend modes into practice. Using difference for colour correction, Lining up layers with
+                the difference blend mode, textures, dodging and burning, removing skin shine, lighting rig, blend mode
+                compositing, overlay for perfect layer masks, textures, transforming a location, smart dodging and
+                burning, adding dents and damage, make eyes pop instant six-pack, photoshop lens flares.</li>
+            <li><strong>Brushes:</strong> brush settings, Brush basics, brushes with selections and cutouts, creating a
+                smoke brush, your signature as a brush, creating dirt, creating fur/hair, debris and snow brush, adding
+                and exporting brushes.</li>
+            <li><strong>A few More Techniques:</strong> match colour, Content awareness, fake catch lights, realistic
+                skin smoothing, replacing sky, skin glow, whitening teeth, compositing technique, lighting cheat,
+                reducing redness in the skin, skin texture, and colourising like the movies.</li>
+            <li>Portrait Retouching Workflow.</li>
+            <li><strong>Lighting Effects:</strong> lighting rig, Simple lighting effects, light beams, gradient
+                lighting, horizon light, reflected soft shadows and fake rim lighting.</li>
+            <li><strong>Special Effects:</strong> the cartoon or painterly effect, Turning day into night, creating a
+                snow scene, debris and dust, rain, black and white conversion, the impact of the details, adding fake
+                blood, the wet look, adding swelling.</li>
+            <li><strong>Compositing:</strong> compositing into the grass, Creating a horizon line, matching colour and
+                shadows.
+            <li><strong>Projects:</strong> Based on the remaining training period, a few more tasks can be covered by
+                putting all the learning into practice.</li>
+        </ul>
+    </div>
+
+</div>
+<div class="content_div">
+    <h2 class="content-heading">What is the best Photoshop for artists?</h2>
+
+    <p class="text_content">Best Photoshop for Artists is software that offers a virtually endless chance to create
+        digital art, from simple social media posts to advertisements. The set tool includes various features and
+        functions for editing, drawing and producing. You can suppose these benefits in all Photoshop software:</p>
+    <div class="ul_div">
+        <ul>
+            <li>To change the colour of drawn line fill aware Content</li>
+            <li> Remixing and Retouching tools to level up your photography</li>
+            <li>Hundreds of strokes for the unique digital script.</li>
+            <li>Shape tools and Quick-click selections </li>
+            <li>With the help of a team to share designs, Collaborative functions</li>
+        </ul>
+    </div>
+
+</div>
+<div class="content_div">
+    <h2 class="content-heading">What are the benefits of using the best Photoshop artists?</h2>
+
+    <p class="text_content">The restaurant industry or automotive sales, Whether in manufacturing, your business can
+        benefit from Photoshop.</p><br>
+    <h3><strong>1. Complete creative control</strong></h3>
+
+    <p class="text_content">Best Photoshop artists allow you to customise graphics, photos, and more to fit your
+        company’s wants. With style presets, creating consistent company benefits is a cruise. Best Photoshop artists
+        support ensuring availability to every designer on your team many file types and invite collaboration.</p><br>
+    <h3><strong>Creativity of file types</strong></h3>
+    <p class="text_content">Photos are not the only format Photoshop can handle. While PSD is the master file type,
+        These are some other file formats Photoshop can export and work with :</p><br>
+        <div class="main-table">
+        <table id="customers" style="width: 100%;">
+            <tr>
+                <th>Videos </th>
+                <th>Photos</th>
+                <th>Documents</th>
+
+
+            </tr>
+            <tr>
+                <td>in the form of (GIF, MOV, DPX, MPEG-4)</td>
+                <td>in the form of (JPEG, TIFF, PNG)</td>
+                <td>in the format of (PDF)</td>
+
+            </tr>
+            
+
+        </table>
+
+    </div>
+
+    </div>
+    <h3><strong>1. The fast editing process </strong></h3>
+    <p class="text_content">Some people are okay with dampening in Photoshop for hours on end. They edit them, upload
+        images, delete them and start all over. They enjoy the creative and learning process. It is about the journey,
+        not the finished items, and how they can apply new skills to future projects. However, your creative needs might
+        be urgent, and some design professionals need a maximum of hours to edit one photo. The software also has preset
+        filters, layers and brushes to accelerate retouching. These tools also come in helpful for beginners.</p><br>
+    <h3><strong>2. Course of photoshop </strong></h3>
+    <p class="text_content">You can learn Photoshop in an official or casual surroundings. Can the same be said for its
+        challengers? If presenting an institute of higher education does not suit your schedule, budget or inclination,
+        many online resources can help you learn this software. Here are a few to consider: it helps keep Photoshop
+        relevant. The more people who fall in love with the software and understand it, the more likely it is to stay
+        relevant.</p><br>
+    <h3><strong>3. At a fraction of the cost (professional result)</strong></h3>
+    <p class="text_content">Famous Photoshop artists can turn a beginner into an expert in no time. Just like anything,
+        there is a learning curve, but you will eventually become proficient in it. This can confidently impact your
+        budget; if you don’t want to spend money on something other than outside design help or even in-house to edit
+        photos, you can allocate those funds to another area in your organisation. It activates a greater sense of
+        achievement while also saving money. As long as the best Photoshop artist allows users to produce specialised
+        results at a modest price, it will remain in demand among organisations and individuals.</p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">How can businesses use freelance Photoshop artists?</h2>
+    <p class="text_content">There are many methods to use Photoshop for your organisation – regardless of your company’s
+        field – even if you do not have a professional designer on your team. The only limitation is your imagination.
+    </p><br>
+    <h3><strong>1. Social media graphics</strong></h3>
+    <p class="text_content">Restaurants and expensive resorts often use Photoshop to create stunning graphics and share
+        gifs in social media campaigns. The software’s made-to-order easy exports and canvas sizes convert artboards
+        naturally to JPEG format before sharing on social sites. In addition, Photoshop allows you to make data-driven
+        graphics by defining, importing a data set and renaming variables. Photoshop enables users to create social
+        pictures from drawings or photos on a blank canvas with brushes, shapes, and pens. </p><br>
+    <h3><strong>2. Video editing</strong></h3>
+    <p class="text_content">Best Photoshop artists should be a crucial part of your web content plan. Wi, you do not
+        have to hire an experienced videographer with the help of Photoshop; you can accept as true that your in-house
+        editor has the right tools. You get these impressive video-editing potentials with the software:</p><br>
+    <p class="text_content"><strong>Introductory video and animation layer editing</strong></p>
+    <div class="ul_div">
+        <ul>
+
+
+
+
+            <li>frame animations create </li>
+            <li>images created for videos </li>
+            <li>Adjusting audio tracks</li>
+            <li>Including video transitions</li>
+            <li>Filters Applying to video layers</li>
+        </ul>
+    </div>
+    <h3><strong>3. Materials used in the market </strong></h3>
+    <p class="text_content">A vital part of marketing material creation is consistency. Photoshop enables easy ways to
+        ensure that web graphics, posters, email marketing campaigns, images and printed materials all follow the same
+        style guidelines. With a set of boards and designers, fonts can flawlessly apply the same style to different
+        projects. Newer users can use Photoshop to create postcards, brochures, flyer templates, web pages, business
+        cards and signage, among other items.</p><br>
+    <h3><strong>4. Cooperative communication</strong></h3>
+    <p class="text_content">Cooperative communication on social media, direct mail and in-store signage builds your
+        organisation’s image. The more consistent it is, the more purchasers can recognise your organisation. Your
+        organisation style guide — made from your preferred typefaces and swatches — gives your business’s assets a
+        cohesive appearance to buyers. </p><br>
+</div>
+<div class="content_div">
+    <h2 class="content-heading">What are the alternatives to Photoshop? </h2>
+    <p class="text_content">Photoshop may be different from the software you need to use for creating and editing photos
+        and videos for your organisation Despite its dominance in the marketplace. However, even if it is, it is always
+        worth considering other options.</p><br>
+    <h3><strong>1. Procreate</strong></h3>
+    <p class="text_content">Firstly, Procreate is digital painting software, so creating marketing materials differs
+        from its forte. Often referred to as the best Photoshop alternative for Procreate, it has a low cost,iPads, and
+        an intuitive user interface, making it an excellent choice for designers looking to do digital painting on the
+        go. However, it operates on iOS only and does not include the full suite of functions Photoshop has. </p><br>
+    <h3><strong>2. GIMP</strong></h3>
+    <p class="text_content">GIMP remains thanks to its cost, the best free Photoshop competitor and Windows and Mac
+        users, and open-source functionality for Linux. GIMP’s comprehensive toolset includes features similar to
+        Photoshop’s, such as painting, selection functions, colour correction or retouching, and the ability to work
+        with different file formats.</p><br>
+    <h3><strong>3. Photo Affinity </strong></h3>
+    <p class="text_content">It is the closest alternative to Photoshop for experienced Photoshop artists to hire
+        professional designers, Though Affinity Photo needs more specific uses for marketing materials. The software,
+        available on both Windows operating systems and Mac, has a separate version for iPad devices but not for Android
+        devices.</p><br>
+    <h3><strong>4. The sketch</strong></h3>
+    <p class="text_content">Famous Photoshop artists tasked with user experience and interface design should consider
+        Sketch a Photoshop substitute. It is a vector graphics application with features like infinite zoom, gradients,
+        layers, and style presets, thanks to community-created Sketch plugins.</p><br>
+</div>
+    </section>
     <!-- why outsource us start -->
     <section class="why_content_writing">
         <p class="p-pink" data-aos="zoom-in" data-aos-easing="ease-in-out" data-aos-duration="400">INDUSTRIES</p>
