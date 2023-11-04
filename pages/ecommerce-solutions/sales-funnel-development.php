@@ -264,6 +264,10 @@ include_once '../../init.php';
         apps, autoresponders, or anything else that needs to be executed when someone moves through your funnel.</p><br>
     <h3><strong>5. Review</strong></h3>
 </div>
+<div class="image-experts">
+                <img src="<?= get_img() ?>How-To-Define-Sales-Funnel-Development_ (1).webp" alt="Sales funnel development"
+                    loading="lazy">
+            </div><br>
 <p class="text_content">Marketing is 90% testing and then responding to the results. Unfortunately, you don’t have a
     crystal ball. But luckily, you can see precise details on conversion rates, bounce rates, sales, refunds, and more.
     This will help you to modify your sales funnel as time goes on.</p><br>
@@ -324,7 +328,10 @@ include_once '../../init.php';
         success to recognize any holes and improve its effectiveness, create a sales funnel. Sales funnel development
         should change with time as you will learn about your purchasers, develop new items and services and lend in the
         latest technologies. Track your conversion rates to determine the effectiveness of your sales funnel. </p><br>
-
+        <div class="image-experts">
+                <img src="<?= get_img() ?>How-Do-We-Evaluate-The-Success-Of-Our-Sales-Funnel-Development.webp" alt="Marketing funnel development"
+                    loading="lazy">
+            </div><br>
     <div class="content_div">
         <h2 class="content-heading">How to Optimise our sales funnel development?</h2>
         <p class="text_content">Even if your sales funnel development does its job, there are still ways to improve it.

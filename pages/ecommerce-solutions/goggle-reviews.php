@@ -260,8 +260,12 @@ include_once '../../init.php';
                 responding can build credibility and improve your social media reputation. Even dropping a simple
                 apology to a disconnected customer shows you care about their experience.</li>
         </ul>
+      
     </div>
-
+    <div class="image-experts">
+                <img src="<?= get_img() ?>Why-Are-Google-Review-Services-Essential_.webp" alt="Google reviews customer service"
+                    loading="lazy">
+            </div><br>
 
     <h3><strong>2. Creates a new business</strong></h3>
     <div class="ul_div">
@@ -353,6 +357,10 @@ include_once '../../init.php';
         This method works like a paying-back favour when customers are skilled and feel happy to share it through the
         review. Sometimes, they forget to share, but it is a reminder when they see a request.</p><br>
     <h3><strong>Step 2: with a valid reason, influence them</h3></strong><br>
+    <div class="image-experts">
+                <img src="<?= get_img() ?>What-Is-The-Best-Way-To-Provide-A-Google-Review-Service-Provider_.webp" alt="Google reviews services"
+                    loading="lazy">
+            </div><br>
     <p class="text_content">What occurs when you ask for a customer review and allow them a reason for it? The chance of
         influencing them more and being bound by your request with a cause is 33%.
         No matter the reason, it should be noticed when you ask them for a Google review. It could be contributing, like
