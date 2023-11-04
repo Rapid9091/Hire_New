@@ -527,6 +527,10 @@ include_once '../../init.php';
         <p class="text_content">Hire web designer service enables you to provide awesome design ideas for setting up the required infrastructure for your website and online business. Hire web designer service has an expertise team which have an experience many years of. They follow many activities for website designing like Logo, Template, Brouchers and Identity Design, and Theme Design. They are experienced in Dynamic Website Design, static website Design, and Corporate Website design.
 
         </p><br>
+        <div class="image-experts">
+                <img src="<?= get_img() ?>HIRE-WEB-DESIGNER-SERVICES.webp" alt="Dropshipping Virtual Assistant"
+                    loading="lazy">
+            </div><br>
 
     </div>
     <div class="content_div">
@@ -578,7 +582,12 @@ While Google is a great way to access many leads, freelance sites like Fiverr an
         
         <p class="text_content"><strong>5. Stages  Sign-off: </strong>You do not want to delay until the entire website is done before you can see how it meets your aims. Ask the designer at which stage they can show you their work and set a timeline for how long each “draft” of the website might take.</p><br>
         
+        <div class="image-experts">
+                <img src="<?= get_img() ?>What-Are-The-Essential-Things-To-Hire-A-Web-Designer_.webp" alt="Dropshipping Virtual Assistant"
+                    loading="lazy">
+            </div><br>
     </div>
+   
     <div class="content_div">
 
         <h2 class="content-heading">Why do you need to hire a Website Designer?</h2>
