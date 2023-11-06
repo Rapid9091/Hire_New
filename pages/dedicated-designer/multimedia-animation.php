@@ -453,7 +453,10 @@ include_once '../../init.php';
 
 
 <p class="text_content">Their roles go beyond just carrying out tasks. Multimedia experts play a crucial role in the early stages of a project by offering valuable input on how animation can improve storytelling and evoke emotions. They carefully manage the technical limitations while allowing for creative expression so their work looks consistent and visually impressive across various platforms.</p><br>
-
+<div class="image-experts">
+                <img src="<?= get_img() ?>The-Convergence-Of-Creativity-And-Technology.webp" alt="Hire Multimedia Animation Expert"
+                    loading="lazy">
+            </div><br>
 </div>
 <div class="content_div">
 <h2 class="content-heading">The Essence of a Multimedia Animation Expert</h2>
@@ -479,7 +482,10 @@ include_once '../../init.php';
 
 <h3><strong>Software Proficiency</strong></h3><br>
 <p class="text_content">Having a deep knowledge of widely-used animation software is extremely important. Software such as Adobe After Effects, Autodesk Maya, and Cinema 4D are powerful tools that allow experts to turn their creative ideas into reality. These software programs act as a canvas for professionals to bring their imagination to life and create stunning visual effects and animations.</p><br>
-
+<div class="image-experts">
+                <img src="<?= get_img() ?>Skills-That-Define-An-Expert.webp" alt="Multimedia Animation Expert"
+                    loading="lazy">
+            </div><br>
 <h3><strong>Storyboarding</strong></h3><br>
 <p class="text_content"> A Multimedia Animation Expert is highly skilled in designing storyboards and visual outlines that guide animation creation. This skill helps make the work process more efficient and makes it easier for team members to communicate.</p><br>
 

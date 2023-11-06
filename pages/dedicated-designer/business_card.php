@@ -187,7 +187,10 @@ include_once '../../init.php';
     design, and then the client can give feedback and input on what they like or do not like. We can mix concepts and
     match portions of colours, fonts, and other elements between the concepts to finalise a direction. We then work on a
     couple of rounds of changes to finalise the chosen concept.</p><br>
-
+    <div class="image-experts">
+                <img src="<?= get_img() ?>What -Is-The-Process-Of-Business-Card-Design.webp" alt="Hire business cards"
+                    loading="lazy">
+            </div><br>
     </div>
     <div class="content_div">
     <h2 class="content-heading">How do you hire a Business Card Designer?</h2>
@@ -246,6 +249,10 @@ include_once '../../init.php';
 <p class="text_content"><strong>Discover the perfect typeface – </strong>The font you select must represent your brand.
     You can like a stylish script when you are a professional coach, but you ought to choose a typewriter-inspired font
     when you are a writer. This will make it simple for people to read.</p><br>
+    <div class="image-experts">
+                <img src="<?= get_img() ?>What-Are-The-Rules-For-Designing-A-Business-Card.webp" alt="Business card designer"
+                    loading="lazy">
+            </div><br>
 <p class="text_content"><strong>Zero in on a definite size and shape - </strong>The size and orientation of a business
     card will affect the amount of detail the card will hold. The majority of the business cards are rectangular, and
     they are laid out horizontally. But, people want to make their presence evident at times, so they select rounded

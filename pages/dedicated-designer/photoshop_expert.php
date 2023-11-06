@@ -447,7 +447,10 @@ includes the software for iPad and desktop, a version for mobile devices and pai
             <li>With the help of a team to share designs, Collaborative functions</li>
         </ul>
     </div>
-
+    <div class="image-experts">
+                <img src="<?= get_img() ?>What-Is-The-Best-Photoshop-For-Artists_.webp" alt="professional photoshop artist"
+                    loading="lazy">
+            </div><br>
 </div>
 <div class="content_div">
     <h2 class="content-heading">What are the benefits of using the best Photoshop artists?</h2>
@@ -520,6 +523,10 @@ includes the software for iPad and desktop, a version for mobile devices and pai
         have to hire an experienced videographer with the help of Photoshop; you can accept as true that your in-house
         editor has the right tools. You get these impressive video-editing potentials with the software:</p><br>
     <p class="text_content"><strong>Introductory video and animation layer editing</strong></p>
+    <div class="image-experts">
+                <img src="<?= get_img() ?>How-Can-Businesses-Use-Freelance-Photoshop-Artists_.webp" alt="photoshop artists"
+                    loading="lazy">
+            </div><br>
     <div class="ul_div">
         <ul>
 
