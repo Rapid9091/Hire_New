@@ -4,6 +4,22 @@ include_once '../../init.php';
 
 
 <!DOCTYPE html>
+    
+<title>Ebay Virtual Assistant Service | Hire Co-worker</title>
+
+<meta name="title" content="Ebay Virtual Assistant Service | Hire Co-worker">
+<meta name="description" content="We are aware that maintaining your eBay store—and, more importantly, maintaining it well—takes time. Even though it might be a little complicated at times, you cannot live without it. " />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ebay Virtual Assistant Service | Hire Co-worker"/>
+<meta property="og:description" content="We are aware that maintaining your eBay store—and, more importantly, maintaining it well—takes time. Even though it might be a little complicated at times, you cannot live without it. " />
+<meta property="og:url" content="https://hirecoworker.com/e-bay-services" />
+<meta property="og:site_name" content="Ebay Virtual Assistant Service | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Ebay virtual assistant, virtual assistant for ebay, hire ebay virtual assistant">
+<meta property="article:tag" content="Ebay virtual assistant" />
+<meta property="article:tag" content="virtual assistant for ebay" />
+<meta property="article:tag" content="hire ebay virtual assistant" />
+
 <html lang="en">
 
 <head>

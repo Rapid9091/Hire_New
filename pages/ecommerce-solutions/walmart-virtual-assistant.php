@@ -5,6 +5,19 @@ include_once '../../init.php';
 
 <!DOCTYPE html>
 <html lang="en">
+<title>Walmart Virtual Assistant Service | Hire Co-worker</title>
+
+<meta name="title" content="Walmart Virtual Assistant Service | Hire Co-worker">
+<meta name="description" content="Selling on Walmart with one of Hire Coworker product assistants can improve your store's online presence and provide a sizable return on investment." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Walmart Virtual Assistant Service | Hire Co-worker"/>
+<meta property="og:description" content="Selling on Walmart with one of Hire Coworker product assistants can improve your store's online presence and provide a sizable return on investment." />
+<meta property="og:url" content="https://hirecoworker.com/walmart-virtual-assistant" />
+<meta property="og:site_name" content="Walmart Virtual Assistant Service | Hire Co-worker" />
+<meta name='robots' content='index' />
+<meta name="keywords" content="Walmart Virtual Assistant Service, Walmart Virtual Assistant Service">
+<meta property="article:tag" content="Walmart Virtual Assistant" />
+<meta property="article:tag" content="Walmart Virtual Assistant Service" />
 
 <head>
 
